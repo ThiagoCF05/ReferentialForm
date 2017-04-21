@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="1585">
+	<TITLE>Jean Chrétien</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Joseph Jacques Jean Chrétien</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, usually known as Jean Chrétien, PC, QC, BA, LLL, LLD (born January 11, 1934), served as the twentieth Prime Minister of Canada from November 4, 1993 to December 12, 2003.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was also the ninth leader of the Liberal Party of Canada from 1990 to 2003. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TEXT ID="439">
+	<TITLE>Mount Hunter (Alaska)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hunter</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, or Begguya, is a mountain in Denali National Park in Alaska.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is approximately 8 miles (13 km) south of Mount McKinley, or Denali, the highest peak in North America.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>&quot;Begguya&quot; means child (of Denali) in the Dena'ina language.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="28" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hunter</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the third highest major peak in the Alaska Range. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hunter</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a complex structure:  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="5" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="5" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is topped by a large, low-angled glacier plateau, connecting the North (Main) Summit and the South Summit (13,965 feet/4,257 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Long, corniced ridges extend in various directions; between them are exceptionally steep faces. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="1502">
+	<TITLE>Elaine Scarry</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Elaine Scarry</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (born 30 June, 1946), a professor of English and American Literature and Language, is the Walter M. Cabot Professor of Aesthetics and the General Theory of Value at Harvard University. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> interests include Theory of Representation, the Language of Physical Pain and Structure of Verbal and Material Making in Art, Science and the Law.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the author of The Body in Pain which is known as a definitive study of pain and inflicting pain. </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> argues that physical pain leads to destruction and the unmaking of the human world, whereas human creation at the opposite end of the spectrum leads to the making of the world.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>As a writer and lecturer on civic questions ranging from plane crashes to nuclear weapons to the Patriot Act, </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Elaine Scarry</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has become an important public intellectual. (</STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> discusses this public role in an interview in the book, Global Values 101, published by Beacon Press in 2006.)</STRING>
+	</PARAGRAPH>
+</TEXT>

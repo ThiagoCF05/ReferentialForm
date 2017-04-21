@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<TEXT ID="575">
+	<TITLE>Mount Veniaminof</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Veniaminof</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an active stratovolcano located on the Alaska Peninsula.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The Alaska Volcano Observatory currently rates  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Veniaminof</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as Aviation Color Code Green and Volcano Alert Level Normal.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named after Ioann (Ivan Popov) Veniaminov (1797-1879), a Russian Orthodox missionary priest whose writings on the Aleut language and ethnology are still standard references. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the site of a colossal (VEI 6) eruption around 1750 BC.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>This eruption left a large caldera.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>In modern times  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has had numerous small eruptions (over ten of them since 1930); these are located at a cinder cone in the middle of the caldera. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Veniaminof</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has one of the highest elevations of Alaskan volcanoes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Partly for this reason,  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is covered by a glacier that fills most of the caldera.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Because of the glacier and the caldera walls, there is the possibility for a major flood from a glacier run at some point in the future. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

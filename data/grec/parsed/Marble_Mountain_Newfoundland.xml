@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TEXT ID="309">
+	<TITLE>Marble Mountain (Newfoundland)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Marble Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain located on the west coast of the Canadian island of Newfoundland in the Long Range Mountains.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="yes" HEAD="nominal" TYPE="pronoun">The mountain itself</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a series of steep ridges forming part of the southern side of the Humber River valley. The highest point of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Marble Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is &quot;Mount Musgrave&quot; (540 m, 48°55'49N,57°50'03W) at Steady Brook, approximately 7 kilometres east of Corner Brook. The peak is named in honour of Sir Anthony Musgrave, a colonial governor of Newfoundland.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Marble Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the site of the largest alpine ski resort in Atlantic Canada, and </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> hosts Environment Canada's doppler weather radar station &quot;XME&quot;.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>The Marble Mountain Ski Resort is known to have some of the best skiing east of the Rockies with an average of 5 metres (16.5 feet) of snow each year, compared to Mont Tremblant's 3.65 metres (12 feet). The resort was a key venue for the 1999 Canada Winter Games hosted by Corner Brook.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Marble Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> boasts the only detachable high speed quad lift in Atlantic Canada, the Governor's Express. It is 1660m in length and has a ride time of approximately 8 minutes.</STRING>
+	</PARAGRAPH>
+</TEXT>

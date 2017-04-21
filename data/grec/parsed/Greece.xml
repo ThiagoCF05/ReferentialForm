@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TEXT ID="1275">
+	<TITLE>Greece</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Greece</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> or Hellas ([Greek: Ελλάδα] [IPA: [eˈlaða]] or Ελλάς [IPA: [eˈlas]]), officially the Hellenic Republic (Ελληνική Δημοκρατία [IPA: [eliniˈci ðimokraˈtia]]), is a country in south-eastern Europe, situated on the southern end of the Balkan peninsula. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is bordered by Bulgaria, the Former Yugoslav Republic of Macedonia and Albania to the north and by Turkey to the east. The Aegean Sea lies to the east of mainland Greece while the Ionian Sea lies to the west. Both parts of the eastern Mediterranean basin, feature a vast number of islands.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Greece</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies at the juncture of Europe, Asia, and Africa. </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is heir to the heritages of classical Greece, the Byzantine Empire, and nearly four centuries of Ottoman rule. Regarded as the cradle of western civilization and being the birthplace of democracy, Western philosophy, the Olympic Games, western literature, political science, major scientific principles as well as drama including both tragedy and comedy, </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Greece</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a particularly long and eventful history and a cultural heritage considerably influential in Europe, Northern Africa and the Middle East. Today, </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Greece</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a developed country, member of the European Union since 1981 and a member of the Eurozone since 2001. Athens, Thessaloniki, Piraeus and Patra are </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> major cities.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "reg08-grec.dtd">
+<TEXT ID="967">
+<TITLE>Jean Baudrillard</TITLE>
+
+<PARAGRAPH>
+<REF ID="967.1" SEMCAT="person" SYNCAT="np-subj">
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Jean Baudrillard</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Jean Baudrillard</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Jean Baudrillard himself</REFEX>
+<REFEX REG08-TYPE="empty">_</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="nominative">he</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="pronoun" CASE="nominative">he himself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">who</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">who himself</REFEX>
+</ALT-REFEX>
+</REF>
+ (born June 20, 1929) is a cultural theorist, philosopher, political commentator, sociologist, and photographer. 
+<REF ID="967.2" SEMCAT="person" SYNCAT="subj-det">
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="genitive">His</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="genitive">Jean Baudrillard's</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="genitive">his</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="genitive">whose</REFEX>
+</ALT-REFEX>
+</REF>
+ work is frequently associated with postmodernism and post-structuralism.</PARAGRAPH>
+</TEXT>

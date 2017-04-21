@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="505">
+	<TITLE>Mount Olympus (Utah)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Olympus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in Utah, USA is one of the most prominent and recognizable mountains viewable from practically every location in the Salt Lake Valley. Although not the tallest peak along the Wasatch front, </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a popular hiking destination for locals. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is situated immediately East of the center of the Salt Lake Valley (due East from Murray and Taylorsville). The highest outcropping on </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Olympus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, dubbed &quot;Summit Peak,&quot; towers above the valley to an elevation of 9026 ft. Thus, the peak looms about 4800 ft above the valley floor.</STRING>
+	</PARAGRAPH>
+</TEXT>

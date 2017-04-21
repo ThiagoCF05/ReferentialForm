@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TEXT ID="706">
+	<TITLE>San Gorgonio Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">San Gorgonio Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (or Mount San Gorgonio, or Old Greyback) is the highest peak in Southern California at 11,502 feet (3,506 m) above sea level. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the San Bernardino Mountains, 27 mi (42 km) east of the city of San Bernardino and 12 mi (19 km) north-northeast of San Gorgonio Pass. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies in the San Gorgonio Wilderness, part of the San Bernardino National Forest. Spanish missionaries in the area during the early 1800s named </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> after Saint Gorgonius.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Since </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest point in a region which is separated from higher peaks (e.g. in the Sierra Nevada) by relatively low terrain, </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">San Gorgonio Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the most topographically prominent peaks in the United States. </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is ranked 7th among peaks in the contiguous US, and 18th among all US peaks.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Several trails lead to the broad summit of </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">San Gorgonio Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, which rises only a few hundred feet (100 m) above the tree line. Any route requires well over 4,000 feet (1,220 m) of elevation gain.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>There is however one less used trail leading from the Fish Creek Trailhead to </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">San Gorgonio Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> that has about 3400' of gain, far less than the 4600' - 5200' of gain on the standard routes from the South Fork and Vivian Creek trailheads.</STRING>
+	</PARAGRAPH>
+</TEXT>

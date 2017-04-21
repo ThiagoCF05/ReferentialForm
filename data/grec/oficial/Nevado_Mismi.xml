@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<TEXT ID="609">
+	<TITLE>Nevado Mismi</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado Mismi</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain peak of volcanic origin located in the Andes mountain range of Peru. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado Mismi</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is about 160 km west of Lake Titicaca and 700 km southeast of Peru's capital city, Lima, in the Arequipa Region.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the highest points of Colca Canyon.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>There are several glaciers on  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>In 2001, it was verified that the main headwater of the Amazon River has its glacial source on  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="19" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado Mismi</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>An expedition of the National Geographic Society discovered that Carhuasanta stream flowing into Río Apurímac originates on  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="18" SEMCAT="mountain" SENTENCE-POSITION="18" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> northern slopes and then runs its course through other tributaries and rivers to help form the main Amazon River.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The fact that the headwaters of Río Apurímac are the source of the Amazon River was confirmed by Brazilian scientists in 2007, who pointed at Quebrada Apacheta as the most probable source of the Amazon. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

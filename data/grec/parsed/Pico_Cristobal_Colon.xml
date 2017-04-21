@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="642">
+	<TITLE>Pico Cristóbal Colón</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pico Cristóbal Colón</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest mountain in Colombia and the fifth most prominent (see list of peaks by prominence). The nearest peak that is higher is Cayambe, some 1288 km away. There is a permanent snowcap on </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and on the nearby mountains. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of the Sierra Nevada de Santa Marta range, along with Pico Simón Bolívar.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>It is possible that nearby Pico Simón Bolívar is higher than </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pico Cristóbal Colón</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, if so then Pico Simón Bolívar is the true highest mountain in Colombia and fifth most prominent.</STRING>
+	</PARAGRAPH>
+</TEXT>

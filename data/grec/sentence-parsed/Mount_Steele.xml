@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="554">
+	<TITLE>Mount Steele</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Steele</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the fifth highest mountain in Canada and the tenth highest peak in North America.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>A lower southeast peak of  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Steele</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> stands at 4,300m (14,108ft). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named after Sam Steele, the North West Mounted Police officer in charge of the force in the Yukon during the Klondike Gold Rush. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<TEXT ID="1519">
+	<TITLE>Francis Bacon</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Francis Bacon</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, 1st Viscount St Alban, KC (22 January 1561 - 9 April 1626) was an English philosopher, statesman and essayist but  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is best known for leading the scientific revolution with  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> new 'observation and experimentation' theory which is the way science has been conducted ever since.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was knighted in 1603, created Baron Verulam in 1618, and created Viscount St Alban in 1621; both peerage titles became extinct upon  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> death. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> began  </STRING>
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> professional life as a lawyer, but  </STRING>
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has become best known as a philosophical advocate and defender of the scientific revolution.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="9" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> works establish and popularize an inductive methodology for scientific inquiry, often called the Baconian method.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Induction implies drawing knowledge from the natural world through experimentation, observation, and testing of hypotheses.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>In the context of  </STRING>
+			<REFERENCE ID="10" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> time, such methods were connected with the occult trends of hermeticism and alchemy. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

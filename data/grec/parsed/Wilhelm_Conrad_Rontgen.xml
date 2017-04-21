@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1774">
+	<TITLE>Wilhelm Conrad Röntgen</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Wilhelm Conrad Röntgen</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (in English: &quot;William Conrad Roentgen&quot;) (March 27, 1845 - February 10, 1923) was a German physicist, of the University of Würzburg, </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, on November 8, 1895, produced and detected electromagnetic radiation in a wavelength range today known as x-rays or Röntgen Rays, an achievement that earned </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> the first Nobel Prize in Physics in 1901.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Röntgen's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name is usually given as &quot;Roentgen&quot; (an alternative German spelling) in English; therefore most English scientific and medical references to </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are found under this spelling.</STRING>
+	</PARAGRAPH>
+</TEXT>

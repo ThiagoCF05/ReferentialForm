@@ -1,0 +1,634 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1">
+			<TARGET-REFERENCE ENTROPY="0" ID="1" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="7" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">The Yellow River</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">The yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">The Yellow River or Huang</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Yellow River or Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Huang</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">The Yellow River or Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">The Yellow River or Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">the yellow river</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">The Yellow River of Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">The Yellow River, or Huang He</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> -LRB- -LSB- </STRING>
+			<REFERENCE animacy="ANIMATE" entity="8" gender="NEUTRAL" mentionid="8" mentiontype="PROPER" number="SINGULAR">
+				<STRING> Traditional Chinese: </STRING>
+				<REFERENCE animacy="INANIMATE" entity="9" gender="UNKNOWN" mentionid="9" mentiontype="PROPER" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="1" mentiontype="PROPER" number="SINGULAR"> 黃河 </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="ANIMATE" entity="10" gender="NEUTRAL" mentionid="10" mentiontype="PROPER" number="SINGULAR"> Simplified Chinese </REFERENCE>
+					<STRING>: </STRING>
+					<REFERENCE animacy="INANIMATE" entity="11" gender="UNKNOWN" mentionid="11" mentiontype="PROPER" number="SINGULAR">
+						<REFERENCE animacy="INANIMATE" entity="2" gender="UNKNOWN" mentionid="2" mentiontype="PROPER" number="SINGULAR"> 黄河 </REFERENCE>
+						<STRING>, </STRING>
+						<REFERENCE animacy="UNKNOWN" entity="12" gender="UNKNOWN" mentionid="12" mentiontype="PROPER" number="SINGULAR"> Pinyin </REFERENCE>
+					</REFERENCE>
+					<STRING>: </STRING>
+					<REFERENCE animacy="ANIMATE" entity="13" gender="UNKNOWN" mentionid="13" mentiontype="PROPER" number="SINGULAR">
+						<REFERENCE animacy="ANIMATE" entity="3" gender="UNKNOWN" mentionid="3" mentiontype="PROPER" number="SINGULAR"> Huáng Hélisten </REFERENCE>
+						<STRING>, </STRING>
+						<REFERENCE animacy="ANIMATE" entity="4" gender="UNKNOWN" mentionid="4" mentiontype="PROPER" number="SINGULAR"> Wade-Giles </REFERENCE>
+					</REFERENCE>
+					<STRING>: </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="14" gender="UNKNOWN" mentionid="14" mentiontype="NOMINAL" number="SINGULAR">
+						<REFERENCE animacy="UNKNOWN" entity="15" gender="UNKNOWN" mentionid="15" mentiontype="NOMINAL" number="SINGULAR"> Hwang-ho -RSB- </REFERENCE>
+						<STRING>, sometimes </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING> simply called </STRING>
+				<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="16" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the River in </STRING>
+					<REFERENCE animacy="ANIMATE" entity="17" gender="NEUTRAL" mentionid="17" mentiontype="PROPER" number="SINGULAR"> ancient Chinese </REFERENCE>
+				</REFERENCE>
+				<STRING> -RRB- </STRING>
+			</REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE animacy="INANIMATE" entity="18" gender="UNKNOWN" mentionid="18" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="19" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the </STRING>
+					<REFERENCE animacy="INANIMATE" entity="5" gender="UNKNOWN" mentionid="5" mentiontype="PROPER" number="SINGULAR"> second </REFERENCE>
+					<STRING> longest river in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="20" gender="NEUTRAL" mentionid="20" mentiontype="PROPER" number="SINGULAR">
+						<STRING> China -LRB- after </STRING>
+						<REFERENCE animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="6" mentiontype="PROPER" number="SINGULAR"> Yangtze River </REFERENCE>
+						<STRING> -RRB- </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="21" gender="UNKNOWN" mentionid="21" mentiontype="PROPER" number="SINGULAR">
+					<STRING> the fifth in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="22" gender="NEUTRAL" mentionid="22" mentiontype="NOMINAL" number="SINGULAR"> the world </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2">
+			<TARGET-REFERENCE ENTROPY="0.65849" ID="2" PARAGRAPH-POSITION="37" RECENCY="36" SYNCAT="np-subj" animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="24" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">The river</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="demonstrative">This river</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE animacy="INANIMATE" entity="25" gender="UNKNOWN" mentionid="25" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="23" gender="UNKNOWN" mentionid="23" mentiontype="PROPER" number="SINGULAR"> 5464 </REFERENCE>
+				<STRING> km </STRING>
+			</REFERENCE>
+			<STRING> long. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3">
+			<STRING> Originated from </STRING>
+			<REFERENCE animacy="INANIMATE" entity="29" gender="NEUTRAL" mentionid="29" mentiontype="PROPER" number="SINGULAR"> the Bayankala Mountains </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="30" gender="NEUTRAL" mentionid="30" mentiontype="PROPER" number="SINGULAR">
+				<STRING> Qinghai Province in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="31" gender="NEUTRAL" mentionid="31" mentiontype="PROPER" number="SINGULAR">
+					<STRING> western </STRING>
+					<REFERENCE animacy="INANIMATE" entity="20" gender="NEUTRAL" mentionid="26" mentiontype="PROPER" number="SINGULAR"> China </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ENTROPY="0.38864" ID="3" PARAGRAPH-POSITION="53" RECENCY="16" SYNCAT="np-subj" animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="32" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Yellow river</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">the yellow river</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">the Yellow River of Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Huang He</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> flows through </STRING>
+			<REFERENCE animacy="INANIMATE" entity="33" gender="UNKNOWN" mentionid="33" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="27" gender="UNKNOWN" mentionid="27" mentiontype="PROPER" number="SINGULAR"> nine </REFERENCE>
+				<STRING> provinces of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="20" gender="NEUTRAL" mentionid="28" mentiontype="PROPER" number="SINGULAR"> China </REFERENCE>
+				<STRING> and </STRING>
+				<TARGET-REFERENCE ENTROPY="0.531121" ID="4" PARAGRAPH-POSITION="61" RECENCY="8" SYNCAT="np-subj" animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="32" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="empty">-</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="82" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="90" TYPE="other">then</REFEX>
+						<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="96" TYPE="name">The Yellow River</REFEX>
+						<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="111" TYPE="other">then</REFEX>
+						<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="117" TYPE="other">then</REFEX>
+						<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="126" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="132" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="157" TYPE="other">then</REFEX>
+						<REFEX PARTICIPANT-ID="160" TYPE="empty">-</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> finally empties into </STRING>
+				<REFERENCE animacy="INANIMATE" entity="34" gender="NEUTRAL" mentionid="34" mentiontype="PROPER" number="SINGULAR"> the Bohai Sea </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4">
+			<REFERENCE animacy="INANIMATE" entity="37" gender="NEUTRAL" mentionid="37" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> The </STRING>
+				<REFERENCE animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="35" mentiontype="PROPER" number="SINGULAR"> Yellow River </REFERENCE>
+				<STRING> basin </STRING>
+			</REFERENCE>
+			<STRING> has </STRING>
+			<REFERENCE animacy="INANIMATE" entity="38" gender="UNKNOWN" mentionid="38" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="39" gender="UNKNOWN" mentionid="39" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> an east-west distance of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="40" gender="UNKNOWN" mentionid="40" mentiontype="NOMINAL" number="SINGULAR"> 1900 km </REFERENCE>
+				</REFERENCE>
+				<STRING> and north-south distance of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="41" gender="UNKNOWN" mentionid="41" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="NOMINAL" number="SINGULAR"> 1100 km </REFERENCE>
+					<STRING>, total basin area </STRING>
+					<REFERENCE animacy="INANIMATE" entity="36" gender="UNKNOWN" mentionid="36" mentiontype="PROPER" number="SINGULAR"> 752443 </REFERENCE>
+					<STRING> km ² </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="5">
+			<REFERENCE animacy="INANIMATE" entity="44" gender="NEUTRAL" mentionid="44" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> The middle stream of </STRING>
+				<TARGET-REFERENCE ENTROPY="0.415063" ID="5" PARAGRAPH-POSITION="5" RECENCY="0" SYNCAT="np-obj" animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="43" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Yellow River</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="82" TYPE="name">Huang He</REFEX>
+						<REFEX PARTICIPANT-ID="90" TYPE="name">the Yellow River</REFEX>
+						<REFEX PARTICIPANT-ID="93" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="96" TYPE="name">The Yellow River</REFEX>
+						<REFEX PARTICIPANT-ID="99" TYPE="name">Huang he</REFEX>
+						<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="105" TYPE="name">Huang He</REFEX>
+						<REFEX PARTICIPANT-ID="108" TYPE="name">The Yellow River</REFEX>
+						<REFEX PARTICIPANT-ID="111" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="114" TYPE="name">the yellow river</REFEX>
+						<REFEX PARTICIPANT-ID="117" TYPE="other">He</REFEX>
+						<REFEX PARTICIPANT-ID="123" TYPE="name">The Yellow River</REFEX>
+						<REFEX PARTICIPANT-ID="126" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="129" TYPE="name">the yellow river</REFEX>
+						<REFEX PARTICIPANT-ID="132" TYPE="name">the Yellow River of Huang He</REFEX>
+						<REFEX PARTICIPANT-ID="135" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="138" TYPE="name">The Yellow River</REFEX>
+						<REFEX PARTICIPANT-ID="148" TYPE="name">Huang He</REFEX>
+						<REFEX PARTICIPANT-ID="151" TYPE="name">The Yellow River</REFEX>
+						<REFEX PARTICIPANT-ID="154" TYPE="name">Yellow River</REFEX>
+						<REFEX PARTICIPANT-ID="157" TYPE="name">The Yellow River</REFEX>
+						<REFEX PARTICIPANT-ID="160" TYPE="name">Huang He</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> passes through </STRING>
+			<REFERENCE animacy="INANIMATE" entity="45" gender="NEUTRAL" mentionid="45" mentiontype="PROPER" number="SINGULAR"> Loess Plateau with substantial erosion </REFERENCE>
+			<STRING> taking place. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="6">
+			<REFERENCE animacy="INANIMATE" entity="47" gender="NEUTRAL" mentionid="47" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> The large amount of mud and sand discharged into </STRING>
+				<TARGET-REFERENCE ENTROPY="0.333011" ID="6" PARAGRAPH-POSITION="24" RECENCY="19" SYNCAT="np-obj" animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="48" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="description">the river</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="90" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="99" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="111" TYPE="description">the water</REFEX>
+						<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="126" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="135" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> makes </STRING>
+			<TARGET-REFERENCE ENTROPY="0.415063" ID="7" PARAGRAPH-POSITION="26" RECENCY="2" SYNCAT="np-obj" animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="48" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Yellow River</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">the Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">up</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">the Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">The Yellow river</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> </STRING>
+			<REFERENCE animacy="INANIMATE" entity="49" gender="NEUTRAL" mentionid="49" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the most sediment-laden river in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="22" gender="NEUTRAL" mentionid="50" mentiontype="NOMINAL" number="SINGULAR"> the world </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="7">
+			<REFERENCE animacy="UNKNOWN" entity="52" gender="NEUTRAL" mentionid="52" mentiontype="NOMINAL" number="UNKNOWN">
+				<STRING> The recorded </STRING>
+				<REFERENCE animacy="INANIMATE" entity="53" gender="NEUTRAL" mentionid="53" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> highest annual level of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="54" gender="UNKNOWN" mentionid="54" mentiontype="NOMINAL" number="PLURAL">
+						<STRING> silts discharged into </STRING>
+						<TARGET-REFERENCE ENTROPY="0.65849" ID="8" PARAGRAPH-POSITION="43" RECENCY="17" SYNCAT="np-obj" animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="55" number="SINGULAR">
+							<ORIGINAL-REFEX>
+								<REFEX TYPE="name">the Yellow River</REFEX>
+							</ORIGINAL-REFEX>
+							<PARTICIPANTS-REFEX>
+								<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="90" TYPE="description">the river</REFEX>
+								<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="99" TYPE="name">The yellow river</REFEX>
+								<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="105" TYPE="name">the yellow river</REFEX>
+								<REFEX PARTICIPANT-ID="108" TYPE="name">The Yellow River</REFEX>
+								<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="123" TYPE="name">The Yellow River</REFEX>
+								<REFEX PARTICIPANT-ID="126" TYPE="demonstrative">this river</REFEX>
+								<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="132" TYPE="description">the river</REFEX>
+								<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="157" TYPE="description">the river</REFEX>
+								<REFEX PARTICIPANT-ID="160" TYPE="name">Huang He</REFEX>
+							</PARTICIPANTS-REFEX>
+						</TARGET-REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE animacy="INANIMATE" entity="52" gender="UNKNOWN" mentionid="56" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="51" gender="NEUTRAL" mentionid="51" mentiontype="PROPER" number="SINGULAR"> 3.91 billion </REFERENCE>
+				<STRING> tons -LRB- </STRING>
+				<REFERENCE animacy="INANIMATE" entity="57" gender="UNKNOWN" mentionid="57" mentiontype="PROPER" number="SINGULAR"> 1933 </REFERENCE>
+				<STRING> -RRB- </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="8">
+			<REFERENCE animacy="INANIMATE" entity="59" gender="UNKNOWN" mentionid="59" mentiontype="NOMINAL" number="UNKNOWN">
+				<STRING> Highest </STRING>
+				<REFERENCE animacy="INANIMATE" entity="60" gender="NEUTRAL" mentionid="60" mentiontype="NOMINAL" number="SINGULAR"> silt concentration level </REFERENCE>
+			</REFERENCE>
+			<STRING> is recorded in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="61" gender="UNKNOWN" mentionid="61" mentiontype="PROPER" number="SINGULAR"> 1977 </REFERENCE>
+			<STRING> with </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="62" gender="UNKNOWN" mentionid="62" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="58" gender="UNKNOWN" mentionid="58" mentiontype="PROPER" number="SINGULAR"> 920 </REFERENCE>
+				<STRING> kg/m ³ </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="9">
+			<REFERENCE animacy="INANIMATE" entity="63" gender="NEUTRAL" mentionid="63" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> These </STRING>
+				<REFERENCE animacy="INANIMATE" entity="64" gender="UNKNOWN" mentionid="64" mentiontype="NOMINAL" number="PLURAL"> sediments </REFERENCE>
+				<STRING> later deposit in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="65" gender="UNKNOWN" mentionid="65" mentiontype="NOMINAL" number="PLURAL">
+					<STRING> the slower lower reaches of </STRING>
+					<TARGET-REFERENCE ENTROPY="0.677292" ID="9" PARAGRAPH-POSITION="70" RECENCY="27" SYNCAT="np-obj" animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="66" number="SINGULAR">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="description">the river</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="82" TYPE="name">Huang He</REFEX>
+							<REFEX PARTICIPANT-ID="90" TYPE="description">the river</REFEX>
+							<REFEX PARTICIPANT-ID="93" TYPE="description">the river</REFEX>
+							<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+							<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+							<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+							<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+							<REFEX PARTICIPANT-ID="108" TYPE="description">the river</REFEX>
+							<REFEX PARTICIPANT-ID="111" TYPE="description">the river</REFEX>
+							<REFEX PARTICIPANT-ID="114" TYPE="name">the yellow river</REFEX>
+							<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+							<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+							<REFEX PARTICIPANT-ID="126" TYPE="name">The Yellow River</REFEX>
+							<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+							<REFEX PARTICIPANT-ID="132" TYPE="description">the river</REFEX>
+							<REFEX PARTICIPANT-ID="135" TYPE="description">the river</REFEX>
+							<REFEX PARTICIPANT-ID="138" TYPE="name">The Yellow Rive</REFEX>
+							<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+							<REFEX PARTICIPANT-ID="151" TYPE="name">Huang he</REFEX>
+							<REFEX PARTICIPANT-ID="154" TYPE="description">the river</REFEX>
+							<REFEX PARTICIPANT-ID="157" TYPE="description">the river</REFEX>
+							<REFEX PARTICIPANT-ID="160" TYPE="name">The Yellow River</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, elevating </STRING>
+			<REFERENCE animacy="INANIMATE" entity="67" gender="UNKNOWN" mentionid="67" mentiontype="NOMINAL" number="SINGULAR"> the river bed </REFERENCE>
+			<STRING> and creating </STRING>
+			<REFERENCE animacy="INANIMATE" entity="68" gender="NEUTRAL" mentionid="68" mentiontype="NOMINAL" number="SINGULAR"> the famous`` river </REFERENCE>
+			<STRING> above </STRING>
+			<REFERENCE animacy="INANIMATE" entity="69" gender="NEUTRAL" mentionid="69" mentiontype="NOMINAL" number="SINGULAR"> ground'' </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="10">
+			<STRING> In </STRING>
+			<REFERENCE animacy="INANIMATE" entity="70" gender="UNKNOWN" mentionid="70" mentiontype="PROPER" number="SINGULAR"> Kaifeng </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ENTROPY="0.526155" ID="10" PARAGRAPH-POSITION="84" RECENCY="14" SYNCAT="np-subj" animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="71" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Yellow River</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">the Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">The yellow river</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">the Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">the yellow river</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">water</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">the Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="demonstrative">this river</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE animacy="INANIMATE" entity="73" gender="UNKNOWN" mentionid="73" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="72" gender="NEUTRAL" mentionid="72" mentiontype="PROPER" number="SINGULAR"> forty </REFERENCE>
+				<STRING> meters above </STRING>
+				<REFERENCE animacy="INANIMATE" entity="74" gender="NEUTRAL" mentionid="74" mentiontype="NOMINAL" number="SINGULAR"> the ground level </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="11">
+			<TARGET-REFERENCE ENTROPY="0.294599" ID="11" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="71" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Yellow River</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">the yellow river</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">The Yellow River of Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">The Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">The Yellow  River</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Huang He</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is called </STRING>
+			<REFERENCE animacy="INANIMATE" entity="78" gender="UNKNOWN" mentionid="78" mentiontype="LIST" number="PLURAL">
+				<STRING> the </STRING>
+				<REFERENCE animacy="INANIMATE" entity="79" gender="NEUTRAL" mentionid="79" mentiontype="PROPER" number="SINGULAR">
+					<STRING>`` Mother River of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="20" gender="NEUTRAL" mentionid="75" mentiontype="PROPER" number="SINGULAR"> China </REFERENCE>
+					<STRING>'' </STRING>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="80" gender="NEUTRAL" mentionid="80" mentiontype="PROPER" number="SINGULAR">
+					<STRING>`` the Cradle of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="81" gender="NEUTRAL" mentionid="81" mentiontype="NOMINAL" number="SINGULAR"> Chinese Civilization </REFERENCE>
+					<STRING>'' in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="20" gender="NEUTRAL" mentionid="76" mentiontype="PROPER" number="SINGULAR"> China </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, as </STRING>
+			<REFERENCE animacy="INANIMATE" entity="37" gender="NEUTRAL" mentionid="82" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the </STRING>
+				<REFERENCE animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="77" mentiontype="PROPER" number="SINGULAR"> Yellow River </REFERENCE>
+				<STRING> basin </STRING>
+			</REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE animacy="INANIMATE" entity="83" gender="UNKNOWN" mentionid="83" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="37" gender="UNKNOWN" mentionid="84" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the birth-place of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="85" gender="UNKNOWN" mentionid="85" mentiontype="NOMINAL" number="PLURAL"> the northern Chinese civilizations </REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="86" gender="NEUTRAL" mentionid="86" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the most prosperous region in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="87" gender="NEUTRAL" mentionid="87" mentiontype="NOMINAL" number="SINGULAR"> the early Chinese history </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="12">
+			<STRING> However, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="89" gender="NEUTRAL" mentionid="89" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="90" gender="NEUTRAL" mentionid="90" mentiontype="NOMINAL" number="SINGULAR"> the frequent devastating flooding </REFERENCE>
+				<STRING>, largely due to </STRING>
+				<REFERENCE animacy="INANIMATE" entity="91" gender="UNKNOWN" mentionid="91" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the elevated river bed in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="92" gender="NEUTRAL" mentionid="92" mentiontype="NOMINAL" number="SINGULAR">
+						<TARGET-REFERENCE ENTROPY="0.44012" ID="12" PARAGRAPH-POSITION="53" RECENCY="52" SYNCAT="subj-det" animacy="INANIMATE" entity="7" gender="UNKNOWN" mentionid="93" number="SINGULAR">
+							<ORIGINAL-REFEX>
+								<REFEX TYPE="pronoun">its</REFEX>
+							</ORIGINAL-REFEX>
+							<PARTICIPANTS-REFEX>
+								<REFEX PARTICIPANT-ID="82" TYPE="name">Huange He</REFEX>
+								<REFEX PARTICIPANT-ID="90" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="93" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+								<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it's</REFEX>
+								<REFEX PARTICIPANT-ID="108" TYPE="name">The Yellow River's</REFEX>
+								<REFEX PARTICIPANT-ID="111" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it's</REFEX>
+								<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it's</REFEX>
+								<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="126" TYPE="description">the rivers</REFEX>
+								<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="132" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="135" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="138" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="151" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="157" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it's</REFEX>
+							</PARTICIPANTS-REFEX>
+						</TARGET-REFERENCE>
+						<STRING> lower course </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, has also earned </STRING>
+			<TARGET-REFERENCE ENTROPY="0.195405" ID="13" PARAGRAPH-POSITION="59" RECENCY="6" SYNCAT="np-obj" animacy="INANIMATE" entity="7" gender="UNKNOWN" mentionid="93" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">the Yellow River</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Huang He</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<REFERENCE animacy="INANIMATE" entity="95" gender="UNKNOWN" mentionid="95" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the unenviable distinction as`` </STRING>
+				<REFERENCE animacy="INANIMATE" entity="96" gender="UNKNOWN" mentionid="96" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="20" gender="NEUTRAL" mentionid="88" mentiontype="PROPER" number="SINGULAR"> China's </REFERENCE>
+					<STRING> Sorrow </STRING>
+				</REFERENCE>
+				<STRING>'' </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1573">
+	<TITLE>Jagdish Bhagwati</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Jagdish Bhagwati</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born 1934) is a prominent economist noted for  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> defense of free trade against the critics of globalization.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a University Professor of Economics at Columbia University. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

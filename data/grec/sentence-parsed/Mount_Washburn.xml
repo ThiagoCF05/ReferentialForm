@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TEXT ID="580">
+	<TITLE>Mount Washburn</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Washburn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in Yellowstone National Park, in the U.S. state of Wyoming. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Washburn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named for  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> discoverer, former Civil War general and U.S.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Congressman Henry D. Washburn, who was the surveyor general of Montana after the war. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Views from the summit include much of the northern section of Yellowstone National Park and on clear days, the Teton Range is also visible.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The mountain trails are some of the most frequented in the park, so summer hikes can be crowded.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>With an altitude gain of 1,393 feet (424 m) in 3 miles (4.8 km), the hike from Dunraven Pass to the summit is moderate.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Another trail which climbs 1,491 feet (454 m) in only 2.25 miles (3.6 km) starts from the Chittenden parking area. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>One of three active Fire lookout towers in Yellowstone is located on the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>There is a small Visitor Center and restrooms on the first floor, an observation deck on second and a ranger's residence on top floor (closed to the public). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

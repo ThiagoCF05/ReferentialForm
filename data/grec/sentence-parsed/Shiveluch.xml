@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="829">
+	<TITLE>Shiveluch</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Shiveluch</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Russian: Шивелуч]) is the northernmost active volcano in Kamchatka Krai, Russia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is sometimes called Sheveluch (Шевелуч) or Sopka Shiveluch. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Shiveluch</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> began forming about 60,000 to 70,000 years ago, and  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has had at least 60 large eruptions during the Holocene. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

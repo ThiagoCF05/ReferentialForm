@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="383">
+	<TITLE>Mount Circeo</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte Circeo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Latin: Mons Circeius) is an isolated promontory on the southwest coast of Italy, about 100 km south/southeast of Rome, near San Felice Circeo, on the coast between Anzio and Terracina; </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a part of Circeo National Park. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a ridge of limestone about 5 km long by 1.5 km wide at the base, running from east to west and surrounded by the sea on all sides except the north. The land to the north of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 15 m above sea level, while the summit of the promontory is 541 m.</STRING>
+	</PARAGRAPH>
+</TEXT>

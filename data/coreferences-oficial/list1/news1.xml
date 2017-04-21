@@ -1,0 +1,1278 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.228433" GENDER="male" ID="1" MENTION-ID="1" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Billionaire Philip Anschutz</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Phillip Frederick Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Philip Frederick Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Philip Frederick Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">Phillip Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Philip Frederick Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Philip Frederick Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Philip Frederick Anschut</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Philip Frederick Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Philip Frederick Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Philip Frederick Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="description">An American entrepreneur</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Philip Frederick Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Philip Frederick Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Philip Frederick Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Philip Frederick Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Anschutz</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> announced </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="6" GENDER="unknown" MENTION-ID="2" NUMBER="singular" TYPE="name"> Tuesday </REFERENCE>
+			<STRING> that </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.195405" GENDER="male" ID="2" MENTION-ID="3" NUMBER="singular" PARAGRAPH-POSITION="5" RECENCY="4" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Phillip Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> was retiring from </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="8" GENDER="unknown" MENTION-ID="4" NUMBER="plural" TYPE="description">
+				<STRING> the boards of </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="9" GENDER="unknown" MENTION-ID="5" NUMBER="plural" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="6" NUMBER="singular" TYPE="name"> three </REFERENCE>
+					<STRING> companies in which </STRING>
+					<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.415063" GENDER="male" ID="3" MENTION-ID="7" NUMBER="singular" PARAGRAPH-POSITION="16" RECENCY="11" SYNCAT="np-subj">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">he</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="7" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="8" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="11" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="14" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="25" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="27" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="35" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="39" TYPE="name">Mr Anschutz</REFEX>
+							<REFEX PARTICIPANT-ID="43" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="45" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="47" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="48" TYPE="other">it</REFEX>
+							<REFEX PARTICIPANT-ID="49" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="50" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="54" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="57" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="60" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="62" TYPE="name">Mr. Anschutz</REFEX>
+							<REFEX PARTICIPANT-ID="63" TYPE="name">Mr Anschutz</REFEX>
+							<REFEX PARTICIPANT-ID="64" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="66" TYPE="name">Anschutz</REFEX>
+							<REFEX PARTICIPANT-ID="67" TYPE="description">the American entrepreneur</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> is </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="11" GENDER="unknown" MENTION-ID="8" NUMBER="plural">
+						<STRING> the largest shareholder: </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="12" GENDER="unknown" MENTION-ID="9" NUMBER="plural">
+							<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="10" NUMBER="unknown" TYPE="name"> Union Pacific Corp. </REFERENCE>
+							<STRING>, </STRING>
+							<REFERENCE ANIMACY="inanimate" ENTITY-ID="4" GENDER="neutral" MENTION-ID="11" NUMBER="unknown" TYPE="name"> Regal Entertainment Group </REFERENCE>
+							<STRING> and </STRING>
+							<REFERENCE ANIMACY="inanimate" ENTITY-ID="5" GENDER="neutral" MENTION-ID="12" NUMBER="unknown" TYPE="name"> Qwest Communications International Inc. </REFERENCE>
+						</REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="13" NUMBER="singular" TYPE="name">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.114889" GENDER="male" ID="4" MENTION-ID="14" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Anschutz</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="name">Philip  Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="name">Philip Frederick Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="name">Philip Frederick Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="name">Philip Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Mr. Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="demonstrative">This American enterpreneur</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="name">Anschutz</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="16" GENDER="unknown" MENTION-ID="15" NUMBER="plural">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="16" NUMBER="singular" TYPE="description">
+						<STRING> an influential developer in </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="18" GENDER="unknown" MENTION-ID="17" NUMBER="singular" TYPE="name">
+							<STRING> downtown </STRING>
+							<REFERENCE ANIMACY="inanimate" ENTITY-ID="14" GENDER="unknown" MENTION-ID="18" NUMBER="singular" TYPE="name"> Los Angeles </REFERENCE>
+						</REFERENCE>
+					</REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="19" GENDER="male" MENTION-ID="19" NUMBER="singular" TYPE="description"> an increasingly active player in entertainment </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, is stepping aside at </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="20" GENDER="unknown" MENTION-ID="20" NUMBER="plural">
+				<STRING> a time when </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="21" GENDER="unknown" MENTION-ID="21" NUMBER="plural">
+					<STRING> the pressures and demands on </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="22" GENDER="unknown" MENTION-ID="22" NUMBER="plural" TYPE="description">
+						<STRING> directors of </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="23" GENDER="unknown" MENTION-ID="23" NUMBER="plural" TYPE="description"> public corporations </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING> have intensified after </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="24" GENDER="neutral" MENTION-ID="24" NUMBER="singular" TYPE="description">
+					<STRING> a wave of </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="25" GENDER="unknown" MENTION-ID="25" NUMBER="plural" TYPE="description"> accounting scandals </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="27" GENDER="neutral" MENTION-ID="26" NUMBER="unknown" TYPE="name">
+				<STRING> Qwest </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="14" GENDER="unknown" MENTION-ID="27" NUMBER="singular" TYPE="pronoun"> itself </REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="28" NUMBER="singular" TYPE="name">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="26" GENDER="neutral" MENTION-ID="29" NUMBER="singular" TYPE="name"> Denver-based </REFERENCE>
+				<STRING> telecom company </STRING>
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.408907" GENDER="male" ID="5" MENTION-ID="30" NUMBER="singular" PARAGRAPH-POSITION="46" RECENCY="45" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Anschutz</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="other">recently</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="other">which he</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">was</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Amschutz</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="name">Anschutz</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> founded, was among </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="30" GENDER="unknown" MENTION-ID="31" NUMBER="plural" TYPE="description">
+				<STRING> the businesses targeted in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="31" GENDER="unknown" MENTION-ID="32" NUMBER="plural" TYPE="description"> federal probes </REFERENCE>
+			</REFERENCE>
+			<STRING>, though </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.687128" GENDER="male" ID="6" MENTION-ID="33" NUMBER="singular" PARAGRAPH-POSITION="57" RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="other">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">Anschutz himself</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">it</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Mr Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="description">the American</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Mr Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> was not implicated in any wrongdoing. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="34" GENDER="neutral" MENTION-ID="34" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="6" GENDER="unknown" MENTION-ID="35" NUMBER="singular" TYPE="name"> Tuesday's </REFERENCE>
+				<STRING> move </STRING>
+			</REFERENCE>
+			<STRING>`` will allow </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="36" NUMBER="singular" TYPE="name"> Mr. Anschutz </REFERENCE>
+			<STRING> to devote </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="37" GENDER="unknown" MENTION-ID="37" NUMBER="plural">
+				<STRING> more time and attention to </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="38" GENDER="unknown" MENTION-ID="38" NUMBER="plural" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="39" NUMBER="singular" TYPE="pronoun"> his </REFERENCE>
+					<STRING> privately held investments-- </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="40" GENDER="neutral" MENTION-ID="40" NUMBER="singular" TYPE="description">
+						<STRING> something </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="41" NUMBER="singular" TYPE="pronoun"> he </REFERENCE>
+						<STRING> has desired to do for </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="42" GENDER="unknown" MENTION-ID="42" NUMBER="singular" TYPE="name"> the past several years </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>,'' </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="43" GENDER="male" MENTION-ID="43" NUMBER="singular" TYPE="name">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.599565" GENDER="male" ID="7" MENTION-ID="44" NUMBER="singular" PARAGRAPH-POSITION="30" RECENCY="0" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Anschutz</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">Anschutz's</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="name">Anschutz's</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Mr. Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="name">Philip Frederick Anschutz's</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="other">said</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">said</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="other">Qwest</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="name">Mr Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Anschutz's</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="pronoun">HIs</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="name">Anschutz's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> spokesman Jim Monaghan </STRING>
+			</REFERENCE>
+			<STRING> said in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="44" GENDER="unknown" MENTION-ID="45" NUMBER="singular" TYPE="description"> a statement </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="43" GENDER="male" MENTION-ID="46" NUMBER="singular" TYPE="name">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="male" ID="8" MENTION-ID="47" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Anschutz</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Philip Frederick Anschut</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="name">Philip  Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="name">Philip Frederick Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="name">Mr. Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="name">Philip Frederick Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Philip Frederick Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="name">Mr Philip Frederick Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="name">Philip Frederick Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="name">Anschutz</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="46" GENDER="unknown" MENTION-ID="48" NUMBER="singular" TYPE="name"> 66 </REFERENCE>
+			</REFERENCE>
+			<STRING>, will have </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="48" GENDER="unknown" MENTION-ID="49" NUMBER="singular" TYPE="description"> no trouble keeping busy </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING> Ranked by </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="52" GENDER="neutral" MENTION-ID="50" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="49" GENDER="unknown" MENTION-ID="51" NUMBER="unknown" TYPE="name"> Forbes </REFERENCE>
+				<STRING> magazine as </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="52" NUMBER="singular" TYPE="name"> the 28th-richest American </REFERENCE>
+			</REFERENCE>
+			<STRING>, with </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="54" GENDER="unknown" MENTION-ID="53" NUMBER="singular" TYPE="description"> a net worth of $ 7.2 billion </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.517204" GENDER="male" ID="9" MENTION-ID="54" NUMBER="singular" PARAGRAPH-POSITION="16" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Anschutz</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Mr. Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="other">It</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">this developer</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Mr. Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> has </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="38" GENDER="unknown" MENTION-ID="55" NUMBER="plural" TYPE="description"> investments </REFERENCE>
+			<STRING> in about </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="56" GENDER="unknown" MENTION-ID="56" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="51" GENDER="unknown" MENTION-ID="57" NUMBER="singular" TYPE="name"> 100 </REFERENCE>
+				<STRING> businesses </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.402281" GENDER="male" ID="10" MENTION-ID="58" NUMBER="singular" PARAGRAPH-POSITION="23" RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="other">It</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">has</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> earned </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="58" GENDER="unknown" MENTION-ID="59" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="male" ID="11" MENTION-ID="60" NUMBER="singular" PARAGRAPH-POSITION="25" RECENCY="2" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">his</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="other">most</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="other">it's</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">large</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="other">geat</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> fortune </STRING>
+			</REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="60" GENDER="unknown" MENTION-ID="61" NUMBER="plural"> the oil and gas industry </REFERENCE>
+			<STRING> and </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.424315" GENDER="male" ID="12" MENTION-ID="62" NUMBER="singular" PARAGRAPH-POSITION="34" RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="other">still</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">still</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="other">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="other">still</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">still</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">still</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="other">still</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">still</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> remains active in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="61" GENDER="neutral" MENTION-ID="63" NUMBER="singular" TYPE="description"> energy exploration </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="65" GENDER="neutral" MENTION-ID="64" NUMBER="unknown" TYPE="name">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.655459" GENDER="male" ID="13" MENTION-ID="65" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">His</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="name">Philip Frederick</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">Philip</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="name">Phillip</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Philip</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="other">The</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> Anschutz Entertainment Group </STRING>
+			</REFERENCE>
+			<STRING> owns </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="67" GENDER="unknown" MENTION-ID="66" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="62" GENDER="neutral" MENTION-ID="67" NUMBER="unknown" TYPE="name"> Staples Center </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="68" GENDER="neutral" MENTION-ID="68" NUMBER="singular" TYPE="description">
+					<STRING> the </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="63" GENDER="unknown" MENTION-ID="69" NUMBER="unknown" TYPE="name"> Los Angeles Kings </REFERENCE>
+					<STRING> hockey team </STRING>
+				</REFERENCE>
+				<STRING> and nearly 30 percent of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="69" GENDER="neutral" MENTION-ID="70" NUMBER="singular" TYPE="description"> the marquee basketball franchise </REFERENCE>
+				<STRING> Los Angeles Lakers </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="72" GENDER="neutral" MENTION-ID="71" NUMBER="singular" TYPE="description"> The company </REFERENCE>
+			<STRING> is spending more than $ 1 billion to construct </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="73" GENDER="unknown" MENTION-ID="72" NUMBER="plural">
+				<STRING> a convention center hotel and commercial project around </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="70" GENDER="unknown" MENTION-ID="73" NUMBER="singular" TYPE="name"> Staples </REFERENCE>
+			</REFERENCE>
+			<STRING> and $ 1 billion to build </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="74" GENDER="neutral" MENTION-ID="74" NUMBER="singular" TYPE="description"> an entertainment district </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="71" GENDER="unknown" MENTION-ID="75" NUMBER="singular" TYPE="name"> London </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="78" GENDER="neutral" MENTION-ID="76" NUMBER="unknown" TYPE="name">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.639759" GENDER="male" ID="14" MENTION-ID="77" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Anschutz's</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="name">Anschutz's</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="name">Anschutz'</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="other">The</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> Clarity Media Group </STRING>
+			</REFERENCE>
+			<STRING> owns </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="79" GENDER="unknown" MENTION-ID="78" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="80" GENDER="male" MENTION-ID="79" NUMBER="unknown" TYPE="name">
+					<STRING> the </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="76" GENDER="male" MENTION-ID="80" NUMBER="unknown" TYPE="name"> San Francisco Examiner </REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="76" GENDER="male" MENTION-ID="81" NUMBER="unknown" TYPE="name">
+					<STRING> the </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="76" GENDER="male" MENTION-ID="82" NUMBER="unknown" TYPE="name"> Washington Examiner </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> and will begin publishing </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="82" GENDER="male" MENTION-ID="83" NUMBER="unknown" TYPE="name">
+				<STRING> the Baltimore Examiner in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="83" GENDER="unknown" MENTION-ID="84" NUMBER="singular" TYPE="name"> April </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="7.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="72" GENDER="neutral" MENTION-ID="85" NUMBER="singular" TYPE="description"> The company </REFERENCE>
+			<STRING> owns </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="88" GENDER="unknown" MENTION-ID="86" NUMBER="plural" TYPE="description"> the rights </REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="89" GENDER="unknown" MENTION-ID="87" NUMBER="singular" TYPE="description">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="76" GENDER="male" MENTION-ID="88" NUMBER="unknown" TYPE="name"> Examiner </REFERENCE>
+				<STRING> name in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="90" GENDER="unknown" MENTION-ID="89" NUMBER="plural" TYPE="description">
+					<STRING> more than </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="85" GENDER="unknown" MENTION-ID="90" NUMBER="singular" TYPE="name"> 60 </REFERENCE>
+					<STRING> cities </STRING>
+				</REFERENCE>
+				<STRING>, including </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="14" GENDER="unknown" MENTION-ID="91" NUMBER="singular" TYPE="name"> Los Angeles </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="8">
+		<SENTENCE ID="8.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="91" GENDER="neutral" MENTION-ID="92" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.570651" GENDER="male" ID="15" MENTION-ID="93" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">His</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="name">Anschutz's</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="demonstrative">This</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="other">A</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="other">Regal Entertainment</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="other">Regal Entertainment</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="other">One</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Anschutz</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Anschutz's</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="name">Anschutz's</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="other">The</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> motion picture company </STRING>
+			</REFERENCE>
+			<STRING> made`` </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="93" GENDER="unknown" MENTION-ID="94" NUMBER="plural" TYPE="description">
+				<STRING> The Chronicles of </STRING>
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="94" GENDER="unknown" MENTION-ID="95" NUMBER="plural">
+					<STRING> Narnia: </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="95" GENDER="unknown" MENTION-ID="96" NUMBER="singular" TYPE="name"> The Lion </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="96" GENDER="unknown" MENTION-ID="97" NUMBER="plural">
+						<REFERENCE ANIMACY="animate" ENTITY-ID="97" GENDER="female" MENTION-ID="98" NUMBER="singular" TYPE="description"> the Witch </REFERENCE>
+						<STRING> and </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="98" GENDER="unknown" MENTION-ID="99" NUMBER="singular" TYPE="name"> the Wardrobe </REFERENCE>
+					</REFERENCE>
+					<STRING>,'' which has collected nearly $ 300 million in </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="99" GENDER="unknown" MENTION-ID="100" NUMBER="plural" TYPE="description"> U.S. box-office receipts </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="9">
+		<SENTENCE ID="9.1">
+			<STRING>`` </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="94" GENDER="unknown" MENTION-ID="101" NUMBER="singular" TYPE="name"> Narnia </REFERENCE>
+			<STRING>'' helped </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="101" GENDER="neutral" MENTION-ID="102" NUMBER="singular" TYPE="name"> Regal Entertainment </REFERENCE>
+			<STRING> recover from </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="102" GENDER="unknown" MENTION-ID="103" NUMBER="singular" TYPE="description"> a midyear box-office slump </REFERENCE>
+			<STRING> by boosting </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="103" GENDER="neutral" MENTION-ID="104" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="72" GENDER="neutral" MENTION-ID="105" NUMBER="singular" TYPE="description"> the company's </REFERENCE>
+				<STRING> fourth-quarter profit </STRING>
+			</REFERENCE>
+			<STRING> 43 percent. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="9.2">
+			<STRING> Through </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="108" GENDER="neutral" MENTION-ID="106" NUMBER="singular" TYPE="description">
+				<STRING> a series of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="109" GENDER="unknown" MENTION-ID="107" NUMBER="plural" TYPE="description"> acquisitions </REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.430677" GENDER="male" ID="16" MENTION-ID="108" NUMBER="singular" PARAGRAPH-POSITION="24" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Anschutz</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="other">Clarity Media Group</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="other">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">that</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Anschutz</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> built </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="110" GENDER="neutral" MENTION-ID="109" NUMBER="singular" TYPE="description">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="106" GENDER="neutral" MENTION-ID="110" NUMBER="singular" TYPE="name"> Knoxville </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="107" GENDER="male" MENTION-ID="111" NUMBER="singular" TYPE="name"> Tenn. </REFERENCE>
+				<STRING>, company </STRING>
+			</REFERENCE>
+			<STRING> into </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="111" GENDER="neutral" MENTION-ID="112" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="112" GENDER="neutral" MENTION-ID="113" NUMBER="singular" TYPE="description"> the nation's </REFERENCE>
+				<STRING> largest operator of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="113" GENDER="unknown" MENTION-ID="114" NUMBER="plural" TYPE="description"> movie theaters </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="10">
+		<SENTENCE ID="10.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="115" GENDER="unknown" MENTION-ID="115" NUMBER="singular" TYPE="description">
+				<STRING> The longtime </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="114" GENDER="neutral" MENTION-ID="116" NUMBER="singular" TYPE="name"> Denver </REFERENCE>
+				<STRING> resident </STRING>
+			</REFERENCE>
+			<STRING> fiercely guards </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="116" GENDER="neutral" MENTION-ID="117" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="male" ID="17" MENTION-ID="118" NUMBER="singular" PARAGRAPH-POSITION="7" RECENCY="0" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">his</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">its</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="pronoun">his</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> privacy </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="10.2">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.491468" GENDER="male" ID="18" MENTION-ID="119" NUMBER="singular" PARAGRAPH-POSITION="9" RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="other">and</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">and</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">The 66 year old</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">He</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> rarely </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="119" GENDER="unknown" MENTION-ID="120" NUMBER="plural" TYPE="description">
+				<STRING> grants </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="120" GENDER="unknown" MENTION-ID="121" NUMBER="plural" TYPE="description"> on-the-record media interviews </REFERENCE>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.429601" GENDER="male" ID="19" MENTION-ID="122" NUMBER="singular" PARAGRAPH-POSITION="16" RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="other">-*-</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="other">very</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">rarely</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="other">very</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="other">very</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> seldom allows </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.428048" GENDER="male" ID="20" MENTION-ID="123" NUMBER="singular" PARAGRAPH-POSITION="19" RECENCY="3" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">himself</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">himself</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">himself? / blank?</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">himself</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">himself</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">himself</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">himself</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">himself</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">himself</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">himself</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">himself</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">himself</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">himself</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">himself</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">himself</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">himself</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">self</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">himself</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> to be photographed. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="10.3">
+			<STRING> The last time </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.294599" GENDER="male" ID="21" MENTION-ID="124" NUMBER="singular" PARAGRAPH-POSITION="26" RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Anschutz</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> gave </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="123" GENDER="neutral" MENTION-ID="125" NUMBER="singular" TYPE="description"> a news conference </REFERENCE>
+			<STRING> was </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="124" GENDER="unknown" MENTION-ID="126" NUMBER="singular" TYPE="name"> more than a decade </REFERENCE>
+			<STRING> ago during </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="125" GENDER="neutral" MENTION-ID="127" NUMBER="singular" TYPE="description">
+				<STRING> a failed bid to build </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="126" GENDER="neutral" MENTION-ID="128" NUMBER="singular" TYPE="description"> a convention center </REFERENCE>
+				<STRING> in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="114" GENDER="neutral" MENTION-ID="129" NUMBER="singular" TYPE="name"> downtown Denver </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="11">
+		<SENTENCE ID="11.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.189281" GENDER="male" ID="22" MENTION-ID="130" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Mr. Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Philip Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Anchutz</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Mr  Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Mr. Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Anschutz</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> founded </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="130" GENDER="neutral" MENTION-ID="131" NUMBER="unknown" TYPE="name">
+				<STRING> Qwest on </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="131" GENDER="neutral" MENTION-ID="132" NUMBER="singular" TYPE="description">
+					<STRING> a plan to build </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="132" GENDER="neutral" MENTION-ID="133" NUMBER="singular" TYPE="description">
+						<STRING> a nationwide fiber optic network for </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="133" GENDER="unknown" MENTION-ID="134" NUMBER="plural" TYPE="description"> Internet communications </REFERENCE>
+					</REFERENCE>
+					<STRING> along </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="134" GENDER="unknown" MENTION-ID="135" NUMBER="plural" TYPE="description">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="135" GENDER="unknown" MENTION-ID="136" NUMBER="plural" TYPE="description">
+							<STRING> the </STRING>
+							<REFERENCE ANIMACY="inanimate" ENTITY-ID="128" GENDER="neutral" MENTION-ID="137" NUMBER="unknown" TYPE="name"> Southern Pacific Railroad </REFERENCE>
+							<STRING> lines </STRING>
+						</REFERENCE>
+						<STRING>, which </STRING>
+						<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="male" ID="23" MENTION-ID="138" NUMBER="singular" PARAGRAPH-POSITION="24" RECENCY="23" SYNCAT="np-subj">
+							<ORIGINAL-REFEX>
+								<REFEX TYPE="pronoun">he</REFEX>
+							</ORIGINAL-REFEX>
+							<PARTICIPANTS-REFEX>
+								<REFEX PARTICIPANT-ID="7" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="8" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="11" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="14" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="25" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="27" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="35" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="39" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="43" TYPE="other">was</REFEX>
+								<REFEX PARTICIPANT-ID="45" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="47" TYPE="other">was</REFEX>
+								<REFEX PARTICIPANT-ID="48" TYPE="other">was</REFEX>
+								<REFEX PARTICIPANT-ID="49" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="50" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="54" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="57" TYPE="other">was</REFEX>
+								<REFEX PARTICIPANT-ID="60" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="62" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="63" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="64" TYPE="pronoun">he</REFEX>
+								<REFEX PARTICIPANT-ID="66" TYPE="other">was</REFEX>
+								<REFEX PARTICIPANT-ID="67" TYPE="pronoun">he</REFEX>
+							</PARTICIPANTS-REFEX>
+						</TARGET-REFERENCE>
+						<STRING> acquired in </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="137" GENDER="unknown" MENTION-ID="139" NUMBER="singular" TYPE="name"> 1988 </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="11.2">
+			<STRING> But </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="138" GENDER="neutral" MENTION-ID="140" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="72" GENDER="neutral" MENTION-ID="141" NUMBER="singular" TYPE="description"> the company's </REFERENCE>
+				<STRING> stock </STRING>
+			</REFERENCE>
+			<STRING> crashed after </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="140" GENDER="neutral" MENTION-ID="142" NUMBER="singular" TYPE="description"> the number of fiber optic lines </REFERENCE>
+			<STRING> outpaced </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="141" GENDER="neutral" MENTION-ID="143" NUMBER="singular" TYPE="description"> customer demand </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="12">
+		<SENTENCE ID="12.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.451711" GENDER="male" ID="24" MENTION-ID="144" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Anschutz</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="description">The American entrepreneur</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Mr Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Anchutz</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Mr Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">Later he</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Anschutz</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> cashed in about $ 2 billion, or about 20 percent, of </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="144" GENDER="unknown" MENTION-ID="145" NUMBER="plural" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.275722" GENDER="male" ID="25" MENTION-ID="146" NUMBER="singular" PARAGRAPH-POSITION="12" RECENCY="11" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">his</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="other">personal</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="name">Anchutz</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="other">shares in</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="other">valuable</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> Qwest holdings </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="12.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="146" GENDER="neutral" MENTION-ID="147" NUMBER="unknown" TYPE="name"> The SEC </REFERENCE>
+			<STRING> investigated </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="147" GENDER="unknown" MENTION-ID="148" NUMBER="plural">
+				<STRING> the timing and circumstances of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="148" GENDER="unknown" MENTION-ID="149" NUMBER="plural" TYPE="description"> the 2001 stock sales </REFERENCE>
+			</REFERENCE>
+			<STRING> but found </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="149" GENDER="unknown" MENTION-ID="150" NUMBER="singular" TYPE="description"> no wrongdoing </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="12.3">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="151" GENDER="unknown" MENTION-ID="151" NUMBER="singular" TYPE="name">
+				<STRING> Seven </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="152" GENDER="unknown" MENTION-ID="152" NUMBER="plural" TYPE="description">
+					<STRING> former </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="27" GENDER="neutral" MENTION-ID="153" NUMBER="unknown" TYPE="name"> Qwest </REFERENCE>
+					<STRING> executives </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> have been charged since </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="153" GENDER="unknown" MENTION-ID="154" NUMBER="singular" TYPE="name"> 2003 </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="154" GENDER="neutral" MENTION-ID="155" NUMBER="singular" TYPE="description"> a federal probe </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="13">
+		<SENTENCE ID="13.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.426833" GENDER="male" ID="26" MENTION-ID="156" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Anschutz</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">They</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">Later he</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">Later he</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">Soon after he</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Anschutz</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> joined </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="159" GENDER="neutral" MENTION-ID="157" NUMBER="singular" TYPE="description">
+				<STRING> the board of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="160" GENDER="neutral" MENTION-ID="158" NUMBER="unknown" TYPE="name">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="161" GENDER="neutral" MENTION-ID="159" NUMBER="unknown" TYPE="name">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="156" GENDER="neutral" MENTION-ID="160" NUMBER="singular" TYPE="name"> Omaha </REFERENCE>
+						<STRING>, Neb.-based </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="161" NUMBER="unknown" TYPE="name"> Union Pacific </REFERENCE>
+					</REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="162" NUMBER="singular" TYPE="description">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="112" GENDER="neutral" MENTION-ID="163" NUMBER="singular" TYPE="description"> the nation's </REFERENCE>
+						<STRING> largest railroad </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="164" GENDER="unknown" MENTION-ID="164" NUMBER="singular" TYPE="name"> 1996 </REFERENCE>
+			<STRING>, when </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="159" GENDER="neutral" MENTION-ID="165" NUMBER="singular" TYPE="pronoun"> it </REFERENCE>
+			<STRING> bought </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="130" GENDER="neutral" MENTION-ID="166" NUMBER="unknown" TYPE="name"> Southern Pacific </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="14">
+		<SENTENCE ID="14.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.333011" GENDER="male" ID="27" MENTION-ID="167" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Phillip Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Mr. Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Mr Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Philip Frederick Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Mr. Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Mr Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Philip</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Philip Frederick Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Mr. Anschutz</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Anschutz</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>`` was </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="169" GENDER="unknown" MENTION-ID="168" NUMBER="unknown" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="170" GENDER="unknown" MENTION-ID="169" NUMBER="unknown" TYPE="description"> an active </REFERENCE>
+				<STRING>, engaged </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="171" GENDER="male" MENTION-ID="170" NUMBER="singular" TYPE="description">
+					<STRING> director whom </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="172" GENDER="unknown" MENTION-ID="171" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+					<STRING> valued deeply as </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="173" GENDER="neutral" MENTION-ID="172" NUMBER="singular" TYPE="description"> a sounding board for advice </REFERENCE>
+				</REFERENCE>
+				<STRING> on </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="174" GENDER="unknown" MENTION-ID="173" NUMBER="unknown" TYPE="description">
+					<STRING> many of </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="175" GENDER="unknown" MENTION-ID="174" NUMBER="plural" TYPE="description">
+						<STRING> the issues </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="175" NUMBER="unknown" TYPE="name"> Union Pacific </REFERENCE>
+						<STRING> has faced over </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="42" GENDER="unknown" MENTION-ID="176" NUMBER="singular" TYPE="name"> the years </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>,'' </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="172" GENDER="male" MENTION-ID="177" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="178" NUMBER="unknown" TYPE="name"> Union Pacific </REFERENCE>
+				<STRING> Chairman Dick Davidson </STRING>
+			</REFERENCE>
+			<STRING> said in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="44" GENDER="unknown" MENTION-ID="179" NUMBER="singular" TYPE="description"> a statement </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="14.2">
+			<STRING>`` </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="152" GENDER="unknown" MENTION-ID="180" NUMBER="plural" TYPE="pronoun"> We </REFERENCE>
+			<STRING> will miss </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="180" GENDER="unknown" MENTION-ID="181" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="181" GENDER="neutral" MENTION-ID="182" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="183" NUMBER="singular" TYPE="pronoun"> his </REFERENCE>
+					<STRING> insight </STRING>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="183" GENDER="unknown" MENTION-ID="184" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="185" NUMBER="singular" TYPE="pronoun"> his </REFERENCE>
+					<STRING> enthusiasm </STRING>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="185" GENDER="neutral" MENTION-ID="186" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="187" NUMBER="singular" TYPE="pronoun"> his </REFERENCE>
+					<STRING> judgment </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>.'' </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

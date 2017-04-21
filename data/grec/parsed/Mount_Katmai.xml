@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="452">
+	<TITLE>Mount Katmai</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Katmai</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a large stratovolcano on the Alaska Peninsula in southern Alaska, located within Katmai National Park and Preserve. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is about 6 miles (10 km) in diameter with a central lake-filled caldera about 3 by 2 mi (4.5 by 3 km) in area. The caldera rim reaches a maximum elevation of 6,716 feet (2,047 m). In 1975 the surface of the crater lake was at an elevation of about 4,220 feet (1,286 m), and the estimated elevation of the caldera floor is about 3400 ft (1,040 m).</STRING>
+	</PARAGRAPH>
+</TEXT>

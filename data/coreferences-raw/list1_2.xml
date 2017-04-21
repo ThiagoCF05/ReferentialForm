@@ -1,0 +1,261 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="ANIMATE" entity="4" gender="MALE" mentionid="4" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="5" mentiontype="PROPER" number="SINGULAR">
+				<STRING> Former Rep. </STRING>
+				<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="1" mentiontype="PROPER" number="SINGULAR"> Randy Cunningham </REFERENCE>
+			</REFERENCE>
+			<STRING>, who resigned </STRING>
+			<REFERENCE animacy="INANIMATE" entity="6" gender="NEUTRAL" mentionid="6" mentiontype="PROPER" number="SINGULAR"> last November </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="7" gender="UNKNOWN" mentionid="7" mentiontype="NOMINAL" number="SINGULAR"> a corruption scandal </REFERENCE>
+		</REFERENCE>
+		<STRING>, inserted </STRING>
+		<REFERENCE animacy="INANIMATE" entity="8" gender="UNKNOWN" mentionid="8" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> projects into </STRING>
+			<REFERENCE animacy="INANIMATE" entity="9" gender="UNKNOWN" mentionid="9" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> appropriations bills that benefited </STRING>
+				<REFERENCE animacy="ANIMATE" entity="10" gender="UNKNOWN" mentionid="10" mentiontype="NOMINAL" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="2" gender="UNKNOWN" mentionid="2" mentiontype="PROPER" number="SINGULAR"> two </REFERENCE>
+					<STRING> businessmen who were bribing </STRING>
+					<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="11" mentiontype="PRONOMINAL" number="SINGULAR"> him </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, then-`` bullied'' </STRING>
+		<REFERENCE animacy="ANIMATE" entity="12" gender="UNKNOWN" mentionid="12" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="3" mentiontype="PROPER" number="UNKNOWN"> Pentagon </REFERENCE>
+			<STRING> officials </STRING>
+		</REFERENCE>
+		<STRING> into awarding </STRING>
+		<REFERENCE animacy="ANIMATE" entity="13" gender="UNKNOWN" mentionid="13" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="14" gender="UNKNOWN" mentionid="14" mentiontype="NOMINAL" number="PLURAL"> the men's </REFERENCE>
+			<STRING> companies </STRING>
+		</REFERENCE>
+		<STRING> inflated </STRING>
+		<REFERENCE animacy="INANIMATE" entity="15" gender="UNKNOWN" mentionid="15" mentiontype="NOMINAL" number="PLURAL"> contracts </REFERENCE>
+		<STRING>, according to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="16" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> prosecution documents released on </STRING>
+			<REFERENCE animacy="INANIMATE" entity="17" gender="UNKNOWN" mentionid="17" mentiontype="PROPER" number="SINGULAR"> Tuesday </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="20" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="18" mentiontype="PROPER" number="SINGULAR"> Cunningham </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="19" gender="MALE" mentionid="19" mentiontype="PROPER" number="SINGULAR"> R-Calif. </REFERENCE>
+		</REFERENCE>
+		<STRING>, pleaded guilty </STRING>
+		<REFERENCE animacy="INANIMATE" entity="6" gender="NEUTRAL" mentionid="21" mentiontype="PROPER" number="SINGULAR"> last November </REFERENCE>
+		<STRING> to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="22" mentiontype="LIST" number="PLURAL"> bribery and tax evasion </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<STRING> But </STRING>
+		<REFERENCE animacy="INANIMATE" entity="26" gender="UNKNOWN" mentionid="26" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="27" mentiontype="NOMINAL" number="PLURAL"> the prosecution documents </REFERENCE>
+			<STRING>, which were drafted to help guide sentencing </STRING>
+			<REFERENCE animacy="INANIMATE" entity="29" gender="UNKNOWN" mentionid="29" mentiontype="PROPER" number="SINGULAR"> later this month </REFERENCE>
+		</REFERENCE>
+		<STRING>, provide </STRING>
+		<REFERENCE animacy="INANIMATE" entity="30" gender="UNKNOWN" mentionid="30" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> many new details about </STRING>
+			<REFERENCE animacy="INANIMATE" entity="31" gender="UNKNOWN" mentionid="31" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="32" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+				<STRING> activities </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="33" gender="UNKNOWN" mentionid="33" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> behalf of </STRING>
+			<REFERENCE animacy="ANIMATE" entity="34" gender="UNKNOWN" mentionid="34" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="10" gender="UNKNOWN" mentionid="35" mentiontype="NOMINAL" number="PLURAL"> the businessmen </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="23" gender="MALE" mentionid="23" mentiontype="PROPER" number="SINGULAR"> Mitchell Wade </REFERENCE>
+				<STRING>, who pleaded </STRING>
+				<REFERENCE animacy="INANIMATE" entity="36" gender="UNKNOWN" mentionid="36" mentiontype="PROPER" number="SINGULAR"> guilty last month </REFERENCE>
+				<STRING> to bribing </STRING>
+				<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="24" mentiontype="PROPER" number="SINGULAR"> Cunningham </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, and </STRING>
+		<REFERENCE animacy="ANIMATE" entity="37" gender="MALE" mentionid="37" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="25" gender="MALE" mentionid="25" mentiontype="PROPER" number="SINGULAR"> Brent Wilkes </REFERENCE>
+			<STRING>, who </STRING>
+			<REFERENCE animacy="ANIMATE" entity="38" gender="UNKNOWN" mentionid="38" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> lawyers in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="39" gender="NEUTRAL" mentionid="39" mentiontype="NOMINAL" number="SINGULAR"> the case </REFERENCE>
+			</REFERENCE>
+			<STRING> have said also </STRING>
+		</REFERENCE>
+		<STRING> participated. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<STRING>`` </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="40" mentiontype="PROPER" number="SINGULAR"> Cunningham </REFERENCE>
+		<STRING> bullied and hectored </STRING>
+		<REFERENCE animacy="ANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="41" gender="NEUTRAL" mentionid="41" mentiontype="PROPER" number="UNKNOWN"> DOD </REFERENCE>
+			<STRING> officials </STRING>
+		</REFERENCE>
+		<STRING> in order to ensure that </STRING>
+		<REFERENCE animacy="ANIMATE" entity="43" gender="UNKNOWN" mentionid="43" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="44" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+			<STRING> co-conspirators </STRING>
+		</REFERENCE>
+		<STRING> received </STRING>
+		<REFERENCE animacy="INANIMATE" entity="45" gender="UNKNOWN" mentionid="45" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="43" gender="UNKNOWN" mentionid="46" mentiontype="PRONOMINAL" number="PLURAL"> their </REFERENCE>
+			<STRING> pound of gold </STRING>
+		</REFERENCE>
+		<STRING>,'' </STRING>
+		<REFERENCE animacy="ANIMATE" entity="47" gender="UNKNOWN" mentionid="47" mentiontype="NOMINAL" number="PLURAL"> federal prosecutors </REFERENCE>
+		<STRING> said in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="48" mentiontype="NOMINAL" number="PLURAL"> the documents </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<STRING>`` Shamefully, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="49" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING> did </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="50" gender="NEUTRAL" mentionid="50" mentiontype="NOMINAL" number="UNKNOWN"> this </REFERENCE>
+		<STRING> knowing that </STRING>
+		<REFERENCE animacy="ANIMATE" entity="51" gender="UNKNOWN" mentionid="51" mentiontype="NOMINAL" number="PLURAL"> the contractors </REFERENCE>
+		<STRING> would extract </STRING>
+		<REFERENCE animacy="INANIMATE" entity="52" gender="UNKNOWN" mentionid="52" mentiontype="NOMINAL" number="PLURAL"> such exorbitant profits </REFERENCE>
+		<STRING> from </STRING>
+		<REFERENCE animacy="ANIMATE" entity="53" gender="UNKNOWN" mentionid="53" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="54" gender="NEUTRAL" mentionid="54" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="10" gender="UNKNOWN" mentionid="55" mentiontype="PRONOMINAL" number="PLURAL"> our </REFERENCE>
+				<STRING> nation's </STRING>
+			</REFERENCE>
+			<STRING> taxpayers </STRING>
+		</REFERENCE>
+		<STRING> that </STRING>
+		<REFERENCE animacy="ANIMATE" entity="51" gender="UNKNOWN" mentionid="56" mentiontype="PRONOMINAL" number="PLURAL"> they </REFERENCE>
+		<STRING> would happily continue to ply </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="57" mentiontype="PRONOMINAL" number="SINGULAR"> him </REFERENCE>
+		<STRING> with millions of dollars in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="58" gender="UNKNOWN" mentionid="58" mentiontype="LIST" number="PLURAL"> illegal payments and benefits </REFERENCE>
+		<STRING>.'' </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="ANIMATE" entity="59" gender="MALE" mentionid="59" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="60" gender="MALE" mentionid="60" mentiontype="NOMINAL" number="SINGULAR"> The former congressman's </REFERENCE>
+			<STRING> attorney </STRING>
+		</REFERENCE>
+		<STRING> could not be reached on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="61" gender="UNKNOWN" mentionid="61" mentiontype="PROPER" number="SINGULAR"> Tuesday for comment </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<STRING> Quoting </STRING>
+		<REFERENCE animacy="INANIMATE" entity="65" gender="UNKNOWN" mentionid="65" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="66" gender="UNKNOWN" mentionid="66" mentiontype="NOMINAL" number="PLURAL"> e-mail messages </REFERENCE>
+			<STRING>, grand jury testimony and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="67" gender="UNKNOWN" mentionid="67" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="62" mentiontype="PROPER" number="SINGULAR"> Cunningham's </REFERENCE>
+				<STRING> correspondence </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> with </STRING>
+		<REFERENCE animacy="ANIMATE" entity="68" gender="UNKNOWN" mentionid="68" mentiontype="NOMINAL" number="PLURAL"> lawmakers </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="26" gender="UNKNOWN" mentionid="69" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="70" gender="NEUTRAL" mentionid="70" mentiontype="NOMINAL" number="SINGULAR"> the prosecution's </REFERENCE>
+			<STRING> documents </STRING>
+		</REFERENCE>
+		<STRING> describe how </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="71" mentiontype="PRONOMINAL" number="SINGULAR"> the he </REFERENCE>
+		<STRING> made securing funds in annual appropriations bills </STRING>
+		<REFERENCE animacy="INANIMATE" entity="74" gender="NEUTRAL" mentionid="74" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="75" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+			<STRING> priority for </STRING>
+			<REFERENCE animacy="ANIMATE" entity="76" gender="UNKNOWN" mentionid="76" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> companies owned by </STRING>
+				<REFERENCE animacy="ANIMATE" entity="77" gender="UNKNOWN" mentionid="77" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="ANIMATE" entity="23" gender="MALE" mentionid="63" mentiontype="PROPER" number="SINGULAR"> Wade </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE animacy="ANIMATE" entity="25" gender="MALE" mentionid="64" mentiontype="PROPER" number="SINGULAR"> Wilkes </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<STRING>`` </STRING>
+		<REFERENCE animacy="ANIMATE" entity="80" gender="UNKNOWN" mentionid="80" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="78" mentiontype="PROPER" number="SINGULAR"> Cunningham's </REFERENCE>
+			<STRING> co-conspirators </STRING>
+		</REFERENCE>
+		<STRING> not only told Cunningham </STRING>
+		<REFERENCE animacy="INANIMATE" entity="81" gender="UNKNOWN" mentionid="81" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> the programs for which </STRING>
+			<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="82" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+			<STRING> should request funding </STRING>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="80" gender="UNKNOWN" mentionid="83" mentiontype="PRONOMINAL" number="PLURAL"> they </REFERENCE>
+		<STRING> wrote </STRING>
+		<REFERENCE animacy="INANIMATE" entity="84" gender="UNKNOWN" mentionid="84" mentiontype="NOMINAL" number="PLURAL"> the actual requests </REFERENCE>
+		<STRING> for </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="85" mentiontype="PRONOMINAL" number="SINGULAR"> him </REFERENCE>
+		<STRING>,'' </STRING>
+		<REFERENCE animacy="INANIMATE" entity="26" gender="UNKNOWN" mentionid="86" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="70" gender="NEUTRAL" mentionid="87" mentiontype="NOMINAL" number="SINGULAR"> the prosecution's </REFERENCE>
+			<STRING> documents </STRING>
+		</REFERENCE>
+		<STRING> said. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<REFERENCE animacy="INANIMATE" entity="90" gender="UNKNOWN" mentionid="90" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> A 2002 e-mail message from </STRING>
+			<REFERENCE animacy="ANIMATE" entity="91" gender="MALE" mentionid="91" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a </STRING>
+				<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="88" mentiontype="PROPER" number="SINGULAR"> Cunningham </REFERENCE>
+				<STRING> staff member </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> to </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="92" gender="UNKNOWN" mentionid="92" mentiontype="NOMINAL" number="UNKNOWN">
+			<STRING> another said </STRING>
+			<REFERENCE animacy="ANIMATE" entity="93" gender="MALE" mentionid="93" mentiontype="PROPER" number="SINGULAR">
+				<STRING> Cunningham`` stormed into </STRING>
+				<REFERENCE animacy="INANIMATE" entity="94" gender="NEUTRAL" mentionid="94" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="95" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+					<STRING> office </STRING>
+				</REFERENCE>
+				<STRING>'' after learning </STRING>
+				<REFERENCE animacy="INANIMATE" entity="84" gender="UNKNOWN" mentionid="96" mentiontype="NOMINAL" number="PLURAL">
+					<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="97" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+					<STRING> requests </STRING>
+				</REFERENCE>
+				<STRING> to </STRING>
+				<REFERENCE animacy="INANIMATE" entity="98" gender="NEUTRAL" mentionid="98" mentiontype="PROPER" number="UNKNOWN"> the Appropriations Committee for financing </REFERENCE>
+			</REFERENCE>
+			<STRING> had been reduced </STRING>
+		</REFERENCE>
+		<STRING> and- said </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="99" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING>`` wants to take $ 1 million from </STRING>
+		<REFERENCE animacy="INANIMATE" entity="100" gender="NEUTRAL" mentionid="100" mentiontype="NOMINAL" number="SINGULAR"> some other big ticket item </REFERENCE>
+		<STRING> and put </STRING>
+		<REFERENCE animacy="INANIMATE" entity="100" gender="NEUTRAL" mentionid="101" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> back'' in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="102" gender="NEUTRAL" mentionid="102" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="23" gender="MALE" mentionid="89" mentiontype="PROPER" number="SINGULAR"> Wade's </REFERENCE>
+			<STRING> preferred program </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<REFERENCE animacy="INANIMATE" entity="103" gender="NEUTRAL" mentionid="103" mentiontype="NOMINAL" number="SINGULAR"> The change </REFERENCE>
+		<STRING> was later made, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="47" gender="UNKNOWN" mentionid="104" mentiontype="NOMINAL" number="PLURAL"> prosecutors </REFERENCE>
+		<STRING> said. </STRING>
+	</SENTENCE>
+</TEXT>

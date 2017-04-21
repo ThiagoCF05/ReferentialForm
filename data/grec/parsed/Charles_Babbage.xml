@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1470">
+	<TITLE>Charles Babbage</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Charles Babbage</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (26 December 1791 - 18 October 1871) was an English mathematician, analytical philosopher, mechanical engineer and (proto-) computer scientist </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> originated the idea of a programmable computer. Parts of </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> uncompleted mechanisms are on display in the London Science Museum. In 1991, working from </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Babbage's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> original plans, a difference engine was completed, and functioned perfectly. It was built to tolerances achievable in the 19th century, indicating that </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Babbage's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> machine would have worked. Nine years later, the Science Museum completed the printer </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Babbage</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> had designed for the difference engine; it featured astonishing complexity for a 19th century device.</STRING>
+	</PARAGRAPH>
+</TEXT>

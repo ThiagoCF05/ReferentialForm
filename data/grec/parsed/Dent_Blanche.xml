@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TEXT ID="117">
+	<TITLE>Dent Blanche</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Dent Blanche</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain in the Swiss Alps, west of Zermatt and north of the Matterhorn. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is at the head of the Val d'Hérens.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first climbed on July 18 1862 by T. S. Kennedy, W. Wigram, J. Croz and J. Konig via the south ridge (Wandfluegrat). The first winter ascent by the north ridge was completed by P. Crettaz and J. Gaudin on March 2, 1963.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">This mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> should not be confused with Dents Blanches (2,728m) located on the France-Switzerland border.</STRING>
+	</PARAGRAPH>
+</TEXT>

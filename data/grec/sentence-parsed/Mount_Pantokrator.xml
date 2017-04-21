@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TEXT ID="510">
+	<TITLE>Mount Pantokrator</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Pantokrator</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (sometimes Pantocrator, Pantōkrator, � αντοκράτωρ in Greek) is a mountain located in north-eastern Corfu.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>At 906m (2,972ft)  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain on the island.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>At the summit the whole of Corfu can be seen, as well as Albania which lies a short distance from the island.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>On particularly clear days it is also possible to see Italy despite it being around 130km (80 miles) away.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>To reach the peak there is a narrow road with a number of hairpin bends, at the top there is a café for tourists, a telecommunications station, whose largest tower stands directly over a well , and a monastery.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>The first monastery on the site was Angevin, built in 1347 but then destroyed sometime around 1537.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>The current church on the site dates from around 1689, and the current facade was built during the 19th century.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.8">
+			<STRING>It is dedicated to the transfiguration of Christ. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TEXT ID="1156">
+	<TITLE>Rotterdam</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING>Rotterdam, see Rotterdam (disambiguation) </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rotterdam</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (pronunciation) is in terms of population the second largest municipality in the Netherlands (after Amsterdam, the country's capital) and the largest city in the province of Zuid-Holland (South Holland), the country's most populous province.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="35" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has the largest port in Europe and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="44" PARAGRAPH-RECENCY="8" SEMCAT="city" SENTENCE-POSITION="9" SENTENCE-RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was until recently the world's busiest port;  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="52" PARAGRAPH-RECENCY="8" SEMCAT="city" SENTENCE-POSITION="17" SENTENCE-RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is found on the banks of the river Nieuwe Maas (i.e.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>&quot;New Meuse&quot;), one of the streams in the delta formed by the Rhine and Meuse rivers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The name &quot;Rotterdam&quot; derives from  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="85" PARAGRAPH-RECENCY="33" SEMCAT="city" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the city's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> origin at a dam in a small river, the Rotte, which from the north joins the Nieuwe Maas at the heart of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="108" PARAGRAPH-RECENCY="23" SEMCAT="city" SENTENCE-POSITION="29" SENTENCE-RECENCY="23" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

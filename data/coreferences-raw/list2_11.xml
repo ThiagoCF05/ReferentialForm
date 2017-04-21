@@ -1,0 +1,237 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="FEMALE" mentionid="1" mentiontype="PROPER" number="SINGULAR"> Nicole Kidman </REFERENCE>
+		<STRING> gave George Clooney </STRING>
+		<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="3" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a hard time when </STRING>
+			<REFERENCE animacy="ANIMATE" entity="4" gender="UNKNOWN" mentionid="4" mentiontype="PRONOMINAL" number="PLURAL"> they </REFERENCE>
+			<STRING> teamed to prevent nuclear terrorism in </STRING>
+			<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="5" mentiontype="PROPER" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="6" gender="NEUTRAL" mentionid="6" mentiontype="NOMINAL" number="SINGULAR"> the 1997 action thriller </REFERENCE>
+				<STRING>`` The Peacekeeper </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>.'' </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<STRING> But on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="10" gender="UNKNOWN" mentionid="10" mentiontype="PROPER" number="SINGULAR"> Sunday </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="FEMALE" mentionid="7" mentiontype="PROPER" number="SINGULAR"> Kidman </REFERENCE>
+		<STRING> gave Clooney </STRING>
+		<REFERENCE animacy="INANIMATE" entity="11" gender="MALE" mentionid="11" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="12" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+			<STRING> first Oscar </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="ANIMATE" entity="17" gender="MALE" mentionid="17" mentiontype="NOMINAL" number="SINGULAR"> The actor </REFERENCE>
+		<STRING> formerly known as </STRING>
+		<REFERENCE animacy="ANIMATE" entity="13" gender="MALE" mentionid="13" mentiontype="PROPER" number="SINGULAR"> Batman </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="14" gender="MALE" mentionid="14" mentiontype="PROPER" number="SINGULAR"> Brad Pitt's </REFERENCE>
+		<STRING>`` Ocean's </STRING>
+		<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="LIST" number="PLURAL">
+			<STRING> Eleven'' </STRING>
+			<REFERENCE animacy="ANIMATE" entity="21" gender="UNKNOWN" mentionid="21" mentiontype="LIST" number="PLURAL">
+				<STRING> boss and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="22" mentiontype="PROPER" number="UNKNOWN">
+					<STRING> People </STRING>
+					<REFERENCE animacy="ANIMATE" entity="23" gender="MALE" mentionid="23" mentiontype="PROPER" number="SINGULAR"> magazine's Sexiest Man </REFERENCE>
+					<STRING> Alive </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> received </STRING>
+			<REFERENCE animacy="INANIMATE" entity="24" gender="UNKNOWN" mentionid="24" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="23" gender="MALE" mentionid="25" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+				<STRING> award </STRING>
+			</REFERENCE>
+			<STRING> as </STRING>
+			<REFERENCE animacy="INANIMATE" entity="26" gender="UNKNOWN" mentionid="26" mentiontype="NOMINAL" number="UNKNOWN">
+				<STRING> best supporting </STRING>
+				<REFERENCE animacy="ANIMATE" entity="27" gender="MALE" mentionid="27" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> actor in </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="28" gender="UNKNOWN" mentionid="28" mentiontype="PROPER" number="SINGULAR"> the dark drama`` Syriana'' </REFERENCE>
+				</REFERENCE>
+				<STRING> from </STRING>
+				<REFERENCE animacy="ANIMATE" entity="29" gender="UNKNOWN" mentionid="29" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="ANIMATE" entity="23" gender="MALE" mentionid="30" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+					<STRING> former costar -LRB- and </STRING>
+					<REFERENCE animacy="ANIMATE" entity="31" gender="MALE" mentionid="31" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> a previous Oscar winner </STRING>
+						<REFERENCE animacy="ANIMATE" entity="28" gender="FEMALE" mentionid="32" mentiontype="PRONOMINAL" number="SINGULAR"> herself </REFERENCE>
+					</REFERENCE>
+					<STRING> -RRB- </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<REFERENCE animacy="ANIMATE" entity="21" gender="UNKNOWN" mentionid="33" mentiontype="PRONOMINAL" number="PLURAL"> They </REFERENCE>
+		<STRING> shared </STRING>
+		<REFERENCE animacy="INANIMATE" entity="34" gender="UNKNOWN" mentionid="34" mentiontype="NOMINAL" number="UNKNOWN"> a brief </REFERENCE>
+		<STRING> whispered aside when </STRING>
+		<REFERENCE animacy="ANIMATE" entity="17" gender="MALE" mentionid="35" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING> greeted </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="36" gender="UNKNOWN" mentionid="36" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="28" gender="FEMALE" mentionid="37" mentiontype="PRONOMINAL" number="SINGULAR"> her </REFERENCE>
+			<STRING> onstage to accept </STRING>
+			<REFERENCE animacy="INANIMATE" entity="11" gender="MALE" mentionid="38" mentiontype="PROPER" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="17" gender="MALE" mentionid="39" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+				<STRING> Oscar </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<REFERENCE animacy="INANIMATE" entity="43" gender="UNKNOWN" mentionid="43" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> The award marked </STRING>
+			<REFERENCE animacy="INANIMATE" entity="44" gender="UNKNOWN" mentionid="44" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> at least </STRING>
+				<REFERENCE animacy="INANIMATE" entity="40" gender="UNKNOWN" mentionid="40" mentiontype="PROPER" number="SINGULAR"> one </REFERENCE>
+				<STRING> victory for </STRING>
+				<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="41" mentiontype="PROPER" number="SINGULAR"> Clooney </REFERENCE>
+				<STRING>, who was </STRING>
+				<REFERENCE animacy="ANIMATE" entity="45" gender="MALE" mentionid="45" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the poster boy for </STRING>
+					<REFERENCE animacy="INANIMATE" entity="46" gender="UNKNOWN" mentionid="46" mentiontype="PROPER" number="SINGULAR">
+						<REFERENCE animacy="INANIMATE" entity="47" gender="UNKNOWN" mentionid="47" mentiontype="PROPER" number="SINGULAR"> this year's </REFERENCE>
+						<STRING> Oscars </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING> with </STRING>
+				<REFERENCE animacy="INANIMATE" entity="48" gender="UNKNOWN" mentionid="48" mentiontype="NOMINAL" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="PROPER" number="SINGULAR"> two </REFERENCE>
+					<STRING> other nominations </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> as well-- </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="49" gender="UNKNOWN" mentionid="49" mentiontype="NOMINAL" number="UNKNOWN">
+				<STRING> both for </STRING>
+				<REFERENCE animacy="INANIMATE" entity="50" gender="UNKNOWN" mentionid="50" mentiontype="LIST" number="PLURAL">
+					<STRING>`` </STRING>
+					<REFERENCE animacy="INANIMATE" entity="51" gender="UNKNOWN" mentionid="51" mentiontype="LIST" number="PLURAL">
+						<REFERENCE animacy="INANIMATE" entity="52" gender="UNKNOWN" mentionid="52" mentiontype="NOMINAL" number="SINGULAR"> Good Night </REFERENCE>
+						<STRING>, and </STRING>
+						<REFERENCE animacy="INANIMATE" entity="53" gender="UNKNOWN" mentionid="53" mentiontype="PROPER" number="SINGULAR"> Good Luck </REFERENCE>
+					</REFERENCE>
+					<STRING>,'' as director and for original screenplay -LRB- </STRING>
+					<REFERENCE animacy="ANIMATE" entity="54" gender="MALE" mentionid="54" mentiontype="PROPER" number="SINGULAR"> along with Grant Heslov </REFERENCE>
+					<STRING> -RRB- </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</REFERENCE>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<STRING> But </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="55" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING> perhaps displayed </STRING>
+		<REFERENCE animacy="INANIMATE" entity="56" gender="NEUTRAL" mentionid="56" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a sly knowledge of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="57" gender="UNKNOWN" mentionid="57" mentiontype="NOMINAL" number="PLURAL"> alleged Oscar politics </REFERENCE>
+		</REFERENCE>
+		<STRING> when </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="58" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING> quipped,`` Wow. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<STRING> All right, so </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="59" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> 'm not winning for </STRING>
+		<REFERENCE animacy="ANIMATE" entity="60" gender="MALE" mentionid="60" mentiontype="NOMINAL" number="SINGULAR"> best director </REFERENCE>
+		<STRING>.'' </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<STRING> In taking home </STRING>
+		<REFERENCE animacy="INANIMATE" entity="11" gender="MALE" mentionid="62" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="63" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+			<STRING> Oscar </STRING>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="61" mentiontype="PROPER" number="SINGULAR"> Clooney </REFERENCE>
+		<STRING> joins </STRING>
+		<REFERENCE animacy="ANIMATE" entity="64" gender="MALE" mentionid="64" mentiontype="PROPER" number="SINGULAR">
+			<STRING> Robert De Niro as </STRING>
+			<REFERENCE animacy="ANIMATE" entity="65" gender="MALE" mentionid="65" mentiontype="NOMINAL" number="SINGULAR"> another glamour boy </REFERENCE>
+			<STRING> who won </STRING>
+			<REFERENCE animacy="INANIMATE" entity="66" gender="UNKNOWN" mentionid="66" mentiontype="PROPER" number="SINGULAR"> an Academy Award </REFERENCE>
+			<STRING> by putting on weight </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<REFERENCE animacy="ANIMATE" entity="64" gender="MALE" mentionid="67" mentiontype="PROPER" number="SINGULAR"> De Niro </REFERENCE>
+		<STRING> was almost unrecognizable after gaining </STRING>
+		<REFERENCE animacy="ANIMATE" entity="69" gender="UNKNOWN" mentionid="69" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> dozens of pounds for </STRING>
+			<REFERENCE animacy="INANIMATE" entity="70" gender="UNKNOWN" mentionid="70" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="64" gender="MALE" mentionid="71" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+				<STRING> turn </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> as </STRING>
+		<REFERENCE animacy="ANIMATE" entity="72" gender="NEUTRAL" mentionid="72" mentiontype="PROPER" number="SINGULAR">
+			<STRING> boxer Jake La Motta in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="73" gender="UNKNOWN" mentionid="73" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="74" gender="UNKNOWN" mentionid="74" mentiontype="PROPER" number="SINGULAR"> 1980's </REFERENCE>
+				<STRING>`` Raging Bull,'' which scored him </STRING>
+				<REFERENCE animacy="ANIMATE" entity="76" gender="MALE" mentionid="76" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> a best actor </STRING>
+					<REFERENCE animacy="ANIMATE" entity="11" gender="MALE" mentionid="68" mentiontype="PROPER" number="SINGULAR"> Oscar </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="77" mentiontype="PROPER" number="SINGULAR"> Clooney </REFERENCE>
+		<STRING> gained 35 pounds for </STRING>
+		<REFERENCE animacy="INANIMATE" entity="79" gender="UNKNOWN" mentionid="79" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="80" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+			<STRING> role </STRING>
+		</REFERENCE>
+		<STRING> as </STRING>
+		<REFERENCE animacy="ANIMATE" entity="81" gender="MALE" mentionid="81" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a troubled former </STRING>
+			<REFERENCE animacy="INANIMATE" entity="78" gender="NEUTRAL" mentionid="78" mentiontype="PROPER" number="UNKNOWN"> CIA </REFERENCE>
+			<STRING> agent in </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="28" gender="UNKNOWN" mentionid="82" mentiontype="PROPER" number="SINGULAR">
+				<STRING>`` </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="28" gender="UNKNOWN" mentionid="83" mentiontype="PROPER" number="SINGULAR"> Syriana </REFERENCE>
+				<STRING>,'' casting </STRING>
+				<REFERENCE animacy="INANIMATE" entity="84" gender="UNKNOWN" mentionid="84" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="85" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+					<STRING> pretty boy persona </STRING>
+				</REFERENCE>
+				<STRING> to </STRING>
+				<REFERENCE animacy="INANIMATE" entity="86" gender="NEUTRAL" mentionid="86" mentiontype="NOMINAL" number="SINGULAR"> the wind </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<STRING> Asked backstage if </STRING>
+		<REFERENCE animacy="INANIMATE" entity="88" gender="NEUTRAL" mentionid="88" mentiontype="NOMINAL" number="SINGULAR"> the weight gain </REFERENCE>
+		<STRING> had any influence on </STRING>
+		<REFERENCE animacy="ANIMATE" entity="89" gender="UNKNOWN" mentionid="89" mentiontype="NOMINAL" number="PLURAL"> academy voters </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="87" mentiontype="PROPER" number="SINGULAR"> Clooney </REFERENCE>
+		<STRING> said:`` </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="90" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> do n't know whether </STRING>
+		<REFERENCE animacy="INANIMATE" entity="88" gender="NEUTRAL" mentionid="91" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> matters or not. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="92" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> think </STRING>
+		<REFERENCE animacy="INANIMATE" entity="88" gender="NEUTRAL" mentionid="93" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> 's </STRING>
+		<REFERENCE animacy="INANIMATE" entity="88" gender="NEUTRAL" mentionid="94" mentiontype="NOMINAL" number="SINGULAR"> a good part </REFERENCE>
+		<STRING>.'' </STRING>
+	</SENTENCE>
+</TEXT>

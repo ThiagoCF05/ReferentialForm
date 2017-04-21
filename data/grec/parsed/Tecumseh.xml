@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<TEXT ID="1749">
+	<TITLE>Tecumseh</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tecumseh</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (c.1768 – October 5, 1813), </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">whose</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> given name might be more accurately rendered as Tecumtha or Tekamthi, was a famous Shawnee leader. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> spent much of </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> life attempting to rally disparate Native American tribes in a mutual defense of their lands, which eventually culminated in </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> death in the War of 1812.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tecumseh</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was greatly admired in </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> day, </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> remains a respected icon for Native Americans and </STRING>
+		<REFERENCE ID="9" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is considered a national hero in Canada. Even </STRING>
+		<REFERENCE ID="10" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> longtime adversary William Henry Harrison considered </STRING>
+		<REFERENCE ID="11" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tecumseh</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> to be &quot;one of those uncommon geniuses which spring up occasionally to produce revolutions and overturn the established order of things.&quot;</STRING>
+	</PARAGRAPH>
+</TEXT>

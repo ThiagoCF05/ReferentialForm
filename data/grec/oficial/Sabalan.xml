@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TEXT ID="701">
+	<TITLE>Sabalan</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sabalan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (in Persian سبلان Sabalân; also called Sāvālān in Azerbaijani) is an inactive stratovolcano in Ardabil province of northwestern Iran.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="20" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sabalan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the third highest mountain in Iran and a permanent crater lake has formed at the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="18" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sabalan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a ski resort (Alvares) and different tourist areas such as the Sarein spa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="54" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known for  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="58" PARAGRAPH-RECENCY="4" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> beautiful vistas, including the Shirvan gorge, where few climbers ever venture. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<TEXT ID="1107">
+	<TITLE>Malabo</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Malabo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital city of Equatorial Guinea, located on the northern coast of Bioko Island (formerly Fernando Póo).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> population has grown rapidly over the past ten years to about 100,000.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Malabo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 3°45' North, 8°45' East (3.75, 8.75).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first founded by the British in 1827, who leased the island from Spain during the colonial period.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Named Port Clarence,  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was used as a naval station in the effort to suppress the slave trade.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>Many newly freed slaves were also settled there, prior to the establishment of Sierra Leone as a colony for freed slaves.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>While many of them later relocated to Sierra Leone, some of their descendants, called Fernandinos, can still be found in  </STRING>
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Malabo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and the surrounding area, where they constitute a distinct ethnic group, speaking their own Afro-Portuguese pidgin dialect. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>When the island reverted to complete Spanish control,  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Malabo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was renamed Santa Isabel.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was chosen to replace the mainland town of Bata as the capital of the country in 1969, and  </STRING>
+			<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was renamed Malabo in 1973 as part of President Francisco Macías Nguema's campaign to replace European place names with &quot;authentic&quot; African ones. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>During his &quot;reign of terror,&quot; Macías Nguema led a near-genocide of the country's Bubi minority, which formed the majority on Bioko Island, and brought many of his own tribespeople, the Fang to  </STRING>
+			<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Malabo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>In the final years of his rule, when Equatorial Guinea was sometimes known as the &quot;Auschwitz of Africa,&quot; much of  </STRING>
+			<REFERENCE ID="11" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the city's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> population fled as, indeed, about one-third of the country's population.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Malabo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has yet to recover from the scars of that period. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

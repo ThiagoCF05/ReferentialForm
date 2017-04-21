@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="648">
+	<TITLE>Pico Turquino</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pico Turquino</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest point in Cuba. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the southeast part of the island, in the Sierra Maestra mountain range in Santiago de Cuba Province. During the late 1950s, Fidel Castro and members of his 26th of July Movement used the area as a base during the Cuban Revolution.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The name is believe to be a corruption of turqoise ([Spanish: turquí]) peak, named so for the blue hues taken by the heights in certain views. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first mentioned (under the name &quot;Tarquino&quot;) on a map drawn by Gerardo Kramer in the late 1700s.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>A bust of José Martí, sculpted by Jilma Madera, was placed on </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> to celebrate his centenary.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>Turquino National Park is established on a area around </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

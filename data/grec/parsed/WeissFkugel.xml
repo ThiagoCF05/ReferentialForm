@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TEXT ID="917">
+	<TITLE>Weisskugel</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Weißkugel</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (or Palla Bianca in Italian) is the second highest mountain in the Ötztal Alps and the third highest mountain in Austria. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies on the border between Austria and Italy. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> features many glaciers. The easiest way to climb </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is over the south side of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first climbed in 1850 by J.A. Specht, Leander Klotz, and Nicodem Klotz.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Due to </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> central location, </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has one of the best views in the entire Alps.</STRING>
+	</PARAGRAPH>
+</TEXT>

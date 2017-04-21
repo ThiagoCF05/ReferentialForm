@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1078">
+	<TITLE>Kampala</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kampala</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the capital city of Uganda. With a population of 1,208,544 (2002), </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the largest urban settlement in Uganda. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the district of Kampala at , at 3,900 ft (1,189 m) above sea level.</STRING>
+	</PARAGRAPH>
+</TEXT>

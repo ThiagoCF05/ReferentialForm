@@ -1,0 +1,545 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0" GENDER="neutral" ID="1" MENTION-ID="1" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">The movie</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Dr. Seuss' The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">The Cat in the hat</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Bo Welch's take on The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">The Cat in the Hat movie</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">The Cat in the Hat.</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Dr. Seuss book The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Dr. Seuss' The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Dr. Seuss' The Cat in the Hat film</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Cat in the hat</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Dr. Seuss' The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Dr. Seuss book The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Dr. Seuss' The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Dr. Seuss' The Cat In The Hat</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">The Cat in the Hat by Dr Seuss</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">The Cat in the hat</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is overwrought and overdone. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="neutral" MENTION-ID="2" NUMBER="singular" TYPE="description"> The plot </REFERENCE>
+			<STRING> is not the </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="neutral" MENTION-ID="3" NUMBER="singular" TYPE="description"> book's </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="6" GENDER="unknown" MENTION-ID="4" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> know that </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="7" GENDER="unknown" MENTION-ID="5" NUMBER="plural" TYPE="description"> movies </REFERENCE>
+			<STRING> are not supposed to be fully like </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="neutral" MENTION-ID="6" NUMBER="singular" TYPE="description"> the book </REFERENCE>
+			<STRING> but when </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="9" GENDER="unknown" MENTION-ID="7" NUMBER="singular" TYPE="description">
+				<STRING> practically every child -LRB- </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="10" GENDER="male" MENTION-ID="8" NUMBER="unknown" TYPE="description"> as well as adult </REFERENCE>
+				<STRING> -RRB- in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="4" GENDER="neutral" MENTION-ID="9" NUMBER="singular" TYPE="name"> America </REFERENCE>
+			</REFERENCE>
+			<STRING> has read </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="11" GENDER="unknown" MENTION-ID="10" NUMBER="plural" TYPE="description">
+				<STRING> the Dr. </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="5" GENDER="male" MENTION-ID="11" NUMBER="singular" TYPE="name"> Seuss </REFERENCE>
+				<STRING> books </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="12" GENDER="neutral" MENTION-ID="12" NUMBER="unknown" TYPE="demonstrative"> this </REFERENCE>
+			<STRING> is unforgivable. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="7" GENDER="unknown" MENTION-ID="13" NUMBER="plural" TYPE="description"> The movies </REFERENCE>
+			<STRING> do n't need to be fleshed out with </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="14" GENDER="neutral" MENTION-ID="14" NUMBER="singular" TYPE="description">
+				<STRING> over analytical information about why </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="15" GENDER="unknown" MENTION-ID="15" NUMBER="singular" TYPE="description"> the Cat </REFERENCE>
+				<STRING> is who </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="15" GENDER="male" MENTION-ID="16" NUMBER="singular" TYPE="pronoun"> he </REFERENCE>
+				<STRING> is </STRING>
+			</REFERENCE>
+			<STRING> or with </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="17" GENDER="neutral" MENTION-ID="17" NUMBER="singular" TYPE="description">
+				<STRING> the history of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="18" GENDER="unknown" MENTION-ID="18" NUMBER="plural" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="10" GENDER="unknown" MENTION-ID="19" NUMBER="plural" TYPE="pronoun"> their </REFERENCE>
+					<STRING> lives </STRING>
+				</REFERENCE>
+				<STRING>, but give it </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="21" GENDER="neutral" MENTION-ID="20" NUMBER="singular" TYPE="description"> a rest </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="22" GENDER="neutral" MENTION-ID="21" NUMBER="unknown" TYPE="description">
+				<STRING> The </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="23" GENDER="unknown" MENTION-ID="22" NUMBER="unknown" TYPE="description"> good stuff... </REFERENCE>
+				<STRING>. </STRING>
+			</REFERENCE>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="24" GENDER="neutral" MENTION-ID="23" NUMBER="singular" TYPE="description">
+				<STRING> the visual production </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="22" GENDER="unknown" MENTION-ID="24" NUMBER="singular" TYPE="pronoun">
+					<STRING> itself with </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="26" GENDER="unknown" MENTION-ID="25" NUMBER="singular" TYPE="description">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="22" GENDER="unknown" MENTION-ID="26" NUMBER="singular" TYPE="pronoun"> its </REFERENCE>
+						<STRING> ultra-stylized appearance </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING>. </STRING>
+			</REFERENCE>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="24" GENDER="neutral" MENTION-ID="27" NUMBER="singular" TYPE="pronoun"> It </REFERENCE>
+			<STRING> looks nice, but did </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="30" GENDER="neutral" MENTION-ID="28" NUMBER="singular" TYPE="description">
+				<STRING> the budget of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="31" GENDER="neutral" MENTION-ID="29" NUMBER="singular" TYPE="description">
+					<STRING> a </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="28" GENDER="unknown" MENTION-ID="30" NUMBER="singular" TYPE="name"> third </REFERENCE>
+					<STRING> world nation </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> need to be spent to create </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.750102" GENDER="neutral" ID="2" MENTION-ID="31" NUMBER="singular" PARAGRAPH-POSITION="29" RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this film</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">The cat in the hat</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="description">the film</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="demonstrative">this movie</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="description">one movie</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="description">a movie</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="description">the film</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="demonstrative">this movie</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="description">a movie</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="demonstrative">that</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">a children's movie</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">a movie</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="description">fantasy</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>? </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="neutral" MENTION-ID="32" NUMBER="singular" TYPE="description"> The plot </REFERENCE>
+			<STRING> has added </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="34" GENDER="unknown" MENTION-ID="33" NUMBER="plural">
+				<STRING> a bunch of new things to </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.498198" GENDER="neutral" ID="3" MENTION-ID="34" NUMBER="singular" PARAGRAPH-POSITION="11" RECENCY="0" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">it</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="description">the book</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="description">the story</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="description">the book</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="description">the original</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="name">The Cat in the Hat</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="description">the story</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">The Cat in the Hat</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="description">the story</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="description">the movie</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="other">consider</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="description">the film</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="description">the book's</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="other">the story but</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="description">the original story</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="description">the movie</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="description">the story</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="description">the story</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="description">the movie</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING>... and who cares </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="36" GENDER="neutral" MENTION-ID="35" NUMBER="unknown" TYPE="demonstrative"> This </REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="36" GENDER="neutral" MENTION-ID="36" NUMBER="singular" TYPE="description">
+				<STRING> a short book which should have remained </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="38" GENDER="neutral" MENTION-ID="37" NUMBER="singular" TYPE="description"> a cartoon classic </REFERENCE>
+				<STRING> on tv </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING> With </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="39" GENDER="unknown" MENTION-ID="38" NUMBER="plural" TYPE="description">
+				<STRING> the holidays upon </STRING>
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="40" GENDER="unknown" MENTION-ID="39" NUMBER="plural">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="41" GENDER="unknown" MENTION-ID="40" NUMBER="plural" TYPE="pronoun"> us </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="42" GENDER="neutral" MENTION-ID="41" NUMBER="singular" TYPE="description"> the mass merchandising </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.834407" GENDER="neutral" ID="4" MENTION-ID="42" NUMBER="singular" PARAGRAPH-POSITION="39" RECENCY="28" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the movie</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">The Cat in the Hat.</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Dr. Seuss' The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="demonstrative">this movie</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">The Cat In The Hat</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Cat in the hat</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is sure to be a hit... too bad as there are </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="44" GENDER="unknown" MENTION-ID="43" NUMBER="plural" TYPE="demonstrative"> some other films that deserve to be seen </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING> At </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="45" GENDER="unknown" MENTION-ID="44" NUMBER="singular" TYPE="name"> less than 90 minutes </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.776567" GENDER="neutral" ID="5" MENTION-ID="45" NUMBER="singular" PARAGRAPH-POSITION="6" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this movie</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="description">the film</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">this movie</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Cat in the Hat</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is definitely too long. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="47" GENDER="unknown" MENTION-ID="46" NUMBER="unknown" TYPE="pronoun"> You </REFERENCE>
+			<STRING> 'll probably have screaming </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="48" GENDER="unknown" MENTION-ID="47" NUMBER="plural" TYPE="description">
+				<STRING> kids who want to see </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.373996" GENDER="neutral" ID="6" MENTION-ID="48" NUMBER="singular" PARAGRAPH-POSITION="20" RECENCY="14" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="demonstrative">this film</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">The Cat in the Hat</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="description">the movie</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="other">it again</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="other">it again</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="other">Dr. Seuss'</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="other">something else</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="name">The Cat in the Hat</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="other">something</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="other">more</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING>.... </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.551555" GENDER="neutral" ID="7" MENTION-ID="49" NUMBER="singular" PARAGRAPH-POSITION="22" RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">The Cat</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="other">Bo Welch</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="other">? someone?</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="other">but it</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">and again the story</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="other">as</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">the cat</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Dr. Seuss' The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Dr. Seuss' The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">different</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="other">Welch</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">the cat</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">as the movie</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">as if the movie</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Cat In The Hat</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">so</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="51" GENDER="unknown" MENTION-ID="50" NUMBER="plural" TYPE="description">
+				<STRING> steroids </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="52" GENDER="neutral" MENTION-ID="51" NUMBER="singular" TYPE="description"> the way </REFERENCE>
+				<STRING> </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.301406" GENDER="neutral" ID="8" MENTION-ID="52" NUMBER="singular" PARAGRAPH-POSITION="28" RECENCY="6" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">it</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="name">the Cat</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="demonstrative">that</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="other">children</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="other">it runs</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> runs all over </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="54" GENDER="neutral" MENTION-ID="53" NUMBER="singular" TYPE="description"> the place </REFERENCE>
+			</REFERENCE>
+			<STRING> but </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="48" GENDER="unknown" MENTION-ID="54" NUMBER="plural" TYPE="pronoun"> they </REFERENCE>
+			<STRING> may be entertained. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.4">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="57" GENDER="unknown" MENTION-ID="55" NUMBER="plural" TYPE="description"> Parents </REFERENCE>
+			<STRING> have </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="58" GENDER="unknown" MENTION-ID="56" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="56" GENDER="unknown" MENTION-ID="57" NUMBER="singular" TYPE="name"> two </REFERENCE>
+				<STRING> choices: lie </STRING>
+			</REFERENCE>
+			<STRING> and say </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="59" GENDER="neutral" MENTION-ID="58" NUMBER="singular" TYPE="description"> the theatre </REFERENCE>
+			<STRING> went out of business. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.5">
+			<STRING> Or give in to </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="60" GENDER="unknown" MENTION-ID="59" NUMBER="plural" TYPE="description"> the children </REFERENCE>
+			<STRING> and put up with </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="61" GENDER="unknown" MENTION-ID="60" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="57" GENDER="unknown" MENTION-ID="61" NUMBER="plural" TYPE="pronoun"> their </REFERENCE>
+				<STRING> disappointment </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.6">
+			<STRING> Stale popcorn would be better than </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.427831" GENDER="neutral" ID="9" MENTION-ID="62" NUMBER="singular" PARAGRAPH-POSITION="70" RECENCY="42" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this movie</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="demonstrative">this movie</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="description">the film</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="other">no popcorn</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="other">nothing</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="demonstrative">this dreck</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">this movie</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Dr. Seuss' The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="demonstrative">this movie</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="other">watching this</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">watching this movie</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="demonstrative">this movie</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">screaming kids</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="demonstrative">this movie.</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">watching this movie</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="demonstrative">this movie</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING> Somehow </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="6" GENDER="unknown" MENTION-ID="63" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> think </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.79121" GENDER="neutral" ID="10" MENTION-ID="64" NUMBER="singular" PARAGRAPH-POSITION="4" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this movie</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">the Cat in the hat</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="description">the film</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Dr. Seuss' The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">this movie</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">The Cat in the Hat</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="demonstrative">this production</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Cat In The Hat</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> will be better on video as seeing </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.511086" GENDER="neutral" ID="11" MENTION-ID="65" NUMBER="singular" PARAGRAPH-POSITION="12" RECENCY="8" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">the cat</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="67" GENDER="neutral" MENTION-ID="66" NUMBER="singular" TYPE="description"> the smaller screen </REFERENCE>
+			<STRING> may make </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.415063" GENDER="neutral" ID="12" MENTION-ID="67" NUMBER="singular" PARAGRAPH-POSITION="19" RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="description">a movie</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">where</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> appear to be less over produced. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

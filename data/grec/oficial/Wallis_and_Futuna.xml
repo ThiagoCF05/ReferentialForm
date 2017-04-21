@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="1413">
+	<TITLE>Wallis and Futuna</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Wallis and Futuna</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Territory of Wallis and Futuna Islands (French: Wallis et Futuna or Territoire des îles Wallis et Futuna), is composed of two separate groups with three main volcanic tropical islands, which are separated 260 km: </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>*Wallis Islands (Uvea), in the north**Wallis Island (Uvea)*Hoorn Islands (Futuna Islands), in the south**Futuna**Alofi </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">They</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are located in the South Pacific between Fiji and Samoa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Since 2003  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="13" SEMCAT="country" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Wallis and Futuna</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been a French overseas collectivity (collectivité d'outre-mer, or COM).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Between 1961 and 2003,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="15" SEMCAT="country" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> had the status of a French overseas territory (territoire d'outre-mer, or TOM). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

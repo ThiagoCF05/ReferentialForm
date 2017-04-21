@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEXT ID="640">
+	<TITLE>Pico Basilé</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pico Basilé</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (formerly Pico de Santa Isabel) is the highest mountain on the island of Bioko, which is part of Equatorial Guinea. With an altitude of 9,878 ft (3,011 m), </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the summit of the largest and highest of three overlapping basaltic shield volcanoes which form the island. From the summit, Mt. Cameroon can be seen to the northwest. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pico Basilé</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies close to the city of Malabo.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Bioko was formed along the Cameroon line, a major northeast-trending geologic fault that runs from the Atlantic Ocean into Cameroon. This line includes other volcanic islands in the Gulf of Guinea such as Annobón, Príncipe and São Tomé, along with the massive stratovolcano of Mount Cameroon.</STRING>
+	</PARAGRAPH>
+</TEXT>

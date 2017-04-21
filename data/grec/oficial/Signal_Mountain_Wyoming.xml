@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<TEXT ID="835">
+	<TITLE>Signal Mountain (Wyoming)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Signal Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an isolated summit standing 7,720 feet (2,353 m) above sea level.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="13" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in Grand Teton National Park in the U.S. state of Wyoming.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The next closest higher summit is more than 10 miles (16 km) distant, and this isolation provides sweeping views of the Teton Range, much of the northern Jackson Hole area as well as the Snake River.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Though located adjacent to the Tetons,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="70" PARAGRAPH-RECENCY="56" SEMCAT="mountain" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Signal Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was not formed in the same manner or period.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="80" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> originally was formed by volcanic ashfall from one of the eruptions of the Yellowstone Hotspot.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="96" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also partially a glacial morraine formed by a receding glacier that came south out of the Yellowstone Icecap.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>This same glacier also created neighboring Jackson Lake. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Signal Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a 5 mile (8 km) long road providing vehicular access to an observation area located just below the main summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>There is also a 3 mile hiking trail (one way) to the summit from Signal Mountain Lodge and campground.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The trail splits in the middle for a portion of approximately 1.5 miles, allowing hikers to take either a trail along the lower part of the ridge or south of the ridge past a series of small ponds.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The trails then rejoin and steepen over the last mile to reach the secondary summit of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="96" PARAGRAPH-RECENCY="95" SEMCAT="mountain" SENTENCE-POSITION="17" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, the Jackson Lake Overlook.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>The trail rises approximately 800 feet from the campground to the overlook, though on the ridge trail there is quite a bit of up and down that adds a few hundred feet to the cumulative elevation gain. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>It is important to note that the trail is a hiking only trail, mountain biking and horseback riding is not permitted by the park service.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The road is a popular biking destination due to the difficult climb up and then (after turning around at the summit) continuous downhill experienced on a 3.5 mile portion of the road. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

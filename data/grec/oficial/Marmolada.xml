@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TEXT ID="310">
+	<TITLE>Marmolada</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Marmolada</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (the Italian name; also Ladin: Marmoleda, German: Marmolata) is a mountain in northeastern Italy (just east of Trento) and the highest mountain of the Dolomites (a section of the Alps).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="31" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> consists of a ridge running west to east.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Towards the south  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="44" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> breaks suddenly into sheer cliffs, forming a rock face several kilometres long.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>On the north side there is a comparatively flat glacier, the only large glacier in the Dolomites (the Marmolada Glacier, Ghiacciaio della Marmolada). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The ridge is composed of several summits, decreasing in altitude from west to east: Punta Penia (3,343 m), Punta Rocca (3,309 m), Punta Ombretta (3,230 m), Monte Serauta (3,069 m), and Pizzo Serauta (3,035 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>An aerial tramway goes to the top of Punta Penia. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Paul Grohmann made the first ascent in 1864, along the north route. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Before World War I, the border between Austria and Italy ran over  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Marmolada</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, so  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="2" SEMCAT="mountain" SENTENCE-POSITION="15" SENTENCE-RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> formed part of the front line.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Austrian soldiers were quartered in deep tunnels bored into the northern face's glacier, and Italian soldiers were quartered on the south face's rocky precipices.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>As glaciers retreat, soldiers' remains and belongings are occasionally discovered. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

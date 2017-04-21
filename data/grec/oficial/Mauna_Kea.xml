@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TEXT ID="316">
+	<TITLE>Mauna Kea</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mauna Kea</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a dormant volcano in the Hawaiian Islands, one of five volcanoes which together form the island of Hawai'i.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Pu'u Wekiu, one of numerous cinder cones on the summit plateau, is the highest point in the state of Hawaii at 13,796 feet (4,205 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="46" PARAGRAPH-RECENCY="45" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mauna Kea</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the tallest mountain in the world when measured from base to summit, since  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="61" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="16" SENTENCE-RECENCY="15" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> base is located on the seafloor about beneath the surface of the Pacific Ocean, bringing  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="77" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="32" SENTENCE-RECENCY="16" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> total height to well over 33000 ft.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>In the Hawaiian language, mauna kea means &quot;white mountain&quot;, a reference to  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="97" PARAGRAPH-RECENCY="20" SEMCAT="mountain" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit being regularly snow-capped during the Northern Hemisphere winter. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="592">
+	<TITLE>Mount Wilson (Colorado)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Wilson</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a fourteen thousand foot mountain peak in the U.S. state of Colorado.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Lizard Head Wilderness in Dolores County approximately 10 miles (16 km) north of Rico.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="34" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest peak in the San Miguel Range of the San Juan Mountains. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

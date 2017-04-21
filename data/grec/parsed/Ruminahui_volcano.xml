@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TEXT ID="699">
+	<TITLE>Rumiñahui (volcano)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rumiñahui</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> [IPA: [ru.mi.ˈɲa.wi]] (from Quechua rumi=rock, ñawi=eye/face; pronounced &quot;roo-mee-NYAH-wee&quot;) is a dormant, heavily-eroded volcano 4721 m above sea level. Situated in the Andes mountains 40 km south of Quito, Ecuador, </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is overshadowed by </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> famous neighbour Cotopaxi.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is named after Rumiñahui, who was an Inca general at the time of the Spanish conquest of the Inca Empire.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The canton of Rumiñahui in the Ecuadorian province of Pichincha was named after </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

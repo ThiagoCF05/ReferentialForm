@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TEXT ID="532">
+	<TITLE>Mount Seymour</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Seymour</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain located in Mount Seymour Provincial Park in the District of North Vancouver, British Columbia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="18" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a part of the North Shore Mountains, rising to the north from the shores of Burrard Inlet and Indian Arm to a summit of 1449 metres above the Indian River and Deep Cove neighbourhoods.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="55" PARAGRAPH-RECENCY="36" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Seymour</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is most commonly identified for  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="61" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="7" SENTENCE-RECENCY="6" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ski area of the same name.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="68" PARAGRAPH-RECENCY="7" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is named in honour of Frederick Seymour, first governor of the Colony of British Columbia. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

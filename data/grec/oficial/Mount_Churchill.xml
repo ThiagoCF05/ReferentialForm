@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TEXT ID="382">
+	<TITLE>Mount Churchill</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Churchill</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a volcano in the Saint Elias Mountains and the Wrangell Volcanic Field of eastern Alaska.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="18" PARAGRAPH-RECENCY="17" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Churchill</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="2" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> higher neighbor Mount Bona about 2 mi to the southwest are both large ice-covered stratovolcanoes, with  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="17" SEMCAT="mountain" SENTENCE-POSITION="20" SENTENCE-RECENCY="17" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Churchill</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> being the fourth highest volcano in the United States and the seventh highest in North America. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

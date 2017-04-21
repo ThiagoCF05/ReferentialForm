@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="475">
+	<TITLE>Mount Lucania</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Lucania</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the third highest mountain in Canada. A long ridge connects </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Lucania</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> with Mount Steele (5,073m), the fifth highest in Canada. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lucania</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is named after a region of southern Italy, known today as Basilicata.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The first ascent of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Lucania</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was made in 1937 by Bradford Washburn and Robert Hicks Bates. They used an airplane to reach Walsh Glacier, 8,500 ft (2,600 m) above sea level; the use of air support for mountaineering was novel at the time. Washburn called upon Bob Reeve, a famous Alaskan bush pilot, who later replied by cable to Washburn, &quot;Anywhere you'll ride, I'll fly&quot;. The ski-equipped Fairchild F-51 made several trips to the landing site on the glacier without event in May, but on landing with Washburn and Bates in June, the plane sank into unseasonal slush. Washburn, Bates and Reeve pressed hard for five days to get the airplane out and Reeve was eventually able to get the airplane airborne with all excess weight removed and with the assistance of a smooth icefall with a steep drop. Washburn and Bates continued on foot to make the first ascent of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lucania</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, and after an epic descent and journey to civilization, they hiked over 150 miles through the wilderness to safety in the small town of Burwash Landing in the Yukon.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The second ascent of </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lucania</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was made in 1967 by a team lead by Gerry Roach.</STRING>
+	</PARAGRAPH>
+</TEXT>

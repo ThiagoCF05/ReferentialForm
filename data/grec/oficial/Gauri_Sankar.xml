@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="173">
+	<TITLE>Gauri Sankar</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gauri Sankar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in the Himalayas, the second highest peak of the Rolwaling Himal, behind Menlungtse (7,181m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The name comes from Sanskrit for the Goddess and her Consort, denoting the sacred regard to which is afforded  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="37" SEMCAT="mountain" SENTENCE-POSITION="20" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> by the peoples of Tibet and Nepal.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Alternate names for  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="49" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> include Gaurishankar and Jomo Tseringma (the Tibetan name for  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="59" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="14" SENTENCE-RECENCY="10" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

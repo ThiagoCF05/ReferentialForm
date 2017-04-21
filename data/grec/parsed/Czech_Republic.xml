@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEXT ID="1252">
+	<TITLE>Czech Republic</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Czech Republic</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Czech: Česká republika]) is a landlocked country in Central Europe and a member state of the European Union. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has borders with Poland to the north, Germany to the northwest and west, Austria to the south, and Slovakia to the east. The historic city of Prague ([Czech: Praha]), a major tourist attraction, is </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> capital and largest city. Other major cities include Brno, Ostrava, Zlín, Plzeň, Pardubice, Hradec Králové, České Budějovice, Liberec, Olomouc, and Ústí nad Labem.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is composed of two entire historic regions, Bohemia and Moravia, parts of Silesia, and small sections of historic Lower Austria.</STRING>
+	</PARAGRAPH>
+</TEXT>

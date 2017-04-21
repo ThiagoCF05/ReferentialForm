@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TEXT ID="1737">
+	<TITLE>Sigmund Freud</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sigmund Freud</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (May 6, 1856 – September 23, 1939; IPA pronunciation: IPA: ˈziːkmʊnt ˈfrɔʏt) was an Austrian neurologist and the founder of the psychoanalytic school of psychology. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Freud</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is best known for </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> theories of the unconscious mind, especially involving the mechanism of repression; </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> redefinition of sexual desire as mobile and directed towards a wide variety of objects; and </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> therapeutic technique, especially </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> understanding of transference in the therapeutic relationship and the presumed value of dreams as sources of insight into unconscious desires.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The name Freud is generally pronounced IPA: fɹɔɪd in English and IPA: frɔʏt in German. </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is commonly referred to as &quot;the father of psychoanalysis&quot; and </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> work has been tremendously influential in the popular imagination — popularizing such notions as the unconscious, defense mechanisms, Freudian slips and dream symbolism — while also making a long-lasting impact on fields as diverse as literature, film, Marxist and feminist theories, literary criticism, philosophy and psychology.</STRING>
+	</PARAGRAPH>
+</TEXT>

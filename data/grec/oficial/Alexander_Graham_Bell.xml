@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="1426">
+	<TITLE>Alexander Graham Bell</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Alexander Graham Bell</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (March 3, 1847 - August 2, 1922) was a Scottish scientist and inventor  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="14" SEMCAT="person" SENTENCE-POSITION="15" SENTENCE-RECENCY="14" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> emigrated to Canada.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Today,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="5" SEMCAT="person" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bell</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is widely considered as one of the foremost developers of the telephone, together with Antonio Meucci, inventor of the first telephone prototype, and Philipp Reis.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Six years after having obtained  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="51" PARAGRAPH-RECENCY="31" SEMCAT="person" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> telephone patent  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="54" PARAGRAPH-RECENCY="3" SEMCAT="person" SENTENCE-POSITION="9" SENTENCE-RECENCY="3" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became a naturalized citizen of the United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>In addition to  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="66" PARAGRAPH-RECENCY="12" SEMCAT="person" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Bell's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> work in telecommunications technology,  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="71" PARAGRAPH-RECENCY="5" SEMCAT="person" SENTENCE-POSITION="9" SENTENCE-RECENCY="5" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was responsible for important advances in aviation and hydrofoil technology. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

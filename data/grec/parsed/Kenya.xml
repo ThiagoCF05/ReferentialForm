@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1297">
+	<TITLE>Kenya</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Republic of Kenya</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a country in Eastern Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is bordered by Ethiopia to the north, Somalia to the east, Tanzania to the south, Uganda to the west, and Sudan to the northwest, with the Indian Ocean running along the southeast border.</STRING>
+	</PARAGRAPH>
+</TEXT>

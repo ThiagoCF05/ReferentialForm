@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<TEXT ID="1041">
+	<TITLE>Chicago</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Chicago</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (pron.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>ʃɪˈkɑːgoʊ) is the largest city in Illinois and the third-most populous city in the United States, with approximately 2.9 million people.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>&quot;Chicago&quot; can also refer to the Chicago Metropolitan area, known as Chicagoland, with a population of 9.4 million in three states.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located along the southwestern shore of Lake Michigan and  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a center of transportation, industry, politics, finance, and higher education. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Chicago</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known as the &quot;Second City,&quot; the &quot;Windy City,&quot; the &quot;City of Big Shoulders&quot;, &quot;Chi-City,&quot; and &quot;Chi-town.&quot;</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>When combined with  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> suburbs and nine surrounding counties in Illinois, Wisconsin, and Indiana, the greater metropolitan area known as Chicagoland encompasses a population greater than 9.4 million, making it the third largest in the United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Chicagoland is predicted to have a population of 10 million by 2007. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Since  </STRING>
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> foundation in 1833 as a frontier town of the Old Northwest,  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Chicago</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has grown into one of the ten most influential world cities.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Chicago</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> today is the financial, economic, and cultural capital of the Midwest, and  </STRING>
+			<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is recognized as a major transportation, business, and architectural center.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ID="10" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The city's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> skyscrapers, local cuisine, political traditions, and sports teams are some of  </STRING>
+			<REFERENCE ID="11" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> most recognized symbols. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

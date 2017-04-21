@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<TEXT ID="905">
+	<TITLE>Uncompahgre Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Uncompahgre Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the sixth highest mountain peak in the U.S. state of Colorado and  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest peak of the San Juan Mountains.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Uncompahgre Wilderness in the northern San Juans, in northern Hinsdale County approximately 7 miles (11 km) west of the town of Lake City. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Uncompahgre peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a broad summit plateau, rising about 1500 ft above the broad surrounding alpine basins.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The south, east and west sides are not particularly steep, but the north face boasts a 700 ft cliff.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Like all peaks in the San Juan Mountains,  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Uncompahgre</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is of volcanic origin, but  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is not a volcano.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The rock is of poor quality for climbing, precluding an ascent of the north face. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The most popular route for climbing  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Uncompahgre Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Uncompahgre National Forest Service Trail Number 239, which starts from the end of the Nellie Creek Road, east-southeast of  </STRING>
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The Nellie Creek Road is a four wheel drive road accessed from the Henson Creek Road, about 4 miles west of Lake City.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The trail to the summit is a strenuous hike rising 2919 ft in elevation in about 3.5 mi.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>It accesses the summit in a winding ascent, starting from the east, passing over a south-trending ridge, and finishing on the west slopes of the summit plateau. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

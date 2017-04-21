@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TEXT ID="87">
+	<TITLE>Cheaha Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cheaha Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, often called Mount Cheaha, is the highest point in the U.S. state of Alabama. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located a few miles northeast of Talladega in scenic Cheaha State Park, which contains a lodge, restaurant, and other amenities.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The highest point is marked with a USGS marker (photo below) in front of Bunker Tower, a stone Civilian Conservation Corps building with an observation deck on top. Near the peak is Bald Rock, which was recently improved with a wheelchair-accessible wooden walkway that provides an impressive overlook of the surrounding region. The entire area gives an impression of being at a much higher elevation than it actually is, in part because of the relatively low elevation of the adjacent area to the west.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cheaha Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of the Talladega Mountains, a final southern segment of the Blue Ridge, unlike other elevations of the Appalachians in north Alabama, which are part of the Cumberland Plateau.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a host to several commercial and public service transmitters. These transmitters, along with sundry structures dating back to commercial schemes by the State of Alabama in the Seventies, stand in stark contrast to the surrounding natural environment. The Calhoun County Amateur Radio Association has a repeater near the peak and Alabama Public Television has its transmitter for WCIQ TV (and digital DTV 52). The used antenna tower is 176.1 metres tall atop </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was opened to the public as a state park on June 7, 1939.</STRING>
+	</PARAGRAPH>
+</TEXT>

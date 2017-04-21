@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TEXT ID="966">
+	<TITLE>Howard Zinn</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Howard Zinn</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (born August 24, 1922) is an American historian, social critic and political scientist.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Zinn's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> philosophy incorporates ideas from Marxism, anarchism, socialism, and social democracy. Since the 1960s, </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been a visible figure in the Civil Rights and anti-war movements in the United States.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Author of 20 books, including the best seller A People's History of the United States, </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Zinn</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is Professor Emeritus in the Political Science Department at Boston University. </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lives in the Auburndale neighborhood of Newton, Massachusetts with </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> wife Roslyn. The couple have two children, Myla and Jeff, and five grandchildren. Roslyn is an artist and editor who has had a role in editing all of </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Zinn's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> books.</STRING>
+	</PARAGRAPH>
+</TEXT>

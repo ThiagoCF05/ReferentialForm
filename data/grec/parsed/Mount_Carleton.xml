@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="375">
+	<TITLE>Mount Carleton</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Carleton</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, in Mount Carleton Provincial Park, is the highest elevation in the Canadian province of New Brunswick, and </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the highest peak in the Canadian Maritime Provinces. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the highlights of the Canadian portion of the International Appalachian Trail. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was named after Thomas Carleton, New Brunswick's first governor.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Before aerial surveillance was extensively used, a hut was maintained on the summit for fire-spotting in the remote north-central part of the province. A very similar hut was maintained on Big Bald Mountain. Triangulation among these huts and other fire towers allowed the locations of wildfires to be determined quickly and easily.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Carleton</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a monadnock, an erosional remnant of resistant igneous rocks that remained after an ancient Mesozoic peneplain surface was uplifted in the Cenozoic to form a plateau, and subsequently dissected via millions of years of erosion by wind, water and glacial ice. </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> consists of 400 million-year-old rhyolitic and basaltic volcanics.</STRING>
+	</PARAGRAPH>
+</TEXT>

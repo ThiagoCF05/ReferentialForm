@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TEXT ID="1644">
+	<TITLE>Margaret Atwood</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Margaret Eleanor Atwood</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, OC (born November 18, 1939) is a Canadian writer.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>A prolific poet, novelist, literary critic, feminist and political activist,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="20" SEMCAT="person" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has received recognition nationally and internationally for  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="8" SEMCAT="person" SENTENCE-POSITION="19" SENTENCE-RECENCY="8" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> writing. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

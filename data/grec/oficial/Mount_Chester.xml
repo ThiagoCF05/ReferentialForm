@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="380">
+	<TITLE>Mount Chester</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Chester</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Smith-Dorrien Creek Valley of Kananaskis in the Canadian Rockies.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named in 1917 after HMS Chester, which was severely damaged in the Battle of Jutland. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

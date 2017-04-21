@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="698">
+	<TITLE>Rugged Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rugged Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the apex of the Range on Vancouver Island, British Columbia. From </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, several glaciers, Nootka Sound, Woss Lake and the Tlupana Range are in view.</STRING>
+	</PARAGRAPH>
+</TEXT>

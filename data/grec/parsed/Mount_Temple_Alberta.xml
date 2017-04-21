@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEXT ID="564">
+	<TITLE>Mount Temple (Alberta)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Temple</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain in Banff National Park of the Canadian Rockies of Alberta, Canada.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Temple</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the Bow River Valley between Paradise Creek and Moraine Creek and </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest peak in the Lake Louise area. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> dominates the western landscape along the Trans-Canada Highway from Castle Junction to Lake Louise.</STRING>
+	</PARAGRAPH>
+</TEXT>

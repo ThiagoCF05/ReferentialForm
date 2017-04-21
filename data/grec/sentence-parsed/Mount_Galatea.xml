@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="420">
+	<TITLE>Mount Galatea</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Galatea</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest peak of the Kananaskis Range, a subrange of the Canadian Rockies in the province of Alberta.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the upper Spray Lakes Valley of the Kananaskis Country system of provincial parks.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named in 1922 after the HMS Galatea which was involved in the Battle of Jutland of World War I. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

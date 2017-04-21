@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<TEXT ID="32">
+	<TITLE>Avicenna Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Revolution Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, formerly known as Dreispitz, but now renamed either Independence Peak, Abu Ali ibn Sena (or Avicenna) is the fourth highest mountain in the Pamirs range of Tajikistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> consists of three snow and ice covered summits and  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> northwest face is the source of the Fedchenko Glacier. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was discovered by a joint Russian-German team in 1928, whose attempt to climb  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> failed due to deep snow and avalanche danger.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The first ascent was made in 1954 by a Russian team led by A. Ugarov.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>In July 2006, according to [], the Tajik government renamed  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> after the Persian scientist Avicenna, but this is disputed by a more recent Tajik presidential web page , which claims that  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is now &quot;Independence Peak&quot; and the peak more widely known as Lenin Peak should now be Abu Ali ibn Sena (Avicenna). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

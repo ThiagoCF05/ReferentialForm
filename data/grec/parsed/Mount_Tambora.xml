@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="560">
+	<TITLE>Mount Tambora</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Tambora</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (or Tomboro) is an active stratovolcano on Sumbawa island, Indonesia. Sumbawa is flanked both to the north and south by oceanic crust, and </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tambora</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was formed by the active subduction zones beneath it. This raised </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Tambora</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> as high as 4,300 m (14,000 ft), making </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> one of the tallest peaks in the Indonesian archipelago, and drained off a large magma chamber inside </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. It took centuries to refill the magma chamber, its volcanic activity reaching its peak in April 1815.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tambora</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> erupted in 1815 with a rating of seven on the Volcanic Explosivity Index; the largest eruption since the Lake Taupo eruption in AD 181. The explosion was heard on Sumatra island (more than 2,000 km or 1,200 mi away). Heavy volcanic ash falls were observed as far away as Borneo, Sulawesi, Java and Maluku islands. The death toll was at least 71,000 people, of which 11,000-12,000 were killed directly by the eruption; most authors estimated 92,000 people were killed but this figure is based on an overestimated calculation.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>During an excavation in 2004, a team of archaeologists discovered cultural remains buried by the 1815 eruption. They were kept intact beneath the 3 m (10 ft) deep pyroclastic deposits. Dubbed the Pompeii of the East, the artifacts were preserved in the positions they had occupied in 1815.</STRING>
+	</PARAGRAPH>
+</TEXT>

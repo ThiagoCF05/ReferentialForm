@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TEXT ID="470">
+	<TITLE>Mount Lincoln (Colorado)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Lincoln</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a fourteener in the U.S. state of Colorado.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the eighth highest peak in the state, and the 11th highest in the contiguous United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="18" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Mosquito Range, just west of Hoosier Pass, and  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="13" SEMCAT="mountain" SENTENCE-POSITION="14" SENTENCE-RECENCY="13" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest peak in that range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies just east of the Continental Divide in northwestern Park County, approximately 5 miles (8 km) east of Climax and near the town of Alma. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

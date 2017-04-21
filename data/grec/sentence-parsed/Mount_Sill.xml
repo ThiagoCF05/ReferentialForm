@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<TEXT ID="541">
+	<TITLE>Mount Sill</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Sill</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the fourteeners of the Sierra Nevada in California.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Palisades, a group of striking rock peaks with a few small glaciers on their flanks.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Sill</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located 0.6 miles (1 km) east of North Palisade, the high point of the group.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The two peaks are connected by a high, rocky ridge, on the north side of which lies the Palisade Glacier.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Sill</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies on the main Sierra Crest, but  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is at a point where the crest turns sharply, giving  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> particularly striking summit views. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Routes on  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Sill</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are found on all sides of  </STRING>
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and range in difficulty from scrambles (Class 2-3) to moderately technical rock climbs (Yosemite Decimal System 5.7). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is called Nen-i-mish (&quot;the Guardian of the Valley&quot;) by the indigenous Northern Paiute people.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> English name was coined by Joseph LeConte in 1904, in honor of poet Edward Rowland Sill. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

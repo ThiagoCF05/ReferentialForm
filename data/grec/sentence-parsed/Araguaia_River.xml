@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="1794">
+	<TITLE>Araguaia River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Araguaia River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> or, in Portuguese, Rio Araguaia is one of the major rivers of Brazil, and the principal tributary of the Tocantins.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a total length of approximately 2,627 km. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

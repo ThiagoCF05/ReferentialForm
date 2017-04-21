@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT ID="769">
+	<TITLE>Mont Blanc de Courmayeur</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mont Blanc de Courmayeur</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (4,748 m) in the Mont Blanc massif in Italy, is the second highest mountain in the Alps and the second highest point in Italy. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Lying to the south-east of the summit of Mont Blanc, to which  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is joined by Col Major,  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can be ascended via the Bosses ridge, or the Peuterey and Brouillard ridges. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

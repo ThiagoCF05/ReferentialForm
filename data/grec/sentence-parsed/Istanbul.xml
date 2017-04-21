@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<TEXT ID="1072">
+	<TITLE>Istanbul</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Istanbul</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Turkish: [Turkish: İstanbul], Greek: [Greek: Κωνσταντινορπολη] Konstandinoúpoli, historically known in English as Constantinople; see other names) is Turkey's most populous city, and its cultural and economic centre.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital of the Province of Istanbul.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 41° N 28° E, on the Bosphorus strait, and  </STRING>
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> encompasses the natural harbor known as the Golden Horn (Turkish: Haliç), in the northwest of the country.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Istanbul</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> extends both on the European (Thrace) and on the Asian (Anatolia) side of the Bosphorus, and  </STRING>
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is thereby the only metropolis in the world which is situated on two continents.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Istanbul</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also the only city in the world which served as the capital to three different Empires: The Roman Empire (330-395), Byzantine Empire (395-1453) and the Ottoman Empire (1453-1923).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>In 1923, following the establishment of the Republic of Turkey, the capital was moved to Ankara. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>According to the 2000 census, the population is 8,803,468 ( </STRING>
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">city proper</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>) and 10,018,735 (metro area), making  </STRING>
+			<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> the second largest city in Europe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The census bureau estimate for July 20, 2005 is 11,322,000 for the province, which is generally considered as the metropolitan area, making it one of the twenty largest metropolitan areas in the world.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was chosen as the European Capital of Culture for 2010 (along with Pécs, Hungary and Essen, Germany). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has had many names through the years and according to the culture, language and religion of  </STRING>
+			<REFERENCE ID="12" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> inhabitants.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Byzantium, Constantinople and Stamboul are examples that may still be found in active use.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The etymology of the names and an extended list of old names can be found under Istanbul (etymology).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has also been nicknamed &quot;The City on Seven Hills&quot; because the historic peninsula (the oldest part of  </STRING>
+			<REFERENCE ID="14" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>) was built on seven hills, also represented with seven mosques, one at the top of each hill. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

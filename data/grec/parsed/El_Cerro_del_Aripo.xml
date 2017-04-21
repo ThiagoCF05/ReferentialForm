@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="738">
+	<TITLE>El Cerro del Aripo</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">El Cerro del Aripo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (940 m a.s.l.) is the highest point in the Republic of Trinidad and Tobago. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of the Aripo Massif and </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the Northern Range on the island of Trinidad, northeast of the town of Arima.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TEXT ID="341">
+	<TITLE>Mount Aniakchak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Aniakchak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a caldera (about 10 km in diameter) located in the Aleutian Range of Alaska, United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The area around  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the Aniakchak National Monument and Preserve, maintained by the National Park Service. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Aniakchak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an extant volcano - at least ten lava flows have occurred since the formation of the caldera in 1645 B.C.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>; the most recent was in 1931. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Surprise Lake within the caldera is the source of the Aniakchak River, a National Wild River. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>In November of 1967,  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Aniakchak Caldera</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was designated as a National Natural Landmark by the National Park Service. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

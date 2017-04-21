@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="218">
+	<TITLE>Hualālai</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hualālai</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the third-most historically active shield volcano on the Island of Hawaii in the Hawaiian Islands. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> peak is at 8,271 ft (2,521 m) above sea level. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hualālai</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies more or less due west of the saddle between the much taller Mauna Kea and Mauna Loa mountains, and </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> forms the backdrop to the town of Kailua-Kona. In fact, the town is built on the southwestern slope of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, where most of the world famous Kona coffee is grown.</STRING>
+	</PARAGRAPH>
+</TEXT>

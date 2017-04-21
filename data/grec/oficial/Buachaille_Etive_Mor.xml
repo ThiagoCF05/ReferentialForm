@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<TEXT ID="60">
+	<TITLE>Buachaille Etive Mòr</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Buachaille Etive Mòr</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Scottish Gaelic: Buachaille Eite Mòr), generally known to climbers simply as The Buachaille, is a mountain at the head of Glen Etive in the Highlands of Scotland.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="28" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> almost perfect pyramidal form, as seen from the A82 road when travelling towards Glen Coe, makes  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="46" PARAGRAPH-RECENCY="17" SEMCAT="mountain" SENTENCE-POSITION="18" SENTENCE-RECENCY="17" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> one of the most recognisable mountains in Scotland, and one of the most depicted on postcards and calendars. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Buachaille Etive Mòr</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> takes the form of a ridge nearly five miles (8 km) in length, almost entirely encircled by the River Etive and its tributaries.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The ridge contains four principal tops: from north-east to south-west these are Stob Dearg (1022 m), Stob na Doire (1011 m), Stob Coire Altruim (941 m) and Stob na Bròige (956 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Stob Dearg and Stob na Bròige are both Munros; the latter was promoted to Munro status by the Scottish Mountaineering Club in 1997. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The steep, craggy north-eastern face of Stob Dearg forms the classic aspect of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="14" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as seen from the Kings House Hotel, and constitutes the most direct route of ascent for climbers and scramblers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Crowberry Ridge, a classic rock climb graded severe, was first climbed direct - and photographed - in 1900 by the Abraham brothers with Messrs Puttrell and Baker.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Immediately to the left is Curved Ridge, one of the most famous scrambling routes. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Alternatively there is a somewhat eroded path leading steeply up the Coire na Tulaich which allows walkers to ascend the peaks, reaching the ridge about half a kilometre west of Stob Dearg. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Buachaille Etive Mòr</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is separated from  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="4" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> sister mountain of Buachaille Etive Beag to the west by the valley of Lairig Gartain.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>To the east lies Glen Etive, which provides an alternative route of ascent, heading up steep grassy slopes to the summit of Stob na Bròige.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.3">
+			<STRING>Another route follows the Allt Coire Altruim from the Lairig Gartain, reaching the ridge about two thirds of the way along from the north.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.4">
+			<STRING>This route is often used as descent route in conjunction with an ascent via Coire na Tulaich, forming a circular route with a walk out along the Lairig Gartain. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

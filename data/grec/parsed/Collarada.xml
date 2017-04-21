@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEXT ID="100">
+	<TITLE>Collarada</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Collarada peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain in the western Pyrenees of Huesca, situated on the east side of the Aragon Valley near the towns of Villanúa (to the south) and Canfranc (to the west). </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 2,886 meters AMSL high.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>A great view of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> can be obtained from Larres, a village that gained life again after its castle dated XIV century got restaured by the &quot;Amigos del Serrablo&quot;.</STRING>
+	</PARAGRAPH>
+</TEXT>

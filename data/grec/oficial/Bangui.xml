@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TEXT ID="1009">
+	<TITLE>Bangui</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bangui</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital of, and the largest city in the Central African Republic.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The majority of the population of the Central African Republic lives in the western parts of the country, near  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="34" PARAGRAPH-RECENCY="33" SEMCAT="city" SENTENCE-POSITION="20" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bangui</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1763">
+	<TITLE>Umberto Eco</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Umberto Eco</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (born January 5, 1932) is an Italian medievalist, semiotician, philosopher and novelist, best known for </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> novel The Name of the Rose (Il nome della rosa) and </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> many essays.</STRING>
+	</PARAGRAPH>
+</TEXT>

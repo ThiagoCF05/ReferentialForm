@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TEXT ID="1403">
+	<TITLE>Ukraine</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ukraine</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Ukrainian: Україна], Ukraina, [IPA: /ukraˈjina/]) is a country in Eastern Europe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders Russia to the north-east, Belarus to the north, Poland, Slovakia and Hungary to the west, Romania and Moldova to the south-west, and the Black Sea and Sea of Azov to the south.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The historic city of Kiev (Kyiv) is  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> capital. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>From at least the ninth century, the territory of  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">present-day Ukraine</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a centre of medieval East Slavic civilization forming the state of Kievan Rus, and for the following several centuries the territory was divided between a number of regional powers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>After a brief period of independence (1917–1921) following the Russian Revolution of 1917,  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ukraine</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became one of the founding Soviet Republics in 1922.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">The Ukrainian Soviet Socialist Republic's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> territory was enlarged westward after the Second World War, and again in 1954 with the Crimea transfer.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>In 1945  </STRING>
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ukrainian SSR</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became one of the co-founder members of the United Nations.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became independent again after the Soviet Union's collapse in 1991. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

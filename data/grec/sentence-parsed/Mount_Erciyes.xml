@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="408">
+	<TITLE>Mount Erciyes</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Erciyes</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Turkish: Erciyes Dağı]) is a massive stratovolcano located 25 km south of Kayseri, Turkey.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Erciyes</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain in central Anatolia (3,916 metres).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is heavily eroded, but  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> may have erupted as recently as 253 BC, as may be depicted on Roman era coins.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Strabo wrote that in his time the summit was never free from snow and that those few who ascended it could see both the Black Sea and the Mediterranean. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

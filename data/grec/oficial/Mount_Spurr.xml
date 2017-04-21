@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TEXT ID="551">
+	<TITLE>Mount Spurr</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Spurr</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a stratovolcano in the Aleutian Volcanic Arc of Alaska, named after United States Geological Survey geologist and explorer Josiah Edward Spurr, who led an expedition to the area in 1898.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The Alaska Volcano Observatory currently rates  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="38" SEMCAT="mountain" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Spurr</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as Level of Concern Color Code Green. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>There are two vents, the main Mount Spurr summit and nearby Crater Peak.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The main Spurr summit has not erupted in over 10,000 years.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Crater Peak has erupted twice in historic times; in 1953 and again in 1992.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Both eruptions led to falls of volcanic ash in the Municipality of Anchorage 130 km (81 miles) to the east.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>As with other Alaskan volcanoes, the proximity of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="67" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Spurr</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> to major trans-Pacific aviation routes means that an eruption of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="78" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="20" SENTENCE-RECENCY="11" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can significantly disrupt air travel.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<STRING>Volcanic ash can cause jet engines to fail. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="1518">
+	<TITLE>Florence Nightingale</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Florence Nightingale</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, OM (12 May 1820 – 13 August 1910),  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> came to be known as The Lady with the Lamp, was a pioneer of modern nursing, and a noted statistician. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

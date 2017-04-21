@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TEXT ID="1183">
+	<TITLE>Tirana</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tirana</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Albanian: Tiranë or Tirana) is the capital and largest city of the Republic of Albania. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was founded in 1614 by Sulejman Pasha and </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became Albania's capital city in 1920.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tirana</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located at 41°19'48N,19°49'12E (41.33°N, 19.82°E) in the eponymous district and county. </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> average altitude is 90 metres above sea level. </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is on the Ishm River, about 20 miles inland.</STRING>
+	</PARAGRAPH>
+</TEXT>

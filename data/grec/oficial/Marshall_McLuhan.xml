@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<TEXT ID="1649">
+	<TITLE>Marshall McLuhan</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Herbert Marshall McLuhan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> CC (July 21, 1911 – December 31, 1980) was a Canadian educator, philosopher, and scholar.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>A professor of English literature, a literary critic, and communications theorist,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="27" SEMCAT="person" SENTENCE-POSITION="12" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">McLuhan's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> work is viewed as one of the cornerstones of the study of media ecology. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Perhaps the most celebrated English teacher of the twentieth century,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">McLuhan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a fixture in media discourse from the late 1960s to  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="12" SEMCAT="person" SENTENCE-POSITION="23" SENTENCE-RECENCY="12" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> death and  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="3" SEMCAT="person" SENTENCE-POSITION="26" SENTENCE-RECENCY="3" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> remains highly influential.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Timothy Leary credited a meeting with  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="10" SEMCAT="person" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">McLuhan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as inspiring Leary's phrase &quot;Turn on, tune in, drop out.&quot;</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The &quot;patron saint&quot; of Wired magazine,  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="53" PARAGRAPH-RECENCY="17" SEMCAT="person" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">McLuhan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> famously coined the expressions &quot;the medium is the message&quot; and the &quot;global village&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

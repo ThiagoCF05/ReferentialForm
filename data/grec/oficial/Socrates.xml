@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<TEXT ID="1739">
+	<TITLE>Socrates</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Socrates</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Greek: Σωκράτης, invariably anglicized as [IPA: [sɔkɹətiːz]], Sǒcratēs; 470-399 BC) was an ancient Greek philosopher  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="16" SEMCAT="person" SENTENCE-POSITION="17" SENTENCE-RECENCY="16" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is widely credited for laying the foundation for Western philosophy. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was born and lived in Athens, where  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="8" SEMCAT="person" SENTENCE-POSITION="9" SENTENCE-RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> spent most of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="4" SEMCAT="person" SENTENCE-POSITION="13" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> time in enthusiastic pursuit of wisdom (philosophy).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="8" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> &quot;followed the argument&quot; in  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="5" SEMCAT="person" SENTENCE-POSITION="6" SENTENCE-RECENCY="5" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> personal reflection, and in a sustained and rigorous dialogue between friends, followers, and contemporary itinerant teachers of wisdom.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Later in  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="47" PARAGRAPH-RECENCY="21" SEMCAT="person" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> life  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="49" PARAGRAPH-RECENCY="2" SEMCAT="person" SENTENCE-POSITION="5" SENTENCE-RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became known as the wisest man in all of Greece. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Opinions about  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Socrates</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> were widely polarized, drawing very high praise or very severe ridicule.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="11" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="12" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> had many devoted followers (such as Plato), and many angry detractors. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>As an old man,  </STRING>
+			<REFERENCE ID="12" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> fell into grave disrepute with the Athenian state powers, and  </STRING>
+			<REFERENCE ID="13" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="11" SEMCAT="person" SENTENCE-POSITION="16" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was commanded to stop  </STRING>
+			<REFERENCE ID="14" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="5" SEMCAT="person" SENTENCE-POSITION="21" SENTENCE-RECENCY="5" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> public disputes, and  </STRING>
+			<REFERENCE ID="15" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="4" SEMCAT="person" SENTENCE-POSITION="25" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> associations with young aristocrats.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<REFERENCE ID="16" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="5" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> carried on as usual. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>Finally,  </STRING>
+			<REFERENCE ID="17" PARAGRAPH-POSITION="2" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was arrested and accused of corrupting the youth, inventing new deities (heresy), and disbelieving in the divine (atheism).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>According to traditional accounts,  </STRING>
+			<REFERENCE ID="18" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="23" SEMCAT="person" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was sentenced to die by drinking poison.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.3">
+			<STRING>Presented with an opportunity to leave Athens,  </STRING>
+			<REFERENCE ID="19" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="15" SEMCAT="person" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> believed it would be more honorable to stay in  </STRING>
+			<REFERENCE ID="20" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="10" SEMCAT="person" SENTENCE-POSITION="18" SENTENCE-RECENCY="10" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> home country.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.4">
+			<STRING>Therefore, at the age of 70,  </STRING>
+			<REFERENCE ID="21" PARAGRAPH-POSITION="59" PARAGRAPH-RECENCY="9" SEMCAT="person" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> drank the hemlock and  </STRING>
+			<REFERENCE ID="22" PARAGRAPH-POSITION="64" PARAGRAPH-RECENCY="5" SEMCAT="person" SENTENCE-POSITION="12" SENTENCE-RECENCY="5" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> died. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1280">
+	<TITLE>Guinea-Bissau</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guinea-Bissau</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Republic of Guinea-Bissau (pr. gin-ee-bi-sou. [Portuguese: República da Guiné-Bissau], [IPA: /ʁɛ.'pu.βli.kɐ dɐ gi.'nɛ bi.'saw/]), is a country in western Africa, and one of the smallest nations in continental Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is bordered by Senegal to the north, and Guinea to the south and east, with the Atlantic Ocean to </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> west. Formerly the Portuguese colony of Portuguese Guinea, upon independence, the name of </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> capital, Bissau, was added to </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> official name in order to prevent confusion between </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">itself</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and the Republic of Guinea.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<TEXT ID="1843">
+	<TITLE>Shebelle River</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Shebelle River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (with numerous spelling variations, including Shabele and Shabell, sometimes with Wabe or Webi prepended, Shabeelle in Somalia) begins in the highlands of Ethiopia, and then </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> flows southeast into Somalia towards Mogadishu. Near Mogadishu </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> turns sharply southwest, where </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> follows the coast. Below Mogadishu </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> becomes seasonal. Most years </STRING>
+		<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> dries up near the mouth of the Jubba River, while in seasons of heavy rainfall </STRING>
+		<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> actually reaches the Jubba and thus the Indian Ocean.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="8" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name comes from the Somali language, &quot;Wabi Shabele&quot; meaning &quot;Leopard/Tiger River.&quot; According to the Statistical Abstract of Ethiopia for 1967/68, </STRING>
+		<REFERENCE ID="9" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Shabele River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 1130 kilometers long, extending for 1000 kilometers inside Ethiopia and 130 inside Somalia. </STRING>
+		<REFERENCE ID="10" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> gives </STRING>
+		<REFERENCE ID="11" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name to the Somali administrative regions of Middle Shabele and Lower Shabele.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>In the past, the area of </STRING>
+		<REFERENCE ID="12" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Shebelle River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was very much affected by diseases transmitted by tsetse flies, but they seems now to be eradicated at least in some parts of the Shebelle valley.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TEXT ID="823">
+	<TITLE>Sciliar</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Sciliar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (German: Schlern) (2,563 m) is a mountain of the Dolomites in Trentino-Alto Adige/Südtirol, Italy. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> characteristic profile appears on at least two different products: *Der Schlern, a magazine for South Tyrolean regional studies*Logo pressed into Loacker's wafer biscuits </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The peak at the north west end of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (right, in the image at right) was first ascended in 1888 by Johann Santner.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>It is named the Santner Spitze in his honour. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Sciliar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> dominates the town of Siusi allo Sciliar, and the summit can be reached by following the trail marked with the number 1 from the town. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>At 1700m, there is a mountain refuge , Rifugio Malghetta Sciliar (German: Schlernboden), open from 1st June to 15th October.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>Near the summit is the Rifugio Bolzano (German: Schlernhaus) (2457m). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

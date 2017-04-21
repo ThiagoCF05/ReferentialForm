@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<TEXT ID="1718">
+	<TITLE>Rick Mercer</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Richard Vincent (Rick) Mercer</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (born October 17, 1969 in St. John's, Newfoundland and Labrador), is a Canadian comedian, television personality and occasionally, a blogger.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mercer</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> first came to national attention in 1990, when </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> premiered </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> one-man show Show Me the Button, I'll Push It, or Charles Lynch Must Die at the National Arts Centre in Ottawa. A pointed, satirical political commentary on Canadian life after Meech Lake, Show Me the Button made </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mercer</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> a national star as </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> toured the show across Canada.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> dropped out of high school before completing </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> diploma requirements and </STRING>
+		<REFERENCE ID="9" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was given an honorary one.</STRING>
+	</PARAGRAPH>
+</TEXT>

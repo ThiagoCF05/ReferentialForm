@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="421">
+	<TITLE>Mount Galwey</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Galwey</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain located north of Blakiston Creek of Waterton Lakes National Park, in Canada. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was named in 1934 after Lt. Galwey, who was an astronomer for the International Boundary Survey.</STRING>
+	</PARAGRAPH>
+</TEXT>

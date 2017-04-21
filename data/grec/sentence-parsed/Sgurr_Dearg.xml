@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TEXT ID="824">
+	<TITLE>Sgurr Dearg</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sgurr Dearg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in the Cuillin on the Isle of Skye, Scotland.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is topped by the Inaccessible Pinnacle (colloquially referred to by mountaineers as the In Pin or In Pinn), a fin of rock measuring 50 metres (150 feet) along its longest edge.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The top of the Inaccessible Pinnacle, which at 986 m is the highest point of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sgurr Dearg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, is the only summit in the British Isles which can only be reached by rock climbing.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>This makes it the biggest hurdle for many Munro baggers. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>First climbed by Charles and Lawrence Pilkington in 1880, the Pinnacle was never climbed by Sir Hugh Munro himself.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Because of  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> status as the most difficult of the Munros  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has now spawned a cottage industry for the local guides, who are frequently to be seen escorting parties of novice climbers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Unlike much of the Cuillin, the pinnacle is basalt not gabbro and thus is somewhat slippery in the wet. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

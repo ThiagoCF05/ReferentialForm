@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="17">
+	<TITLE>Ampato</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ampato</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a dormant 6,288 m (20,630 ft) stratovolcano in the Andes of southern Peru, about 100 km (60 mi) northwest of Arequipa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="23" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is part of a 20 km (12 mi) north-south chain of three major stratovolcanoes, including the extinct and eroded 6,025 m (19,767 ft) Nevado Hualca Hualca at the northern end and the active 5,976 m (19,606 ft) cone of Volcán Sabancaya in the middle. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>In September 1995, the rapidly retreating glacier near the summit of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ampato</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> revealed the frozen mummified body of an Inca girl, killed by a blow to the head about 500 years ago.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The mummy, later called the &quot;Ice Maiden&quot; and nicknamed &quot;Juanita&quot;, was recovered by an expedition led by American archaeologist Dr. Johan Reinhard.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>In October 1995 and December 1997, Reinhard and Peruvian archaeologist Jose Antonio Chavez directed expeditions that led to the recovery of three further mummies above 5,800 m (19,000 ft). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

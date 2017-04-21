@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TEXT ID="170">
+	<TITLE>Gasherbrum III</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gasherbrum III</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a summit in the Gasherbrum massif of the Baltoro Muztagh, a subrange of the Karakoram on the border between Pakistan and China, in the region of Baltistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is situated between Gasherbrum II and IV. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gasherbrum III</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> fails to meet a 500 metre topographic prominence cutoff to be an independent mountain; hence  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can be considered a subpeak of Gasherbrum II. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gasherbrum III</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was one of the highest unclimbed summits in the world up to  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> first ascent in 1975, by Wanda Rutkiewicz, Alison Chadwick-Onyszkiewicz, Janusz Onyszkiewicz and Krystof Zdzitowiecki, members of a Polish expedition. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

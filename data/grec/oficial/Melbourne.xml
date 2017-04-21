@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<TEXT ID="1114">
+	<TITLE>Melbourne</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Melbourne</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (pronounced either [IPA: /ˈmel.bən/] or [IPA: /ˈmæl.bən/]) is the second most populous city in Australia, with a metropolitan area population of approximately 3.7 million (2006 estimate).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Located in the country's south-east,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="32" SEMCAT="city" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Melbourne</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the state capital of Victoria and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="8" SEMCAT="city" SENTENCE-POSITION="14" SENTENCE-RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is home to over 70% of all Victorians. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Founded by free-settlers in 1835, 47 years after the first European settlement of Australia,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="15" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Melbourne</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was transformed from a small pastoral settlement into a growing metropolis by the Victorian gold rush in the 1850s.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>By 1865,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="22" SEMCAT="city" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">&quot;Marvellous Melbourne&quot;</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was Australia's most populous and important city.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="8" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> served as the temporary national capital from the Federation of Australia until the construction of Canberra in 1927. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Today,  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="2" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Melbourne</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a major centre of commerce, industry and cultural activity.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Often referred to as both the &quot;cultural capital of Australia&quot; and the &quot;sporting capital of Australia&quot;,  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="27" SEMCAT="city" SENTENCE-POSITION="17" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a rich history and  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="35" PARAGRAPH-RECENCY="6" SEMCAT="city" SENTENCE-POSITION="23" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is home to many of Australia's major annual sporting and cultural events. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

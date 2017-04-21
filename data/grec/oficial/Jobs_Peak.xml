@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="244">
+	<TITLE>Jobs Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Jobs Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is in Alpine County, California.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="7" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the most prominent peak off visible from the Carson Valley in Douglas County, Nevada.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">This peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is great for hiking, and backcountry skiing.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has views of Lake Tahoe, and Carson Valley. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

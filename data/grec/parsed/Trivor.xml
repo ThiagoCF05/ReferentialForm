@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEXT ID="896">
+	<TITLE>Trivor</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Trivor</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the high peaks of the Hispar Muztagh, a subrange of the Karakoram range in the Northern Areas of Pakistan. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> height is often given as 7,728 metres, but this elevation is not consistent with photographic evidence. The height given here is from a Russian 1:100,000 topographic map.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>There have been only two successful climbs of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>; the first ascent was in 1960 by a British-American party.</STRING>
+	</PARAGRAPH>
+</TEXT>

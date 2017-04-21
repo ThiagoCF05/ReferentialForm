@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TEXT ID="578">
+	<TITLE>Mount Waddington</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Waddington</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest peak in the Coast Mountains. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and the subrange which surround </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, the Waddington Range, stand at the heart of the Pacific Ranges, which is to say </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is in a remote and extremely difficult set of mountains and stupendous river valleys.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>It is not so far north as its extreme arctic-like conditions might indicate and </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Waddington</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> attendant peaks pose some of the most serious expedition mountaineering to be had in North America -- and some of the most extreme relief and spectacular mountain scenery.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>From </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Waddington's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> 13,000'-plus fang to sea level at the heads of Bute and Knight Inlets is only a few miles; across the 10,000 deep gorges of the Homathko and the Klinaklini Rivers stand mountains almost as high, and icefields even vaster and whiter, only a few aerial miles away, with a maw deeper than the Grand Canyon, comparable in relief to the Himalaya (to which the terrain of British Columbia was compared by colonial-era travellers).</STRING>
+	</PARAGRAPH>
+</TEXT>

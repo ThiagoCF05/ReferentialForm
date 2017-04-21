@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TEXT ID="1392">
+	<TITLE>Togo</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Togo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Togolese Republic, is a country in West Africa bordering Ghana in the west, Benin in the east and Burkina Faso in the north.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>In the south,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="29" SEMCAT="country" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a short Gulf of Guinea coast, on which the capital Lomé is located. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

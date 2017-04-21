@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="712">
+	<TITLE>Saraghrar</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Saraghrar</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the fourth highest independent peak in the Hindu Kush. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The entire Saraghrar massif</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a huge, irregular stretched plateau at elevation around 7,000 m (22,966 ft), lying above vertical granite and ice faces, which protect </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> all around. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> distinct summits are poorly identified, and information gathered from expeditions that have visited the area is often misleading. The main summits are: NE summit (7349m), NW summit (7300m), SW summit (7148m), S summit (7307m) and SE summit (7208m). To date (2005), the NW summit is the only unclimbed peak of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the massif</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TEXT ID="485">
+	<TITLE>Mount Melbourne</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Melbourne</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a massive volcanic cone of great beauty, surmounting the projection of the coast between Wood Bay and Terra Nova Bay, in Victoria Land of Antarctica.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Discovered in 1841 by James Clark Ross, who named </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> for Lord Melbourne, British Prime Minister when the expedition was being planned.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Melbourne</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an active volcano and </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is undissected by glaciation. Many young cones dot the flanks and </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> may have erupted as recently as during the 18-19th Century. Fumarolic activity is found on the southern rim of the summit crater and along a NNE-SSW line cutting through the summit region.</STRING>
+	</PARAGRAPH>
+</TEXT>

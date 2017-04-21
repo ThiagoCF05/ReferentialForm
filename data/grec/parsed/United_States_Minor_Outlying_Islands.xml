@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<TEXT ID="1406">
+	<TITLE>United States Minor Outlying Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The United States Minor Outlying Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, a statistical designation defined by ISO 3166-1, consists of nine insular United States possessions:</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>All of </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">these islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are in the Pacific Ocean except Navassa Island, which is in the Caribbean Sea. Palmyra Atoll is the only incorporated territory of the above. Currently, none of </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">them</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has any permanent inhabitants. Most recently, the census of population of 1980 gives population figures for three of </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>: Johnston Atoll (327), Midway Atoll (453), and Wake Island (302). The following censuses of 1990 and 2000 only note that there was no indigenous population, which was of course also true for all previous censuses.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">They</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are grouped together entirely as a statistical convenience. </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">They</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are not administered collectively, nor do </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">they</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> share a single cultural or political history beyond being currently uninhabited islands under the sovereignty of the United States.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">They</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are collectively represented by the ISO 3166-1 alpha-2 code UM. </STRING>
+		<REFERENCE ID="9" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Their</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> common Internet country code top-level domain (ccTLD) is .um.</STRING>
+	</PARAGRAPH>
+</TEXT>

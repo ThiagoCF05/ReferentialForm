@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="301">
+	<TITLE>Maipo (volcano)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Maipo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a stratovolcano in the Andes, lying on the border between Argentina and Chile.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located 90 km (55 miles) south of Tupungato and about 100 km (60 miles) southeast of Santiago. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Maipo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> retains a symmetrical, conical volcanic shape, unlike many of the other nearby peaks, making  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> the best known peak in the region, though  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is not the highest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>(Nearby Castillo is 5,485 m high.)</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

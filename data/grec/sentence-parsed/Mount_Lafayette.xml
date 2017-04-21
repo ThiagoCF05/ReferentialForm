@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<TEXT ID="465">
+	<TITLE>Mount Lafayette</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Lafayette</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a 5,260' mountain at the northern end of the Franconia Range in the White Mountains of New Hampshire.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the most popular day-hike destinations in the White Mountain National Forest due to spectacular views at  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit and  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> location beside Interstate 93.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The upper portion of  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Alpine Zone, an area of little vegetation characterized by rock fields and harsh weather. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>A variety of trails lead up over 3,000 vertical feet (900 m) to  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> exposed summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The Greenleaf Trail begins at the parking lot for the Cannon Mountain tramway and ascends to the Appalachian Mountain Club's Greenleaf Hut, then continues to the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The Bridle Path trail follows a western spur ridge of  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lafayette</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> from Lafayette Place Campground on Interstate 93 past Greenleaf Hut and joins the Greenleaf Trail, reaching the summit 1.1 miles (1.8 km) after the hut.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The peak is at the junction of the Garfield Ridge Trail, which follows the ridge northeast to Mt.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>Garfield, and the Franconia Ridge Trail, which leads south to Mts.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<STRING>Lincoln, Liberty, and Flume.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.7">
+			<STRING>Both the Garfield Ridge Trail and the Franconia Ridge Trail form part of the Appalachian Trail. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>A very popular hike is to make a loop combining the three most notable summits of the Franconia Range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The loop starts with the Old Bridle Path to the AMC Greenleaf Hut.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>From there, one takes the Greenleaf Trail to the summit of  </STRING>
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Lafayette</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Turning south along the Franconia Ridge Trail, one passes over Mount Lincoln and Little Haystack, then descends via the Falling Waters Trail, which connects back with the beginning of the Old Bridle Path.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING>This loop is 8.9 miles long, with a cumulative vertical elevation gain of about 3900 feet. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Lafayette</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest point in the Franconia Range, a line of peaks along the east side of Franconia Notch.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest peak in New Hampshire outside of the Presidential Range, ranking sixth in elevation on the list of New Hampshire four-thousand footers and fourth in topographic prominence on the New England Fifty Finest list. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>On the western side,  </STRING>
+			<REFERENCE ID="11" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lower slopes lie inside Franconia Notch State Park.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>The remainder of  </STRING>
+			<REFERENCE ID="12" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies within the White Mountain National Forest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.3">
+			<STRING>The summit marks the western border of the Pemigewasset Wilderness Area within the WMNF. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

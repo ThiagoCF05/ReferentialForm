@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1284">
+	<TITLE>Heard Island and McDonald Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Heard Island and McDonald Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (HIMI ) are uninhabited, barren islands located in the Southern Ocean at 53°00'S,73°00'E, about two-thirds of the way from Madagascar to Antarctica. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">They</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> have been part of Australia since 1947, and </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> contain the only two active volcanoes in Australian territory, one of which, Mawson Peak, is the highest Australian mountain. </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The group's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> size is 372 km² in area.</STRING>
+	</PARAGRAPH>
+</TEXT>

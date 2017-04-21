@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="696">
+	<TITLE>Rolling Thunder Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rolling Thunder Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is in the northern Teton Range, Grand Teton National Park, Wyoming. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located northwest of Moran Bay on Jackson Lake and access to </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> involves navigating through several miles of backcountry areas of Snowshoe Canyon where there are no maintained trails.</STRING>
+	</PARAGRAPH>
+</TEXT>

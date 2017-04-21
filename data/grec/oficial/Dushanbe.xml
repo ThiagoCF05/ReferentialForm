@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TEXT ID="1056">
+	<TITLE>Dushanbe</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dushanbe</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Tajik: Душанбе, دوشنبه), population 562,000 people (2000 census), is the capital of Tajikistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The name is derived from the Persian word for &quot;Monday&quot; (du &quot;two&quot; + shamba or shanbe &quot;day&quot;, lit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>&quot;day two&quot;) and refers to the fact that  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="40" SEMCAT="city" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a popular Monday marketplace.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="47" PARAGRAPH-RECENCY="6" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dushanbe</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 38°33' North, 68°48' East. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="1371">
+	<TITLE>Sierra Leone</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sierra Leone</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Republic of Sierra Leone, is a country in West Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is bordered by Guinea on the north and Liberia on the south, with the Atlantic Ocean on the west. The name Sierra Leone was adapted from the Portuguese name for the country: Serra Leoa. The literal meaning is &quot;Lioness Mountain.&quot; During the 1700s </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sierra Leone</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was an important centre of the Transatlantic Slave Trade. The capital Freetown was founded in 1792 by the Sierra Leone Company as a home for Black Britons who had fought for the British in the American Revolutionary War.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>In 1808, Freetown became a British Crown Colony, and in 1896, the interior of </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became a British Protectorate. The Crown Colony and Protectorate joined and gained independence in 1961. From 1991 to 2000, </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> suffered greatly under a devastating civil war. To end the civil war, UN and British forces disarmed 17,000 militia and rebels, in the largest UN peacekeeping act of the decade. The average life span of a Sierra Leonean is 38 years for men and 42 years for women.</STRING>
+	</PARAGRAPH>
+</TEXT>

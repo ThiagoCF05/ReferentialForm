@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<TEXT ID="676">
+	<TITLE>Quandary Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Quandary Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a fourteener in the US state of Colorado, the highest peak in the Tenmile Range (a northern extension of the Mosquito Range). </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the 12th, 13th, or 14th highest peak in Colorado, depending on how </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is ranked. (</STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has nearly the same elevation as Castle Peak and Mount Evans.) </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies in Summit County and in the Arapaho National Forest, about 6 mi (10 km) south-southwest of the town of Breckenridge.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The standard route up </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Quandary Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a trail hike (class 1), starting from a trailhead about 1 mi (1.6 km) north of Hoosier Pass on the east side of </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. Hence </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a popular fourteener to climb, because of the relatively easy ascent, as well as </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> proximity to Denver and Breckenridge. </STRING>
+		<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Quandary Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also popular with backcountry skiers and snowboarders. The gentle ascent makes for an easy climb from the east, with less danger from avalanche than on many other fourteeners, and the other slopes of </STRING>
+		<REFERENCE ID="11" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are steep and appeal to expert backountry skiers.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>One such steep ski mountaineering route is the Cristo Couloir.</STRING>
+	</PARAGRAPH>
+</TEXT>

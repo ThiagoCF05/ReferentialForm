@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TEXT ID="431">
+	<TITLE>Mount Hayes</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hayes</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest mountain in the eastern Alaska Range. Despite not being a fourteener, </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the largest peaks in the United States in terms of rise above local terrain. For example, the Northeast Face rises 8,000 feet (2,440m)in approximately 2 miles (3.2km). In terms of topographic prominence, </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hayes</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the top 75 peaks in the world.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hayes</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first climbed in 1941 by Bradford Washburn, Barbara Washburn, Benjamin Ferris, Sterling Hendricks, Henry Hall, and William Shand, via the North Ridge.Today's standard route is the East Ridge (Alaska Grade 2+). </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hayes</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is not frequently climbed due to </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> remoteness and the resulting access difficulties.</STRING>
+	</PARAGRAPH>
+</TEXT>

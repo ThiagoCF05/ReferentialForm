@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="392">
+	<TITLE>Mount Crillon</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Crillon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a high peak of the Fairweather Range, the southernmost part of the Saint Elias Range. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies southeast of Mount Fairweather, in the promontory between the Gulf of Alaska and Glacier Bay. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is included in Glacier Bay National Park. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was named after Felix-Francois-Dorothee de Bretton, Comte de Crillon, by his friend, the French explorer Jean Francois de Galaup de la Perouse.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="833">
+	<TITLE>Sierra Velluda</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sierra Velluda</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a massive Pleistocene stratovolcano located immediately southwest of the Antuco volcano, in the Bío-Bío Region of Chile.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The heavily glaciated mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has two main summits and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="7" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the tallest mountain in Laguna del Laja National Park. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

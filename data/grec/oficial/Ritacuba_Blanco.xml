@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TEXT ID="693">
+	<TITLE>Ritacuba Blanco</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ritacuba Blanco</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest peak of Cordillera Oriental, in the Andes Mountains of Colombia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The summit is accessible from the west via the town of El Cocuy, the village of Guicán and the hamlet of Las Cabaňas.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The hike is fairly easy, but weather is not reliable, and a glacier must be crossed.Because of global warming,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="60" PARAGRAPH-RECENCY="45" SEMCAT="mountain" SENTENCE-POSITION="20" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Ritacuba Blanco</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> glacier is melting at very high rates, backing down 25 linear mts per year; same is happening at amazing speeds to all other snow-covered tropical mountains in Colombia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>In 1950,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="91" PARAGRAPH-RECENCY="31" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> glacier extended down to 4,500 meters above sea level height; in January 2007 it lowest point was at 4,800 meters above sea level.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>If this melting rate continues,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="120" PARAGRAPH-RECENCY="29" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Ritacuba Blanco's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> glacier is expected to disappear before 2025. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

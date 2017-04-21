@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<TEXT ID="1251">
+	<TITLE>Cuba</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cuba</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Republic of Cuba (Spanish: Cuba or República de Cuba, IPA: [IPA: [re'puβlika ðe ˈkuβa]]), consists of the island of Cuba (the largest of the Greater Antilles), the Isle of Youth and adjacent small islands. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cuba</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the northern Caribbean at the confluence of the Caribbean Sea, the Gulf of Mexico and the Atlantic Ocean. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cuba</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is south of the eastern United States and the Bahamas, west of the Turks and Caicos Islands and Haiti and east of Mexico. The Cayman Islands and Jamaica are to the south.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cuba</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the most populous country in the Caribbean. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> culture and customs draw from several sources including the period of Spanish colonialism, the introduction of African slaves, and to a lesser extent, </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> proximity to the United States. </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The island</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a tropical climate that is moderated by the surrounding waters; the warm currents of the Caribbean Sea and </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> location between water bodies also make </STRING>
+		<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cuba</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> prone to frequent hurricanes.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEXT ID="398">
+	<TITLE>Mount Democrat</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Democrat</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a fourteener in the U.S. state of Colorado, located approximately 1 mile (1.6 km) west of Mount Lincoln, in the Mosquito Range. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies in northwestern Park County, about 2 miles southeast of the town of Climax. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is often climbed together with Mount Lincoln and nearby Mount Bross.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>For more information on this group of peaks, including access issues, see Mount Lincoln.</STRING>
+	</PARAGRAPH>
+</TEXT>

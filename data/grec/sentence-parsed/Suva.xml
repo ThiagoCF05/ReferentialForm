@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="1175">
+	<TITLE>Suva</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Suva</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital city of Fiji.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located on the southeast coast of the island of Viti Levu, in the division of Central Fiji, of which  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the administrative centre.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Suva</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became the capital of Fiji in 1877 when the geography of former main Kaivalagi (European) settlement at Levuka on the island of Ovalau proved too restrictive.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>At the 1996 census, the last to date,  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the city of Suva</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> had a population of 77,366 .</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Including independent suburbs, the population of the Greater Suva urban area was 167,975 at the same census . </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

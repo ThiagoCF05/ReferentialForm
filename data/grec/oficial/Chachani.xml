@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<TEXT ID="81">
+	<TITLE>Chachani</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado Chachani</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest of the volcanoes near the city of Arequipa in southern Peru.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name means “skirt” in Quechua, and a female character is normally attributed to  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="15" SENTENCE-RECENCY="14" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in local legends. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Because of the very low precipitation in the Arequipa area,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Chachani</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> does not have a permanent ice cap or glaciers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The ascent to the summit is therefore non-technical, and can be attempted by inexperienced climbers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Climbing  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="26" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Chachani</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is popular with tourists, and many tour agencies in Arequipa offer guided trips to the summit, though the altitude is considered challenging for those who are not fully acclimated. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is normally climbed from  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="5" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="5" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> northern side, which is reached by four-wheel drive vehicle, turning off from the main highway near Pampas Cañahuas.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Base camp is at approximately 5,200 metres.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Climbers cross the face of adjacent mountains El Angel and Fatima before ascending to the summit of  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="49" PARAGRAPH-RECENCY="43" SEMCAT="mountain" SENTENCE-POSITION="18" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="yes" HEAD="nominal" TYPE="pronoun">Chachani itself</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The standard route requires crampons and an ice axe, but does not require roping up, as there are no crevasses on  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="22" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Chachani</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Two traverses over relatively steep terrain constitute the main challenges on the way to the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>The final push to the summit is a steep scree slope, which provides for a fast descent back to the first traverse. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>Average total climb time from base camp ranges from six to eight hours, with a two to three hour descent. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

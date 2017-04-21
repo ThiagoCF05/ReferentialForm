@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TEXT ID="122">
+	<TITLE>Devils Tower National Monument</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Devils Tower</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Lakota: Mato Tipila) is a monolithic igneous intrusion or volcanic neck located in the Black Hills near Hulett and Sundance in Crook County, northeastern Wyoming, above the Belle Fourche River.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="31" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> rises dramatically 1267 feet (386 m) above the surrounding terrain and the summit is 5112 feet (1558 m) above sea level. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Devils Tower</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the first declared United States National Monument, established on September 24 1906 by President Theodore Roosevelt.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The Monument's boundary encloses an area of 1347 acres (5.45 km²). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>In recent years about 1% of the Monument's 400,000 annual visitors climb  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Devils Tower</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="1" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The monolith</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> featured prominently in the 1977 film Close Encounters of the Third Kind. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

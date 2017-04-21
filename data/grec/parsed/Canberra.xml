@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<TEXT ID="1035">
+	<TITLE>Canberra</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canberra</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the capital city of Australia and with a population of just over 325,000 people, </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is Australia's largest inland city. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located at the northern end of the Australian Capital Territory, 300 kilometres (190 mi) southwest of Sydney, and 650 kilometres (400 mi) north-east of Melbourne. The site of </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canberra</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was selected for the location of the nation's capital in 1908 as a compromise between Sydney and Melbourne, the two largest cities. </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is unusual among Australian cities as an entirely purpose-built, planned city. Following an international contest for </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the city's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> design, a design by Chicago architect Walter Burley Griffin was selected and construction commenced in 1913. </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The city's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> design was heavily influenced by the garden city movement and incorporates significant areas of natural vegetation that have earned </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canberra</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> the title &quot;bush capital&quot;. Although the growth and development of </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canberra</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was hindered by the World Wars and the Great Depression, </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> emerged as a thriving city after World War II.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>As the seat of the government of Australia, </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canberra</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the site of Parliament House, the High Court of Australia and numerous government departments and agencies. </STRING>
+		<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the location of several social and cultural institutions of national significance. The federal government contributes the largest percentage of Gross State Product and is the largest employer in </STRING>
+		<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canberra</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. </STRING>
+		<REFERENCE ID="14" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canberra</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also a popular destination for domestic and international tourists.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Most Australians pronounce </STRING>
+		<REFERENCE ID="15" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the city's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name in two syllables as either [IPA: /ˈkæn.bɹə/] or [IPA: /ˈkæm.bɹə/] ('Can-bra' or 'Cam-bra'). It is also less commonly known as [IPA: /ˈkæn.bə.ɹə/] or [IPA: /kæn.ˈbe.ɹə/]. The inhabitants are referred to as [IPA: /kæn.ˈbe.ɹəns/] ('Canberrans').</STRING>
+	</PARAGRAPH>
+</TEXT>

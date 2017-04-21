@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TEXT ID="1799">
+	<TITLE>Colorado River (Texas)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Colorado River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the 18th longest river in the United States. </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The 862 mile long river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> flows generally southeast from Dawson County through Marble Falls, Austin, Bastrop, Smithville, La Grange, Columbus, and Bay City before emptying into the Gulf of Mexico at Matagorda Bay. It is this confusion as well as an alleged mapping error that is believed to have led to </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> misnaming. </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an important source of water for farming, cities, and electrical power production. Major man-made reservoirs on </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> include Lake Marble Falls, Lake Buchanan, Inks Lake, Lake LBJ, Lake Travis, Lake Austin, and Town Lake in Austin. Collectively, these lakes are known as the Highland Lakes. In addition to power plants operating on each of the major lakes, waters of </STRING>
+		<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Colorado</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are used for cooling the South Texas Nuclear Project, near Bay City.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Flood control and use of </STRING>
+		<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Colorado River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is managed by three agencies established by the Texas Legislature, the Upper Colorado River Authority, Central Colorado River Authority, and Lower Colorado River Authority. There are 11 major reservoirs along </STRING>
+		<REFERENCE ID="8" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Colorado River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="306">
+	<TITLE>Mammoth Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mammoth Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a large lava dome complex  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="7" SEMCAT="mountain" SENTENCE-POSITION="8" SENTENCE-RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">that</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies to the west of the town of Mammoth Lakes, California in the Inyo National Forest. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mammoth Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is home to the Mammoth Mountain Ski Area which is notable in that it gets an unusually large amount of snow compared to other Eastern Sierra peaks, due to  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="30" SEMCAT="mountain" SENTENCE-POSITION="31" SENTENCE-RECENCY="30" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mammoth Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lying in a low gap in the Sierra crest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>In the summer months the ski gondolas are used by mountain bikers and tourists who wish to get a spectacular summit view of Long Valley Caldera directly to the east and Sierra peaks to the west, south and north. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1512">
+	<TITLE>Ernest Rutherford</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ernest Rutherford</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, 1st Baron Rutherford of Nelson, OM, PC, FRS (30 August 1871 - 19 October 1937), was a nuclear physicist from New Zealand. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was known as the &quot;father&quot; of nuclear physics, </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> pioneered the orbital theory of the atom, in </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> discovery of </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rutherford</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> scattering off the nucleus with the gold foil experiment.</STRING>
+	</PARAGRAPH>
+</TEXT>

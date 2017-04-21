@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="444">
+	<TITLE>Mount Jefferson (Oregon)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Jefferson</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an inactive stratovolcano in the Cascade Volcanic Arc, the Cascade Range and </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the second-highest mountain in Oregon. Situated in the far northeastern corner of Linn County about 60 miles (96 km) east of Corvallis, </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Jefferson</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is in a rugged wilderness and </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is thus one of the hardest volcanoes to reach in the Cascades (logging road 1044 does come within 4 miles (6 km) of the summit, however). Many people consider </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Jefferson's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> craggy, deeply glacially-scarred appearance to be especially beautiful and photogenic. </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has therefore frequently served as a backdrop for automobile and alcohol advertisements in the United States.</STRING>
+	</PARAGRAPH>
+</TEXT>

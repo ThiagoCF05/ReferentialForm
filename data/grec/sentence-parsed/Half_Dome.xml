@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="203">
+	<TITLE>Half Dome</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Half Dome</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a granite dome in Yosemite National Park, located at the eastern end of Yosemite Valley — possibly Yosemite's most familiar sight.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The granite crest</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> rises more than 4737 ft above the valley floor. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

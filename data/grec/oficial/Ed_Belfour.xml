@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="1499">
+	<TITLE>Ed Belfour</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Edward John Belfour</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born April 21, 1965 in Carman, Manitoba, Canada) is an NHL goalie  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="13" SEMCAT="person" SENTENCE-POSITION="14" SENTENCE-RECENCY="13" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> currently plays for the Florida Panthers of the National Hockey League. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">&quot;The Eagle&quot;</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was born in Carman, Manitoba and  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="7" SEMCAT="person" SENTENCE-POSITION="8" SENTENCE-RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> grew up playing hockey.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="5" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> played junior hockey for the Winkler Flyers before going to the University of North Dakota where  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="17" SEMCAT="person" SENTENCE-POSITION="18" SENTENCE-RECENCY="17" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> helped the school win the NCAA championship in the 1986-87 season.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The following year,  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="15" SEMCAT="person" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Belfour</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> signed as a free agent with the Chicago Blackhawks, alternating time between them and the Saginaw Hawks of the International Hockey League. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

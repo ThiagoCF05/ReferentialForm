@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="695">
+	<TITLE>Rockchuck Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rockchuck Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the Teton Range, Grand Teton National Park, Wyoming. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is immediately west of String Lake and south of Paintbrush Canyon. The summit is a half mile (.8 km) north of Mount Saint John.</STRING>
+	</PARAGRAPH>
+</TEXT>

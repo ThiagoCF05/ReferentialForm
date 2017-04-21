@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<TEXT ID="1797">
+	<TITLE>Chenab River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Chenab River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Punjabi: ਚਨਾਬ], [IAST: canāb], [Urdu: چناب], [Hindi: चनाब] literally 'Moon(Chen) River(ab)') is formed by the confluence of the Chandra and Bhaga rivers at Tandi located in the upper Himalayas, in the Lahaul District of Himachal Pradesh, India.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>In  </STRING>
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> upper reaches  </STRING>
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also known as the Chandrabhaga.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flows through the Jammu region of Jammu and Kashmir into the plains of the Punjab, forming the boundary between the Rechna and Jech interfluves (Doabs in Persian).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is joined by the Jhelum River at Trimmu, and then by the Ravi River.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> then merges with the Sutlej River near Uch Sharif to form the Panjnad ('Five Rivers'), which joins the Indus at Mithankot.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>The total length of  </STRING>
+			<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Chenab</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is approximately 960 kilometres.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>The waters of  </STRING>
+			<REFERENCE ID="8" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Chenab</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are allocated to Pakistan under the terms of the Indus Waters Treaty. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="9" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was known to Indians in Vedic period as Ashkini or Iskmati and as Acesines to the Ancient Greeks.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>In 325 BC, Alexander the Great allegedly founded the town of Alexandria on Indus (present day Uch Sharif or Mithankot or Chacharan) at the confluence of the Indus and the combined stream of Punjab rivers (currently known as the Panjnad River). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="10" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Chenab</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has the same place in the consciousness of the people of the Punjab, as, say the Rhine holds for the Germans, or the Danube for the Austrians and the Hungarians.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="11" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the iconic river around  </STRING>
+			<REFERENCE ID="12" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> Punjabi consciousness revolves, and  </STRING>
+			<REFERENCE ID="13" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> plays a prominent part in the tale of Heer Ranjha, the Punjabi national epic. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

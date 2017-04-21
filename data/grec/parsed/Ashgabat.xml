@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="999">
+	<TITLE>Aşgabat</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Aşgabat</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Turkmen: Aşgabat]; [Persian: عشق آباد], UniPers: Ešq-âbâd; [Russian: Ашхаба́д] - Ashkhabád) also spelled as Ashgabat, Ashkabat, Ashkhabad, Ashgabad, is the capital city of Turkmenistan, a former Soviet republic. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Aşgabat</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a population of 695,300 (2001 census estimate) and </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is situated between the Kara Kum desert and the Kopet Dag mountain range. The name is believed to derive from the Persian Ashk-abad meaning &quot;the City of Arsaces&quot;. Another explanation is that the name is a corruption of the Persian Eshq (Love) + abad (cultivated place or city), and hence loosely translates as &quot;The city built by/from love&quot;. </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Aşgabat</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a primarily Turkmen population, with minorities of ethnic Russians, Armenians, and Azeris.</STRING>
+	</PARAGRAPH>
+</TEXT>

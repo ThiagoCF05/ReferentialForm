@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<TEXT ID="940">
+	<TITLE>Lomé</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lomé</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, estimated population 700,000 (1998), is the capital of Togo.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Located on the Gulf of Guinea,  </STRING>
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lomé</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the country's administrative and industrial centre and its chief port.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> exports coffee, cocoa, copra, and palm kernels.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also has an oil refinery. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was founded in the eighteenth century by the Ewe people.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>In 1882,  </STRING>
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the village</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, known then as Bey Beach, became a major trading centre with the arrival of Chico and Octaviano Olympio as agents for the British trading firm A. and F. Swanzy. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bey Beach</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became the capital of Togo when the German rulers transferred capital status from Aneho in 1897.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> then grew quickly until  </STRING>
+			<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was taken by the French Army in 1914 during World War I. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lomé</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies in the extreme south west of Togo, up against the Ghanaian border.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Attractions in  </STRING>
+			<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> include Lomé Grand Market, the Togo National Museum in the Palais de Congrés, a fetish (voodoo) market, Lomé Cathedral, beaches and the former wharf. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>The University of Lomé previously called University of Benin is located in Lomé Tokoin Campus .</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>Togo's main airport is outside  </STRING>
+			<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, while the tallest building in  </STRING>
+			<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lomé</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and in all of Togo is the 2 Fevrier Sofitel Hotel building.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.3">
+			<STRING>The former railway line to Blitta runs from  </STRING>
+			<REFERENCE ID="14" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING>Neighbourhoods in  </STRING>
+			<REFERENCE ID="15" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lomé</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> include Kodjoviakopé, Nyekonakopé, Amoutivé, Tokoin and Bé.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.2">
+			<STRING>The northern neighbourhoods are almost separated from the centre by a lagoon. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

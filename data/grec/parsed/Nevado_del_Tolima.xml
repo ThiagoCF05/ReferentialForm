@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEXT ID="608">
+	<TITLE>Nevado del Tolima</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado del Tolima</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a volcano located in Tolima Department, Colombia, south of Nevado del Ruiz volcano.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The steep-sided, glacier-clad Nevado del Tolima volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> contrasts with the broad profile of Nevado del Ruiz volcano to the north. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The andesitic-dacitic younger Tolima volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> formed during the past 40,000 years, rising above and largely obscuring a 3-km-wide late-Pleistocene caldera. The summit consists of a cluster of late-Pleistocene to Holocene lava domes that were associated with thick block-lava flows on the northern and eastern flanks and extensive pyroclastic-flow deposits. The summit contains a funnel-shaped crater 200-300 m deep. Holocene activity has included explosive eruptions ranging in size from moderate to plinian. The last major eruption took place about 3600 years ago. Lava dome growth has produced block-and-ash flows that traveled primarily to the NE and SE. Minor explosive eruptions have been recorded from </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tolima</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in the 19th and 20th centuries.</STRING>
+	</PARAGRAPH>
+</TEXT>

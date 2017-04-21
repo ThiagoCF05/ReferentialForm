@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="38">
+	<TITLE>Batura Sar</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Batura Sar</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, also referred to as Batura I, is the 25th highest mountain on earth and the 12th highest in Pakistan. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest peak of the Batura Muztagh, which is the westernmost subrange of the Karakoram range. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> forms the apex of the Batura Wall, which is a continuously high part of the backbone of the Batura Muztagh.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Alternate forms of the name of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are Batura, Batura I, and Batura I East. The height is also sometimes listed as 7785m, and the Western top of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Batura I</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is of very similar height (often given as 7794m).</STRING>
+	</PARAGRAPH>
+</TEXT>

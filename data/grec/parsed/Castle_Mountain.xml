@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TEXT ID="69">
+	<TITLE>Castle Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Castle Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located within Banff National Park in the Canadian Rockies, approximately half-way between Banff and Lake Louise. While looking nearly impenetrable from the Trans-Canada Highway, </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> can be ascended from the backside on the northeastern slopes. The trail to Rockbound Lake leads hikers around the eastern side.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was named in 1858 by James Hector for </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> castle-like or fortress appearance. Following the post-war visit of U.S. president Dwight D. Eisenhower, the name was changed to Mount Eisenhower. Eventually, public pressure forced the name to be changed back in 1983 to its original but an isolated pinnacle at the southeastern end is now called Eisenhower Tower.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The massif contains several high points including Helena Ridge (2862m), Stuart Knob (2850m) and Television Peak (2970m), the latter being named for the TV repeater located on top. Technicians use a helicopter rather than the long trudge to the top.</STRING>
+	</PARAGRAPH>
+</TEXT>

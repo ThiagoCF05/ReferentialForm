@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="226">
+	<TITLE>Ichinsky</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ichinsky</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a large stratovolcano located in the central part of Kamchatka Peninsula, Russia. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is by far the highest peak of the Sredinny Range, the central range of the peninsula. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ichinsky</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also among the largest volcanoes in Kamchatka, with a volume of about 450 cubic kilometres (110 cu mi).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is capped by a 3 x 5 km (2 x 3 mile) summit caldera, within which rise two lava domes which are the highest peaks. The entire summit area is covered by a substantial ice cap, and several large glaciers descend the flanks of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the cone</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. There is ongoing fumarolic activity within the caldera.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>A dozen more dacite and rhyodacite lava domes are found on the flanks of </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> below the caldera rim. Basaltic and dacitic lava flows extand form the lower flanks, some as long as 10–15 km (6–9 miles).</STRING>
+	</PARAGRAPH>
+</TEXT>

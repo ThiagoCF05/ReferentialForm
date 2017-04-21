@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<TEXT ID="378">
+	<TITLE>Mount Charleston</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Charleston</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain of the Spring Mountains of southern Nevada, approximately 35 miles northwest of Las Vegas.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Nevada's eighth highest mountain peak, and  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is part of the Humboldt-Toiyabe National Forest, as well as the Mount Charleston Wilderness Area and the Spring Mountains National Recreation Area.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Well separated from higher peaks by large, low basins,  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the most topographically prominent peak in Nevada, and the eighth most prominent peak in the contiguous United States. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Charleston</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a year-round getaway for Las Vegas' residents and visitors, with a number of hiking trails and a modest ski area.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>,  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is snowcapped more than half the year, can be seen from parts of the Las Vegas Strip when looking toward the west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Charleston</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has nearly 200 camp sites and over 150 picnic areas, some of which are RV accessible. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The eponymous village of Mount Charleston lies at  </STRING>
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> base to the east. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> official name is Charleston Peak, and  </STRING>
+			<REFERENCE ID="11" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named by explorer John C. Frémont after his wife's home town. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>The state of Nevada issues optional automobile license plates with the caption &quot;Mt.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>Charleston&quot; and an image of  </STRING>
+			<REFERENCE ID="12" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in the background.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.3">
+			<STRING>Sales of the plate &quot;[supports] the natural environment of the Mount Charleston area through grants administered by the Nevada Division of State Lands.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

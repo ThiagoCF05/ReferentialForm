@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="495">
+	<TITLE>Mount Moulton</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Moulton</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a broad, ice-covered mountain standing 16 km (10 mi) E of Mount Berlin in the Flood Range, Marie Byrd Land. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Discovered on aerial flights by the United States Antarctic Service in 1940, and named for Richard S. Moulton, chief dog driver at West Base and a member of the survey party which sledged to the western end of the Flood Range in December 1940. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>On the northern slopes of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Moulton</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, there are steep icefalls, called the Moulton Icefalls. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TEXT ID="1012">
+	<TITLE>Beijing</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Beijing</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> [English Pronunciation] (Chinese: 北京 [Chinese Pronunciation]; Pinyin: Běijīng; [IPA: pei˨˩˦ tɕɪŋ˥˥]), a city in northern China, is the capital of the People's Republic of China (PRC). </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was formerly known in English as Peking or Peiking [English Pronunciation]. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Beijing</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also one of the four municipalities of the PRC, which are equivalent to provinces in China's administrative structure. Beijing Municipality borders Hebei Province to the north, west, south, and for a small section in the east, and Tianjin Municipality to the southeast.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Beijing</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is China's second largest city in terms of population, after Shanghai. </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a major transportation hub, with dozens of railways, roads and expressways entering and leaving </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in all directions. </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the focal point of many international flights to China. </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Beijing</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is recognized as the political, educational, and cultural center of the People's Republic of China, while Shanghai and Hong Kong predominate in economic fields.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Beijing</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the Four Great Ancient Capitals of China. </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> will also host the 2008 Summer Olympics.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<TEXT ID="1631">
+	<TITLE>Lawrence Summers</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lawrence Henry (&quot;Larry&quot;) Summers</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (born November 30, 1954) is an American economist and academic. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was Secretary of the Treasury for the last year and a half of the Clinton administration, and </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> served as the 27th President of Harvard University from 2001 to 2006.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>In three instances during </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> time as Harvard president, </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Summers</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> made remarks that touched on political &quot;hot-button&quot; controversies. Environmentalists, affirmative action advocates, and feminists took offense and brought increasing pressure on Harvard, possibly contributing to </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> resignation.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Summers</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> resigned as President of Harvard on June 30, 2006, and </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was replaced by former University President Derek Bok as acting Interim President the next day. </STRING>
+		<REFERENCE ID="9" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Summers</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has accepted an invitation to return to the University following a planned sabbatical for the 2006-07 academic year as one of Harvard's select University Professors. Separately, as announced on October 19, 2006, </STRING>
+		<REFERENCE ID="10" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became a part-time managing director of D.E. Shaw &amp; Co.</STRING>
+	</PARAGRAPH>
+</TEXT>

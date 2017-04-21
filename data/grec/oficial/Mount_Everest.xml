@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TEXT ID="413">
+	<TITLE>Mount Everest</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Everest</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, also called Chomolungma or Qomolangma () or Sagarmatha () is the highest mountain on Earth, as measured by the height of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="23" SENTENCE-RECENCY="22" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit above sea level.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="5" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="1" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="1" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is part of the Himalaya range in High Asia, is located on the border between Nepal and Tibet, China.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>By the end of the 2006 climbing season there had been 3,050 ascents to the summit by 2,062 individuals, and at least 630 more ascents in 2007.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>There have been more than 200 deaths on  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="84" PARAGRAPH-RECENCY="55" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, where conditions are so difficult that most corpses have been left where they fell; some are visible from standard climbing routes. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Climbers range from experienced mountaineers to relative novices who count on their paid guides to get them to the top.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>This means climbers are a significant source of tourist revenue for Nepal, whose government also requires all prospective climbers to obtain an expensive permit, costing up to $25,000 (USD) per person. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

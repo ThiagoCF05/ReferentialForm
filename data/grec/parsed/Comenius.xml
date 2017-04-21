@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1480">
+	<TITLE>Comenius</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">John Amos Comenius</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Czech: Jan Amos Komenský]; [German: Johann Amos Comenius]; Latin: Iohannes Comenius, I. A. Comenio;') (March 28, 1592 - November 15, 1670) was a Czech teacher, scientist, educator, and writer. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was a Unity of the Brethren/Moravian Protestant bishop, a religious refugee, and one of the earliest champions of universal education, a concept eventually set forth in </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> book Didactica magna. </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Comenius</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became known as the teacher of nations.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1689">
+	<TITLE>Paul Henderson</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Paul Henderson</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born January 28, 1943 in Lucknow, Ontario, Canada) is a retired Canadian hockey left winger  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> played 13 seasons in the National Hockey League for the Detroit Red Wings, Toronto Maple Leafs and Atlanta Flames.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Paul Henderson</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> presently works in various ministries affiliated with Campus Crusade for Christ. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

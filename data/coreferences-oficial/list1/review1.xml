@@ -1,0 +1,750 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="1" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> enjoyed reading </STRING>
+			<TARGET-REFERENCE ANIMACY="unknown" ENTITY-ID="3" ENTROPY="0.311318" GENDER="unknown" ID="1" MENTION-ID="2" NUMBER="singular" PARAGRAPH-POSITION="4" RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">Dean Koontz's book Tick Tock</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">books and novels</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">novel book by Dean Koontz</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">novel</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Ticktock</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> very much. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING> What </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="3" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> did n't enjoy doing, however, was listening to </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.463536" GENDER="neutral" ID="2" MENTION-ID="4" NUMBER="singular" PARAGRAPH-POSITION="16" RECENCY="12" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="description">a novel book by Dean Koontz</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">the book</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="other">Dean Koontz</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> on audiocassette. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="5" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> had never before listened to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="7" GENDER="neutral" MENTION-ID="6" NUMBER="singular" TYPE="description"> a book on tape </REFERENCE>
+			<STRING>, so </STRING>
+			<TARGET-REFERENCE ANIMACY="unknown" ENTITY-ID="3" ENTROPY="0.556747" GENDER="neutral" ID="3" MENTION-ID="7" NUMBER="unknown" PARAGRAPH-POSITION="30" RECENCY="14" SYNCAT="np-subj" TYPE="description">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="demonstrative">this</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> was </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="8" GENDER="neutral" MENTION-ID="8" NUMBER="singular" TYPE="name"> a first </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING> Just because </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="9" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> give </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="11" GENDER="neutral" MENTION-ID="10" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="11" NUMBER="singular" TYPE="pronoun"> my </REFERENCE>
+				<STRING> opinion of </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.541266" GENDER="neutral" ID="4" MENTION-ID="12" NUMBER="singular" PARAGRAPH-POSITION="41" RECENCY="11" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="demonstrative">this book</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="demonstrative">this novel</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">it</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="description">the book</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="description">the book</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="other">novels</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="description">book</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="description">novel</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="other">the author</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="name">Ticktock</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> on audiocassette a bad review, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="11" GENDER="neutral" MENTION-ID="13" NUMBER="singular" TYPE="pronoun"> it </REFERENCE>
+			<STRING> does not mean </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="14" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> 'm bashing </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="17" GENDER="unknown" MENTION-ID="15" NUMBER="plural" TYPE="description"> audiocassette books </REFERENCE>
+			<STRING> in general. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="16" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> 'm sure </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.2341" GENDER="neutral" ID="5" MENTION-ID="17" NUMBER="singular" PARAGRAPH-POSITION="59" RECENCY="18" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">something else</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="other">books</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="other">Koontz</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">some</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">something</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">else</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Ticktok</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> on tape has got to be </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="20" GENDER="unknown" MENTION-ID="18" NUMBER="singular" TYPE="name"> one of the worse </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="19" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> listened to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="22" GENDER="neutral" MENTION-ID="20" NUMBER="singular" TYPE="description"> the taped version </REFERENCE>
+			<STRING> a week after finishing </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.610942" GENDER="neutral" ID="6" MENTION-ID="21" NUMBER="singular" PARAGRAPH-POSITION="80" RECENCY="21" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="other">reading it</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">reading</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="other">reading</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">reading the novel</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">reading it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">reading</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, so </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.114889" GENDER="neutral" ID="7" MENTION-ID="22" NUMBER="singular" PARAGRAPH-POSITION="82" RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="description">the book</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> was still fresh in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="26" GENDER="unknown" MENTION-ID="23" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="24" NUMBER="singular" TYPE="pronoun"> my </REFERENCE>
+				<STRING> mind </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="28" GENDER="male" MENTION-ID="25" NUMBER="singular" TYPE="description">
+				<STRING> The person who read </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.425586" GENDER="neutral" ID="8" MENTION-ID="26" NUMBER="singular" PARAGRAPH-POSITION="5" RECENCY="0" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="description">the book</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="demonstrative">this Koontz novel</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="other">Dean Koontz</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="name">the Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="description">the novel</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="name">Ticktock</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> complete </STRING>
+			</REFERENCE>
+			<STRING> stripped </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="30" GENDER="unknown" MENTION-ID="27" NUMBER="singular" TYPE="description"> the personality </REFERENCE>
+			<STRING> out of </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="31" GENDER="unknown" MENTION-ID="28" NUMBER="plural" TYPE="description"> the characters </REFERENCE>
+			<STRING> by </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="32" GENDER="unknown" MENTION-ID="29" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="28" GENDER="male" MENTION-ID="30" NUMBER="singular" TYPE="pronoun"> his </REFERENCE>
+				<STRING> interpretations of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="34" GENDER="unknown" MENTION-ID="31" NUMBER="plural" TYPE="description"> the voices </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING> As </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="32" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> read </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.728954" GENDER="neutral" ID="9" MENTION-ID="33" NUMBER="singular" PARAGRAPH-POSITION="23" RECENCY="18" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">this noevl</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Ticktockt</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">the novel</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="34" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> got </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="38" GENDER="unknown" MENTION-ID="35" NUMBER="singular" TYPE="description">
+				<STRING> the impression of </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="39" GENDER="unknown" MENTION-ID="36" NUMBER="singular" TYPE="description"> the main female character </REFERENCE>
+			</REFERENCE>
+			<STRING> to be smart, clever, fun and sporadic. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="40" GENDER="unknown" MENTION-ID="37" NUMBER="singular" TYPE="description"> The reader </REFERENCE>
+			<STRING>, however, made </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="41" GENDER="unknown" MENTION-ID="38" NUMBER="plural">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="42" GENDER="female" MENTION-ID="39" NUMBER="singular" TYPE="description"> the female's </REFERENCE>
+				<STRING> voice whiny and obviously fake </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="44" GENDER="neutral" MENTION-ID="40" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="40" GENDER="male" MENTION-ID="41" NUMBER="singular" TYPE="pronoun"> His </REFERENCE>
+				<STRING> reading of </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.648272" GENDER="neutral" ID="10" MENTION-ID="42" NUMBER="singular" PARAGRAPH-POSITION="54" RECENCY="31" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="description">the book</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="other">the main character</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="description">the novel</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="description">the book</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="other">that character</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="description">a novel</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="description">the novel</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="description">the book</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="other">the female character</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="other">her</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="other">character</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Ticktock</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="description">the story</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="other">her</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> put </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.639052" GENDER="neutral" ID="11" MENTION-ID="43" NUMBER="singular" PARAGRAPH-POSITION="56" RECENCY="2" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="other">her</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="other">her</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">more</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">itit</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">me</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="other">her</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">the female character</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="other">it all</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">the story</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="other">her story</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> into </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="48" GENDER="unknown" MENTION-ID="44" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="49" GENDER="neutral" MENTION-ID="45" NUMBER="singular" TYPE="description"> a whole new perspective </REFERENCE>
+				<STRING>, and not </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="50" GENDER="unknown" MENTION-ID="46" NUMBER="singular" TYPE="name">
+					<STRING> a likeable </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="43" GENDER="unknown" MENTION-ID="47" NUMBER="singular" TYPE="name"> one </REFERENCE>
+				</REFERENCE>
+				<STRING> either </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="40" GENDER="male" MENTION-ID="48" NUMBER="singular" TYPE="pronoun"> He </REFERENCE>
+			<STRING> instead made </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.289542" GENDER="neutral" ID="12" MENTION-ID="49" NUMBER="singular" PARAGRAPH-POSITION="71" RECENCY="15" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the whole book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="other">her</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="other">her</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="other">some</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="other">her</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="other">her</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> sound ridiculous. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="50" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> am </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="male" MENTION-ID="51" NUMBER="singular" TYPE="description">
+				<STRING> a very big fan of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="58" GENDER="unknown" MENTION-ID="52" NUMBER="plural" TYPE="description">
+					<STRING> Dean </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="53" NUMBER="singular" TYPE="name"> Koontz </REFERENCE>
+					<STRING> books </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, therefore </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="54" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> would hate for </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="60" GENDER="male" MENTION-ID="55" NUMBER="singular" TYPE="description">
+				<STRING> someone who has never read or listened to </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="61" GENDER="neutral" MENTION-ID="56" NUMBER="singular" TYPE="description">
+					<STRING> a Dean </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="57" NUMBER="singular" TYPE="name"> Koontz </REFERENCE>
+					<STRING> book </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> before to pick </STRING>
+			<TARGET-REFERENCE ANIMACY="unknown" ENTITY-ID="3" ENTROPY="0.620671" GENDER="unknown" ID="13" MENTION-ID="58" NUMBER="singular" PARAGRAPH-POSITION="31" RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Tick Tock</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="other">any of his novels</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">TickTock</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="description">a book</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">this novel</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="other">up Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="demonstrative">this one</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">TIcktock</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">a novel</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">a novel</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Ticktock</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> on audiocassette as </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="63" GENDER="unknown" MENTION-ID="59" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="64" GENDER="unknown" MENTION-ID="60" NUMBER="plural" TYPE="pronoun"> their </REFERENCE>
+				<STRING> first choice </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING> Should that happen, there is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="66" GENDER="unknown" MENTION-ID="61" NUMBER="singular" TYPE="description"> a very likely chance </REFERENCE>
+			<STRING> that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="28" GENDER="male" MENTION-ID="62" NUMBER="singular" TYPE="description"> the person </REFERENCE>
+			<STRING> would never again try any piece written by </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="63" NUMBER="singular" TYPE="name"> Dean Koontz </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="64" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> suggest that if </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="71" GENDER="unknown" MENTION-ID="65" NUMBER="unknown" TYPE="pronoun"> you </REFERENCE>
+			<STRING> plan on listening to </STRING>
+			<TARGET-REFERENCE ANIMACY="unknown" ENTITY-ID="3" ENTROPY="0.469719" GENDER="unknown" ID="14" MENTION-ID="66" NUMBER="singular" PARAGRAPH-POSITION="10" RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">Dean Koontz's Tick Tock</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="description">a novel</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="description">a novel</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="description">novel</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">the novel</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">the novel</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Ticktock</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> on audiocassette that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="73" GENDER="unknown" MENTION-ID="67" NUMBER="unknown" TYPE="pronoun"> you </REFERENCE>
+			<STRING> read </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.428106" GENDER="neutral" ID="15" MENTION-ID="68" NUMBER="singular" PARAGRAPH-POSITION="16" RECENCY="6" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="description">novel</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="description">book</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> first, for </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.502788" GENDER="neutral" ID="16" MENTION-ID="69" NUMBER="singular" PARAGRAPH-POSITION="19" RECENCY="3" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="description">the printed novel</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="description">the experience</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">many of us it</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="description">the audiobook</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="description">audio</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Ticktock</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="other">the tone</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">all</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is much different even though </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.349398" GENDER="neutral" ID="17" MENTION-ID="70" NUMBER="singular" PARAGRAPH-POSITION="25" RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="description">the story</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="description">the story</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="description">the text</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="other">the words</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">most</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="description">the book</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is exactly </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="72" GENDER="unknown" MENTION-ID="71" NUMBER="unknown" TYPE="description"> the same </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="77" GENDER="unknown" MENTION-ID="72" NUMBER="unknown" TYPE="name">
+				<STRING> PS-- Please keep in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="78" GENDER="unknown" MENTION-ID="73" NUMBER="singular" TYPE="description">
+					<STRING> mind that </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="79" GENDER="unknown" MENTION-ID="74" NUMBER="plural" TYPE="description">
+						<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="75" NUMBER="singular" TYPE="pronoun"> my </REFERENCE>
+						<STRING> ratings </STRING>
+					</REFERENCE>
+					<STRING> are not for </STRING>
+					<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.430677" GENDER="neutral" ID="18" MENTION-ID="76" NUMBER="singular" PARAGRAPH-POSITION="11" RECENCY="0" SYNCAT="np-obj">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">the book itself</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="7" TYPE="other">audiobooks in general</REFEX>
+							<REFEX PARTICIPANT-ID="8" TYPE="description">the book</REFEX>
+							<REFEX PARTICIPANT-ID="11" TYPE="description">the book</REFEX>
+							<REFEX PARTICIPANT-ID="14" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="25" TYPE="description">the novel</REFEX>
+							<REFEX PARTICIPANT-ID="27" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="35" TYPE="description">novel</REFEX>
+							<REFEX PARTICIPANT-ID="39" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="43" TYPE="description">the book</REFEX>
+							<REFEX PARTICIPANT-ID="45" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="47" TYPE="description">the book</REFEX>
+							<REFEX PARTICIPANT-ID="48" TYPE="other">judgement</REFEX>
+							<REFEX PARTICIPANT-ID="49" TYPE="name">the book Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="50" TYPE="description">the book</REFEX>
+							<REFEX PARTICIPANT-ID="54" TYPE="description">the book</REFEX>
+							<REFEX PARTICIPANT-ID="57" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="60" TYPE="description">the book</REFEX>
+							<REFEX PARTICIPANT-ID="62" TYPE="description">the book</REFEX>
+							<REFEX PARTICIPANT-ID="63" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="64" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="66" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="67" TYPE="name">Ticktock</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING>, but for </STRING>
+					<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="3" ENTROPY="0.395488" GENDER="neutral" ID="19" MENTION-ID="77" NUMBER="singular" PARAGRAPH-POSITION="14" RECENCY="3" SYNCAT="np-obj" TYPE="description">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="description">the book</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="7" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="8" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="11" TYPE="description">the book / version?</REFEX>
+							<REFEX PARTICIPANT-ID="14" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="25" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="27" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="35" TYPE="other">books</REFEX>
+							<REFEX PARTICIPANT-ID="39" TYPE="description">novel</REFEX>
+							<REFEX PARTICIPANT-ID="43" TYPE="name">ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="45" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="47" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="48" TYPE="other">perspective</REFEX>
+							<REFEX PARTICIPANT-ID="49" TYPE="description">the book</REFEX>
+							<REFEX PARTICIPANT-ID="50" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="54" TYPE="description">the book</REFEX>
+							<REFEX PARTICIPANT-ID="57" TYPE="description">novel</REFEX>
+							<REFEX PARTICIPANT-ID="60" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="62" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="63" TYPE="description">novel</REFEX>
+							<REFEX PARTICIPANT-ID="64" TYPE="name">Ticktock</REFEX>
+							<REFEX PARTICIPANT-ID="66" TYPE="other">books</REFEX>
+							<REFEX PARTICIPANT-ID="67" TYPE="other">the reader</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> on audiocassette </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

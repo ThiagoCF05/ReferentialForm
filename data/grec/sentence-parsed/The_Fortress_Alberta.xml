@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TEXT ID="881">
+	<TITLE>The Fortress (Alberta)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Fortress</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain located in the Kananaskis River Valley of Kananaskis Park of the Canadian Rockies.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>When viewed from Highway 40, the north face presents a fortress like appearance.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Fortress</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> should not be confused with nearby Fortress Mountain. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

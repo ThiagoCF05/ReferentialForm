@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<TEXT ID="1516">
+	<TITLE>Ferdinand Magellan</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ferdinand Magellan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Portuguese: Fernão de Magalhães, IPA pronunciation: /[IPA: fɨɾ'nɐ̃ũ dɨ mɐɣɐ'ʎɐ̃ĩʃ]/; Spanish: Fernando or Hernando de Magallanes; Spring 1480-April 27, 1521) was a Portuguese maritime explorer  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, at the service of Spain, led the first successful attempt to sail around the entire Earth.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> did not complete  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> final, westward voyage;  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was killed during the Battle of Mactan in the Philippines.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> did, however, die farther west than the Spice Islands of Indonesia, which  </STRING>
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> had visited from the west on earlier voyages, making  </STRING>
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> one of the first individuals to cross all the meridians of the globe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="9" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became the first person to lead an expedition sailing westward from Europe to Asia and to cross the Pacific Ocean. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Of the 237 managed to return to Spain and thereby complete the circumnavigation.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>They were led by Spaniard Juan Sebastián Elcano, who took over command of the expedition after  </STRING>
+			<REFERENCE ID="10" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Magellan's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> death. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

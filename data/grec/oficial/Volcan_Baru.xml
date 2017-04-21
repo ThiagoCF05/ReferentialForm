@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TEXT ID="913">
+	<TITLE>Volcán Barú</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Volcán Barú</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (also Volcán de Chiriqui) is the tallest mountain in Panama and  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="13" SENTENCE-RECENCY="12" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is 3474 m high. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>A dormant volcano just south of the Continental Divide in the western Chiriquí Province,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="15" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is surrounded by a fertile area of cool highlands drained by the Chiriquí and Caldera rivers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The towns of Volcan and Cerro Punta can be found on  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="43" PARAGRAPH-RECENCY="28" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> western side, while Boquete is on the eastern flank. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The last major eruption of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was about 500 AD.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>There are reports and some evidence of a minor eruption around 1550 AD. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Due to  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> height and Panama's relatively short width, it is possible to see both the Pacific Ocean and Caribbean Sea from  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="20" SEMCAT="mountain" SENTENCE-POSITION="23" SENTENCE-RECENCY="20" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Volcán Barú's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> peak on a clear day. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>The occasional fall of snow has been reported on the summit, where the minimal temperature can be below 0ºC (32ºF) and the formation of frost is frequent during the dry season. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

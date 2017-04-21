@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<TEXT ID="838">
+	<TITLE>Siula Grande</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Siula Grande</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in the Cordillera Huayhuash, in the Peruvian Andes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is 6344 m high and  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a subpeak Siula Chico 6260 m high. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was made famous by the book Touching the Void by Joe Simpson, about an ascent and subsequent harrowing descent of  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> by him and Simon Yates in 1985.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The book was made into a film of the same title in 2003.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Although they ascended the West face, and thereby became the first to reach the summit by that route, they chose the North Ridge (first descended in 1936 by a German team) for their descent, which was made almost impossible by horrible weather.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>All subsequent climbers have avoided the ridge and rappelled back down the face.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>As of 2002 the south face has been unconquered. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>This is a partial list of first ascents by new routes made. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>* 1936 July 28 North Ridge by Arnold Awerzger and Erwin Schneider from Germany.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>* 1966 June 21 fourth ascent by Obster, Schulz and M. Sturm via the North ridge enroute to Siula Chico    * 1985 West Face by Joe Simpson and Simon Yates    * 1999 Peru West Face Touching The Void (new route) by Carlos Buhler.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>(Buhler's route followed the Yates/Simpson route for much of the ascent, and Buhler christened it &quot;Avoiding The Touch&quot;)    * 2001 July 17 Noches de &quot;Juerga&quot;, west face    * 2002 July 3 Northeast Face, Los Rapidos by two Slovenians - Marjan Kovac and Pavle Kozjek    * 2002 August Mammut Tracks, west face, by Rogier van Rijn and Eva Oomen </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="1696">
+	<TITLE>Peter I of Russia</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Peter the Great</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Russian: Пётр I Алексеевич or Pyotr I Alekse&amp;#769;yevich; or Peter Alexeyevich Romanov) (9 June 1672-8 February 1725 [30 May 1672-28 January 1725 O.S.]</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>) ruled Russia from 7 May (27 April O.S.)</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>1682 until  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="35" SEMCAT="person" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> death, before 1696 jointly with  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="6" SEMCAT="person" SENTENCE-POSITION="9" SENTENCE-RECENCY="6" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> weak and sickly half-brother, Ivan V.  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="49" PARAGRAPH-RECENCY="7" SEMCAT="person" SENTENCE-POSITION="16" SENTENCE-RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Peter</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> carried out a policy of &quot;Westernization&quot; and expansion that transformed Muscovite Russia into a major European power.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Vladimir Putin, the Russian president, has a portrait of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="76" PARAGRAPH-RECENCY="27" SEMCAT="person" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Peter the Great</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in his office. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

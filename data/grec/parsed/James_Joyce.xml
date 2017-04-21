@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<TEXT ID="1576">
+	<TITLE>James Joyce</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">James Augustine Aloysius Joyce</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Irish Seamus Seoighe; 2 February 1882 - 13 January 1941) was an Irish writer and poet, widely considered to be one of the most influential writers of the 20th century. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is best known for </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> landmark novel Ulysses (1922). </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> other major works are the short story collection Dubliners (1914), the novels A Portrait of the Artist as a Young Man (1916) and Finnegans Wake (1939).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Although most of </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> adult life was spent outside the country, </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Joyce's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> Irish experiences are essential to </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> writings and provide all of the settings for </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> fiction and much of their subject matter. </STRING>
+		<REFERENCE ID="9" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> fictional universe is firmly rooted in Dublin and reflects </STRING>
+		<REFERENCE ID="10" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> family life and the events and friends (and enemies) from </STRING>
+		<REFERENCE ID="11" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> school and college days. Due to this, </STRING>
+		<REFERENCE ID="12" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became both one of the most cosmopolitan and one of the most local of all the great English language modernists.</STRING>
+	</PARAGRAPH>
+</TEXT>

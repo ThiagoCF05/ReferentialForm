@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="973">
+	<TITLE>Pierre Berton</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pierre Francis Berton</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, CC, O.Ont, BA, D.Litt (July 12, 1920 - November 30, 2004) was a noted Canadian author of non-fiction, especially Canadiana and Canadian history, and  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a well-known television personality and journalist. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>An accomplished storyteller,  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Berton</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was one of Canada's most prolific and popular authors.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> wrote 50 books, including ones on popular culture, Canadian history, critiques of mainstream religion, anthologies, children's books and historical works for youth.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was credited with popularizing Canadian history. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

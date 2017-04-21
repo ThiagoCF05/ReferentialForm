@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<TEXT ID="638">
+	<TITLE>Pichincha Volcano</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pichincha</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an active volcano in the country of Ecuador, whose capital Quito wraps around  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> eastern slopes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> two highest peaks are the Guagua (15,696 feet/4,784 m), which means &quot;child&quot; in Quechua and the Rucu (15, 413 feet/4,698 m), which means &quot;old person&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The active caldera is in the Guagua, on the western side of  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Both peaks are visible from the city of Quito and are easily climbed.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Guagua is usually accessed from the village Lloa outside of Quito.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>In October of 1999,  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> erupted and  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> covered the city with several inches of ash.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Prior to that, the last major eruption was in 1660, when about a foot of ash fell on the city. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The province in which  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located takes its name from  </STRING>
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, as is the case for many of the other provinces in Ecuador (Cotopaxi, Chimborazo, Imbabura, etc).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>On May 24, 1822, in the context of the war of independence of Latin American, Patriot forces defeated a Spanish colonial army on the slopes of  </STRING>
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Pichincha</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The encounter, known as the Battle of Pichincha, sealed the independence of the lands that constitute modern Ecuador. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="186">
+	<TITLE>Grandes Jorasses</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Grandes Jorasses</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (4,208 m) is a mountain in the Mont Blanc range. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The first ascent of the highest peak of  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Pointe Walker) was by Horace Walker with guides Melchior Anderegg, Johann Jaun and Julien Grange on 30 June 1868.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The second-highest peak on  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Pointe Whymper, 4,184 m) was first climbed by Edward Whymper, Christian Almer, Michel Croz and Franz Biner on June 24 1865, using what has become the normal route of ascent and the one followed by Walker's party in 1868. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The other summits on  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are Pointe Croz (4,110 m), Pointe Margherita (4,065 m), Pointe Elena (4,045 m) and Pointe Young (3,996 m). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

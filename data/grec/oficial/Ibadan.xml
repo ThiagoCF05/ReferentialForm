@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="1069">
+	<TITLE>Ibadan</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ibadan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Èbá-Ọdàn), reputed to be the largest indigenous city in Africa south of the Sahara, is the capital of Ọyọ State.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in south-western Nigeria, 78 miles inland from Lagos and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="34" PARAGRAPH-RECENCY="12" SEMCAT="city" SENTENCE-POSITION="13" SENTENCE-RECENCY="12" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a prominent transit point between the coastal region and the areas to the north.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="16" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> population is estimated to be about 3,800,000 according to 2006 estimates.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="62" PARAGRAPH-RECENCY="12" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ibadan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> had been the centre of administration of the old Western Region, Nigeria since the days of the British colonial rule, and parts of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="86" PARAGRAPH-RECENCY="24" SEMCAT="city" SENTENCE-POSITION="25" SENTENCE-RECENCY="24" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the city's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ancient protective walls still stand till today.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The principal inhabitants of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="98" PARAGRAPH-RECENCY="12" SEMCAT="city" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are the Yorùbá. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

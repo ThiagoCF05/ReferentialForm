@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="1150">
+	<TITLE>Rabat</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rabat</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Arabic الرباط, transliterated ar-Rabāṭ or ar-Ribāṭ), population 1.2 million (2005 estimate), is the capital of the Kingdom of Morocco. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the capital of the Rabat-Salé-Zemmour-Zaer region.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located on the Atlantic Ocean at the mouth of the river Bou Regreg. On the facing shore of the river lies Salé, </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Rabat's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> bedroom community. Together the two cities account for a population of 1.3 million. </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rabat</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located at 34°1'60&quot; North, 6°49'60&quot; West (34.0333, -6.8333). Unfortunately, silting problems have diminished </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the city's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> role as a port; however, </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rabat</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and Salé still maintain relatively important textile, food processing and construction industries; some are from sweatshop labor by major multinational corporations (see Salé).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>In addition, tourism and the presence of all foreign embassies in Morocco serve to make </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rabat</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> the second most important city in the country after the larger and more economically significant Casablanca.</STRING>
+	</PARAGRAPH>
+</TEXT>

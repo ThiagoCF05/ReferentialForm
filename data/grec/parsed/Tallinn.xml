@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1178">
+	<TITLE>Tallinn</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tallinn</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (recent historical name: Reval) is the capital city and main seaport of Estonia. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located on Estonia's north coast to the Baltic Sea, 80 kilometres south of Helsinki.</STRING>
+	</PARAGRAPH>
+</TEXT>

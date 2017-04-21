@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="1313">
+	<TITLE>Maldives</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Maldives</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Republic of Maldives, is an island nation consisting of a group of atolls in the Indian Ocean. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Maldives</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are located south of India's Lakshadweep islands, and about seven hundred kilometers (435 mi) south-west of Sri Lanka. The twenty-six atolls encompass a territory featuring 1,192 islets, roughly two hundred of which are inhabited by people. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name may stand for &quot;Mountain Islands&quot; (malai in Tamil, meaning &quot;mountain&quot; and teevu in Tamil meaning &quot;island&quot;) or it may mean &quot;a thousand islands&quot;. Some scholars believe that the name &quot;Maldives&quot; derives from the Sanskrit maladvipa, meaning &quot;garland of islands&quot;, or from &quot;mahila dvipa&quot;, meaning &quot;island of women&quot;. Others believe the name means &quot;palace&quot; (from Mahal in Arabic).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Following the introduction of Islam in 1153, </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> later became a Portuguese (1558), Dutch (1654), and British (1887) colonial possession. In 1965, </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Maldives</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> obtained independence from Britain (originally under the name &quot;Maldive Islands&quot;), and in 1968 the Sultanate was replaced by a Republic. However, in 38 years, </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Maldives</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> have had only two Presidents, though political restrictions have loosened somewhat recently.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Maldives</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the smallest Asian country in terms of population, and the smallest Asian country that is a member of the United Nations. </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the smallest predominantly Muslim nation in the world, and the smallest predominantly Muslim UN member.</STRING>
+	</PARAGRAPH>
+</TEXT>

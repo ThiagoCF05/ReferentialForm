@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="609">
+	<TITLE>Nevado Mismi</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado Mismi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain peak of volcanic origin located in the Andes mountain range of Peru.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado Mismi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is about 160 km west of Lake Titicaca and 700 km southeast of Peru's capital city, Lima, in the Arequipa Region. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the highest points of Colca Canyon. There are several glaciers on </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>In 2001, it was verified that the main headwater of the Amazon River has its glacial source on </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado Mismi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. An expedition of the National Geographic Society discovered that Carhuasanta stream flowing into Río Apurímac originates on </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> northern slopes and then runs its course through other tributaries and rivers to help form the main Amazon River. The fact that the headwaters of Río Apurímac are the source of the Amazon River was confirmed by Brazilian scientists in 2007, who pointed at Quebrada Apacheta as the most probable source of the Amazon.</STRING>
+	</PARAGRAPH>
+</TEXT>

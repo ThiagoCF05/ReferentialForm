@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TEXT ID="403">
+	<TITLE>Mount Elbert</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Elbert</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest peak in the Rocky Mountains of North America. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the highest of the fourteeners in the US State of Colorado, and the high point of the Sawatch Range. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in Lake County, approximately 10 mi southwest of Leadville. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies within the San Isabel National Forest.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Elbert</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the second highest mountain in the contiguous United States, after Mount Whitney in California, and </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is but 65 ft shorter than Whitney's 14,505 feet (4,421 m).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>There are three routes up </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. The standard route ascends the peak from the east, starting from the Colorado Trail. The most difficult is the Black Cloud Trail, which takes ten to fourteen hours, depending on the pace. Nearby fourteeners include Mount Massive to the north and La Plata Peak to the south.</STRING>
+	</PARAGRAPH>
+</TEXT>

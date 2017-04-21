@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TEXT ID="131">
+	<TITLE>Doi Inthanon</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Doi Inthanon</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Thai: ดอยอินทนนท์]) is the highest mountain in Thailand.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was also known in the past as Doi Luang (meaning big mountain) or Doi Ang Ka, meaning the crow's pond top.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Near  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="23" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> base was a pond where many crows gathered.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The name Doi Inthanon was given in honour of the king Inthawichayanon, one of the last kings of Chiang Mai, who was concerned about the forests in the north and tried to preserve them.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>He ordered that after his death his remains shall be placed at  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="88" PARAGRAPH-RECENCY="55" SEMCAT="mountain" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Doi Luang</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="89" PARAGRAPH-RECENCY="1" SEMCAT="mountain" SENTENCE-POSITION="14" SENTENCE-RECENCY="1" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was then renamed. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

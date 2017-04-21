@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1319">
+	<TITLE>Mauritius</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mauritius</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (pronounced: [IPA: məˈɹɪʃəs]; [French: Maurice] [IPA: /mɔʀis/]; Mauritian Creole: Moris; Officially the Republic of Mauritius ([French: République de Maurice]), is an island nation off the coast of Africa in the southwest Indian Ocean, about 900 kilometers (560 mi) east of Madagascar and about 3,943 kilometers (2,450 mi) southwest of India. In addition to the island of Mauritius, </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the republic</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> includes the islands of St. Brandon, Rodrigues and the Agalega Islands. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mauritius</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of the Mascarene Islands, with the French island of Réunion 200 kilometers (125 mi) to the southwest. The flag of </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mauritius</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has red, blue, yellow and green stripes. The red stripe represents the struggle for independence. The blue stripe represents the ocean around the island. The yellow stripe represents the sun and golden light of independence. The green stripe represents fruitful soil and vegetation.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<TEXT ID="1260">
+	<TITLE>Eritrea</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Eritrea</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Ge'ez ኤርትራ ʾĒrtrā) is a country in northern East Africa </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> neighbours Ethiopia. The name is derived from the Latin word for Red Sea, Mare Erythraeum, itself derived from the Greek word meaning &quot;red&quot; (ερυθρός , erythros). </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is bordered by Sudan in the west, Ethiopia in the south, and Djibouti in the southeast. The east and northeast of </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> have an extensive coastline on the Red Sea, directly across from Saudi Arabia and Yemen. The Dahlak Archipelago and several of the Hanish Islands are part of Eritrea.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Eritrea</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was consolidated into a colony by the Italian government on January 1, 1890. </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The modern nation-state of Eritrea</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> gained </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> independence from Ethiopia following a thirty year war which lasted from 1961 to 1991. </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Eritrea</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is officially a parliamentary democracy consisting of six regions, but </STRING>
+		<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> currently functions as a single-party state. </STRING>
+		<REFERENCE ID="10" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Eritrea</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a multilingual and multicultural country with two dominant religions and nine nationalities, each speaking a different language. </STRING>
+		<REFERENCE ID="11" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has no official language, but </STRING>
+		<REFERENCE ID="12" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has three working languages: Tigrinya, Arabic, and English. A fourth language, Italian, is sometimes used commercially.</STRING>
+	</PARAGRAPH>
+</TEXT>

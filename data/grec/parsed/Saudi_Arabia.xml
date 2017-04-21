@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TEXT ID="1366">
+	<TITLE>Saudi Arabia</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Kingdom of Saudi Arabia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Arabic: المملكة العربية السعودية]) is the largest country on the Arabian Peninsula. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> borders Jordan on the northwest, Iraq on the north and northeast, Kuwait, Qatar, Bahrain, and the United Arab Emirates on the east, Oman on the southeast, and Yemen on the south, with the Persian Gulf to </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> northeast and the Red Sea to </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> west. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is called &quot;the land of the two holy mosques&quot;, a reference to Mecca and Medina, Islam's two holiest places. In English, </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is most commonly referred to as Saudi Arabia (pronounced /[IPA: ˈsɒdɪ]/ or /[IPA: ˈsaudɪ əˈɹeɪ̯bɪə]/), often as just Saudi by many English-speaking expatriates in the kingdom, or, less commonly (as in international football events or in </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> national press) as KSA. (Arabia is sometimes also used to refer to </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the nation</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, but the term can also refer to the entire Peninsula and its varied nations and is thus ambiguous.)</STRING>
+	</PARAGRAPH>
+</TEXT>

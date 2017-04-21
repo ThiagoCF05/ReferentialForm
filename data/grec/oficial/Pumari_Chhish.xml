@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEXT ID="670">
+	<TITLE>Pumari Chhish</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pumari Chhish</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, (or Pumarikish, Peak 11) is a high peak of the Hispar Muztagh, a subrange of the Karakoram range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies about 4km east of Khunyang Chhish, in the heart of the Hispar, north of the Hispar Glacier. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pumari Chhish</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first attempted by an Austrian group in 1974, who failed to climb or bypass the Yazghil Glacier on the north side of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="24" SEMCAT="mountain" SENTENCE-POSITION="25" SENTENCE-RECENCY="24" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>In 1979, a Japanese group from the Hokkaido Alpine Association succeeded in climbing  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="14" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> via a long route starting from the Khunyang Glacier, well to the west of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="54" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="29" SENTENCE-RECENCY="15" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>They first had to cross a significant col to access the upper Yazghil Glacier; they then ascended the north ridge of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="76" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="22" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pumari Chhish</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>According the Index, there have been no other successful ascents of  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pumari Chhish</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, and only one other attempt, on the south face, in 1999. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="361">
+	<TITLE>Mount Berlin</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Berlin</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the sixth highest volcano in Antarctica, located 16 km west of Mount Moulton in Marie Byrd Land near the eastern coast of the Ross Sea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="27" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is composed of two coalesced shield volcanoes: Marren Peak and Berlin Crater.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The volcanic structure is considered active, as steaming fumaroles have been observed near the rim of the northern and western calderas, producing fumarolic ice towers. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Discovered by the Byrd Antarctic Expedition on flights to the NE and E of Little America in November-December 1934.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Named &quot;Mount Hal Flood&quot; by Byrd, but the name Flood is now applied to the entire mountain range of which  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="21" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a part.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Named by the US-SCAN for Leonard M. Berlin, leader of the USAS party which sledged to  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="60" PARAGRAPH-RECENCY="20" SEMCAT="mountain" SENTENCE-POSITION="17" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in December 1940. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

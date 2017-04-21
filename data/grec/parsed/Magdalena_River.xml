@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<TEXT ID="1824">
+	<TITLE>Magdalena River</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Magdalena River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the principal river of Colombia, running about 1,540 kilometres (950 miles) from South to North through the western half of the country. </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> takes </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name from the biblical figure, Mary Magdalene. </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is navigable through much of </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lower reaches.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="6" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> headwaters are in the South of the country, where the Andean subranges Cordillera Central and Cordillera Oriental separate, in Huila Department. </STRING>
+		<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> then runs east of north in a great valley between the two cordilleras. </STRING>
+		<REFERENCE ID="8" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> reaches the coastal plain at about nine degrees north, then </STRING>
+		<REFERENCE ID="9" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> runs east for about 100 kilometres, then north again, reaching the Caribbean Sea at the great city of Barranquilla in the zone known as Bocas de Ceniza.</STRING>
+	</PARAGRAPH>
+</TEXT>

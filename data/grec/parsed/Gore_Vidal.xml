@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1545">
+	<TITLE>Gore Vidal</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Eugene Luther Gore Vidal</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (born October 3 1925) is a prolific, versatile American writer of novels, stage plays, screenplays, and essays, and, of late, a liberal political pundit. For nearly sixty years, </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been a public, often controversial figure in both the American literary and political scenes.</STRING>
+	</PARAGRAPH>
+</TEXT>

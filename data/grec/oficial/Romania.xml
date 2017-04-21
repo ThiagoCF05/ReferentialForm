@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TEXT ID="1358">
+	<TITLE>Romania</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Romania</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Romanian: România [IPA: /ro.mɨˈni.a/]) is a country in Southeastern Europe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="11" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Romania</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders Hungary and Serbia to the west, Ukraine and Moldova to the northeast, and Bulgaria to the south.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="19" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Romania</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a stretch of sea coast along the Black Sea, and the eastern and southern Carpathian mountains run through  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="51" PARAGRAPH-RECENCY="20" SEMCAT="country" SENTENCE-POSITION="21" SENTENCE-RECENCY="20" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> center. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Historic Bucharest (Romanian: Bucureşti /bu.kuˈreʃtʲ/) is  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="7" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> capital and largest city.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="5" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Romania</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been an active member of NATO since 2004, and  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="11" SEMCAT="country" SENTENCE-POSITION="12" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also an acceding country to the European Union.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The EU Accession Treaty was signed in early 2005, and  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="43" PARAGRAPH-RECENCY="20" SEMCAT="country" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Romania</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is due to join the European Union on January 1, 2007.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Starting on January 1, 2007,  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="60" PARAGRAPH-RECENCY="17" SEMCAT="country" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Romania</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> will have the seventh largest population and the ninth largest territory in the EU. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

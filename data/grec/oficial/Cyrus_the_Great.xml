@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TEXT ID="1485">
+	<TITLE>Cyrus the Great</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cyrus the Great</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Old Persian: Kuruš, modern Persian: کوروش, Kourosh; ca.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>576 or 590 BC -- July 529 BC), also known as Cyrus II of Persia and Cyrus the Elder, was the founder of the Persian Empire under the Achaemenid dynasty.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>As leader of the Persian people in Anshan,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="48" PARAGRAPH-RECENCY="47" SEMCAT="person" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> conquered the Medes and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="53" PARAGRAPH-RECENCY="5" SEMCAT="person" SENTENCE-POSITION="14" SENTENCE-RECENCY="5" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> unified the two separate Iranian kingdoms; as the king of Persia,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="65" PARAGRAPH-RECENCY="12" SEMCAT="person" SENTENCE-POSITION="26" SENTENCE-RECENCY="12" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> reigned over the new empire from 559 BC until  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="75" PARAGRAPH-RECENCY="10" SEMCAT="person" SENTENCE-POSITION="36" SENTENCE-RECENCY="10" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> death.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The empire expanded under  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="81" PARAGRAPH-RECENCY="6" SEMCAT="person" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> rule, eventually conquering most of Southwest Asia and much of the Indian frontier to create the largest nation the world had yet seen. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

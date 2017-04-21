@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TEXT ID="759">
+	<TITLE>Lalveri</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lalveri</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a peak of the Greater Caucasus Mountain Range in the Svaneti region of Georgia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The elevation of  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is 4,350 meters (14,268ft.)</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>above sea level.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The most accessible climbing route to the summit of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lalveri</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is through the Tsaneri Glacier. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

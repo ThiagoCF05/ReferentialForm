@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1672">
+	<TITLE>Niall Ferguson</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Niall Ferguson</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (b. April 18, 1964 in Glasgow, Scotland) is a widely published and controversial British historian of modern imperialism. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was educated as a Demy at Magdalen College, Oxford, graduating with a first class honours degree. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the Laurence A. Tisch Professor of History at Harvard University, a Senior Research Fellow of Jesus College, Oxford University and a Senior Fellow of the Hoover Institution, Stanford University. </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a specialist in financial and economic history.</STRING>
+	</PARAGRAPH>
+</TEXT>

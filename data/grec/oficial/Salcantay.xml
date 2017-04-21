@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="704">
+	<TITLE>Salcantay</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Salcantay</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Nevado Salcantay) or Salkantay (Nevado Salkantay) is the highest peak of the Cordillera Vilcabamba, part of the Peruvian Andes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="20" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Cusco Region, about 60 km west-northwest of the city of Cusco.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the 38th highest peak in the Andes, and the twelfth highest in Peru.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>However, as a range highpoint in deeply incised terrain,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="61" PARAGRAPH-RECENCY="24" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the second most topographically prominent peak in the country, after Huascarán. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

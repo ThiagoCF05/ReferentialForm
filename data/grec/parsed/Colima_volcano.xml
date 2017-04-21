@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<TEXT ID="99">
+	<TITLE>Colima (volcano)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Colima's Volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the most active volcano in Mexico, and </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has erupted more than 40 times since 1576.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Despite </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name, only a fraction of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> surface area is contained within the state of Colima; the majority of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> surface area lies just over the border in the neighboring state of Jalisco, toward the western end of the Eje Volcánico Transversal mountain range. </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is about west of Mexico City and south of Guadalajara, Jalisco.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>There are actually two peaks in the volcano complex: Nevado de Colima (4330 metres), which is older and inactive, lies about 5 kilometres north of </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the younger and very active 3860 metre Volcán de Colima</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (also called Volcán de Fuego de Colima). Since 1869-1878, a parasitic set of domes, collectively known as El Volcancito, have formed on the northeast flank of the main cone of </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Colima's volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> .</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<TEXT ID="1263">
+	<TITLE>Falkland Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Falkland Islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, also called The Malvinas, are an archipelago in the South Atlantic Ocean, located 300 miles (483 kilometres) from the coast of South America, 671 miles (1080 km) west of South Georgia and the South Sandwich Islands (Shag Rocks), and 584 miles (940 km) north of Antarctica (Elephant Island).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="49" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">They</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> consist of two main islands, East Falkland and West Falkland, together with about 700 smaller islands.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Stanley, on East Falkland, is the capital and largest city.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="77" PARAGRAPH-RECENCY="27" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are a self-governing Overseas Territory of the United Kingdom, but  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="88" PARAGRAPH-RECENCY="11" SEMCAT="country" SENTENCE-POSITION="12" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> have been the subject of a claim to sovereignty by Argentina since the early years of Argentina's independence from Spain. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>In 1982  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> were invaded by Argentina, precipitating the two-month-long undeclared Falklands War between Argentina and the United Kingdom, which resulted in the defeat and withdrawal of Argentine forces.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Since the war there has been strong economic growth in both fisheries and tourism.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The inhabitants of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="47" PARAGRAPH-RECENCY="44" SEMCAT="country" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, who are of mainly Scottish descent, are British citizens, and support British sovereignty. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

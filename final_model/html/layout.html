@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+<title></title>
+</head>
+
+<body class="container">
+<br />
+<header>
+	<h1 id="title" class="text-center"></h1>
+</header>
+<div class="text-justify" id="article">
+
+</div>
+<footer class="jumbotron text-center">
+	<form>
+		<div class="form-group">
+			<label>Coherence</label>
+			<div class="radio">
+				<label class="radio-inline">
+					<input type="radio" name="coherence" id="inlineRadio1" value="1"> Very Bad
+				</label>
+				<label class="radio-inline">
+					<input type="radio" name="coherence" id="inlineRadio2" value="2"> Bad
+				</label>
+				<label class="radio-inline">
+					<input type="radio" name="coherence" id="inlineRadio3" value="3" checked> Neither bad nor good
+				</label>
+				<label class="radio-inline">
+					<input type="radio" name="coherence" id="inlineRadio4" value="4"> Good
+				</label>
+				<label class="radio-inline">
+					<input type="radio" name="coherence" id="inlineRadio5" value="5"> Very Good
+				</label>
+			</div>
+		</div>
+		<br>
+		<div class="form-group">
+			<label>Comprehensibility</label>
+			<div class="radio">
+				<label class="radio-inline">
+					<input type="radio" name="comprehensibility" id="inlineRadio1" value="1"> Very Bad
+				</label>
+				<label class="radio-inline">
+					<input type="radio" name="comprehensibility" id="inlineRadio2" value="2"> Bad
+				</label>
+				<label class="radio-inline">
+					<input type="radio" name="comprehensibility" id="inlineRadio3" value="3" checked> Neither bad nor good
+				</label>
+				<label class="radio-inline">
+					<input type="radio" name="comprehensibility" id="inlineRadio4" value="4"> Good
+				</label>
+				<label class="radio-inline">
+					<input type="radio" name="comprehensibility" id="inlineRadio5" value="5"> Very Good
+				</label>
+			</div>
+		</div>
+		<div class="form-group">
+			<button id="button" class="btn btn-primary" disabled="disabled">Submit</button>
+			<span id="timer" class="help-block">03:00</span>
+		</div>
+	</form>
+	<br>
+	<a id="next" href="www.google.com" class="btn btn-primary">Next</a>
+</footer>
+<script type="text/javascript">
+	function startTimer(duration, display) {
+	    var timer = duration, minutes, seconds;
+	    var interval = setInterval(function () {
+	        minutes = parseInt(timer / 60, 10);
+	        seconds = parseInt(timer % 60, 10);
+
+	        minutes = minutes < 10 ? "0" + minutes : minutes;
+	        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+	        display.textContent = minutes + ":" + seconds;
+
+	        if (--timer < 0) {
+	            timer = duration;
+	            document.getElementById('button').removeAttribute('disabled');
+	            document.getElementById('timer').style.display = 'none';
+	        }
+	    }, 1000);
+	}
+
+	window.onload = function () {
+	    var fiveMinutes = 60 * 0.1,
+	        display = document.querySelector('#timer');
+	    startTimer(fiveMinutes, display);
+	};
+</script>
+</body>
+</html>

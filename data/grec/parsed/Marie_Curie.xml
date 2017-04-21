@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<TEXT ID="1645">
+	<TITLE>Marie Curie</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Marie Curie</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Polish: Maria Skłodowska-Curie, born Maria Skłodowska,November 7 1867 - July 4 1934) was a Polish-French physicist and chemist. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was a pioneer in the early field of radioactivity, later becoming the first two-time Nobel laureate and the only person with Nobel Prizes in two different fields of science (physics and chemistry). </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also became the first woman appointed to teach at the Sorbonne. </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was born a Pole in Warsaw, and </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> spent </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> early years there, but in 1891 at age 24, </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> moved to France to study science in Paris. </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> obtained all </STRING>
+		<REFERENCE ID="9" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> higher degrees and </STRING>
+		<REFERENCE ID="10" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> conducted </STRING>
+		<REFERENCE ID="11" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> scientific career there, and </STRING>
+		<REFERENCE ID="12" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became a naturalized French citizen. </STRING>
+		<REFERENCE ID="13" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> founded the Curie Institutes in Paris and in Warsaw.</STRING>
+	</PARAGRAPH>
+</TEXT>

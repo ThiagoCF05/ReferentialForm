@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<TEXT ID="1456">
+	<TITLE>Boudica</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Boudica</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (also Boudicca, formerly better known as Boadicea) (d. 60/61) was a queen of the Brythonic Celtic Iceni people of Norfolk in Eastern Britain  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="24" SEMCAT="person" SENTENCE-POSITION="25" SENTENCE-RECENCY="24" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> led a major uprising of the tribes against the occupying forces of the Roman Empire.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Upon the death of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="20" SEMCAT="person" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> husband Prasutagus, the Romans annexed his kingdom and brutally humiliated  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="56" PARAGRAPH-RECENCY="11" SEMCAT="person" SENTENCE-POSITION="16" SENTENCE-RECENCY="11" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Boudica</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="58" PARAGRAPH-RECENCY="2" SEMCAT="person" SENTENCE-POSITION="18" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> daughters, spurring  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="61" PARAGRAPH-RECENCY="3" SEMCAT="person" SENTENCE-POSITION="21" SENTENCE-RECENCY="3" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> leadership of the revolt. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>In 60 or 61, while governor Gaius Suetonius Paulinus was leading a campaign on the island of Anglesey in north Wales,  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="22" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Boudica</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> led the Iceni, along with the Trinovantes and others, in a rebellion which destroyed the former Trinovantian capital and Roman colonia of Camulodunum (Colchester), and routed the Roman Legio IX Hispana under Quintus Petillius Cerialis.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="58" PARAGRAPH-RECENCY="36" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Boudica's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> army then burned to the ground the twenty-year-old settlement of Londinium (London) and destroyed Verulamium (St Albans), killing an estimated 70,000-80,000 people.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Roman emperor Nero briefly considered withdrawing Roman forces from the island, but ultimately  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="94" PARAGRAPH-RECENCY="36" SEMCAT="person" SENTENCE-POSITION="14" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Boudica</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was defeated at the Battle of Watling Street by the heavily outnumbered forces of governor Suetonius. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The chronicles of these events, as recorded by the historians Tacitus and Dio Cassius, were rediscovered during the Renaissance and led to a resurgence of  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="26" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Boudica's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> legendary fame during the Victorian era, when Queen Victoria was portrayed as  </STRING>
+			<REFERENCE ID="11" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="13" SEMCAT="person" SENTENCE-POSITION="39" SENTENCE-RECENCY="13" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> &quot;namesake&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="12" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="2" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Boudica</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has since remained an important cultural symbol in the United Kingdom. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

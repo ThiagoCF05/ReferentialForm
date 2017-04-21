@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEXT ID="938">
+	<TITLE>Dubai</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING>Dubai (in Arabic: دبيّ, [IPA: ðʊ'bej], generally [IPA: /dʊ'baɪ/] in English) refers to either:* one of the seven emirates that make up the United Arab Emirates on the Persian Gulf, or*  </STRING>
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">that emirate's main city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, sometimes called &quot;Dubai City&quot; to distinguish  </STRING>
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> from the emirate. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Dubai is the most populous and second largest emirate of the United Arab Emirates after Abu Dhabi.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Dubai is distinct from other members of the UAE in that revenues from oil account for only 6% of its gross domestic product.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>A majority of the emirate's revenues are from the Jebel Ali Free Zone (JAFZ) and increasingly from tourism. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>With enormous construction and development in various industries, Dubai has attracted world attention through innovative real estate projects, sports events, conferences and Guinness records.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>However, this increased attention, coinciding with its emergence as a world business hub have also highlighted potential human rights quagmires concerning its largely immigrant workforce. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1331">
+	<TITLE>Netherlands Antilles</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Netherlands Antilles</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Dutch: Nederlandse Antillen), previously known as the Netherlands West Indies or Dutch Antilles/West Indies, are part of the Lesser Antilles and  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> consist of two groups of islands in the Caribbean Sea that form an autonomous part of the Kingdom of the Netherlands (none of the other Antilles use this term in their name).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The islands'</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> economy is dependent mostly upon tourism and petroleum. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

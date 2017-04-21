@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="1404">
+	<TITLE>United Arab Emirates</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The United Arab Emirates</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (also the UAE or the Emirates) is a Middle Eastern country situated in the southeast of the Arabian Peninsula in Southwest Asia on the Persian Gulf, comprising seven emirates: Abu Dhabi, Ajmān, Dubai, Fujairah, Ras al-Khaimah, Sharjah, and Umm al-Quwain.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Before 1971,  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">they</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> were known as the Trucial States or Trucial Oman, in reference of a nineteenth-century truce between Britain and several Arab Sheikhs.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders Oman and Saudi Arabia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is rich in oil. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

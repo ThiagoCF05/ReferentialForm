@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TEXT ID="1324">
+	<TITLE>Montenegro</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Montenegro</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Serbian: Црна Гора or Crna Gora, pronounced [IPA: /'t͡sr̩naː 'ɡɔra/]), officially the Republic of Montenegro (Република Црна Гора or Republika Crna Gora), is a country located in southeastern Europe. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a coast on the Adriatic Sea to the south, and </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> borders Croatia to the west, Bosnia and Herzegovina to the northwest, Serbia to the northeast and Albania to the southeast. </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> capital is Podgorica.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Independent from the late Middle Ages until 1918, </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was later a part of various incarnations of Yugoslavia and the state union of Serbia and Montenegro. Based on the results of a referendum held on May 21 2006, </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Montenegro</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> declared independence on June 3 2006. On June 28, </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Montenegro</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became the 192nd member state of the United Nations.</STRING>
+	</PARAGRAPH>
+</TEXT>

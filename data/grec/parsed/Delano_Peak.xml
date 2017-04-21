@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="115">
+	<TITLE>Delano Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Delano Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest point in the Tushar Mountains of south-central Utah. The Tushars are the third-highest range in the state, after the Uinta Mountains and the La Sal Range, though </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="yes" HEAD="nominal" TYPE="pronoun">Delano itself</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is surpassed in height by at least thirty-one other Utah peaks. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Delano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 12,169 feet (3,709 meters) high, and </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is snow-capped for much of the year.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Located in the Fishlake National Forest, </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Delano Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest point of both Beaver and Piute counties. </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is named for Columbus Delano (1809–1896), Secretary of the Interior during the Grant administration.</STRING>
+	</PARAGRAPH>
+</TEXT>

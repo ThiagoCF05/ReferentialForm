@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="340">
+	<TITLE>Mount Andrus</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Andrus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a peak 3.2 km (2 mi) SE of Mount Boennighausen in the SE extremity of Ames Range, in Marie Byrd Land, Antarctica. Mapped by USGS from surveys and U.S. Navy air photos, 1964-68. Named by US-ACAN for Lt. Carl H. Andrus, US Navy, medical officer and Officer-in-Charge of Byrd Station in 1964.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Andrus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a 4.5 km-wide caldera at </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> summit. Weak fumarolic activity was detected in 1977 at Mt. Kaufmann in the northern end of the Ames Range of which </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Andrus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the southernmost volcano.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>In an interesting side note, </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Andrus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was reportedly climbed by one Michael J. Andrus (no relation to Carl H. Andrus) in August of 2006 for the purpose of downhill skiing, which would make him the first Andrus to visit </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (though perhaps not the last). Carl H. Andrus is himself an avid mountain climber, having summited all 46 of the Adirondack range's highest peaks and having in his youth climbed the Matterhorn for the purpose of skiing down it.</STRING>
+	</PARAGRAPH>
+</TEXT>

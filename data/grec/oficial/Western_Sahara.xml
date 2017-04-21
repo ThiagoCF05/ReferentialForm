@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEXT ID="1414">
+	<TITLE>Western Sahara</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Western Sahara</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Arabic: الصحراء الغربية; transliterated: al-Ṣaḥrā' al-Gharbīyah; Spanish: Sahara Occidental) is one of the most sparsely populated territories in the world, mainly consisting of desert flatlands.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="27" PARAGRAPH-RECENCY="26" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a territory of northwestern Africa, bordered by Morocco to the north, Algeria in the northeast, Mauritania to the east and south, and the Atlantic Ocean on the west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The largest city is El Aaiún (Laâyoune), which is home to a majority of the population of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="74" PARAGRAPH-RECENCY="47" SEMCAT="country" SENTENCE-POSITION="18" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the territory</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Western Sahara</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been on the United Nations list of Non-Self-Governing Territories since the 60s when  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="15" SEMCAT="country" SENTENCE-POSITION="16" SENTENCE-RECENCY="15" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a Spanish colony. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The Kingdom of Morocco and the Polisario Front's Sahrawi Arab Democratic Republic (SADR) dispute control of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="17" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the territory</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Since a United Nations-sponsored cease-fire agreement in 1991, most of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="11" SEMCAT="country" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the territory</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been administered by Morocco, the remainder by the SADR as the Free Zone.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The SADR is recognized by 43 states, and a full member of the African Union.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Moroccan territorial integrity has been supported by members of the Arab League, and by 25 states. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

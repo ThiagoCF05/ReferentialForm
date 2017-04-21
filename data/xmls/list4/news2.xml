@@ -1,0 +1,886 @@
+<?xml version="1.0" ?>
+<TEXT GENRE="news" ID="31" TOPIC-ANIMACY="animate">
+	<TITLE>Casting Director Phyllis Huffman, 61, Dies</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ENTROPY="0.0" ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Phyllis Huffman</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>, a veteran casting director  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="2" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="5" SENTENCE-POSITION="6" SENTENCE-RECENCY="5" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">whose</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">whose</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">and</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="other">having</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">who has</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">whose</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">whose</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="other">has</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">whose</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">who had a</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">whose</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">whose</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="other">had</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">with</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="other">who had a</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">who worked in</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">his</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="other">with a</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="other">and</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> long collaboration with filmmaker Clint Eastwood included work on ``Unforgiven'' and ``Million Dollar Baby,'' his two films that won Best Picture Oscars, died Thursday in New York City after a brief illness.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ENTROPY="0.422898878319" ID="3" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="33" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Ms. Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> was 61. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>In a statement Friday, Eastwood called  </STRING>
+			<REFERENCE ENTROPY="0.271002889901" ID="4" PARAGRAPH-POSITION="7" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Huffman</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Ms huffman</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>, ``a visionary casting director with a true sense of what makes an actor right for the role.''</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>``I completely trusted Phyllis with the casting duties on all my movies,'' Eastwood said.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>``The industry has lost a true professional and all of us at Malpaso (Eastwood's production company) have lost a loved family member.''</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Born in the Bronx, N.Y.,  </STRING>
+			<REFERENCE ENTROPY="0.408906726043" ID="5" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Huffman</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">huffman</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Miss Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> graduated from Webster University in St. Louis and  </STRING>
+			<REFERENCE ENTROPY="0.294599319051" ID="6" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="9" SENTENCE-POSITION="15" SENTENCE-RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">also</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="other">later</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">she</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> worked for a time as a flight attendant on TWA. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>After moving to Los Angeles with  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="7" PARAGRAPH-POSITION="7" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">her</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> husband, actor David Huffman, in the mid-1970s,  </STRING>
+			<REFERENCE ENTROPY="0.42981558562" ID="8" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="8" SENTENCE-POSITION="15" SENTENCE-RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> started  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="9" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="2" SENTENCE-POSITION="17" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">a</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">her</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> career as a casting director at MTM.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<REFERENCE ENTROPY="0.424314662544" ID="10" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="8" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">She then</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">She then</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">Then she</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="other">Huffman then</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="other">She then</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> moved on to Paramount, where  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="11" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="6" SENTENCE-POSITION="7" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">she</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> worked for noted casting director Marion Dougherty.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.3">
+			<STRING>When Dougherty went to Warner Bros.,  </STRING>
+			<REFERENCE ENTROPY="0.403400684087" ID="12" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="14" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Huffman</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">Eastwood</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">1Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> went with her.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.4">
+			<STRING>It was there that  </STRING>
+			<REFERENCE ENTROPY="0.329124966527" ID="13" PARAGRAPH-POSITION="53" PARAGRAPH-RECENCY="8" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">she</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> began working with Eastwood.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.5">
+			<STRING>The first film  </STRING>
+			<REFERENCE ENTROPY="0.38590266189" ID="14" PARAGRAPH-POSITION="61" PARAGRAPH-RECENCY="8" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">that she</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">film</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> cast for him was ``Honkytonk Man'' in 1982.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.6">
+			<STRING>Other films  </STRING>
+			<REFERENCE ENTROPY="0.516033383498" ID="15" PARAGRAPH-POSITION="72" PARAGRAPH-RECENCY="11" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">included</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">included</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">she</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> cast for Eastwood included ``Mystic River,'' ``Midnight in the Garden of Good and Evil,'' ``A Perfect World,'' and ``Space Cowboys.''</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<REFERENCE ENTROPY="0.319771990863" ID="16" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> eventually became head of casting for Warner's television division.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.2">
+			<STRING>In television,  </STRING>
+			<REFERENCE ENTROPY="0.329124966527" ID="17" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="12" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> cast the pilot of the hit series ``Murphy Brown,'' which starred Candice Bergen. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<REFERENCE ENTROPY="0.408906726043" ID="18" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">Her</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">Her</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Huffman's</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">Her</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">Her</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">Her</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">Her</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Huffman's</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">Her</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">Her</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">Her</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">Her</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Phyllis Huffman's</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">Her</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">Her</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis'</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> life in Southern California was marred by tragedy, however.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="7.2">
+			<STRING>In February 1985,  </STRING>
+			<REFERENCE ENTROPY="0.128114324287" ID="19" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="13" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">Her</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">her</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> husband, then 40, was stabbed to death in San Diego's Balboa Park while trying to chase down a suspect in a mobile home burglary.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="7.3">
+			<STRING>The assailant, a 16-year-old Mexican national, was arrested and eventually sentenced to 26 years to life in prison. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="8">
+		<SENTENCE ID="8.1">
+			<REFERENCE ENTROPY="0.559360534702" ID="20" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Huffman</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="other">After</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="other">Later</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">After her husband's death</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">later</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="other">Tearfully</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="other">Later</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">Widowed and bereft</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="other">Openly distressed</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="other">His wife</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="description">Grief stricken</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">After</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">Later</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="description">Devestated</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>,  </STRING>
+			<REFERENCE ENTROPY="0.547726789818" ID="21" PARAGRAPH-POSITION="2" PARAGRAPH-RECENCY="1" SENTENCE-POSITION="2" SENTENCE-RECENCY="1" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Mrs. Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">Eastwood</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="description">the widow</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="other">and Clint Eastwood</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> spoke at the sentencing phase of the trial, soon moved back to New York and restarted  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="22" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="17" SENTENCE-POSITION="19" SENTENCE-RECENCY="17" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">a new</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="other">her new</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="other">in her later</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> life.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="8.2">
+			<REFERENCE ENTROPY="0.415206124139" ID="23" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="2" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">Soon, she</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> formed  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="24" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="2" SENTENCE-POSITION="3" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">her</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> own independent casting company and  </STRING>
+			<REFERENCE ENTROPY="0.310917507083" ID="25" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="6" SENTENCE-POSITION="9" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">also</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">also</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="other">yet</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="other">also</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">has</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="other">she bravely</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">she</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> continued to work for Warner Bros., Hallmark Hall of Fame and Eastwood's Malpaso Productions. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="9">
+		<SENTENCE ID="9.1">
+			<REFERENCE ENTROPY="0.209076569518" ID="26" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> also remarried and  </STRING>
+			<REFERENCE ENTROPY="0.225054072815" ID="27" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="4" SENTENCE-POSITION="5" SENTENCE-RECENCY="4" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">today</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">now</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">she</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> is survived by  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="28" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="4" SENTENCE-POSITION="9" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">her second</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">her</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> husband Jules del Vecchio; sons Mathew and Philip Huffman; step-son Matthew del Vecchio.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="9.2">
+			<REFERENCE ENTROPY="0.319771990863" ID="29" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="14" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phillis</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">She</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> is also survived by  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="30" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="5" SENTENCE-POSITION="6" SENTENCE-RECENCY="5" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">her</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> mother, Grace Grennan; a brother, Chris Grennan and sister, Christine Stiller. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

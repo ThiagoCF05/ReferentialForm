@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TEXT ID="517">
+	<TITLE>Mount Redoubt (Alaska)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Redoubt</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, or Redoubt Volcano, is an active volcano and </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest peak in the Aleutian Range on the Alaska Peninsula in Alaska. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the Chigmit Mountains (a subrange of the Aleutians), west of Cook Inlet, about 180 km (110 miles) southwest of Anchorage, Alaska.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Redoubt</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> erupted in 1902, 1966 and again in 1989. The eruption in 1989 spewed volcanic ash to a height of 14,000 m (45,000 feet) and managed to catch a KLM Royal Dutch Airlines Boeing 747 aircraft in its ash plume (flight 867 landed safely at Anchorage). The ash covered an area of about 20,000 km² (7,700 sq. miles).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Redoubt</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is not a particularly steep peak, but </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a massive mountain: </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> rises 9,000 feet (2,700 m) above the surrounding valleys to the north, south, and southeast in little over 5 miles (8 km).</STRING>
+	</PARAGRAPH>
+</TEXT>

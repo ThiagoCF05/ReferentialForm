@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<TEXT ID="1523">
+	<TITLE>Frank Whittle</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sir Frank Whittle</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, OM, KBE FRS (1 June 1907-9 August 1996) was a Royal Air Force officer </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> invented the jet engine. Due to funding and manufacturing problems and a lack of foresight on the part of the British Government in keeping sensitive patents secret, Hans von Ohain of Germany was able to beat </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> to production models but </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Whittle's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> work and tireless efforts to produce </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> designs given official lack of interest are legendary. By the end of the war, </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Whittle's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> efforts and Britain's superior high-temperature alloys resulted in engines that led the world in performance for the next decade. </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Whittle</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and Ohain met after the war and initially </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Whittle</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was angry with him as </STRING>
+		<REFERENCE ID="9" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> felt Ohain had stolen </STRING>
+		<REFERENCE ID="10" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ideas. Ohain eventually convinced </STRING>
+		<REFERENCE ID="11" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> that his work was independent and after that point the two became good friends.</STRING>
+	</PARAGRAPH>
+</TEXT>

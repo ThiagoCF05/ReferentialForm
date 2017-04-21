@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TEXT ID="822">
+	<TITLE>Red Butte</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Red Butte</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Kaibab National Forest in Coconino County, Arizona.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known to the Havasupai nation as Wii'i Gdwiisa, &quot;clenched fist mountain&quot;, and  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is regarded as a sacred site. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Red Butte</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the most notable feature on the Coconino Plateau between the San Francisco volcanic field and the Grand Canyon.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> base is formed of sandstones of the Moenkopi Formation.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Above that are strata of the Shinarump Conglomerate; the summit is capped with volcanic rocks. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>A trail leads to the summit along the west side.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The summit affords a good view of the San Francisco Peaks, but because of the slope of the Coconino Plateau, only the uppermost part of the North Rim of the Grand Canyon can be seen. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

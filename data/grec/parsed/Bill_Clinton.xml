@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1450">
+	<TITLE>Bill Clinton</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">William Jefferson Clinton</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (born William Jefferson Blythe III on August 19 1946) was the 42nd President of the United States, serving from 1993 to 2001. Before </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> election as President, </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Clinton</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> served nearly 12 years as the 50th and 52nd Governor of Arkansas. </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> wife, Hillary Rodham Clinton, is the junior United States Senator from New York, where they both reside. </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Clinton</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> founded and heads the William J. Clinton Foundation.</STRING>
+	</PARAGRAPH>
+</TEXT>

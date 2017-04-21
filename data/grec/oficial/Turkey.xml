@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<TEXT ID="1398">
+	<TITLE>Turkey</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Turkey</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Turkish: Türkiye), officially the Republic of Turkey (Türkiye Cumhuriyeti), is a Eurasian country that stretches across the Anatolian peninsula in Southwestern Asia and the Balkan region of Southeastern Europe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="30" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Turkey</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders eight countries: Bulgaria to the northwest; Greece to the west; Georgia to the northeast; Armenia, Iran and the Nakhichevan exclave of Azerbaijan to the east; and Iraq and Syria to southeast asia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>In addition,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="67" PARAGRAPH-RECENCY="36" SEMCAT="country" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders the Black Sea to the north; the Aegean Sea and the Sea of Marmara to the west; and the Mediterranean Sea to the south. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Turkey</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a democratic, secular, constitutional republic  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="7" SEMCAT="country" SENTENCE-POSITION="8" SENTENCE-RECENCY="7" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">whose</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> political system was established in 1923 after the fall of the Ottoman Empire under the leadership of Mustafa Kemal Atatürk.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="21" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a founding member of the United Nations, the OIC, the OECD and the OSCE, a member state of the Council of Europe since 1949 and of the NATO since 1952, and  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="62" PARAGRAPH-RECENCY="33" SEMCAT="country" SENTENCE-POSITION="34" SENTENCE-RECENCY="33" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is currently in accession negotiations with the European Union, being an associate member since 1964.. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Due to  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> strategic location straddling Europe and Asia,  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="7" SEMCAT="country" SENTENCE-POSITION="10" SENTENCE-RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Turkey</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been a historical crossroad between eastern and western cultures. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

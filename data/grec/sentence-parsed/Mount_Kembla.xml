@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TEXT ID="455">
+	<TITLE>Mount Kembla</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING>Mount Kembla () is a mountain in New South Wales, Australia, as well a suburb of Wollongong, which gets its name from  </STRING>
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Kembla is an Aboriginal word meaning &quot;plenty of game&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a former coal mining town and the home of the miners killed in the Mount Kembla Mining Disaster.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The township contains a local primary school, general store/post office, church and graveyard, several hundred houses and the Mount Kembla Hotel, which was built in the 1887.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The only two ways into the village are from Wollongong, up the residential/bushland Cordeaux Road, its name coming from early settlers, and over from Mount Keira down Harry Graham Drive.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>The small village of Kembla Heights is part of the suburb but to the northwest, reached by Harry Graham Drive.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>The Mount Kembla Colliery was opened in 1883.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.8">
+			<STRING>BHP Billiton is a mining/steel export company which owns substantial property on and around  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Kembla</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.9">
+			<STRING>It is currently mining at the Dendrobium site, half a kilometre west of the village.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.10">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Kembla</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is joined to the west by the Illawarra escarpment and in particular a mass with two lower summits, Kembla West (512 m) and Mount Burelli (531 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.11">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms a prominent peak pointing roughly eastwards. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

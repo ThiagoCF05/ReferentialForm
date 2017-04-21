@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="1354">
+	<TITLE>Republic of Ireland</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Republic of Ireland</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Irish: Poblacht na hÉireann]) is the official description of the sovereign state which covers approximately five-sixths of the island of Ireland, off the coast of north-west Europe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The state's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> official name is Ireland ([Irish: Éire]), and this is how international organisations and residents usually refer to  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a member of the European Union,  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a developed economy and a population of slightly more than 4.2 million.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The remaining sixth of the island of Ireland is known as Northern Ireland and is part of the United Kingdom. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

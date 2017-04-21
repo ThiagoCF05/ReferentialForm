@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TEXT ID="977">
+	<TITLE>Slavoj Žižek</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Slavoj Žižek</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (born March 21, 1949) is a Slovenian sociologist, philosopher, and cultural critic. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was born in Ljubljana, Slovenia (then part of Yugoslavia), and </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> received a D.A. in Philosophy in Ljubljana and </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> studied Psychoanalysis at the University of Paris. In 1990 </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was a candidate with the party Liberal Democracy of Slovenia for President of the Republic of Slovenia.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Žižek</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is well known for </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> use of the works of Jacques Lacan in a new reading of popular culture. </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> writes on countless topics including fundamentalism, tolerance, political correctness, globalization, subjectivity, human rights, Lenin, myth, cyberspace, postmodernism, multiculturalism, David Lynch, and Alfred Hitchcock.</STRING>
+	</PARAGRAPH>
+</TEXT>

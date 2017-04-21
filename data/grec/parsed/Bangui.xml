@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1009">
+	<TITLE>Bangui</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bangui</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the capital of, and the largest city in the Central African Republic. The majority of the population of the Central African Republic lives in the western parts of the country, near </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bangui</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

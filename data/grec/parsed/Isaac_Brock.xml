@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<TEXT ID="1567">
+	<TITLE>Isaac Brock</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Major-General Sir Isaac Brock</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> KB (6 October, 1769 - October 13, 1812) was a British Major-General and administrator. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Brock</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is best remembered as a brilliant leader and strategist for </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> actions while stationed in the Canadian colonies. </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> efforts earned </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> a knighthood, accolades, and the moniker The Hero of Upper Canada.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Brock</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was assigned to Canada in 1802, and </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became responsible for defending the territory from the United States during the War of 1812. While many in Canada and in Britain believed war could be averted, </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> began readying the army and militia for what was to come. When war broke out, the populace was prepared -- and quick victories at Fort Mackinac and Detroit crippled American invasion efforts.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>During </STRING>
+		<REFERENCE ID="9" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Sir Isaac's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> tenure </STRING>
+		<REFERENCE ID="10" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> faced desertions and near mutinies, </STRING>
+		<REFERENCE ID="11" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was injured in battle and </STRING>
+		<REFERENCE ID="12" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> nearly died from fever. </STRING>
+		<REFERENCE ID="13" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> heroics earned </STRING>
+		<REFERENCE ID="14" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> membership in the Order of the Bath, and </STRING>
+		<REFERENCE ID="15" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> had the privilege of serving alongside Lord Nelson and Tecumseh. </STRING>
+		<REFERENCE ID="16" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> death in the Battle of Queenston Heights was a crushing blow to British leadership.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TEXT ID="948">
+	<TITLE>Bulgaria</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bulgaria</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Bulgarian: Българис], [IPA: bɤlˈgarijə]), officially the Republic of Bulgaria ([Bulgarian: Република Българис], [IPA: rɛˈpubliˌkə bɤlˈgarijə]), is a country in Southeastern Europe. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> borders the Black Sea to the east, Greece and Turkey to the south, Serbia and the Republic of Macedonia to the west, and Romania to the north, mostly along the Danube.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bulgaria</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an active member of NATO and </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is joining the European Union on January 1, 2007. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been a member of the United Nations since 1955, and </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a founding member of the OSCE. As a Consultative Party to the Antarctic Treaty, </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bulgaria</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> takes part in the governing of the territories situated south of 60° south latitude.</STRING>
+	</PARAGRAPH>
+</TEXT>

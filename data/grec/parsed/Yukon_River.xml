@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TEXT ID="1857">
+	<TITLE>Yukon River</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Yukon River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a major watercourse of northwestern North America. Over half of </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies in the U.S. state of Alaska, with the other portion lying in and giving </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name to Canada's Yukon Territory. </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 3,700 km (2,300 mi) long and </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> empties into the Bering Sea at the Yukon-Kuskokwim Delta. The average flow is 6,430 m³/s (227,000 ft³/s). The total drainage area is 832,700 km² (321,500 mi²), of which 323,800 km² (126,300 mi²) is in Canada. By comparison, the total area is more than 25% larger than Texas or Alberta.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The longest river in Alaska and the Yukon Territory, </STRING>
+		<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was one of the principal means of transportation during the 1896–1903 Klondike Gold Rush. Paddle-wheel riverboats continued to ply </STRING>
+		<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> until the 1950s, when the Klondike Highway was completed.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Yukon means &quot;great river&quot; in Gwich'in. </STRING>
+		<REFERENCE ID="8" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was called Kwiguk, or &quot;large stream&quot;, in Yupik. The Lewes River is the former name of the upper course of </STRING>
+		<REFERENCE ID="9" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Yukon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, from Marsh Lake to the confluence of the Pelly River at Fort Selkirk.</STRING>
+	</PARAGRAPH>
+</TEXT>

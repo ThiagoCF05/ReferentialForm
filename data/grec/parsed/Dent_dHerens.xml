@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="118">
+	<TITLE>Dent d'Hérens</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Dent d'Hérens</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (4,171 m) is a mountain in the Pennine Alps of Italy and Switzerland.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The first ascent of </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was by Florence Crawford Grove, William Edward Hall, Reginald Somerled Macdonald, Montagu Woodmass, Melchior Anderegg, Jean-Pierre Cachat and Peter Perren on 12 August 1863. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> had been attempted a few days before by Edward Whymper, Jean Antoine Carrel and Luc Meynet but Whymper insisted that they retreat from their planned route up the west ridge because of loose rock. Whymper was annoyed that he had not chosen the line taken up the Grandes Murailles glacier and the south-west flank by Melchior Anderegg on the first ascent and later wrote:</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>This was the only mountain in the Alps that I have essayed to ascend, that has not, sooner or later, fallen to me. Our failure was mortifying... Quoted in Dumler, Helmut and Willi P. Burkhardt, The High Mountains of the Alps, London: Diadem, 1994, p. 157.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>The first winter ascent was by M. Piacenza, J. J. Carrell and G. B. Pellisier on 16 January 1910.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>The 1,300-metre north face was first explored by George Finch, T. G. B. Forster and R. Peto on August 2 1923 via the North Face Diagonal or 'Finch Route'. A traversing rather than a more directly ascending line, it avoided the main difficulties of the face; these were tackled two years later by the direct line of the 'Welzenbach Route' (Willo Welzenbach and Eugen Allwein) on 10 August 1925, which may be considered the first ascent of the face. This route was the scene of a large rescue operation on its first winter ascent on 14–17 March 1964. According to Collomb, 'a notable incident for the Zermatt rescue services.' Collomb, Robin G., Pennine Alps Central, London: Alpine Club, 1975, p. 277.  Having climbed the face and bivouacked on the summit, the combined team of German (Gerhard Deves and Leo Herncarek), Polish (Jerzy Hajdukiewicz and Krzysztof Berbeka) and Swiss (Eckhart Grassmann, Pierre Monkewitz and Dieter Naef) climbers suffered two falls, one of 200 metres, on the descent down the south-west face. The injured climbers were stuck on </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> for four days before rescue, with Berbeka later dying in hospital and Herncarek and Naef requiring amputations.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<STRING>The Aosta hut (2,781 m) is used for the normal route.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<TEXT ID="1019">
+	<TITLE>Bishkek</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bishkek</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Бишкек) is the capital of Kyrgyzstan. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a population of approximately 900,000 (2005). Originally founded in 1878 as the Russian fortress of Pishpek (Пишпек), between 1926 and 1991 </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was known as Frunze (Фрунзе), after the Bolshevik military leader Mikhail Frunze. In Kyrgyz, a Bishkek is a churn used to make fermented mare's milk (kumis), the Kyrgyz national drink.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bishkek</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, at 42°52'N,74°34'E, is situated at about 800 m altitude just off the northern fringe of the Ala-Too range, an extension of the Tien Shan mountain range, which rises up to 4,800 m and provides a spectacular backdrop to </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. North of </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, a fertile and gently undulating steppe extends far north into neighboring Kazakhstan. The Chui river drains most of the area. </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bishkek</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is connected to the Turkestan-Siberia Railway by a spur.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bishkek</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a city of wide boulevards and marble-faced public buildings combined with numerous Soviet-style apartment blocks surrounding interior courtyards and, especially outside the city center, thousands of smaller, often privately built houses. </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is laid out on a grid pattern, with most streets flanked on both sides by narrow irrigation channels that water the innumerable trees which provide shade in the hot summers.</STRING>
+	</PARAGRAPH>
+</TEXT>

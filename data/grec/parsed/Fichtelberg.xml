@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<TEXT ID="154">
+	<TITLE>Fichtelberg</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Fichtelberg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> () is a mountain with two main peaks in the middle of the Erzgebirge (English: Ore Mountains) in south-eastern Germany, in Saxony near the Czech border. At 1,214.6 meters above sea level, </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Fichtelberg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the tallest mountain in Saxony and the second highest mountain of the Ore Mountains. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> shorter peak is 1,206 meters high. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Fichtelberg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was the highest mountain of the German Democratic Republic.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Fichtelberg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> towers above the holiday and winter sports destination of Oberwiesenthal, where a cablecar system is located. The cablecar was opened in 1924, is 1,175 meters long, and has a vertical climb of 305 meters. It takes six minutes to travel from the valley to the peak of </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. The cablecar system is the most important form of transportation for the mountain area and is the oldest cablecar system of its sort in Germany. The lower half of </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has parking lots, while the upper parking lot has only limited parking spaces. For visitors, a hiking excursion, the journey with a bus or the cablecar system is highly recommended.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>On the peak of </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the Fichtelberghaus (a restaurant, cafeteria-style restaurant and a hotel) with its 31-meter-tall viewing tower. The newer portion of the building was opened in 1999, as the former Fichtelberghaus was torn down in 1967. The original Fichtelberghaus was built in 1888, but burnt down on 25 February 1963.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>On clear days, one can see to the mountains in the northern Czech Republic (the České středohoří) and into the mountains shared by Poland and the Czech Republic. The area around </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Fichtelberg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and the neighbouring Klinovec mountain are famous for winter sports providing many ski lifts and cross-country ski runs.</STRING>
+	</PARAGRAPH>
+</TEXT>

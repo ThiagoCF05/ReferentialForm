@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<TEXT ID="1700">
+	<TITLE>Plato</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Plato</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Greek: [], Plátōn, &quot;wide, broad-shouldered&quot;) (c. 427-c. 347 BCE),  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">whose</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> real name is believed to have been Aristocles, was an immensely influential ancient Greek philosopher, a student of Socrates, writer of philosophical dialogues, and founder of the Academy in Athens where Aristotle studied. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Plato</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lectured extensively at the Academy, and  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> wrote on many philosophical issues, dealing especially in politics, ethics, metaphysics, and epistemology.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The most important writings of  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Plato</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> dialogues, although some letters have come down to us under  </STRING>
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>It is believed that all of  </STRING>
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Plato's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> authentic dialogues survive.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>However, some dialogues ascribed to  </STRING>
+			<REFERENCE ID="9" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Plato</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> by the Greeks are now considered by the consensus of scholars to be either suspect (e.g., First Alcibiades, Clitophon) or probably spurious (such as Demodocus, or the Second Alcibiades).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>The letters are all considered to probably be spurious, with the possible exception of the Seventh Letter. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Socrates is often a character in  </STRING>
+			<REFERENCE ID="10" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Plato's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> dialogues.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>How much of the content and argument of any given dialogue is Socrates' point of view, and how much of it is  </STRING>
+			<REFERENCE ID="11" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Plato's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, is heavily disputed, since Socrates himself did not write anything; this is often referred to as the &quot;Socratic problem&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>However,  </STRING>
+			<REFERENCE ID="12" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Plato</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was doubtless strongly influenced by Socrates' teachings, so many of the ideas presented, at least in  </STRING>
+			<REFERENCE ID="13" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> early works, were probably borrowings or adaptations. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

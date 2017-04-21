@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<TEXT ID="1647">
+	<TITLE>Mario Lemieux</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mario Lemieux</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born October 5, 1965, in Ville Emard, Quebec, Canada) is a retired professional ice hockey centre  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> played 17 seasons for the Pittsburgh Penguins of the National Hockey League between 1984 and 2006.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was also former majority owner of the Penguins before being bought out by Research in Motion Ltd. Chairman and CEO Jim Balsillie on Friday October 6, 2006. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Despite having to overcome cancer, and chronic back injuries,  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lemieux</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is generally regarded as one of the greatest players to have played in the NHL.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> most prolific nicknames given to  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> by the media are &quot;Le Magnifique&quot; and &quot;Super Mario&quot;;  </STRING>
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> surname, &quot;le mieux&quot; also literally means &quot;The best&quot; in French.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mario Lemieux</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the youngest of three sons of Jean-Guy Lemieux and Pierrette Lemieux.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Many think that had  </STRING>
+			<REFERENCE ID="9" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lemieux</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> not missed so many games throughout  </STRING>
+			<REFERENCE ID="10" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> career due to illness and injury,  </STRING>
+			<REFERENCE ID="11" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> may have come much closer to Wayne Gretzky's records as for much of  </STRING>
+			<REFERENCE ID="12" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> career  </STRING>
+			<REFERENCE ID="13" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> averaged more points per game.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<REFERENCE ID="14" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was born on the same day as Patrick Roy, in the same Canadian province, just 200 miles apart. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

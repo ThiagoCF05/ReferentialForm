@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TEXT ID="907">
+	<TITLE>Untersberg</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Untersberg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain massif in the Alps, between Berchtesgaden, Germany and Salzburg, Austria. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is perennially popular with tourists due to  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="8" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> proximity to the city of Salzburg, less than 16 km (10 mi) to the north of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="17" SEMCAT="mountain" SENTENCE-POSITION="26" SENTENCE-RECENCY="17" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and within easy reach by bus.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>A variety of paths lead to the top, but most people use the cable car that lifts passengers over 1300m to the Geiereck peak. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The first recorded ascent of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was in the first half of the 12th century by Eberwein, a member of the Augustinian monastery at Berchtesgaden. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also lends  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="3" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="3" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its name</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> to an opera Der Untersberg written in 1829 by Johann Nepomuk (1783-1865), Baron of Poissl. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="760">
+	<TITLE>Latsga</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Latsga</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a peak of the Greater Caucasus Mountain Range in the Svaneti region of Georgia. The elevation of </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 4,019 meters (13,182ft.) above sea level. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Latsga's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> main glacier, Lekhzir, covers </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> southern slopes and portions of the adjacent valleys.</STRING>
+	</PARAGRAPH>
+</TEXT>

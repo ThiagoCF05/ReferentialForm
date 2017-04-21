@@ -1,0 +1,614 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="1" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> read </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.189281" GENDER="neutral" ID="1" MENTION-ID="2" NUMBER="singular" PARAGRAPH-POSITION="3" RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">eyes</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">eyes of the dragon</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">The Eyes of the Dragon</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="3" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> think if was wonderful. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="4" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> do n't know why </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="5" GENDER="unknown" MENTION-ID="5" NUMBER="unknown" TYPE="pronoun"> you </REFERENCE>
+			<STRING> would n't read </STRING>
+			<TARGET-REFERENCE ANIMACY="unknown" ENTITY-ID="2" ENTROPY="0.484723" GENDER="neutral" ID="2" MENTION-ID="6" NUMBER="unknown" PARAGRAPH-POSITION="17" RECENCY="14" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">it again</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">ot</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="demonstrative">this novel</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>... </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.545858" GENDER="neutral" ID="3" MENTION-ID="7" NUMBER="singular" PARAGRAPH-POSITION="18" RECENCY="1" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">The novel</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="description">The book</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="description">book</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="other">Stephen King</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="description">The plot</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="other">Steven King</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="description">The book</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="other">Stephen King</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it's</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is fantastic. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<TARGET-REFERENCE ANIMACY="unknown" ENTITY-ID="2" ENTROPY="0.644729" GENDER="male" ID="4" MENTION-ID="8" NUMBER="singular" PARAGRAPH-POSITION="21" RECENCY="3" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">This storie</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="description">The story</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="description">The novel</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Eyes of dragon</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">It's</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="description">The story</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="description">The novel</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="description">The book</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="description">The novel</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is about </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="9" GENDER="male" MENTION-ID="9" NUMBER="singular" TYPE="description">
+				<STRING> a little boy from </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="10" GENDER="unknown" MENTION-ID="10" NUMBER="plural" TYPE="description"> the mid-evil times </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="male" MENTION-ID="11" NUMBER="singular" TYPE="pronoun">
+				<STRING> He </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="12" GENDER="unknown" MENTION-ID="12" NUMBER="plural" TYPE="description">
+					<STRING> witnesses </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="13" GENDER="male" MENTION-ID="13" NUMBER="singular" TYPE="description">
+						<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="male" MENTION-ID="14" NUMBER="singular" TYPE="pronoun"> his </REFERENCE>
+						<STRING> fathers murder </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING>. </STRING>
+			</REFERENCE>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="neutral" MENTION-ID="15" NUMBER="singular" TYPE="description"> The way </REFERENCE>
+			<STRING> Stephen King writes </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.976978" GENDER="neutral" ID="5" MENTION-ID="16" NUMBER="singular" PARAGRAPH-POSITION="41" RECENCY="20" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="description">the story</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="other">novels</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="demonstrative">this novel</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">the story</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">novels</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="description">the storyline</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="other">his novels</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">eyes of the dragon</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="description">fantasy</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">The Eyes of the Dragon</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, is just fantastic. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="neutral" MENTION-ID="17" NUMBER="singular" TYPE="pronoun"> It </REFERENCE>
+			<STRING> is like </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="19" GENDER="unknown" MENTION-ID="18" NUMBER="unknown" TYPE="pronoun"> you </REFERENCE>
+			<STRING> are really there. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="19" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> started to read </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.585717" GENDER="neutral" ID="6" MENTION-ID="20" NUMBER="singular" PARAGRAPH-POSITION="56" RECENCY="15" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">The Eyes of the Dragon and</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">eyes of the dragon</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">late</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Eyes of a Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="demonstrative">this novel</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="other">it and</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="other">it and</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="21" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> could n't put </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.247482" GENDER="neutral" ID="7" MENTION-ID="22" NUMBER="singular" PARAGRAPH-POSITION="60" RECENCY="4" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> down. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.8">
+			<STRING> Not unless </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="23" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> had to go to school or to bed. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.9">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="24" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> recommend </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.618686" GENDER="neutral" ID="8" MENTION-ID="25" NUMBER="singular" PARAGRAPH-POSITION="75" RECENCY="15" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="demonstrative">this book</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="27" GENDER="unknown" MENTION-ID="26" NUMBER="plural" TYPE="description"> many people </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="27" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> think that if </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="29" GENDER="unknown" MENTION-ID="28" NUMBER="unknown" TYPE="pronoun"> you </REFERENCE>
+			<STRING> are reading </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="30" GENDER="neutral" MENTION-ID="29" NUMBER="unknown" TYPE="demonstrative"> this </REFERENCE>
+			<STRING> you should go out and buy </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.38457" GENDER="neutral" ID="9" MENTION-ID="30" NUMBER="singular" PARAGRAPH-POSITION="94" RECENCY="19" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="description">a copy</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="other">it now</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.10">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="31" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> was told to read </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.696486" GENDER="neutral" ID="10" MENTION-ID="32" NUMBER="singular" PARAGRAPH-POSITION="100" RECENCY="6" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">eyes of the dragon</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="description">the novel</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">eyes of the dragon</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> by </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="35" GENDER="female" MENTION-ID="33" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="34" NUMBER="singular" TYPE="pronoun"> my </REFERENCE>
+				<STRING> mother </STRING>
+			</REFERENCE>
+			<STRING> and as soon as </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="35" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> started </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.393717" GENDER="neutral" ID="11" MENTION-ID="36" NUMBER="singular" PARAGRAPH-POSITION="110" RECENCY="10" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="other">reading</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">reading it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="other">Chapter 1</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">reading</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="empty">-</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> I just could n't stop reading </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.440598" GENDER="neutral" ID="12" MENTION-ID="37" NUMBER="singular" PARAGRAPH-POSITION="116" RECENCY="6" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">once</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.11">
+			<STRING> If </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="38" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> could read </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.345864" GENDER="neutral" ID="13" MENTION-ID="39" NUMBER="singular" PARAGRAPH-POSITION="121" RECENCY="5" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">Stephen King</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">anything</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="other">Stephen King</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="other">anything</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> again </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="40" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> would read </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.534877" GENDER="neutral" ID="14" MENTION-ID="41" NUMBER="singular" PARAGRAPH-POSITION="126" RECENCY="5" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="other">the book again</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">The Green Mile</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="other">(take out read)</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="other">it again.</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="other">again</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="other">all over</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="other">it all over</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.12">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="42" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> hope </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="46" GENDER="unknown" MENTION-ID="43" NUMBER="unknown" TYPE="pronoun"> you </REFERENCE>
+			<STRING> go out and get </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.709858" GENDER="neutral" ID="15" MENTION-ID="44" NUMBER="singular" PARAGRAPH-POSITION="134" RECENCY="8" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="demonstrative">this novel</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">his books</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">eyes of the dragon</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="demonstrative">this awesome book</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">eyes of the dragon</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">The Eyes of the Dragon</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>... </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.455775" GENDER="neutral" ID="16" MENTION-ID="45" NUMBER="singular" PARAGRAPH-POSITION="135" RECENCY="1" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="other">Stephen King</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="description">book</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">Stephen King</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="description">the story</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">because it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is fantastic. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.13">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="46" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> think </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="47" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> said that but </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="48" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> just thought that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="52" GENDER="unknown" MENTION-ID="49" NUMBER="unknown" TYPE="pronoun"> you </REFERENCE>
+			<STRING> should know that </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.604962" GENDER="neutral" ID="17" MENTION-ID="50" NUMBER="singular" PARAGRAPH-POSITION="152" RECENCY="17" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">King's novel</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="other">Stephen King</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">The Eyes of the Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="other">is</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">The Eyes of The Dragon</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="other">it really</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is fantastic. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

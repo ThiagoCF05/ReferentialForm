@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TEXT ID="989">
+	<TITLE>Accra</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Accra</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, population 1,970,400 (2005), is the capital of Ghana.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Ghana's largest city and its administrative, communications, and economic center.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The primary economic activities are financial and other services, agriculture, fishing, and manufacturing such as processed food, lumber and plywood, textiles, clothing, and chemicals.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Accra</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 5°30' North, 0°10' West (5.5, -0.1667).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> sits nears the Greenwich Meridian in the Accra Metropolitan Area, in the Greater Accra Region. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

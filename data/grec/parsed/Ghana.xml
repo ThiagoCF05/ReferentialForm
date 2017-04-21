@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TEXT ID="1273">
+	<TITLE>Ghana</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ghana</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Republic of Ghana, is a country in West Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> borders Côte d'Ivoire to the west, Burkina Faso to the north, Togo to the east, and the Atlantic Ocean to the south. Accra is the capital and largest city. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> population in 2005 was 21,029,853.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was inhabited in pre-colonial times by a number of ancient kingdoms, including an inland kingdom within The Ashanti and various Fante states along the coast. Trade with European states flourished after contact with the Portuguese in the 15th century, and the British established a crown colony, Gold Coast, in 1874.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was the first black African country to obtain independence from colonial rule. Upon achieving independence from the United Kingdom in 1957, the name Ghana was chosen for the new nation as a reference to </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ancient roots in the Empire of Ghana.</STRING>
+	</PARAGRAPH>
+</TEXT>

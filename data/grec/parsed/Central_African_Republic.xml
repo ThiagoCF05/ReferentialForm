@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TEXT ID="1237">
+	<TITLE>Central African Republic</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Central African Republic</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([French: République Centrafricaine] IPA: [IPA: /ʀepyblik sɑ̃tʀafʀikɛn/] or Centrafrique [IPA: /sɑ̃tʀafʀik/]) is a landlocked country in central Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> borders Chad in the north, Sudan on the east, the Republic of the Congo and the Democratic Republic of the Congo on the south, and Cameroon on the west. Most of </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the CAR</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> consists of Sudano-Guinean savannas but </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also includes a Sahelo-Sudanese zone in the north and an Equatorial forest zone in the south. Two thirds of </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies in the basins of the Ubangi river, which flows south into the Congo River, while the remaining third lies in the basin of the Shari river, which flows north into Lake Chad. Since most of the territory is located in the Ubangi and Shari river basins, the French called the colony it carved out in this region Ubangi-Shari, or Oubangui-Chari in French. This French colony of Ubangi-Shari became a semi-autonomous territory of the French Community in 1958 and then an independent nation on 13 August 1960. For over three decades since independence </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the CAR</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was ruled by presidents who were not chosen in truly democratic elections or who took power by force. Local discontent was eventually reinforced by international pressure, following the end of the cold war. The first fair democratic elections were held in 1993 with resources provided by </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> donors and help from the UN Office for Electoral Affairs. They brought Ange-Félix Patassé to power, but President Patassé lost popular support and was overthrown by General François Bozizé in 2003. General Bozizé won a democratic election in May 2005 and remains in power today. </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Central African Republic</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the poorest countries in the world and among the ten poorest countries in Africa.</STRING>
+	</PARAGRAPH>
+</TEXT>

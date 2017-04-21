@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TEXT ID="1555">
+	<TITLE>Henry Dunant</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Jean Henri Dunant</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (May 8, 1828 in Geneva - October 30, 1910 in Heiden), also known as Henry Dunant or Henri Dunant, was a Swiss businessman and social activist.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>During a business trip in 1859,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="34" PARAGRAPH-RECENCY="33" SEMCAT="person" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was witness to the aftermath of the Battle of Solferino in modern day Italy.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="49" PARAGRAPH-RECENCY="15" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> recorded  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="51" PARAGRAPH-RECENCY="2" SEMCAT="person" SENTENCE-POSITION="3" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> memories and experiences in the book &quot;A Memory of Solferino&quot; which became the inspiration for the creation of the International Committee of the Red Cross (ICRC).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The 1864 Geneva Convention was based on  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="85" PARAGRAPH-RECENCY="34" SEMCAT="person" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Dunant's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ideas and in 1901  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="90" PARAGRAPH-RECENCY="5" SEMCAT="person" SENTENCE-POSITION="13" SENTENCE-RECENCY="5" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> received the first Nobel Peace Prize together with Frédéric Passy. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

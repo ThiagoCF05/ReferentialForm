@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1509">
+	<TITLE>Enrico Fermi</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Enrico Fermi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (September 29, 1901 - November 28, 1954) was an Italian physicist most noted for </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> work on the development of the first nuclear reactor, and for the development of quantum theory. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Fermi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> won the 1938 Nobel Prize in Physics for </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> work on induced radioactivity.</STRING>
+	</PARAGRAPH>
+</TEXT>

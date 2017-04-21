@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1230">
+	<TITLE>British Virgin Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The British Virgin Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (BVI) is a British overseas territory, located in the Caribbean to the east of Puerto Rico. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> make up part of the Virgin Islands archipelago (the remainder constituting the U.S. Virgin Islands; see also Spanish Virgin Islands).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The British Virgin Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> consist of the main islands of Tortola, Virgin Gorda, Anegada and Jost Van Dyke, along with over 50 other smaller islands and cays. Around 15 of </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are inhabited. The largest island, Tortola, is approximately 12 miles (19 km) long and 3 miles (5 km) wide. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> have a total population of about 22,000. Road Town, the capital, is situated on Tortola.</STRING>
+	</PARAGRAPH>
+</TEXT>

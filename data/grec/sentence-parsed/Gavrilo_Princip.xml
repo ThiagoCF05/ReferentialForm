@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TEXT ID="1532">
+	<TITLE>Gavrilo Princip</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gavrilo Princip</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Serbian Cyrillic: Гаврило Принцип) (pronounced (gäv´ri:lo: pri:n´tsip) (July 25, 1894 - April 28, 1918) was a Serb member of the Young Bosnia secret society  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> assassinated Archduke Franz Ferdinand of Austria and his wife Sophie, Duchess of Hohenberg in Sarajevo on June 28, 1914.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The event, known as the assassination in Sarajevo, prompted the Austrian action against Serbia that led to World War I. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

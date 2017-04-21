@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEXT ID="365">
+	<TITLE>Mount Blackmore</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Blackmore</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in Gallatin National Forest, in the U.S. state of Montana. Located near the East Gallatin River, Gallatin County, </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is in the Gallatin Range.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Ferdinand Vandeveer Hayden's survey expedition of the Yellowstone area named </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> for Mary Blackmore, wife of William Blackmore, an English land speculator and philanthropist who accompanied the Hayden Survey. Mary Blackmore contracted pneumonia and died in Bozeman, Montana during the early summer of 1872.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TEXT ID="677">
+	<TITLE>Rajabasa</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rajabasa</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an isolated 1281-m-high conical volcano along the Sunda Strait located at the most South-Eastern point of Sumatra.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a well-preserved 500 x 700 m summit crater with a swampy floor,  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is covered with vegetation.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Although fumarolic activity occurs on the foot and flanks of  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and increased activity was reported in April 1863 and May 1892 it is not known when  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> last erupted. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

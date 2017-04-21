@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="1" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> purchased </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="2" mentiontype="NOMINAL" number="SINGULAR"> this phone </REFERENCE>
+		<STRING> about </STRING>
+		<REFERENCE animacy="INANIMATE" entity="3" gender="UNKNOWN" mentionid="3" mentiontype="PROPER" number="SINGULAR"> a year </REFERENCE>
+		<STRING> ago. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<STRING> All the features that </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="4" mentiontype="NOMINAL" number="SINGULAR"> this phone </REFERENCE>
+		<STRING> offered -LRB- along with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="UNKNOWN" mentionid="5" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="2" gender="UNKNOWN" mentionid="6" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+			<STRING> price </STRING>
+		</REFERENCE>
+		<STRING> -RRB- is what attracted </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="7" mentiontype="PRONOMINAL" number="SINGULAR"> me </REFERENCE>
+		<STRING> to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="8" gender="NEUTRAL" mentionid="8" mentiontype="NOMINAL" number="SINGULAR"> this particular phone </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="9" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> could n't find anything that compared, however... </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="10" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> 'm highly dissapointed in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="11" gender="NEUTRAL" mentionid="11" mentiontype="NOMINAL" number="SINGULAR"> this Panasonic product </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="13" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> 've called </STRING>
+		<REFERENCE animacy="INANIMATE" entity="14" gender="NEUTRAL" mentionid="14" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="12" gender="NEUTRAL" mentionid="12" mentiontype="PROPER" number="UNKNOWN"> Panasonic </REFERENCE>
+			<STRING> service </STRING>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="15" gender="UNKNOWN" mentionid="15" mentiontype="PRONOMINAL" number="PLURAL"> they </REFERENCE>
+		<STRING> attempted to help, but </STRING>
+		<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="16" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="17" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+			<STRING> receipt </STRING>
+		</REFERENCE>
+		<STRING> is long gone... so </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="18" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> 'm out of luck. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<STRING> Since purchasing </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="19" mentiontype="NOMINAL" number="SINGULAR"> this phone </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="20" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> 've had </STRING>
+		<REFERENCE animacy="INANIMATE" entity="21" gender="UNKNOWN" mentionid="21" mentiontype="NOMINAL" number="PLURAL"> problems with loosing </REFERENCE>
+		<STRING> -LRB- or should </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="22" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> say -RRB- </STRING>
+		<REFERENCE animacy="INANIMATE" entity="23" gender="UNKNOWN" mentionid="23" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="24" gender="UNKNOWN" mentionid="24" mentiontype="NOMINAL" number="PLURAL"> fading conversations </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="25" gender="UNKNOWN" mentionid="25" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> clicking noises in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="26" mentiontype="NOMINAL" number="SINGULAR"> the phone </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="27" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> originally thought </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="28" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> had </STRING>
+		<REFERENCE animacy="INANIMATE" entity="29" gender="NEUTRAL" mentionid="29" mentiontype="NOMINAL" number="SINGULAR"> a phone line problem </REFERENCE>
+		<STRING>, but </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="29" gender="NEUTRAL" mentionid="30" mentiontype="PRONOMINAL" number="UNKNOWN"> that </REFERENCE>
+		<STRING> was n't </STRING>
+		<REFERENCE animacy="INANIMATE" entity="29" gender="NEUTRAL" mentionid="31" mentiontype="NOMINAL" number="SINGULAR"> the case </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<STRING> Finally </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="32" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> thought that </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="33" mentiontype="NOMINAL" number="SINGULAR"> the phone </REFERENCE>
+		<STRING> was </STRING>
+		<REFERENCE animacy="INANIMATE" entity="34" gender="MALE" mentionid="34" mentiontype="NOMINAL" number="UNKNOWN"> perhaps a lemon </REFERENCE>
+		<STRING> and </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="35" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> would try </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="36" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> again. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="37" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> went out and purchased </STRING>
+		<REFERENCE animacy="INANIMATE" entity="38" gender="NEUTRAL" mentionid="38" mentiontype="NOMINAL" number="SINGULAR"> the exact same phone </REFERENCE>
+		<STRING> just last week. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<STRING> Since purchasing </STRING>
+		<REFERENCE animacy="INANIMATE" entity="41" gender="UNKNOWN" mentionid="41" mentiontype="PROPER" number="SINGULAR">
+			<STRING> the new </STRING>
+			<REFERENCE animacy="INANIMATE" entity="40" gender="UNKNOWN" mentionid="40" mentiontype="PROPER" number="SINGULAR"> one </REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="42" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> 'm starting to notice </STRING>
+		<REFERENCE animacy="INANIMATE" entity="43" gender="UNKNOWN" mentionid="43" mentiontype="NOMINAL" number="PLURAL"> the same problems </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<REFERENCE animacy="INANIMATE" entity="40" gender="NEUTRAL" mentionid="44" mentiontype="PRONOMINAL" number="SINGULAR"> It </REFERENCE>
+		<STRING> goes back to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="45" gender="NEUTRAL" mentionid="45" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the store for </STRING>
+			<REFERENCE animacy="INANIMATE" entity="46" gender="UNKNOWN" mentionid="46" mentiontype="PROPER" number="SINGULAR"> a refund tomorrow </REFERENCE>
+		</REFERENCE>
+		<STRING> and </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="47" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> 'll try </STRING>
+		<REFERENCE animacy="INANIMATE" entity="48" gender="UNKNOWN" mentionid="48" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="49" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+			<STRING> luck </STRING>
+		</REFERENCE>
+		<STRING> with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="50" gender="NEUTRAL" mentionid="50" mentiontype="NOMINAL" number="SINGULAR"> another brand </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<REFERENCE animacy="INANIMATE" entity="52" gender="UNKNOWN" mentionid="52" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="53" gender="UNKNOWN" mentionid="53" mentiontype="NOMINAL" number="PLURAL"> Great features </REFERENCE>
+			<STRING> and low cost </STRING>
+		</REFERENCE>
+		<STRING> is attractive, but </STRING>
+		<REFERENCE animacy="INANIMATE" entity="40" gender="NEUTRAL" mentionid="54" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> 's not worth </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="55" mentiontype="PRONOMINAL" number="SINGULAR"> me </REFERENCE>
+		<STRING> having to wonder if </STRING>
+		<REFERENCE animacy="INANIMATE" entity="12" gender="NEUTRAL" mentionid="51" mentiontype="PROPER" number="UNKNOWN"> Panasonic </REFERENCE>
+		<STRING> just is n't up to par when </STRING>
+		<REFERENCE animacy="INANIMATE" entity="12" gender="NEUTRAL" mentionid="56" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> comes to cordless phone technology. </STRING>
+	</SENTENCE>
+</TEXT>

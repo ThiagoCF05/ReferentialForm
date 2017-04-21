@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TEXT ID="534">
+	<TITLE>Mount Shavano</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Shavano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, with an altitude of 14,229 feet (4,337 meters), is one of the fourteeners of the U.S. State of Colorado. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the 17th highest peak in Colorado and a near-neighbor to Tabeguache Peak. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies just east of the Continental Divide and just west of the Arkansas River and the town of Salida in Chaffee County. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Shavano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies in the south-central part of the Sawatch Range, north of Mount Ouray and Mount Chipeta and south of the Collegiate Peaks (including Mount Princeton, Mount Harvard, and Mount Yale). </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Shavano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is famous for the Angel of Shavano, a snow formation in the image of an angel that emerges on the east face of </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> during snow melt each spring.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Shavano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located within the San Isabel National Forest and </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was named after Chief Shavano of the Ute Tribe.</STRING>
+	</PARAGRAPH>
+</TEXT>

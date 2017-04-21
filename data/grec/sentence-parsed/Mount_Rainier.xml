@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<TEXT ID="516">
+	<TITLE>Mount Rainier</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Rainier</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an active stratovolcano in Pierce County, Washington, located southeast of Seattle, Washington, in the United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest peak in the Cascade Range and Cascade Volcanic Arc at 14,411 feet (4,392 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and the surrounding area are protected within Mount Rainier National Park.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>With 26 major glaciers,  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Rainier</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the most heavily glaciated peak in the lower 48 states with 35 square miles (91 km�) of permanent snowfields and glaciers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The summit is topped by two volcanic craters, each over 1,000 feet (300 m) in diameter with the larger east crater overlapping the west crater.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>Geothermal heat from  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> keeps areas of both crater rims free of snow and ice, and has formed an extensive network of glacier caves within the ice-filled craters.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>A small crater lake, the highest in North America, occupies the lowest portion of the west crater below more than 160 feet (50 m) of ice and is accessible only via the caves. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Rainier</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was originally known as Talol, or Tahoma, from the Lushootseed word təq[IPA: ʷ]ú[IPA: ʔ]bə[IPA: ʔ] (&quot;mother of waters&quot;) spoken by the Puyallup.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a topographic prominence of 13,210 feet (4,026 m), greater than that of K2.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a prominent feature of the southern landscape in most of the Seattle metropolitan area.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>On clear days,  </STRING>
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can also be seen from as far away as Portland, Oregon, and Victoria, British Columbia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>Because of  </STRING>
+			<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> scenic dominance, Seattle-Tacoma-area residents often refer to  </STRING>
+			<REFERENCE ID="11" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> simply as &quot;the Mountain.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The Carbon, Puyallup, Mowich, Nisqually, and Cowlitz Rivers begin at eponymous glaciers of  </STRING>
+			<REFERENCE ID="12" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Rainier</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The sources of the White River are Winthrop, Emmons, and Fryingpan Glaciers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The White, Carbon, and Mowich join the Puyallup River, which discharges into Commencement Bay at Tacoma; the Nisqually empties into Puget Sound east of Lacey; and the Cowlitz joins the Columbia River between Kelso and Longview. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

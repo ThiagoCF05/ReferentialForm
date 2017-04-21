@@ -1,0 +1,720 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.341035" GENDER="male" ID="1" MENTION-ID="1" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">Former Rep. Randy Cunningham</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="description">Former Congressman</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Randall Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Randall Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">Randall Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Randy</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Randy or Duke</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="other">I</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="description">Republican member of the United States House</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Randall</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="description">Former Republican</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Randall Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="description">United States Navy veteran and former Republi</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Ronald Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">Former lawmaker Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Randy Cunningham</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.595974" GENDER="male" ID="2" MENTION-ID="2" NUMBER="singular" PARAGRAPH-POSITION="2" RECENCY="1" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Randall Harold Cunningham (R-Calif.)</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">R. CA</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">usually known as Randy or Duke</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="description">Republican member of the United States House</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Randall Harold Cunninghamme</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">cummington</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="description">former Republican member of the United States</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="description">a US Representative</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">aka Randy or Duke</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Randall</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">usually known as Randy or Duke</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="description">Republican</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">better known as Randy</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="description">navy veteran</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> resigned </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="6" GENDER="neutral" MENTION-ID="3" NUMBER="singular" TYPE="name"> last November </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="7" GENDER="unknown" MENTION-ID="4" NUMBER="singular" TYPE="description"> a corruption scandal </REFERENCE>
+			<STRING>, inserted </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="8" GENDER="unknown" MENTION-ID="5" NUMBER="plural" TYPE="description">
+				<STRING> projects into </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="9" GENDER="unknown" MENTION-ID="6" NUMBER="plural" TYPE="description">
+					<STRING> appropriations bills that benefited </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="10" GENDER="unknown" MENTION-ID="7" NUMBER="plural" TYPE="description">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="8" NUMBER="singular" TYPE="name"> two </REFERENCE>
+						<STRING> businessmen who were bribing </STRING>
+						<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.128114" GENDER="male" ID="3" MENTION-ID="9" NUMBER="singular" PARAGRAPH-POSITION="22" RECENCY="20" SYNCAT="np-obj">
+							<ORIGINAL-REFEX>
+								<REFEX TYPE="pronoun">him</REFEX>
+							</ORIGINAL-REFEX>
+							<PARTICIPANTS-REFEX>
+								<REFEX PARTICIPANT-ID="7" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="8" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="11" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="14" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="25" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="27" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="35" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="39" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="43" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="45" TYPE="other">me</REFEX>
+								<REFEX PARTICIPANT-ID="47" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="48" TYPE="name">Randall</REFEX>
+								<REFEX PARTICIPANT-ID="49" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="50" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="54" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="57" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="60" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="62" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="63" TYPE="other">lawmakers</REFEX>
+								<REFEX PARTICIPANT-ID="64" TYPE="other">officials</REFEX>
+								<REFEX PARTICIPANT-ID="66" TYPE="pronoun">him</REFEX>
+								<REFEX PARTICIPANT-ID="67" TYPE="pronoun">him</REFEX>
+							</PARTICIPANTS-REFEX>
+						</TARGET-REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, then </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.550791" GENDER="male" ID="4" MENTION-ID="10" NUMBER="singular" PARAGRAPH-POSITION="24" RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Randy</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">the House of Representatives</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Randy</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>`` bullied'' </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="12" GENDER="unknown" MENTION-ID="11" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="12" NUMBER="unknown" TYPE="name"> Pentagon </REFERENCE>
+				<STRING> officials </STRING>
+			</REFERENCE>
+			<STRING> into awarding </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="13" GENDER="unknown" MENTION-ID="13" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="14" GENDER="unknown" MENTION-ID="14" NUMBER="plural" TYPE="description"> the men's </REFERENCE>
+				<STRING> companies </STRING>
+			</REFERENCE>
+			<STRING> inflated </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="15" GENDER="unknown" MENTION-ID="15" NUMBER="plural" TYPE="description"> contracts </REFERENCE>
+			<STRING>, according to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="unknown" MENTION-ID="16" NUMBER="plural" TYPE="description">
+				<STRING> prosecution documents released on </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="17" GENDER="unknown" MENTION-ID="17" NUMBER="singular" TYPE="name"> Tuesday </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="male" ID="5" MENTION-ID="18" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Cunningham</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Cunnigham</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">Cunningram</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Randy</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="other">i</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Randy</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Mr. Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Cunningham</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="male" MENTION-ID="19" NUMBER="singular" TYPE="name"> R-Calif. </REFERENCE>
+			<STRING>, pleaded guilty </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="6" GENDER="neutral" MENTION-ID="20" NUMBER="singular" TYPE="name"> last November </REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="22" GENDER="unknown" MENTION-ID="21" NUMBER="plural"> bribery and tax evasion </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING> But </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="26" GENDER="unknown" MENTION-ID="22" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="unknown" MENTION-ID="23" NUMBER="plural" TYPE="description"> the prosecution documents </REFERENCE>
+				<STRING>, which were drafted to help guide sentencing </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="29" GENDER="unknown" MENTION-ID="24" NUMBER="singular" TYPE="name"> later this month </REFERENCE>
+			</REFERENCE>
+			<STRING>, provide </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="30" GENDER="unknown" MENTION-ID="25" NUMBER="plural" TYPE="description">
+				<STRING> many new details about </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="31" GENDER="unknown" MENTION-ID="26" NUMBER="plural" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.209077" GENDER="male" ID="6" MENTION-ID="27" NUMBER="singular" PARAGRAPH-POSITION="31" RECENCY="30" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">his</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="7" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="8" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="11" TYPE="name">Cunningham's</REFEX>
+							<REFEX PARTICIPANT-ID="14" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="25" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="27" TYPE="other">illegal</REFEX>
+							<REFEX PARTICIPANT-ID="35" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="39" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="43" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="45" TYPE="other">my</REFEX>
+							<REFEX PARTICIPANT-ID="47" TYPE="name">Cunningham's</REFEX>
+							<REFEX PARTICIPANT-ID="48" TYPE="other">new</REFEX>
+							<REFEX PARTICIPANT-ID="49" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="50" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="54" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="57" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="60" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="62" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="63" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="64" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="66" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="67" TYPE="pronoun">his</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> activities </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="33" GENDER="unknown" MENTION-ID="28" NUMBER="singular" TYPE="description">
+				<STRING> behalf of </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="34" GENDER="unknown" MENTION-ID="29" NUMBER="plural" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="10" GENDER="unknown" MENTION-ID="30" NUMBER="plural" TYPE="description"> the businessmen </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="23" GENDER="male" MENTION-ID="31" NUMBER="singular" TYPE="name"> Mitchell Wade </REFERENCE>
+					<STRING>, who pleaded </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="36" GENDER="unknown" MENTION-ID="32" NUMBER="singular" TYPE="name"> guilty last month </REFERENCE>
+					<STRING> to bribing </STRING>
+					<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.629098" GENDER="male" ID="7" MENTION-ID="33" NUMBER="singular" PARAGRAPH-POSITION="47" RECENCY="16" SYNCAT="np-obj">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="name">Cunningham</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="7" TYPE="pronoun">him</REFEX>
+							<REFEX PARTICIPANT-ID="8" TYPE="pronoun">him</REFEX>
+							<REFEX PARTICIPANT-ID="11" TYPE="name">Cunningham</REFEX>
+							<REFEX PARTICIPANT-ID="14" TYPE="pronoun">him</REFEX>
+							<REFEX PARTICIPANT-ID="25" TYPE="name">Cunningham</REFEX>
+							<REFEX PARTICIPANT-ID="27" TYPE="name">Cunningham</REFEX>
+							<REFEX PARTICIPANT-ID="35" TYPE="name">Cunningham</REFEX>
+							<REFEX PARTICIPANT-ID="39" TYPE="name">Randall Harold Cunningham</REFEX>
+							<REFEX PARTICIPANT-ID="43" TYPE="name">Randall Harold Cunningham</REFEX>
+							<REFEX PARTICIPANT-ID="45" TYPE="other">me</REFEX>
+							<REFEX PARTICIPANT-ID="47" TYPE="pronoun">him</REFEX>
+							<REFEX PARTICIPANT-ID="48" TYPE="name">Randy</REFEX>
+							<REFEX PARTICIPANT-ID="49" TYPE="pronoun">him</REFEX>
+							<REFEX PARTICIPANT-ID="50" TYPE="name">Cunningham</REFEX>
+							<REFEX PARTICIPANT-ID="54" TYPE="description">the representative</REFEX>
+							<REFEX PARTICIPANT-ID="57" TYPE="description">US House member</REFEX>
+							<REFEX PARTICIPANT-ID="60" TYPE="name">Cunningham</REFEX>
+							<REFEX PARTICIPANT-ID="62" TYPE="pronoun">him</REFEX>
+							<REFEX PARTICIPANT-ID="63" TYPE="description">the ex-lawmaker</REFEX>
+							<REFEX PARTICIPANT-ID="64" TYPE="name">Cunningham</REFEX>
+							<REFEX PARTICIPANT-ID="66" TYPE="description">the ex-lawmaker</REFEX>
+							<REFEX PARTICIPANT-ID="67" TYPE="name">Cunningham</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, and </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="37" GENDER="male" MENTION-ID="34" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="25" GENDER="male" MENTION-ID="35" NUMBER="singular" TYPE="name"> Brent Wilkes </REFERENCE>
+				<STRING>, who </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="38" GENDER="unknown" MENTION-ID="36" NUMBER="plural" TYPE="description">
+					<STRING> lawyers in </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="39" GENDER="neutral" MENTION-ID="37" NUMBER="singular" TYPE="description"> the case </REFERENCE>
+				</REFERENCE>
+				<STRING> have said also </STRING>
+			</REFERENCE>
+			<STRING> participated. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>`` </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="38" NUMBER="singular" TYPE="name"> Cunningham </REFERENCE>
+			<STRING> bullied and hectored </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="42" GENDER="unknown" MENTION-ID="39" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="41" GENDER="neutral" MENTION-ID="40" NUMBER="unknown" TYPE="name"> DOD </REFERENCE>
+				<STRING> officials </STRING>
+			</REFERENCE>
+			<STRING> in order to ensure that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="43" GENDER="unknown" MENTION-ID="41" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="42" NUMBER="singular" TYPE="pronoun"> his </REFERENCE>
+				<STRING> co-conspirators </STRING>
+			</REFERENCE>
+			<STRING> received </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="45" GENDER="unknown" MENTION-ID="43" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="43" GENDER="unknown" MENTION-ID="44" NUMBER="plural" TYPE="pronoun"> their </REFERENCE>
+				<STRING> pound of gold </STRING>
+			</REFERENCE>
+			<STRING>,'' </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="47" GENDER="unknown" MENTION-ID="45" NUMBER="plural" TYPE="description"> federal prosecutors </REFERENCE>
+			<STRING> said in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="unknown" MENTION-ID="46" NUMBER="plural" TYPE="description"> the documents </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>`` Shamefully, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="47" NUMBER="singular" TYPE="pronoun"> he </REFERENCE>
+			<STRING> did </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="50" GENDER="neutral" MENTION-ID="48" NUMBER="unknown" TYPE="demonstrative"> this </REFERENCE>
+			<STRING> knowing that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="51" GENDER="unknown" MENTION-ID="49" NUMBER="plural" TYPE="description"> the contractors </REFERENCE>
+			<STRING> would extract </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="52" GENDER="unknown" MENTION-ID="50" NUMBER="plural" TYPE="description"> such exorbitant profits </REFERENCE>
+			<STRING> from </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="53" GENDER="unknown" MENTION-ID="51" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="54" GENDER="neutral" MENTION-ID="52" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="10" GENDER="unknown" MENTION-ID="53" NUMBER="plural" TYPE="pronoun"> our </REFERENCE>
+					<STRING> nation's </STRING>
+				</REFERENCE>
+				<STRING> taxpayers </STRING>
+			</REFERENCE>
+			<STRING> that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="51" GENDER="unknown" MENTION-ID="54" NUMBER="plural" TYPE="pronoun"> they </REFERENCE>
+			<STRING> would happily continue to ply </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="55" NUMBER="singular" TYPE="pronoun"> him </REFERENCE>
+			<STRING> with millions of dollars in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="58" GENDER="unknown" MENTION-ID="56" NUMBER="plural"> illegal payments and benefits </REFERENCE>
+			<STRING>.'' </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="59" GENDER="male" MENTION-ID="57" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.367111" GENDER="male" ID="8" MENTION-ID="58" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="description">The former congressman's</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="name">Cunningham's</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">Cunningham's</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">Cunningham's</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="name">Cunningham's</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Cunningham's</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="name">Cunningham's</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="other">My</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="name">Randall Harold Cunningham's</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="name">Randall Harold Cunningham's</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="name">Cunningham's</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="other">No</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="pronoun">His</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Cunningham 's</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="other">None of the</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Cunningham's</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="name">Cunningham's</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="name">Cunningham's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> attorney </STRING>
+			</REFERENCE>
+			<STRING> could not be reached on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="61" GENDER="unknown" MENTION-ID="59" NUMBER="singular" TYPE="name"> Tuesday for comment </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING> Quoting </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="65" GENDER="unknown" MENTION-ID="60" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="66" GENDER="unknown" MENTION-ID="61" NUMBER="plural" TYPE="description"> e-mail messages </REFERENCE>
+				<STRING>, grand jury testimony and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="67" GENDER="unknown" MENTION-ID="62" NUMBER="singular" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.665903" GENDER="male" ID="9" MENTION-ID="63" NUMBER="singular" PARAGRAPH-POSITION="8" RECENCY="0" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="name">Cunningham's</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="7" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="8" TYPE="name">Cunninghams</REFEX>
+							<REFEX PARTICIPANT-ID="11" TYPE="name">Cunningham's</REFEX>
+							<REFEX PARTICIPANT-ID="14" TYPE="name">Cunningham's</REFEX>
+							<REFEX PARTICIPANT-ID="25" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="27" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="35" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="39" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="43" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="45" TYPE="other">my</REFEX>
+							<REFEX PARTICIPANT-ID="47" TYPE="other">jury</REFEX>
+							<REFEX PARTICIPANT-ID="48" TYPE="other">good</REFEX>
+							<REFEX PARTICIPANT-ID="49" TYPE="other">letter</REFEX>
+							<REFEX PARTICIPANT-ID="50" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="54" TYPE="other">written</REFEX>
+							<REFEX PARTICIPANT-ID="57" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="60" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="62" TYPE="name">Cunningham 's</REFEX>
+							<REFEX PARTICIPANT-ID="63" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="64" TYPE="other">personal</REFEX>
+							<REFEX PARTICIPANT-ID="66" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="67" TYPE="pronoun">his</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> correspondence </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> with </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="68" GENDER="unknown" MENTION-ID="64" NUMBER="plural" TYPE="description"> lawmakers </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="26" GENDER="unknown" MENTION-ID="65" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="70" GENDER="neutral" MENTION-ID="66" NUMBER="singular" TYPE="description"> the prosecution's </REFERENCE>
+				<STRING> documents </STRING>
+			</REFERENCE>
+			<STRING> describe how the </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.494776" GENDER="male" ID="10" MENTION-ID="67" NUMBER="singular" PARAGRAPH-POSITION="18" RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX animacy="ANIMATE" entity="1" gender="MALE" mentionid="71" number="SINGULAR">
+					<REFEX PARTICIPANT-ID="7" TYPE="description">Representative</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Duke</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="other">? / how he?</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="description">businessman</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="description">culprit</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="description">legislator</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="description">EX-LAWMAKER</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="other">group</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="other">House</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="other">bribe</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">evasion</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="other">deals</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="description">men</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="description">congresman</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="description">ex-lawmaker</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">ex-congressman</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="other">bribes</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">US house representative</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="other">bribes</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> made securing funds in annual appropriations bills </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="74" GENDER="neutral" MENTION-ID="68" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.371726" GENDER="male" ID="11" MENTION-ID="69" NUMBER="singular" PARAGRAPH-POSITION="26" RECENCY="8" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">his</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="other">as</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="other">their</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="other">a top</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">for</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="other">a top</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="other">and gave</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="other">top</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> priority for </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="76" GENDER="unknown" MENTION-ID="70" NUMBER="plural" TYPE="description">
+					<STRING> companies owned by </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="77" GENDER="unknown" MENTION-ID="71" NUMBER="plural">
+						<REFERENCE ANIMACY="animate" ENTITY-ID="23" GENDER="male" MENTION-ID="72" NUMBER="singular" TYPE="name"> Wade </REFERENCE>
+						<STRING> and </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="25" GENDER="male" MENTION-ID="73" NUMBER="singular" TYPE="name"> Wilkes </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING>`` </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="80" GENDER="unknown" MENTION-ID="74" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="75" NUMBER="singular" TYPE="name"> Cunningham's </REFERENCE>
+				<STRING> co-conspirators </STRING>
+			</REFERENCE>
+			<STRING> not only told Cunningham </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="81" GENDER="unknown" MENTION-ID="76" NUMBER="plural" TYPE="description">
+				<STRING> the programs for which </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="77" NUMBER="singular" TYPE="pronoun"> he </REFERENCE>
+				<STRING> should request funding </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="80" GENDER="unknown" MENTION-ID="78" NUMBER="plural" TYPE="pronoun"> they </REFERENCE>
+			<STRING> wrote </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="84" GENDER="unknown" MENTION-ID="79" NUMBER="plural" TYPE="description"> the actual requests </REFERENCE>
+			<STRING> for </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="80" NUMBER="singular" TYPE="pronoun"> him </REFERENCE>
+			<STRING>,'' </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="26" GENDER="unknown" MENTION-ID="81" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="70" GENDER="neutral" MENTION-ID="82" NUMBER="singular" TYPE="description"> the prosecution's </REFERENCE>
+				<STRING> documents </STRING>
+			</REFERENCE>
+			<STRING> said. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="90" GENDER="unknown" MENTION-ID="83" NUMBER="singular" TYPE="description">
+				<STRING> A 2002 e-mail message from </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="91" GENDER="male" MENTION-ID="84" NUMBER="singular" TYPE="description">
+					<STRING> a </STRING>
+					<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.648523" GENDER="male" ID="12" MENTION-ID="85" NUMBER="singular" PARAGRAPH-POSITION="7" RECENCY="0" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="name">Cunningham</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="7" TYPE="name">Cunningham</REFEX>
+							<REFEX PARTICIPANT-ID="8" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="11" TYPE="name">Cunningham</REFEX>
+							<REFEX PARTICIPANT-ID="14" TYPE="name">Cunningham</REFEX>
+							<REFEX PARTICIPANT-ID="25" TYPE="other">DOD</REFEX>
+							<REFEX PARTICIPANT-ID="27" TYPE="name">Cunningham</REFEX>
+							<REFEX PARTICIPANT-ID="35" TYPE="description">EX-LAWMAKER's</REFEX>
+							<REFEX PARTICIPANT-ID="39" TYPE="description">former</REFEX>
+							<REFEX PARTICIPANT-ID="43" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="45" TYPE="other">house</REFEX>
+							<REFEX PARTICIPANT-ID="47" TYPE="description">former</REFEX>
+							<REFEX PARTICIPANT-ID="48" TYPE="other">related</REFEX>
+							<REFEX PARTICIPANT-ID="49" TYPE="other">former</REFEX>
+							<REFEX PARTICIPANT-ID="50" TYPE="other">senior</REFEX>
+							<REFEX PARTICIPANT-ID="54" TYPE="name">Cunningham</REFEX>
+							<REFEX PARTICIPANT-ID="57" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="60" TYPE="other">house</REFEX>
+							<REFEX PARTICIPANT-ID="62" TYPE="name">Cunningham 's</REFEX>
+							<REFEX PARTICIPANT-ID="63" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="64" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="66" TYPE="other">former</REFEX>
+							<REFEX PARTICIPANT-ID="67" TYPE="name">Cunningham</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> staff member </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="92" GENDER="unknown" MENTION-ID="86" NUMBER="unknown" TYPE="description"> another </REFERENCE>
+			<STRING> said </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.395488" GENDER="male" ID="13" MENTION-ID="87" NUMBER="singular" PARAGRAPH-POSITION="13" RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Cunningham</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Randy</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Randall Harold Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="other">that Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">person</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Mr.Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">that Randy</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">that Randy</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Randy</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> `` stormed into </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="94" GENDER="neutral" MENTION-ID="88" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="male" ID="14" MENTION-ID="89" NUMBER="singular" PARAGRAPH-POSITION="20" RECENCY="7" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">his</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="other">of his</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="other">about</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">taht</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="other">about</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="other">that</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="other">bribe</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> office </STRING>
+			</REFERENCE>
+			<STRING>'' after learning </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="84" GENDER="unknown" MENTION-ID="90" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="91" NUMBER="singular" TYPE="pronoun"> his </REFERENCE>
+				<STRING> requests </STRING>
+			</REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="98" GENDER="neutral" MENTION-ID="92" NUMBER="unknown" TYPE="name"> the Appropriations Committee for financing </REFERENCE>
+			<STRING> had been reduced </STRING>
+			<STRING> and </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.752464" GENDER="male" ID="15" MENTION-ID="93" NUMBER="singular" PARAGRAPH-POSITION="32" RECENCY="12" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="other">that he</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Randy</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Mr.Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="other">Wilkes</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">the ex-lawmaker</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Cunningham</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> said </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.133313" GENDER="male" ID="16" MENTION-ID="94" NUMBER="singular" PARAGRAPH-POSITION="34" RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Cunningham</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="other">I</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">the program</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">that he</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">that he</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>`` wants to take $ 1 million from </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="100" GENDER="neutral" MENTION-ID="95" NUMBER="singular" TYPE="description"> some other big ticket item </REFERENCE>
+			<STRING> and put </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="100" GENDER="neutral" MENTION-ID="96" NUMBER="singular" TYPE="pronoun"> it </REFERENCE>
+			<STRING> back'' in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="102" GENDER="neutral" MENTION-ID="97" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="23" GENDER="male" MENTION-ID="98" NUMBER="singular" TYPE="name"> Wade's </REFERENCE>
+				<STRING> preferred program </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="7.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="103" GENDER="neutral" MENTION-ID="99" NUMBER="singular" TYPE="description"> The change </REFERENCE>
+			<STRING> was later made, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="47" GENDER="unknown" MENTION-ID="100" NUMBER="plural" TYPE="description"> prosecutors </REFERENCE>
+			<STRING> said. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

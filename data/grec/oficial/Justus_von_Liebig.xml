@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<TEXT ID="1622">
+	<TITLE>Justus von Liebig</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Justus von Liebig</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (May 12, 1803 in Darmstadt, Germany - April 18, 1873 in Munich, Germany) was a German chemist  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="18" SEMCAT="person" SENTENCE-POSITION="19" SENTENCE-RECENCY="18" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> made major contributions to agricultural and biological chemistry, and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="10" SEMCAT="person" SENTENCE-POSITION="29" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> worked on the organization of organic chemistry.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>As a professor,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="11" SEMCAT="person" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> devised the modern laboratory-oriented teaching method, and for such innovations,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="51" PARAGRAPH-RECENCY="11" SEMCAT="person" SENTENCE-POSITION="15" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is regarded as one of the greatest chemistry teachers of all time.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="64" PARAGRAPH-RECENCY="13" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known as the &quot;father of the fertilizer industry&quot; for  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="75" PARAGRAPH-RECENCY="11" SEMCAT="person" SENTENCE-POSITION="12" SENTENCE-RECENCY="11" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> discovery of nitrogen as an essential plant nutrient, and  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="85" PARAGRAPH-RECENCY="10" SEMCAT="person" SENTENCE-POSITION="22" SENTENCE-RECENCY="10" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> formulation of the Law of the Minimum which described the effect of individual nutrients on crops.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="9" PARAGRAPH-POSITION="102" PARAGRAPH-RECENCY="17" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also developed a manufacturing process for beef extract, and  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="112" PARAGRAPH-RECENCY="10" SEMCAT="person" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> founded a company that later trademarked the Oxo brand beef bouillon cube. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

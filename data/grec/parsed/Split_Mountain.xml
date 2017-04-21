@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TEXT ID="852">
+	<TITLE>Split Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Split Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a peak in the Sierra Nevada in the US state of California, near the southeast end of the Palisades group of peaks. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> north summit rises to 14,064 feet (4,287 m), and is the eighth highest peak in the state.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The name Split Mountain, inspired by the shape of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> double summit, was first coined by mountaineer Bolton Brown in 1895. Alternately, </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been called Southeast Palisade or South Palisade.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The two toned appearance of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> eastern face is created by a roof pendant of darker colored granodiorite atop a lighter colored body of leucogranite.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Split Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the easier California fourteeners to climb. The least technical route is the class 2 north slope, which can be approached from the west or east. Joseph LeConte, Helen LeConte and Curtis Lindley took the simple western approach from Upper Basin when they climbed </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Split Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> on July 23, 1902. A more common route to the north face is from the east, by way of Red Lake. Starting at the Red Lake trailhead, this trail covers 6 miles (10 km) with 4,000 feet (1,220 m) of elevation gain one way to the lake. From here, another 3,500 ft (1,070 m) of cross-country climbing, including a short class 3 ridge traverse, leads to the summit.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>There are many more technical routes up both the north and south peaks of </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Split Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

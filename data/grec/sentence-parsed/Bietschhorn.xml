@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TEXT ID="44">
+	<TITLE>Bietschhorn</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Bietschhorn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (the &quot;king of the Valais&quot;) is one of the highest mountains in the Bernese Alps.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The northeast and southern slopes of  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are part of the UNESCO World Heritage Site that also includes the Jungfrau and the Aletsch Glacier.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Bietschhorn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located south of the Lötschental valley and at the north end of the Bietschtal valley and Baltschiedertal valley.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is 3938 meters high.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Most climbers approach  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> from either the Bietschhornhütte or the Baltscheiderklause.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Bietschhorn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is regarded a fairly difficult mountain to climb. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed on 13 August 1859 by Leslie Stephen, with guides Anton Siegen, Johann Siegen and Joseph Ebener.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>An account of this first ascent was published by Leslie Stephen in his book 'The playground of Europe' (1871). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

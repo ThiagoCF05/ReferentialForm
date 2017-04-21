@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TEXT ID="1190">
+	<TITLE>Vatican City</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vatican City</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, formally the State of the Vatican City (Latin: Status Civitatis Vaticanae; Italian: Stato della Città del Vaticano) is a landlocked sovereign city-state </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">whose</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> territory consists of a walled enclave within the city of Rome. At approximately 44 hectares (108.7 acres), </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the smallest independent nation in the world. See microstates.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was created in 1929 by the Lateran Treaty as a vestige of the much larger former Papal States (AD 756 to 1870). Although governed by the Bishop of Rome (the Pope), the Vatican City is officially a monarchy. The highest state functionaries are all clergymen of the Catholic Church. </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the sovereign territory of the Holy See (Latin:Sancta Sedes) and the location of the Apostolic Palace - the Pope's official residence - and the Roman Curia. Thus, although the principal ecclesiastical seat of the Holy See (the Basilica of St. John Lateran) is located outside of </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> walls, in Rome, </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Vatican City</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> can be said to be the governmental capital of the Catholic Church.</STRING>
+	</PARAGRAPH>
+</TEXT>

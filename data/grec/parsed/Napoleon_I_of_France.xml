@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<TEXT ID="1668">
+	<TITLE>Napoleon I of France</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Napoleon I</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, Emperor of the French, King of Italy, Mediator of the Swiss Confederation and Protector of the Confederation of the Rhine, born Napoleone di Buonaparte (15 August 1769 - 5 May 1821), was a general during the French Revolution, the ruler of France as First Consul (Premier Consul) of the French Republic from 11 November 1799 to 18 May 1804, Emperor of the French (Empereur des Français) under the name Napoleon I (Napoléon 1er) from 18 May 1804 to 6 April 1814, and </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was briefly restored as Emperor from 20 March to 22 June 1815.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Over the course of little more than a decade, the armies of France under </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> command fought almost every European power, often simultaneously, and acquired control of most of continental Europe by conquest or alliance. The disastrous invasion of Russia in 1812 marked a turning point. Following the Russian campaign and the defeat at Leipzig in October 1813, </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Napoleon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> abdicated in April 1814 after the Allies invaded France. </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was exiled to the island of Elba. </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> staged a comeback known as the Hundred Days (les Cent Jours), but </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was defeated at Waterloo on 18 June, 1815. </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> spent the remaining six years of </STRING>
+		<REFERENCE ID="9" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> life on the island of St. Helena in the Atlantic Ocean under British supervision.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Although </STRING>
+		<REFERENCE ID="10" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="yes" HEAD="nominal" TYPE="pronoun">Napoleon himself</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> developed few military innovations, apart from the divisional squares employed in Egypt and the placement of artillery into batteries, </STRING>
+		<REFERENCE ID="11" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> used the best tactics from a variety of sources, and the modernized French army reformed by several revolutionary governments, to score several major victories. </STRING>
+		<REFERENCE ID="12" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> campaigns are studied at military academies all over the world and </STRING>
+		<REFERENCE ID="13" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is widely regarded as one of the greatest commanders ever to have lived. Aside from </STRING>
+		<REFERENCE ID="14" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> military achievements, </STRING>
+		<REFERENCE ID="15" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Napoleon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also remembered for the establishment of the Napoleonic Code.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="16" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also appointed several members of the Bonaparte family and close friends as monarchs of countries </STRING>
+		<REFERENCE ID="17" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> conquered and as important government figures (</STRING>
+		<REFERENCE ID="18" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> brother Lucien was Minister of the Interior of France during the Consulate). Although their reigns did not survive </STRING>
+		<REFERENCE ID="19" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> downfall, a nephew, Napoleon III, ruled France later in the nineteenth century.</STRING>
+	</PARAGRAPH>
+</TEXT>

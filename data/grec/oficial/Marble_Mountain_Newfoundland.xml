@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEXT ID="309">
+	<TITLE>Marble Mountain (Newfoundland)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Marble Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain located on the west coast of the Canadian island of Newfoundland in the Long Range Mountains. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="yes" HEAD="nominal" TYPE="pronoun">The mountain itself</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a series of steep ridges forming part of the southern side of the Humber River valley.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The highest point of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Marble Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is &quot;Mount Musgrave&quot; (540 m, 48°55'49N,57°50'03W) at Steady Brook, approximately 7 kilometres east of Corner Brook.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The peak is named in honour of Sir Anthony Musgrave, a colonial governor of Newfoundland. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Marble Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the site of the largest alpine ski resort in Atlantic Canada, and  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="15" SENTENCE-RECENCY="14" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> hosts Environment Canada's doppler weather radar station &quot;XME&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The Marble Mountain Ski Resort is known to have some of the best skiing east of the Rockies with an average of 5 metres (16.5 feet) of snow each year, compared to Mont Tremblant's 3.65 metres (12 feet).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>The resort was a key venue for the 1999 Canada Winter Games hosted by Corner Brook. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Marble Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> boasts the only detachable high speed quad lift in Atlantic Canada, the Governor's Express.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>It is 1660m in length and has a ride time of approximately 8 minutes. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEXT ID="1333">
+	<TITLE>New Zealand</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">New Zealand</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a country in the southwestern Pacific Ocean comprising two large islands (the North Island and the South Island) and numerous smaller islands, most notably Stewart Island and the Chatham Islands. In Māori, </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">New Zealand</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also known as Aotearao, which is usually paraphrased in English as the Land of the Long White Cloud.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The Realm of New Zealand also includes the Cook Islands and Niue, which are self-governing, but in free association; Tokelau; and the Ross Dependency (</STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">New Zealand's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> territorial claim in Antarctica).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">New Zealand</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, along with Hawai'i and Rapa Nui (Easter Island) form what is known by anthropologists as the Triangle of Polynesia.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">New Zealand</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is notable for </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> geographic isolation, being separated from Australia to the northwest by the Tasman Sea, some 2000 kilometres (1250 miles) across. </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> closest neighbours to the north are New Caledonia, Fiji, and Tonga.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>The population is mostly of European descent, with the indigenous Māori being the largest minority. Non-Māori Polynesian and Asian people are also significant minorities, especially in the cities.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<STRING>Elizabeth II, as the Queen of </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">New Zealand</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, is the nominal Head of State and is represented, in her absence, by a non-partisan Governor-General; the Queen 'reigns but does not rule', so she has no real political influence. Political power is held by the democratically-elected Parliament of </STRING>
+		<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">New Zealand</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> under the leadership of the Prime Minister who is the Head of Government.</STRING>
+	</PARAGRAPH>
+</TEXT>

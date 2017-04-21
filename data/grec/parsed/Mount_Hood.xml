@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<TEXT ID="435">
+	<TITLE>Mount Hood</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hood</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (called Wy'east by the Multnomah tribe), is a stratovolcano in the Cascade Volcanic Arc in northern Oregon, in the Pacific Northwest region of the United States. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located about 50 miles (80 km) east-southeast of the city of Portland, on the border between Clackamas and Hood River counties.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hood's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> snow-covered peak rises 11249 ft and is home to twelve glaciers. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest mountain in Oregon and the fourth-highest in the Cascade Range. </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hood</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is considered the Oregon volcano most likely to erupt, though based on </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> history, an explosive eruption is unlikely. Still, the odds of an eruption in the next 30 years are estimated at between 3 and 7 percent, so the USGS characterizes </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> as &quot;potentially active&quot;. </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is sometimes informally described as &quot;dormant&quot; (&quot;asleep&quot;).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Timberline Lodge is a National Historic Landmark located on the southern flank of </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hood</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> just below Palmer Glacier.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has six ski areas: Timberline, Mount Hood Meadows, Ski Bowl, Cooper Spur, Snow Bunny and Summit. They total over 4,600 acres (7.2 mi², 18.6 km²) of skiable terrain; Timberline offers the only year-round lift-served skiing in North America.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<REFERENCE ID="11" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hood</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of the Mount Hood National Forest, which has 1.067 million acres (1667 mi², 4318 km²), four designated wilderness areas which total 189,200 acres (295 mi², 766 km²), and more than 1200 mi (1900 km) of hiking trails.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<TEXT ID="1161">
+	<TITLE>Santiago, Chile</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Santiago</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Spanish: Santiago de Chile) is Chile's capital and largest city. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is situated at an elevation of 520 m (1700 ft) in the country's central valley, and administratively </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a part of the Santiago Metropolitan Region. Even though </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Santiago</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the capital, legislative bodies meet in nearby Valparaíso.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Approximately two decades of uninterrupted economic growth have transformed </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Santiago</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> into one of Latin America's most sophisticated metropolitan areas, with extensive suburban development, dozens of shopping malls, and impressive high-rise architecture. </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also boasts some of Latin America's most spectacular infrastructure, such as the Santiago Metro and the sparkling new &quot;Costanera Norte,&quot; a freeway system that passes below downtown and connects the Eastern and Western extremes of </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in 15 minutes. </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Santiago</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is headquarters to many important companies and </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a regionally important financial center.</STRING>
+	</PARAGRAPH>
+</TEXT>

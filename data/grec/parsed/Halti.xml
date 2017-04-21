@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="741">
+	<TITLE>Halti</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Halti mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest point in Finland, at 1,324 m above sea level. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Halti fell</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (also known as Haltitunturi, Haltia or Haltiatunturi - tunturi meaning fell - and Háldi in Sámi) is located in the municipality of Enontekiö in the province of Lapland at the border between Finland and Norway. The summit of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Halti</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> at 1,365 m is actually in Norway and it is known as Ráisduattarháldi. The highest point in Finland is a spur of Ráisduattarháldi at 1,324 m known as Hálditšohkka at the border of Norway. The highest mountain, its peak being in Finland, is Ridnitšohkka, at 1,316 m.</STRING>
+	</PARAGRAPH>
+</TEXT>

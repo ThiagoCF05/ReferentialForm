@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEXT ID="623">
+	<TITLE>Ojos del Salado</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ojos del Salado</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a massive stratovolcano in the Andes on the Argentina-Chile border and the highest volcano in the world at 6,891 metres (22,608 ft).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="24" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also the second highest mountain in the Western Hemisphere and the highest in Chile.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located about north of Aconcagua, the highest mountain in the Western Hemisphere at 6962 m. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Due to  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> location near the Atacama desert,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has very dry conditions with snow only remaining on the peak during winter.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Despite the generally dry conditions, there is a permanent crater lake about 100 metres (300 ft) in diameter at an elevation of 6390 m on the eastern side of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="52" PARAGRAPH-RECENCY="43" SEMCAT="mountain" SENTENCE-POSITION="30" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ojos del Salado</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>This is most likely the highest lake of any kind in the world. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The ascent of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ojos del Salado</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is mostly a hike except for the final section to the summit which is a difficult scramble that may require ropes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The first ascent was made in 1937 by Jan Alfred Szczepański and Justyn Wojsznis, members of a Polish andinist expedition. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

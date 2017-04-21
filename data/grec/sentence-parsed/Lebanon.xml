@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TEXT ID="1302">
+	<TITLE>Lebanon</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lebanon</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Lebanese Republic (Arabic: الجمهورية اللبنانية ), is a small, largely mountainous country in the Middle East, located at the eastern edge of the Mediterranean Sea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lebanon</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is bordered by Syria to the north and east, and Israel to the south.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The flag of  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lebanon</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> features the Lebanon Cedar in green against a white backdrop, with two horizontal red stripes on the top and bottom. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Until the Lebanese Civil War (1975-1990),  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> enjoyed remarkable prosperity.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was considered the banking capital of the Arab world and  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was widely known as the &quot;Switzerland of the Middle East&quot; due to  </STRING>
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> financial power.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lebanon</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also attracted large numbers of tourists.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>However, the commencement of the 2006 Israel-Lebanon conflict on July 12, 2006 brought mounting civilian and military casualties, great damage to civilian infrastructure, and massive population displacement.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>As of September 2006, the Lebanese government has been acting out an early recovery plan aimed at reconstructing property destroyed by Israeli attacks in Beirut, Tyre, and other villages in southern Lebanon. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

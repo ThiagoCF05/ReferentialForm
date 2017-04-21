@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="1602">
+	<TITLE>John Harrison</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">John Harrison</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (March 24 1693-March 24 1776) was an English clockmaker,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="person" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> designed and built the world's first successful chronometer (maritime clock), one whose accuracy was great enough to allow the determination of longitude over long distances. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

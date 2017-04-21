@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TEXT ID="1138">
+	<TITLE>Podgorica</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Podgorica</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Serbian Cyrillic: Подгорица, [IPA: ˈpɔdgɔˌriʦa]) is the capital and largest city of Republic of Montenegro.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="16" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 42°28'12N,19°16'48E, 44 m above sea level. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>A census in 2003 put  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">city's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> population at 136,473.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The favorable geographical position of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="9" SEMCAT="city" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Podgorica</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, at the confluence of the Ribnica and Morača rivers, on the meeting point of fertile Zeta plain and Bjelopavlići Valley has made  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="23" SEMCAT="city" SENTENCE-POSITION="29" SENTENCE-RECENCY="23" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> an attractive location for settlement.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="44" PARAGRAPH-RECENCY="6" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is situated only a few tens of kilometers from both winter ski centers in the north and seaside resorts on Adriatic Sea. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The municipality of Podgorica accounts for 10.4% of Montenegro's territory and 27.3% of its population.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Besides being an administrative center of Montenegro,  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Podgorica</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also its economic, cultural and educational focal point. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

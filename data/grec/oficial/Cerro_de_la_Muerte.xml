@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<TEXT ID="76">
+	<TITLE>Cerro de la Muerte</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cerro de la Muerte</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the second highest peak in Costa Rica.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name means &quot;Mountain of Death&quot;, since in the past crossing the mountains from the Valle Central meant a three or four day journey, on foot or on horseback, and many ill-prepared travelers succumbed to the cold and rain.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>However,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="40" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is now easily accessible since the Pan-American Highway runs close by. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The drivable track from the highway leads to the summit, with its cluster of telecommunications aerials.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>At this altitude, overnight temperatures can dip close to freezing, but the sun soon raises the temperatures in the morning, with a high risk of sunburn in the thin clear air. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">This mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is in Talamanca range, which extends from eastern Costa Rica into neighbouring western Panama.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>This range was a volcanic island in the geological past, and its separation from other mountain ranges means that it has developed many endemic species of animals and plants, often with affinities to Andean forms. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The higher areas are páramo habitat, with stunted shrubs, dwarf bamboo, and tree ferns, and smaller plants like blueberry, gooseberry and lady's slipper.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Below this zone, the natural vegetation is oak forest with bamboo understory, an excellent place to see the charismatic Resplendent Quetzal. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>Nearly fifty percent of the bird species recorded from  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cerro de la Muerte</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are endemic to the Talamanca range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>These include Fiery-throated Hummingbird, Timberline Wren, Sooty Robin, Black-billed Nightingale-Thrush, Peg-billed Finch and Volcano Junco. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

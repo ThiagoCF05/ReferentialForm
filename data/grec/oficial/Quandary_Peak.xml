@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<TEXT ID="676">
+	<TITLE>Quandary Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Quandary Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a fourteener in the US state of Colorado, the highest peak in the Tenmile Range (a northern extension of the Mosquito Range).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="24" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the 12th, 13th, or 14th highest peak in Colorado, depending on how  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="15" SENTENCE-RECENCY="14" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is ranked.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>( </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="43" PARAGRAPH-RECENCY="4" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has nearly the same elevation as Castle Peak and Mount Evans.)</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="55" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies in Summit County and in the Arapaho National Forest, about 6 mi (10 km) south-southwest of the town of Breckenridge. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The standard route up  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Quandary Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a trail hike (class 1), starting from a trailhead about 1 mi (1.6 km) north of Hoosier Pass on the east side of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="25" SEMCAT="mountain" SENTENCE-POSITION="30" SENTENCE-RECENCY="25" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Hence  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="2" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a popular fourteener to climb, because of the relatively easy ascent, as well as  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="48" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="18" SENTENCE-RECENCY="16" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> proximity to Denver and Breckenridge.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="10" PARAGRAPH-POSITION="54" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Quandary Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also popular with backcountry skiers and snowboarders.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The gentle ascent makes for an easy climb from the east, with less danger from avalanche than on many other fourteeners, and the other slopes of  </STRING>
+			<REFERENCE ID="11" PARAGRAPH-POSITION="89" PARAGRAPH-RECENCY="35" SEMCAT="mountain" SENTENCE-POSITION="27" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are steep and appeal to expert backountry skiers. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>One such steep ski mountaineering route is the Cristo Couloir. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

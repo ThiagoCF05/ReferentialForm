@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT ID="339">
+	<TITLE>Mount Alverstone</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Alverstone</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, or Boundary Peak 180, is a high peak in the Saint Elias Mountains, on the border between Alaska and the Yukon Territory.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="23" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shares a large massif with the higher Mount Hubbard to the south and the slightly lower Mount Kennedy to the east.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The summit of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="49" PARAGRAPH-RECENCY="25" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Alverstone</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> marks a sharp turn in the Alaska/Canada border; the border goes south from this point toward the Alaska panhandle and west toward Mount Saint Elias. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

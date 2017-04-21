@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="UNKNOWN" entity="1" gender="NEUTRAL" mentionid="1" mentiontype="PROPER" number="SINGULAR"> Gothika </REFERENCE>
+		<STRING> is not </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="2" mentiontype="NOMINAL" number="SINGULAR"> a bad movie </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="3" mentiontype="NOMINAL" number="SINGULAR"> The problem </REFERENCE>
+		<STRING> is that </STRING>
+		<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="4" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> is not </STRING>
+		<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="5" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="6" mentiontype="NOMINAL" number="SINGULAR"> a really good movie </REFERENCE>
+			<STRING> either </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="7" mentiontype="PRONOMINAL" number="SINGULAR"> It </REFERENCE>
+		<STRING> is just </STRING>
+		<REFERENCE animacy="INANIMATE" entity="8" gender="NEUTRAL" mentionid="8" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> another`` thriller/mystery/ghost story'' in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="9" gender="NEUTRAL" mentionid="9" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a long line of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="10" gender="UNKNOWN" mentionid="10" mentiontype="NOMINAL" number="PLURAL"> nearly identical films </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<REFERENCE animacy="INANIMATE" entity="11" gender="NEUTRAL" mentionid="11" mentiontype="NOMINAL" number="SINGULAR"> The acting </REFERENCE>
+		<STRING> is well done, and </STRING>
+		<REFERENCE animacy="INANIMATE" entity="12" gender="UNKNOWN" mentionid="12" mentiontype="NOMINAL" number="SINGULAR"> the cast </REFERENCE>
+		<STRING> is made almost entirely of </STRING>
+		<REFERENCE animacy="ANIMATE" entity="13" gender="UNKNOWN" mentionid="13" mentiontype="NOMINAL" number="PLURAL"> top-notch actors </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<REFERENCE animacy="ANIMATE" entity="17" gender="FEMALE" mentionid="17" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="14" gender="FEMALE" mentionid="14" mentiontype="PROPER" number="SINGULAR"> Halle Berry </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="18" gender="UNKNOWN" mentionid="18" mentiontype="PROPER" number="SINGULAR">
+				<STRING> one of the best high-profile actors in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="15" gender="NEUTRAL" mentionid="15" mentiontype="PROPER" number="SINGULAR"> Hollywood </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, is able to take any role and make </STRING>
+		<REFERENCE animacy="INANIMATE" entity="18" gender="NEUTRAL" mentionid="19" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> work, and </STRING>
+		<REFERENCE animacy="ANIMATE" entity="16" gender="FEMALE" mentionid="16" mentiontype="PROPER" number="SINGULAR"> Penelope Cruz </REFERENCE>
+		<STRING> is outstanding in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="20" mentiontype="NOMINAL" number="SINGULAR"> this movie </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="ANIMATE" entity="24" gender="MALE" mentionid="24" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="21" gender="MALE" mentionid="21" mentiontype="PROPER" number="SINGULAR"> Robert Downey </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="22" gender="MALE" mentionid="22" mentiontype="PROPER" number="SINGULAR"> Jr. </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="21" gender="MALE" mentionid="25" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a man whose body of work </STRING>
+				<REFERENCE animacy="ANIMATE" entity="26" gender="UNKNOWN" mentionid="26" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+				<STRING> hold in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="27" gender="UNKNOWN" mentionid="27" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> much higher regard than </STRING>
+					<REFERENCE animacy="INANIMATE" entity="28" gender="UNKNOWN" mentionid="28" mentiontype="NOMINAL" number="SINGULAR">
+						<REFERENCE animacy="ANIMATE" entity="21" gender="MALE" mentionid="29" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+						<STRING>`` brat pack'' </STRING>
+						<REFERENCE animacy="ANIMATE" entity="30" gender="UNKNOWN" mentionid="30" mentiontype="NOMINAL" number="PLURAL"> peers </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, remains consistently believable in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="23" mentiontype="PROPER" number="SINGULAR"> Gothika </REFERENCE>
+		<STRING> as well. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="31" mentiontype="NOMINAL" number="SINGULAR"> The problem </REFERENCE>
+		<STRING> is more </STRING>
+		<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="32" mentiontype="NOMINAL" number="SINGULAR"> the plot than anything else </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="33" mentiontype="PRONOMINAL" number="SINGULAR"> It </REFERENCE>
+		<STRING> 's all so overdone that it was n't hard to nab every aspect of </STRING>
+		<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="34" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> long before </STRING>
+		<REFERENCE animacy="ANIMATE" entity="30" gender="UNKNOWN" mentionid="35" mentiontype="PRONOMINAL" number="PLURAL"> they </REFERENCE>
+		<STRING> were revealed. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<REFERENCE animacy="ANIMATE" entity="26" gender="UNKNOWN" mentionid="36" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> had </STRING>
+		<REFERENCE animacy="INANIMATE" entity="37" gender="UNKNOWN" mentionid="37" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> a few problems with believability, and by that </STRING>
+			<REFERENCE animacy="ANIMATE" entity="26" gender="UNKNOWN" mentionid="38" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+			<STRING> don </STRING>
+		</REFERENCE>
+		<STRING>; </STRING>
+		<REFERENCE animacy="INANIMATE" entity="39" gender="NEUTRAL" mentionid="39" mentiontype="NOMINAL" number="SINGULAR"> t mean </REFERENCE>
+		<STRING> suspended disbelief. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<REFERENCE animacy="ANIMATE" entity="26" gender="UNKNOWN" mentionid="40" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> will accept </STRING>
+		<REFERENCE animacy="INANIMATE" entity="41" gender="UNKNOWN" mentionid="41" mentiontype="NOMINAL" number="UNKNOWN"> the supernatural </REFERENCE>
+		<STRING> within </STRING>
+		<REFERENCE animacy="INANIMATE" entity="42" gender="NEUTRAL" mentionid="42" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the context of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="43" gender="NEUTRAL" mentionid="43" mentiontype="NOMINAL" number="SINGULAR"> nearly any film </REFERENCE>
+		</REFERENCE>
+		<STRING>, and </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="44" gender="NEUTRAL" mentionid="44" mentiontype="NOMINAL" number="UNKNOWN"> this </REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="44" gender="UNKNOWN" mentionid="45" mentiontype="NOMINAL" number="SINGULAR"> no exception </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<REFERENCE animacy="ANIMATE" entity="26" gender="UNKNOWN" mentionid="47" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> simply ca n't buy </STRING>
+		<REFERENCE animacy="INANIMATE" entity="48" gender="NEUTRAL" mentionid="48" mentiontype="NOMINAL" number="SINGULAR"> the idea </REFERENCE>
+		<STRING> that </STRING>
+		<REFERENCE animacy="ANIMATE" entity="14" gender="MALE" mentionid="46" mentiontype="PROPER" number="SINGULAR"> Berry </REFERENCE>
+		<STRING> would be put into </STRING>
+		<REFERENCE animacy="INANIMATE" entity="49" gender="NEUTRAL" mentionid="49" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the very institution </STRING>
+			<REFERENCE animacy="ANIMATE" entity="14" gender="FEMALE" mentionid="50" mentiontype="PRONOMINAL" number="SINGULAR"> she </REFERENCE>
+			<STRING> worked for </STRING>
+		</REFERENCE>
+		<STRING> and placed under </STRING>
+		<REFERENCE animacy="INANIMATE" entity="51" gender="NEUTRAL" mentionid="51" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the care of not only </STRING>
+			<REFERENCE animacy="ANIMATE" entity="30" gender="UNKNOWN" mentionid="52" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="14" gender="FEMALE" mentionid="53" mentiontype="PRONOMINAL" number="SINGULAR"> her </REFERENCE>
+				<STRING> peers </STRING>
+			</REFERENCE>
+			<STRING>, but </STRING>
+			<REFERENCE animacy="INANIMATE" entity="54" gender="UNKNOWN" mentionid="54" mentiontype="PROPER" number="SINGULAR"> one of her closest friends </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<REFERENCE animacy="INANIMATE" entity="55" gender="UNKNOWN" mentionid="55" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="56" gender="UNKNOWN" mentionid="56" mentiontype="NOMINAL" number="PLURAL"> The effects </REFERENCE>
+			<STRING> and mood </STRING>
+		</REFERENCE>
+		<STRING> were done rather well. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="13">
+		<REFERENCE animacy="INANIMATE" entity="58" gender="NEUTRAL" mentionid="58" mentiontype="NOMINAL" number="SINGULAR"> The entire theater </REFERENCE>
+		<STRING> gasped and jumped at </STRING>
+		<REFERENCE animacy="INANIMATE" entity="59" gender="UNKNOWN" mentionid="59" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="57" gender="UNKNOWN" mentionid="57" mentiontype="PROPER" number="SINGULAR"> one </REFERENCE>
+			<STRING> particular scene- which is always </STRING>
+			<REFERENCE animacy="INANIMATE" entity="60" gender="NEUTRAL" mentionid="60" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a good sign for </STRING>
+				<REFERENCE animacy="INANIMATE" entity="61" gender="NEUTRAL" mentionid="61" mentiontype="NOMINAL" number="SINGULAR"> this kind of movie </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="14">
+		<STRING> But </STRING>
+		<REFERENCE animacy="INANIMATE" entity="62" gender="UNKNOWN" mentionid="62" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> the plot inconsistencies coupled with </STRING>
+			<REFERENCE animacy="INANIMATE" entity="63" gender="NEUTRAL" mentionid="63" mentiontype="NOMINAL" number="SINGULAR"> the fact </REFERENCE>
+			<STRING> that </STRING>
+			<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="64" mentiontype="NOMINAL" number="SINGULAR"> this movie </REFERENCE>
+			<STRING> beats </STRING>
+			<REFERENCE animacy="INANIMATE" entity="65" gender="MALE" mentionid="65" mentiontype="NOMINAL" number="SINGULAR"> a dead horse </REFERENCE>
+		</REFERENCE>
+		<STRING> is enough to take away </STRING>
+		<REFERENCE animacy="INANIMATE" entity="66" gender="UNKNOWN" mentionid="66" mentiontype="NOMINAL" number="PLURAL"> a few stars </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+</TEXT>

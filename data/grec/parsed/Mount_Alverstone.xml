@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="339">
+	<TITLE>Mount Alverstone</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Alverstone</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, or Boundary Peak 180, is a high peak in the Saint Elias Mountains, on the border between Alaska and the Yukon Territory. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> shares a large massif with the higher Mount Hubbard to the south and the slightly lower Mount Kennedy to the east. The summit of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Alverstone</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> marks a sharp turn in the Alaska/Canada border; the border goes south from this point toward the Alaska panhandle and west toward Mount Saint Elias.</STRING>
+	</PARAGRAPH>
+</TEXT>

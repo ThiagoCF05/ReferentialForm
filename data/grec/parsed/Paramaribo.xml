@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1133">
+	<TITLE>Paramaribo</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Paramaribo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (nicknamed Par'bo) is the capital of Suriname, located in the Paramaribo district, with a population of roughly 250,000 people. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies on the Suriname River, approximately 15 km inland from the Atlantic Ocean. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Paramaribo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located at 5°52' North, 55°10' West (5.83 N 55.17 W), and </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> time zone is UTC-3 except during daylight savings time.</STRING>
+	</PARAGRAPH>
+</TEXT>

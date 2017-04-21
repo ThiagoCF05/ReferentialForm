@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="4">
+	<TITLE>Acotango</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Acotango</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (el. 6,052 m/19,856 ft.) is the middle and highest of a group of stratovolcanoes straddling the border of Bolivia and Chile. The group is known as Nevados de Quimsachata and also contains the peaks of Humarata and Cerro Capurata. The group lies along a north-south alignment. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is heavily eroded, but a lava flow on </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> northern flank is morphologically young, suggesting </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Acotango</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> had been active in the Holocene.</STRING>
+	</PARAGRAPH>
+</TEXT>

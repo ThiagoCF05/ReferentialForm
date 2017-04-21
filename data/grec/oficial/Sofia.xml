@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="1170">
+	<TITLE>Sofia</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sofia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> listen ([Bulgarian: Софис]) is the capital and largest city of the Republic of Bulgaria, with a population of 1,246,791, and some 1,377,761 in the metropolitan area, the Capital Municipality.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="30" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in western Bulgaria, at the foot of the mountain massif Vitosha, and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="46" PARAGRAPH-RECENCY="15" SEMCAT="city" SENTENCE-POSITION="16" SENTENCE-RECENCY="15" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the administrative, cultural, and industrial centre of the country. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>One of the oldest capital cities in Europe, the history of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="12" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sofia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> dates back to the 8th century BC, when Thracians established a settlement there.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="14" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sofia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has had several names in the different periods of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="10" SEMCAT="city" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> existence, and remnants of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="5" SEMCAT="city" SENTENCE-POSITION="16" SENTENCE-RECENCY="5" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the city's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> millenary history can still be seen today alongside modern landmarks. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

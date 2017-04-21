@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<TEXT ID="1068">
+	<TITLE>Hyderabad, Pakistan</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hyderabad</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> pronunciation or Haidarābād (Urdu/Sindhi: حيدر آباد) is located in the Sindh province of Pakistan (formerly known as Neroon Kot نيرِون ڪوٽ). Formerly the capital of Sindh and known as the city of perfumes, </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is now a regional headquarter of the district of Hyderabad. Before the creation of Pakistan, </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was known as the Paris of India, for </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> roads used to be washed with perfume every day. The regional and political boundaries stage </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> as a district.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hyderabad</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a hot and humid city in the south of the nation and </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been a staging point for literary campaign and a birthplace of many a poets. Rich with culture and tradition, </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the largest bangle producer in the world and </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> serves as a transit between the rural and the urban Sindh.</STRING>
+	</PARAGRAPH>
+</TEXT>

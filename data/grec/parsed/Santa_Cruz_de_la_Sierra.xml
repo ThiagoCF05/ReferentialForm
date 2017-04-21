@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1160">
+	<TITLE>Santa Cruz de la Sierra</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Santa Cruz de La Sierra</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, commonly known as Santa Cruz, is both a city and department in eastern Bolivia. The population of </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was 1,528,683 inhabitants (2006 official estimate --see ).</STRING>
+	</PARAGRAPH>
+</TEXT>

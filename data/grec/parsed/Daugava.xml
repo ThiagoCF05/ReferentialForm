@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TEXT ID="1802">
+	<TITLE>Daugava</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Daugava</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> or Western Dvina ([Russian: Западная Двина́ (Zapandnaya Dvina)], [Belorussian: Заходняя Дзвiна ({'Zahodniaja Dźvina)], [Latvian: Daugava], [Polish: Dźwina], [German: Düna]) is a river rising in the Valdai Hills, Russia, flowing through Russia, Belarus, and Latvia, draining into the Gulf of Riga, an arm of the Baltic Sea. The total length of </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">'Zahodniaja Dźvina</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 1,020 km (633.7 mi.).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is connected by a canal with Berezina and Dnieper rivers.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is not to be confused with Northern Dvina.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>There are three hydroelectric dams on </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> - Rīgas HES just upstream from Riga or 35 km from the mouth of </STRING>
+		<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, Ķeguma HES another 35 km further up or 70 km from the mouth, and Pļaviņu HES another 37 km upstream or 107 km from the mouth. A fourth one, Daugavpils HES, has been planned but has always faced strong criticism. Belarus currently plans to build several hydroelectric dams on the Belarusian part of </STRING>
+		<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

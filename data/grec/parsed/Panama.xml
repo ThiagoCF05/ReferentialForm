@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1344">
+	<TITLE>Panama</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Panama</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Republic of Panama (Spanish: República de Panamá, IPA [IPA: [re'puβlika ðe pana'ma]]), is the southernmost and most developed country of Central America. A transcontinental country, </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> isthmus constitutes the southernmost part of a natural land bridge between the continents of North America and South America. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> borders Costa Rica to the northwest, Colombia to the east, the Atlantic Ocean to the north and the Pacific Ocean to the south.</STRING>
+	</PARAGRAPH>
+</TEXT>

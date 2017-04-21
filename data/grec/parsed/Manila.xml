@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<TEXT ID="1111">
+	<TITLE>Manila</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The City of Manila</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Filipino: Lungsod ng Maynila), or simply Manila, is the capital of the Philippines. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located on the eastern shore of Manila Bay on Luzon, the country's largest island.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Manila</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the hub of a thriving metropolitan area home to over 10 million people. The Metro Manila area also known as the National Capital Region (NCR), of which </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the City of Manila</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a part, is a much bigger metropolis consisting of 17 cities and municipalities. This article discusses </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="yes" HEAD="nominal" TYPE="pronoun">the city itself</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>; see Metro Manila for the article on the metropolis.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Manila</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the second most populous city proper in the Philippines, with more than 1.5 million inhabitants. Only nearby Quezon City, the country's former capital, is more populous. </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is currently included in the roster of global cities of the world.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Manila</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> got </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name from may nilad, Tagalog for &quot;there is nilad,&quot; in reference to the flowering mangrove plant that grew on the marshy shores of the bay. In the 16th century, </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Manila</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (then Maynilad) grew from a Muslim settlement on the banks of the Pasig River into the seat of the colonial government of Spain when it controlled the Philippine Islands for three centuries from 1565 upto 1898. In 1898 the United States occupied and controlled the archipelago until 1946. During World War II, much of </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was destroyed. The Metropolitan Manila region was enacted as an independent entity in 1975. Today, </STRING>
+		<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and the metropolis thrives as an important cultural and economic center. However, overpopulation, traffic congestion, pollution, and crime challenge </STRING>
+		<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<REFERENCE ID="14" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Manila</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been classified as a &quot;Gamma&quot; global city by the Globalization and World Cities Study Group and Network.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="1143">
+	<TITLE>Prague</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Prague</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Czech: Praha (IPA: [IPA: [ˈpraɦa]]), see also other names) is the capital and largest city of the Czech Republic. Situated on the Vltava river in central Bohemia, </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is home to approximately 1.2 million people. (It can be derived from jobs statistics, however, that an additional 300,000 work there without having registered as residents.)</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Nicknames for </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Prague</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> have included &quot;city of a hundred spires&quot; and &quot;the golden city&quot;. Since 1992, the historic center of </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Prague</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been included in the UNESCO list of World Heritage Sites. According to Guinness World Records, Prague Castle is the largest ancient castle in the world.</STRING>
+	</PARAGRAPH>
+</TEXT>

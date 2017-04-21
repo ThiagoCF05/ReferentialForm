@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<TEXT ID="1102">
+	<TITLE>Luanda</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luanda</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (formerly called Loanda) is the largest city and capital of Angola.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Located on the Atlantic Ocean,  </STRING>
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is both Angola's chief seaport and administrative centre.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a population of approximately 4.5 million (UN 2004 estimates), and  </STRING>
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital city of Luanda Province.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luanda</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 8°50'18&quot; South, 13°14'4&quot; East (-8.83833, 13.23444). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Manufacturing includes processed foods, beverages, textiles, cement and other construction materials, plastic products, metalware, cigarettes, and shoes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Petroleum, found nearby, is refined in  </STRING>
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> although this facility has been repeatedly damaged during the civil war.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luanda</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has an excellent natural harbour, and the chief exports are coffee, cotton, sugar, diamonds, iron, and salt. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luanda</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is divided into two parts, the baixa (old city) and the cidade alta (new part).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The baixa is situated next to the port and has narrow streets and old colonial buildings.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The inhabitants of  </STRING>
+			<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luanda</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are primarily members of African ethnic groups, including the Ovimbundu, Kimbundu and Bakongo tribes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>The official and the most spoken language is Portuguese, although many Bantu-related indigenous languages are spoken.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING>There is a very small population of European origin. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

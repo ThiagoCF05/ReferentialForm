@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TEXT ID="125">
+	<TITLE>Diamond Head, Hawaii</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING>Diamond Head is the name of a volcanic tuff cone on the Hawaiian island of Oahu and known to Hawaiians as Lēahi.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> English name was given by British sailors in the 19th century, who mistook calcite crystals embedded in the rock for diamonds.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located on the coast east of Waikīkī, Honolulu. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

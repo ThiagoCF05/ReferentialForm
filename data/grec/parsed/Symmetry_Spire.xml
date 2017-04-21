@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="866">
+	<TITLE>Symmetry Spire</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Symmetry Spire</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the Teton Range, Grand Teton National Park, Wyoming, northwest of Jenny Lake. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> towers above the northwest shore of Jenny Lake and Cascade Canyon. The scenic Lake of the Crags, a cirque lake or tarn, is located northwest of the summit and is accessed by way of Hanging Canyon. Popular with mountaineers, </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the spire</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has numerous challenging cliffs.</STRING>
+	</PARAGRAPH>
+</TEXT>

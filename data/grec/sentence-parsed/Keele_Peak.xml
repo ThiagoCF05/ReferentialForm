@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEXT ID="254">
+	<TITLE>Keele Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Keele Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, in Canada's Yukon Territory, is the tallest peak in the Mackenzie Mountains at 2,972 metres (9,751 ft).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located about 25 km from the Canol Road not far from the Northwest Territories border. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named for Joseph Keele, an explorer and geologist who had moved to Canada from his native Ireland. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TEXT ID="834">
+	<TITLE>Signal de Botrange</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Signal de Botrange</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest point in Belgium, located in the High Fens (Hautes Fagnes in French), at 694 m.  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the top of a broad plateau, and a road crosses  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the summit</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, passing an adjacent café.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>In 1923, the six-metre-high Baltia tower was built on  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the summit</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> to allow visitors to reach an altitude of 700 m. A stone tower built in 1934 reaches 718 m. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>At the height of winter  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the site</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is used as the start of a number of cross-country skiing routes. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

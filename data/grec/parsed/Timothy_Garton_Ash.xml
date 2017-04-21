@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="980">
+	<TITLE>Timothy Garton Ash</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Timothy Garton Ash</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (born 12 July, 1955) is the British author of eight books of political writing or ‘history of the present’ which have charted the transformation of Europe over the last quarter-century. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is Professor of European Studies in the University of Oxford, Director of the European Studies Centre at St Antony's College, Oxford, and a Senior Fellow at the Hoover Institution, Stanford University. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> essays appear regularly in the New York Review of Books and </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> writes a weekly column in The Guardian which is widely syndicated in Europe, Asia and the Americas. </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also contributes to the New York Times, the Washington Post and the Wall Street Journal.</STRING>
+	</PARAGRAPH>
+</TEXT>

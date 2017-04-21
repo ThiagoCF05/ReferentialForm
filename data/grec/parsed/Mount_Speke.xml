@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<TEXT ID="550">
+	<TITLE>Mount Speke</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Speke</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies in the Ruwenzori Mountains National Park in Uganda, Africa and </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the second highest peak in this range. Together with Mount Stanley and Mount Baker (Ruwenzoris), </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> forms a triangle enclosing the upper Bujuku Valley. The nearest peak is Mount Stanley which is 3.55km to the SSW. The mountains lie within an area called 'The Mountains of the Moon'.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>All mountains in this range consist of multiple jagged peaks. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Speke's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> summits are: Vittorio Emanuele 4,890 m (16,042 ft); Ensonga 4,865 m (15,961 ft); Johnston 4,834 m (15,860 ft); Trident 4,572 m (15,000 ft). The names were chosen in respect for the Italian royal family, however, the name choice had to be approved by the British Protectorate of Uganda who ruled the region at that time.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The people living on the mountains call the 'Rwenzori', which means 'rain maker' or 'rain mountains' in the Bakonjo language. The Baganda, who could see the mountain range from far, used to call them 'Gambaragara', which means 'My Eyes Pain', a reference to the shining snow. The Bakonjo had their own names for the peaks in the Rwenzori range, however, as they had never climbed them, it was difficult to clarify which peak was which. For example, they had names for the three main peaks: Kiyanja, Duwoni and Ingomwimbi. The fact is that for the Bakonjo the high Rwenzori is the home of Kitasamba, god who resides at the high altitudes and cannot be accessed.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>Early European explorers visited the region in the search for the source of the Nile. </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">This mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was named after John Speke. Whilst he never climbed </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, Speke mapped the source of the White Nile in 1862. All the mountain in this region are named after similar early explorers.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>When Duke of the Abruzzi climbed </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this summit</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, he climbed all the other peaks in the Rwenzori range.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<STRING>Due to the large amount of rainfall </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Speke</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> receives, </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is criss-crossed by many rivers and streams. The vegetation tends to be quite thick. There is also a variety of wildlife, including elephants, chimpanzee, monkeys, leopards and antelope.</STRING>
+	</PARAGRAPH>
+</TEXT>

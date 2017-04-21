@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TEXT ID="1732">
+	<TITLE>Sarah McLachlan</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sarah Ann McLachlan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, OC, OBC (born January 28, 1968) is a Canadian musician, singer and songwriter.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> founded Lilith Fair, a tour which showcased female musicians in the late 1990s. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Known for the emotional sound of  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ballads, some of  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> popular songs include &quot;Angel&quot;, &quot;Building a Mystery&quot;, &quot;Adia&quot;, &quot;Possession&quot;, &quot;I Will Remember You&quot;, &quot;World on Fire&quot;, and &quot;Into the Fire&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> best-selling album to date is Surfacing, for which  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> won two Grammy Awards and four Juno Awards. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

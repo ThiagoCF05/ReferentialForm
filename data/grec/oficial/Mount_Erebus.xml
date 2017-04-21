@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<TEXT ID="409">
+	<TITLE>Mount Erebus</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Erebus</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in Antarctica is the southernmost active volcano on Earth.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>3795 m high,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="13" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located on Ross Island, which is also home to three inactive volcanoes, notably Mt.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Terror.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="17" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Erebus</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is part of the Pacific Ring of Fire, which includes over 160 active volcanoes. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been observed to be continuously active since 1972 and  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the site of the Observatory run by New Mexico Tech. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Erebus</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was discovered on January 27, 1841 (and observed to be in eruption) by polar explorer Sir James Clark Ross who named  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="23" SENTENCE-RECENCY="22" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and Mount Terror after his ships, Erebus and Terror (which were also used by Sir John Franklin on his disastrous Arctic expedition).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="46" PARAGRAPH-RECENCY="23" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed (to the rim) by members of Sir Ernest Shackleton's party in 1908.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Erebus was a primordial Greek god, the son of Chaos. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The first known solo ascent of  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="7" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Erebus</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was accomplished by Charles J. Blackmer on January 19-20, 1991.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Blackmer, an ironworker for many years at McMurdo Station and the South Pole, accomplished this in a twenty-four hour period.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>The ascent took approximately seventeen hours.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.4">
+			<STRING>This event has been cited in two books about Antarctic experiences, Terra Incognita by Sara Wheeler and Big Dead Place by Nicholas Johnson. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

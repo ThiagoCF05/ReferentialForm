@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="1058">
+	<TITLE>Freetown</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Freetown</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, population 1,070,200 (2004), is the largest city and capital of Sierra Leone, lying on the Freetown Peninsula on the Atlantic coast.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a port on the Atlantic Ocean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="8" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Freetown's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> economy revolves largely around  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="5" SEMCAT="city" SENTENCE-POSITION="6" SENTENCE-RECENCY="5" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> harbor, which handles Sierra Leone's main exports.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Industries include fish packing, rice milling, petroleum refining, and the manufacture of cigarettes. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

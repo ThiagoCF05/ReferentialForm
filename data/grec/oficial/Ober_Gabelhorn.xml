@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TEXT ID="622">
+	<TITLE>Ober Gabelhorn</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Ober Gabelhorn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (4,053 m) is a mountain in the Pennine Alps in Switzerland. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The first ascent was by A. W. Moore, Horace Walker and Jakob Anderegg on 6 July 1865, via the east face.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The second ascent of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, and the first by the north-north-west ridge, was by Lord Francis Douglas, Peter Taugwalder and Joseph Vianin on 7 July 1865.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Douglas was killed a week later on the first ascent of the Matterhorn. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Christian Klucker and L. Norman-Neruda made the first ascent of the east-north-east ridge on 1 August 1890.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The north face, similar to but 'rather steeper' than the north-east face of the Lenzspitze, was first climbed on 30 July 1930 by H. Kiener and R. Schwarzgruber. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Huts serving  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are the Rothorn Hut (3,198 m), the Cabane du Mountet (2,886 m) and the Arben Bivouac (3,224 m). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

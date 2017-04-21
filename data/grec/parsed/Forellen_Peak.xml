@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="159">
+	<TITLE>Forellen Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Forellen Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the Teton Range, Grand Teton National Park, in the U.S. state of Wyoming. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is in the northern section of the range, and </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> rises abruptly more than 2,500 feet (762 m) above Owl Creek. Unlike the more impressive sections of the Teton Range to the south, </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Forellen Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is subdued and the hike to the summit from the north is nontechnical, yet requires many miles of off-trail hiking. Access is best via the Berry Creek trail which can be reached by hiking south from the John D. Rockefeller, Jr. Memorial Parkway or by boat across the northern end of Jackson Lake.</STRING>
+	</PARAGRAPH>
+</TEXT>

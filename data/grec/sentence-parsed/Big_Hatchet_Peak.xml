@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TEXT ID="45">
+	<TITLE>Big Hatchet Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Big Hatchet Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the high point of the Big Hatchet Mountains, a small but rugged range in the southwest corner (the &quot;Bootheel&quot;) of New Mexico, in the United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The mountains are located in Hidalgo County, about 50 mi (80 km) southwest of Deming.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The range runs roughly northwest-southeast, and is about 12 mi (20 km) long; the southeastern edge of the range is within 5 mi (8 km) of the border with Mexico.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>They lie primarily on BLM land. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> rises steeply out of the Playas Valley, to the west, and the Hatchita Valley, to the east of the range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The summit stands about 4,000 feet above the valley floors.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Also, the north and west faces of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are particularly steep, making for an impressive mountain.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>There are a few other minor summits in this small range, but none are named. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Geologically this range is part of the Basin and Range Province which spans much of the southwestern U.S. and parts of northern Mexico.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>It is a fault-block range made up of Paleozoic limestone and Cretaceous shale and sandstones. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The Big Hatchet Mountains are far from population centers, and have no paved road access or developed recreation sites; they therefore see little recreational activity.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>However the standard route on  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, along the South Ridge from Thompson Canyon, is straightforward. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

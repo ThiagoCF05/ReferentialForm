@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="316">
+	<TITLE>Mauna Kea</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mauna Kea</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a dormant volcano in the Hawaiian Islands, one of five volcanoes which together form the island of Hawai'i. Pu'u Wekiu, one of numerous cinder cones on the summit plateau, is the highest point in the state of Hawaii at 13,796 feet (4,205 m). </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mauna Kea</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the tallest mountain in the world when measured from base to summit, since </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> base is located on the seafloor about beneath the surface of the Pacific Ocean, bringing </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> total height to well over 33000 ft. In the Hawaiian language, mauna kea means &quot;white mountain&quot;, a reference to </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> summit being regularly snow-capped during the Northern Hemisphere winter.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="562">
+	<TITLE>Mount Tarawera</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Tarawera</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a volcanic mountain 24.1 kilometres southeast of Rotorua in the North Island of New Zealand.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="18" PARAGRAPH-RECENCY="17" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> consists of a series of rhyolitic lava domes that were fissured down the middle by a basaltic eruption in 1886.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The peaks are Ruawahia Peak, Tarawera Peak and Wahanga Peak.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The summit is at 1111 metres.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The crater of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="58" PARAGRAPH-RECENCY="40" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a series of chasms, running for 6 kilometres northeast-southwest. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is surrounded by a series of lakes, many of which were created or drastically altered in the 1886 eruption.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>These lakes include Lakes Tarawera, Rotomahana, Rerewhakaaitu, Okataina, Okareka, Tikitapu (Blue Lake) and Rotokakahi (Green Lake).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The Tarawera River runs northeastwards across the northern flank of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="47" PARAGRAPH-RECENCY="46" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> from Lake Tarawera. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

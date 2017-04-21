@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<TEXT ID="1848">
+	<TITLE>Vaal River</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Vaal River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the largest tributary of the Orange River in South Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> source in the Drakensberg mountains in Mpumalanga, east of Johannesburg, and </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> flows southwest to </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> conjunction with the Orange River southwest of Kimberley in the Northern Cape. </STRING>
+		<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 1120km in length, and </STRING>
+		<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> forms the border between Mpumalanga, Gauteng and North West Province on </STRING>
+		<REFERENCE ID="8" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> north bank, and the Free State on </STRING>
+		<REFERENCE ID="9" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> south.</STRING>
+	</PARAGRAPH>
+</TEXT>

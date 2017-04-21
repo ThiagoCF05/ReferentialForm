@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<TEXT ID="105">
+	<TITLE>Cotopaxi</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cotopaxi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a stratovolcano in the Andes, located about 75 kilometres (50 mi) south of Quito, Ecuador. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of the chain of volcanoes around the Pacific plate known as the Pacific Ring of Fire.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cotopaxi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the highest active volcanoes in the world. However, claims that </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cotopaxi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest active volcano in the world are incorrect. Llullaillaco volcano is considerably higher and is definitely in an active phase, having erupted as recently as 1877. Ojos del Salado is higher still, and there are indications near its summit of recent activity, although its remoteness precludes a definitive statement as to whether it is currently active.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>There have been more than 50 eruptions of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cotopaxi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> since 1738. Numerous valleys formed by powerful lahars (mudflows) surround the volcano. This poses a high risk to the local population, their settlements and fields. During a war between the Incas and the Spaniards in 1534, </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> erupted and </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> put an end to the fighting as both fled from the battlefield. </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Cotopaxi's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> most violent eruptions in historical times occurred in the years 1744, 1768, and 1877. In the 1877 eruption pyroclastic flows descended all sides of </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, with lahars traveling more than 100 km into the Pacific Ocean and western Amazon basin draining the valley. There was a major eruption in 1903 through 1904, and some minor activity in 1942 as well as 1975 but it did not produce any major events. In the most recent case, fumarolic activities and sulfuric emissions increased and ice around the inside and on the southeastern side of </STRING>
+		<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the cone</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> started to melt. The main danger of a huge eruption of </STRING>
+		<REFERENCE ID="11" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cotopaxi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> would be the flow of ice from </STRING>
+		<REFERENCE ID="12" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> glacier. If there were to be a very large explosion, it would destroy most of the settlements within the valley in the suburban area of Quito (pop. more than 1,000,000). Another city which would be in great danger is Latacunga which is located in the south valley. In 1744 and 1768 an eruption destroyed the colonial town of Latacunga. Experts believe another eruption may come soon.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="13" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the subject of 1855 and 1862 paintings by Frederic Edwin Church.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TEXT ID="572">
+	<TITLE>Mount Tyndall</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Tyndall</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a peak in Mount Whitney region of the Sierra Nevada mountain range in the US state of California. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> rises to 14,019 feet (4,273 m), and </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the tenth highest peak in the state. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies on the Sierra Crest, which in this region forms the border between the John Muir Wilderness of the Inyo National Forest on the east, and Sequoia National Park on the west; it is also the border between Inyo and Tulare counties. </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Tyndall</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 1.5 mi (2.4 km) west of the higher Mount Williamson, and about 6 mi (10 km) north-northeast of Mount Whitney.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Tyndall</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first climbed on July 6, 1864 by Clarence King and Richard Cotter. They were members of the California Geological Survey (also known as the Whitney Survey) under the overall direction of Josiah Whitney and the field leadership of William Brewer. King and Cotter were attempting to make the first ascent of Mount Whitney, and had made a long trek from Kings Canyon only to find that they had not climbed the correct peak. (Despite later attempts, King did not succeed in making the first ascent of Mount Whitney.)</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The easiest route on </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Tyndall</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in terms of access and climbing is the Northwest Ridge, which involves class 2 scrambling. </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is accessed from Shepherd Pass, about 1 mi (1.6 km) north of the peak. Other non-technical routes exist on the gently sloped west side of </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. At least two significant technical routes lie on the much steeper east face; the first of these routes was climbed by noted mountaineer Fred Beckey and Charlie Raymond in 1970.</STRING>
+	</PARAGRAPH>
+</TEXT>

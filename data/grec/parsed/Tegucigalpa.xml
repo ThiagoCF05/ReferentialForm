@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEXT ID="1181">
+	<TITLE>Tegucigalpa</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tegucigalpa</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([IPA: ˌteɰusiˈɰalpa] (Tegus for short), population 1,682,725 (2006) (metro area), is the capital of Honduras and the republic's largest city.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in a valley of the same name at 14°5'N,87°13'W, and an elevation of 3,250 feet. The name is derived from the Nahuatl Teguz-galpa, meaning &quot;silver hills&quot;. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tegucigalpa</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the capital of Honduras' Francisco Morazán department. </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The city's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> industries include textiles, sugar, and cigarettes.</STRING>
+	</PARAGRAPH>
+</TEXT>

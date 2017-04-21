@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="1766">
+	<TITLE>Vasil Levski</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vasil Levski</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Bulgarian: Васил Левски, also transliterated as Vassil Levski), born Vasil Ivanov Kunchev (Васил Иванов Кунчев) was a Bulgarian revolutionary, ideologist, strategist and theoretician of the Bulgarian national revolution and leader of the struggle for liberation from Ottoman rule. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Due to  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> major significance to the liberation of Bulgaria,  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vasil Levski</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is hailed as a national hero and often referred to as &quot;The Apostle of Freedom&quot; by the Bulgarian people.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> life is described, for example, in a book by the British writer Mercia MacDermoth. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

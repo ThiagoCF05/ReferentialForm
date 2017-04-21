@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1455">
+	<TITLE>Bono</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Paul David Hewson</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (born 10 May 1960), better known as Bono (pronounced Bohn-oh), is the lead singer and occasional rhythm guitarist/harmonicist of the Irish rock band U2. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bono</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also known for </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> humanitarian work in Africa and </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> efforts in cancelling the debt of poor third world countries.</STRING>
+	</PARAGRAPH>
+</TEXT>

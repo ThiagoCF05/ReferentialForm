@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEXT ID="113">
+	<TITLE>Dammastock</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Dammastock</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (3,630 m) is the highest mountain in the Urner Alps in Switzerland.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit ridge forms the border between the cantons of Uri and the Valais. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed by Albert Hoffmann-Burkhardt with guides Johann Fischer and Andreas von Weissenfluh on 28 July 1864. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

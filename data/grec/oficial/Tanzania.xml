@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TEXT ID="1390">
+	<TITLE>Tanzania</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tanzania</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> [IPA: ˌtænzəˈniə], officially the United Republic of Tanzania (Jamhuri ya Muungano wa Tanzania in Swahili), is a country on the east coast of Africa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="25" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is bordered by Kenya and Uganda on the north, Rwanda, Burundi and the Democratic Republic of the Congo on the west, and Zambia, Malawi and Mozambique on the south.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>To the east  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="59" PARAGRAPH-RECENCY="33" SEMCAT="country" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders the Indian Ocean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="64" PARAGRAPH-RECENCY="5" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is named after Tanganyika,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="69" PARAGRAPH-RECENCY="5" SEMCAT="country" SENTENCE-POSITION="6" SENTENCE-RECENCY="5" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> mainland part, and the Zanzibar islands off  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="77" PARAGRAPH-RECENCY="8" SEMCAT="country" SENTENCE-POSITION="14" SENTENCE-RECENCY="8" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> east coast.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="80" PARAGRAPH-RECENCY="3" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been a member of the Commonwealth since gaining independence in 1961.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>In 1964, Tanganyika united with Zanzibar, forming  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="100" PARAGRAPH-RECENCY="20" SEMCAT="country" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the United Republic of Tanganyika and Zanzibar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, later renamed to the United Republic of Tanzania.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>In 1996,  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="111" PARAGRAPH-RECENCY="11" SEMCAT="country" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Tanzania's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> capital was officially moved from Dar es Salaam to Dodoma, although many government offices still remain in the old capital. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

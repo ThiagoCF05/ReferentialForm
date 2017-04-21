@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="256">
+	<TITLE>Khunyang Chhish</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Khunyang Chhish</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> or Kunyang Chhish is the second-highest mountain in the Hispar Muztagh, a subrange of the Karakoram mountains of Pakistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Alternate variations of the name include Kunyang Kish and Khiangyang Kish, among others.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> height is also sometimes given as 7823m.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is ranked 21st in the world and 8th in Pakistan. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

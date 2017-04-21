@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TEXT ID="384">
+	<TITLE>Mount Clémenceau</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Clemenceau</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the fourth highest mountain in the Canadian Rockies.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was originally named &quot;Pyramid&quot; in 1892 by Arthur Coleman.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was renamed by the Interprovincial Boundary Survey in 1919 to  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="11" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> present name, which is for Georges Clemenceau, premier of France during World War I. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Clemenceau</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed in 1923 by D.B.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Durand, H.S.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Hall, W.D.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Harris and H.B.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>De V. Schwab. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

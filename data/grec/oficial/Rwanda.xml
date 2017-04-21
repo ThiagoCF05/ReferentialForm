@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TEXT ID="1359">
+	<TITLE>Rwanda</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rwanda</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> [IPA: ɾ(g)wɑndɑ], officially the Republic of Rwanda, is a small landlocked country in the Great Lakes region of east-central Africa, with a population of approximately 8 million.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="28" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is bordered by Uganda, Burundi, the Democratic Republic of the Congo and Tanzania.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="43" PARAGRAPH-RECENCY="14" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> fertile and hilly terrain, which gives  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="7" SEMCAT="country" SENTENCE-POSITION="8" SENTENCE-RECENCY="7" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> the title &quot;Land of a Thousand Hills&quot; ([French: Pays des Mille Collines] [IPA: /pei de mil kɔ.lin/]) (Igihugu cy'Imisozi Igihumbi in Kinyarwanda), supports the densest populations in continental Africa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="80" PARAGRAPH-RECENCY="30" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is best known to the outside world for the 1994 Rwandan genocide that resulted in the deaths of up to one million people.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Dependence on subsistence agriculture, high (and increasing) population density, decreasing soil fertility and uncertain climate make  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="120" PARAGRAPH-RECENCY="40" SEMCAT="country" SENTENCE-POSITION="17" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rwanda</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> a country where chronic malnutrition is widespread and poverty endemic. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

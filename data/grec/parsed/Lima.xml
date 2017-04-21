@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<TEXT ID="1098">
+	<TITLE>Lima</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lima</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the capital and largest city in Peru, as well as the capital of Lima Province. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the cultural, industrial, financial, and transport hub of the country. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in an area encompassing the valleys of the Chillón, Rímac and Lurín rivers. </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies on a desertic coast adjacent to the bay in the Pacific Ocean where </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> port was built and named Callao.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Founded by Spanish conquistador Francisco Pizarro, </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lima</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also known as the City of Kings. For more than three centuries, </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lima</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was the most important city and the greatest metropolis in South America. More than four centuries have passed since </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> founding as a Spanish city, and </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lima</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has become an expression of Peru's heritage, with nearly one-third of the nation's population living in </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> metropolitan area.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>While there is no formal administrative definition for </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the city of Lima</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is generally considered to be comprised of the central 30 out of the 43 districts of Lima province, corresponding roughly to the urban area centered on the historic Cercado de Lima district. </STRING>
+		<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> serves as the core of the Lima Metropolitan Area, one of the ten largest metropolitan areas in the Americas.</STRING>
+	</PARAGRAPH>
+</TEXT>

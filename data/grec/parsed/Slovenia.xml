@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="1374">
+	<TITLE>Slovenia</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Slovenia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Republic of Slovenia ([Slovenian: Republika Slovenija]), is a coastal Alpine country in southern Central Europe bordering Italy to the west, the Adriatic Sea to the southwest, Croatia to the south and east, Hungary to the northeast, and Austria to the north.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Throughout </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Slovenia's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> history, </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been part of the Roman Empire, the Duchy of Carantania (only </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Slovenia's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> modern northern part), the Holy Roman Empire, Austria-Hungary, the State of Slovenes, Croats and Serbs, the Kingdom of Serbs, Croats and Slovenes (renamed the Kingdom of Yugoslavia in 1929) between the World Wars, and the SFR of Yugoslavia from 1945 until gaining independence in 1991. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Slovenia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a member of the European Union, the Council of Europe, NATO, and </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has observer status in La Francophonie.</STRING>
+	</PARAGRAPH>
+</TEXT>

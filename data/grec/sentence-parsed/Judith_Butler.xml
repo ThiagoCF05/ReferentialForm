@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="1616">
+	<TITLE>Judith Butler</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Judith Butler</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (b. February 24 1956) is a prominent American post-structuralist philosopher and  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has contributed to the fields of feminism, queer theory, political philosophy and ethics.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Maxine Elliot professor in the Departments of Rhetoric and Comparative Literature at the University of California, Berkeley. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Butler</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> received  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> Ph.D. in Philosophy from Yale University in 1984, and  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> dissertation was subsequently published as Subjects of Desire: Hegelian Reflections in Twentieth-Century France.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>In the late-1980s, between different teaching/research appointments (most notably at the Humanities Center at Johns Hopkins University),  </STRING>
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was involved in &quot;poststructuralist&quot; efforts within Western feminist theory to question the &quot;presuppositional terms&quot; of feminism. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

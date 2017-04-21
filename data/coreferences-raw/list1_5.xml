@@ -1,0 +1,214 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="2" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> enjoyed reading </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="3" gender="UNKNOWN" mentionid="3" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="1" mentiontype="PROPER" number="SINGULAR"> Dean Koontz's </REFERENCE>
+			<STRING> book Tick Tock </STRING>
+		</REFERENCE>
+		<STRING> very much. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<STRING> What </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="4" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> did n't enjoy doing, however, was listening to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="5" mentiontype="NOMINAL" number="SINGULAR"> this book on audiocassette </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="6" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> had never before listened to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="7" mentiontype="NOMINAL" number="SINGULAR"> a book on tape </REFERENCE>
+		<STRING>, so </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="8" gender="NEUTRAL" mentionid="8" mentiontype="NOMINAL" number="UNKNOWN"> this </REFERENCE>
+		<STRING> was </STRING>
+		<REFERENCE animacy="INANIMATE" entity="8" gender="NEUTRAL" mentionid="9" mentiontype="PROPER" number="SINGULAR"> a first </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<STRING> Just because </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="10" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> give </STRING>
+		<REFERENCE animacy="INANIMATE" entity="11" gender="NEUTRAL" mentionid="11" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="12" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+			<STRING> opinion of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="13" mentiontype="NOMINAL" number="SINGULAR"> this book on audiocassette </REFERENCE>
+		</REFERENCE>
+		<STRING> a bad review, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="11" gender="NEUTRAL" mentionid="15" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> does not mean </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="16" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> 'm bashing </STRING>
+		<REFERENCE animacy="INANIMATE" entity="17" gender="UNKNOWN" mentionid="17" mentiontype="NOMINAL" number="PLURAL"> audiocassette books </REFERENCE>
+		<STRING> in general. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="18" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> 'm sure </STRING>
+		<REFERENCE animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="19" mentiontype="NOMINAL" number="SINGULAR"> this book on tape </REFERENCE>
+		<STRING> has got to be </STRING>
+		<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="PROPER" number="SINGULAR"> one of the worse </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="21" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> listened to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="22" gender="NEUTRAL" mentionid="22" mentiontype="NOMINAL" number="SINGULAR"> the taped version </REFERENCE>
+		<STRING> a week after finishing </STRING>
+		<REFERENCE animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="24" mentiontype="NOMINAL" number="SINGULAR"> the book </REFERENCE>
+		<STRING>, so </STRING>
+		<REFERENCE animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="25" mentiontype="NOMINAL" number="SINGULAR"> the book </REFERENCE>
+		<STRING> was still fresh in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="26" gender="UNKNOWN" mentionid="26" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="27" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+			<STRING> mind </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<REFERENCE animacy="ANIMATE" entity="28" gender="MALE" mentionid="28" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> The person who read </STRING>
+			<REFERENCE animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="29" mentiontype="NOMINAL" number="SINGULAR"> the book </REFERENCE>
+			<STRING> complete </STRING>
+		</REFERENCE>
+		<STRING> stripped </STRING>
+		<REFERENCE animacy="INANIMATE" entity="30" gender="UNKNOWN" mentionid="30" mentiontype="NOMINAL" number="SINGULAR"> the personality </REFERENCE>
+		<STRING> out of </STRING>
+		<REFERENCE animacy="ANIMATE" entity="31" gender="UNKNOWN" mentionid="31" mentiontype="NOMINAL" number="PLURAL"> the characters </REFERENCE>
+		<STRING> by </STRING>
+		<REFERENCE animacy="INANIMATE" entity="32" gender="UNKNOWN" mentionid="32" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="28" gender="MALE" mentionid="33" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+			<STRING> interpretations of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="34" gender="UNKNOWN" mentionid="34" mentiontype="NOMINAL" number="PLURAL"> the voices </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<STRING> As </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="35" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> read </STRING>
+		<REFERENCE animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="36" mentiontype="NOMINAL" number="SINGULAR"> the book </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="37" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> got </STRING>
+		<REFERENCE animacy="INANIMATE" entity="38" gender="UNKNOWN" mentionid="38" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the impression of </STRING>
+			<REFERENCE animacy="ANIMATE" entity="39" gender="UNKNOWN" mentionid="39" mentiontype="NOMINAL" number="SINGULAR"> the main female character </REFERENCE>
+		</REFERENCE>
+		<STRING> to be smart, clever, fun and sporadic. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<REFERENCE animacy="ANIMATE" entity="40" gender="UNKNOWN" mentionid="40" mentiontype="NOMINAL" number="SINGULAR"> The reader </REFERENCE>
+		<STRING>, however, made </STRING>
+		<REFERENCE animacy="INANIMATE" entity="41" gender="UNKNOWN" mentionid="41" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="42" gender="FEMALE" mentionid="42" mentiontype="NOMINAL" number="SINGULAR"> the female's </REFERENCE>
+			<STRING> voice whiny and obviously fake </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<REFERENCE animacy="INANIMATE" entity="44" gender="NEUTRAL" mentionid="44" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="40" gender="MALE" mentionid="45" mentiontype="PRONOMINAL" number="SINGULAR"> His </REFERENCE>
+			<STRING> reading of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="46" mentiontype="NOMINAL" number="SINGULAR"> the book </REFERENCE>
+		</REFERENCE>
+		<STRING> put </STRING>
+		<REFERENCE animacy="INANIMATE" entity="44" gender="NEUTRAL" mentionid="47" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> into </STRING>
+		<REFERENCE animacy="INANIMATE" entity="48" gender="UNKNOWN" mentionid="48" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="49" gender="NEUTRAL" mentionid="49" mentiontype="NOMINAL" number="SINGULAR"> a whole new perspective </REFERENCE>
+			<STRING>, and not </STRING>
+			<REFERENCE animacy="INANIMATE" entity="50" gender="UNKNOWN" mentionid="50" mentiontype="PROPER" number="SINGULAR">
+				<STRING> a likeable </STRING>
+				<REFERENCE animacy="INANIMATE" entity="43" gender="UNKNOWN" mentionid="43" mentiontype="PROPER" number="SINGULAR"> one </REFERENCE>
+			</REFERENCE>
+			<STRING> either </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<REFERENCE animacy="ANIMATE" entity="40" gender="MALE" mentionid="51" mentiontype="PRONOMINAL" number="SINGULAR"> He </REFERENCE>
+		<STRING> instead made </STRING>
+		<REFERENCE animacy="INANIMATE" entity="52" gender="NEUTRAL" mentionid="52" mentiontype="NOMINAL" number="SINGULAR"> the whole book sound </REFERENCE>
+		<STRING> ridiculous. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="56" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> am </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="57" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a very big fan of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="58" gender="UNKNOWN" mentionid="58" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> Dean </STRING>
+				<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="53" mentiontype="PROPER" number="SINGULAR"> Koontz </REFERENCE>
+				<STRING> books </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, therefore </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="59" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> would hate for </STRING>
+		<REFERENCE animacy="ANIMATE" entity="60" gender="MALE" mentionid="60" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> someone who has never read or listened to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="61" gender="NEUTRAL" mentionid="61" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a Dean </STRING>
+				<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="54" mentiontype="PROPER" number="SINGULAR"> Koontz </REFERENCE>
+				<STRING> book </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> before to pick Tick </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="62" gender="UNKNOWN" mentionid="62" mentiontype="NOMINAL" number="SINGULAR"> Tock on audiocassette </REFERENCE>
+		<STRING> as </STRING>
+		<REFERENCE animacy="INANIMATE" entity="63" gender="UNKNOWN" mentionid="63" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="64" gender="UNKNOWN" mentionid="64" mentiontype="PRONOMINAL" number="PLURAL"> their </REFERENCE>
+			<STRING> first choice </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="13">
+		<STRING> Should that happen, there is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="66" gender="UNKNOWN" mentionid="66" mentiontype="NOMINAL" number="SINGULAR"> a very likely chance </REFERENCE>
+		<STRING> that </STRING>
+		<REFERENCE animacy="ANIMATE" entity="28" gender="MALE" mentionid="67" mentiontype="NOMINAL" number="SINGULAR"> the person </REFERENCE>
+		<STRING> would never again try any piece written by </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="65" mentiontype="PROPER" number="SINGULAR"> Dean Koontz </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="14">
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="70" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> suggest that if </STRING>
+		<REFERENCE animacy="ANIMATE" entity="71" gender="UNKNOWN" mentionid="71" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> plan on listening to </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="72" gender="UNKNOWN" mentionid="72" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="68" mentiontype="PROPER" number="SINGULAR"> Dean Koontz's </REFERENCE>
+			<STRING> Tick Tock on audiocassette </STRING>
+		</REFERENCE>
+		<STRING> that </STRING>
+		<REFERENCE animacy="ANIMATE" entity="73" gender="UNKNOWN" mentionid="73" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> read </STRING>
+		<REFERENCE animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="74" mentiontype="NOMINAL" number="SINGULAR"> the book </REFERENCE>
+		<STRING> first, for it is much different even though </STRING>
+		<REFERENCE animacy="INANIMATE" entity="72" gender="NEUTRAL" mentionid="75" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> is exactly </STRING>
+		<REFERENCE animacy="INANIMATE" entity="72" gender="UNKNOWN" mentionid="76" mentiontype="NOMINAL" number="UNKNOWN"> the same </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="15">
+		<REFERENCE animacy="INANIMATE" entity="77" gender="UNKNOWN" mentionid="77" mentiontype="PROPER" number="UNKNOWN">
+			<STRING> PS-- Please keep in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="78" gender="UNKNOWN" mentionid="78" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> mind that </STRING>
+				<REFERENCE animacy="INANIMATE" entity="79" gender="UNKNOWN" mentionid="79" mentiontype="NOMINAL" number="PLURAL">
+					<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="80" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+					<STRING> ratings </STRING>
+				</REFERENCE>
+				<STRING> are not for </STRING>
+				<REFERENCE animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="81" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the book </STRING>
+					<REFERENCE animacy="INANIMATE" entity="72" gender="UNKNOWN" mentionid="82" mentiontype="PRONOMINAL" number="SINGULAR"> itself </REFERENCE>
+				</REFERENCE>
+				<STRING>, but for </STRING>
+				<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="83" mentiontype="NOMINAL" number="SINGULAR"> the book on audiocassette </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+	</SENTENCE>
+</TEXT>

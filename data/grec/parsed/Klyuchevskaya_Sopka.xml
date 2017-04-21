@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TEXT ID="265">
+	<TITLE>Klyuchevskaya Sopka</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Klyuchevskaya Sopka</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Russian: Ключевская сопка]) is the highest mountain on the Kamchatka Peninsula of Russia. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> steep, symmetrical cone towers are a mere 100 km (60 miles) from the Bering Sea. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of the natural UNESCO World Heritage Site Volcanoes of Kamchatka.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Klyuchevskaya's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> first recorded eruption occurred in 1697, and </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been almost continuously active ever since, as have many of </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> neighboring volcanoes. First climbed in 1788 by Daniel Gauss and two other members of the Billings Expedition. No other ascents were then recorded until 1931, when several climbers were killed by flying lava on the descent. As similar dangers still exist today, few ascents are made.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Klyuchevskaya Sopka</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is considered sacred by some indigenous peoples, being viewed by them as the location at which the world was created. Other volcanoes in the region are seen with similar spiritual significance, but </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Klyuchevskaya Sopka</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the most sacred of these. It is said that when the god Volkov created the world, </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was the point at which he held it, and so </STRING>
+		<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> remains unfinished, unsealed, thus the volcanic activity.</STRING>
+	</PARAGRAPH>
+</TEXT>

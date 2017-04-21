@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="787">
+	<TITLE>Mount Feathertop</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Feathertop</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the second-highest mountain in the Australian state of Victoria. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> rises to 1,922 meters (6,306 feet) AHD. Snow remaining in the summit gullies in spring give the appearance of feathers - hence the name &quot;Feathertop&quot;.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Mountain Ash forest predominently covers the lower slopes, transitioning to snowgums above 1,000 meters. Above the treeline there is alpine grass and herbs.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The main access routes are the Razorback, Bungalow Spur and the North-West Spur. The Razorback is a very popular walk in summer and it is a spectacular ski tour in winter. The proximity of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> to the Mount Hotham ski resort has led to </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Feathertop</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> becoming a popular back country skiing destination. There are two huts on </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. MUMC hut is situated on the North-West spur close to the tree line. Federation Hut is situation at the top of Bungalow Spur near Little Feathertop, and was rebuilt in 2005 after it was destroyed by the 2003 Eastern Victorian alpine bushfires.</STRING>
+	</PARAGRAPH>
+</TEXT>

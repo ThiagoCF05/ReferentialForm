@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<TEXT ID="1051">
+	<TITLE>Djibouti City</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Djibouti City</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Arabic: جيبوتي], [French: Ville de Djibouti]) is the capital and largest city of Djibouti.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Lying on a peninsula that divides the Gulf of Aden from the Gulf of Tadjoura,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="30" SEMCAT="city" SENTENCE-POSITION="16" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a latitude and longitude of 11°36'N,43°10'E. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Djibouti</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has the same status as the country's five regions.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The metropolitan territory borders Arta Region to the south and west, and the Gulf of Tadjourah/Gulf of Aden to the north.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="31" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Djibouti</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is home to a population of around 400,000 people,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="10" SEMCAT="city" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> planned centre having been divided into the former European and African quarters. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The Djibouti-Addis Ababa Railway runs from  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="7" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> to Addis Ababa, while  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="5" SEMCAT="city" SENTENCE-POSITION="12" SENTENCE-RECENCY="5" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also home to the Djibouti-Ambouli International Airport.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Northwest of the city centre lies the port, used for international trade, fishing and by ferries to Obock and Tadjoura. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Founded as a seaport in 1888,  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="7" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Djibouti</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became the capital of French Somaliland in 1891, replacing Tadjourah.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<REFERENCE ID="9" PARAGRAPH-POSITION="18" PARAGRAPH-RECENCY="11" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has remained the capital for the succeeding colonial government of French Territory of the Afars and the Issas, as well as for the independent country of Djibouti. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>One travel writer describes  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Djibouti</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as having an identity problem, &quot;it is the sedentary capital of a nomadic people, an African city designed like a European settlement and a kind of French Hong Kong in the Red Sea.&quot;</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>Features of  </STRING>
+			<REFERENCE ID="11" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="36" SEMCAT="city" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Djibouti City</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> include beaches along  </STRING>
+			<REFERENCE ID="12" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="4" SEMCAT="city" SENTENCE-POSITION="7" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> eastern shore and the large Central Market, the national stadium Stade du Ville, the Presidential Palace and Hamouli Mosque. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

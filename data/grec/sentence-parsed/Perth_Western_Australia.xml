@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="1135">
+	<TITLE>Perth, Western Australia</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Perth</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital of the Australian state of Western Australia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>A population of 1,477,800 (June 2005) makes  </STRING>
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Perth</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> the largest city in Western Australia and home to three-quarters of the state's residents.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also the fourth most populous urban area in Australia. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The metropolitan area is located in the south west of the continent between the Indian Ocean and a low coastal escarpment known as the Darling Range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The central business district and suburbs of  </STRING>
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Perth</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are situated on the Swan River. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<TEXT ID="904">
+	<TITLE>Ulugh Muztagh</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ulugh Muztagh</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, also Ulugh Muztag, is an extremely remote mountain group on the Northern Tibet plateau.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is part of the Kunlun Mountains of Central Asia. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>For a long time  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> elevation was thought to be as high as 7,723 metres, but  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was measured by a 1985 expedition, who established  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> true elevation of 6,973 m, which has since been confirmed by SRTM data and modern high resolution Chinese topographic mapping.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The subsidiary West Peak was climbed by a Finnish expedition in 2003 and a height of 6925 meters was confirmed for Ulugh Muztagh II. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The 7,723 metre elevation claim was made by the English country gentleman and explorer Saint George Littledale in 1895.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Despite the fact that earlier explorers had put forward elevations several hundred metres lower, and the scientific 6,973 metre measurement made in 1985, the Littledale elevation has been so resilient that even into the 21st century it still remains the most widely quoted; it is found in generally reliable publications including the Times Atlas, Encyclopedia Britannica, and fact books. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Other remote Tibetan mountains whose elevations have been established by SRTM and modern Chinese mapping include:* Nganglong (Aling) Kangri, 32°48'30N,81°00'03E, 6,720 m, but still often quoted at 7,315 m * Amne Machin (Maqen Gangri), 34°47'54N,99°27'45E, 6,282 m, but still often quoted at 7,160 m* Buka Daban Feng, 36°01'27N,90°51'57E, 6,860 m, but still quoted much higher* Zangser Kangri, 34°23'39N,85°51'00E, 6,540 m, but still sometimes quoted at 6,940 m. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

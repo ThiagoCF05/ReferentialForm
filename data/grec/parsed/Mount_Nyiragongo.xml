@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="503">
+	<TITLE>Mount Nyiragongo</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Nyiragongo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a volcano in the Virunga Mountains associated with the Great Rift Valley. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the Democratic Republic of the Congo, about 20 km north of the town of Goma and Lake Kivu and just west of the border with Rwanda. The main crater is 250 m deep, two km wide and sometimes contains a lava lake. Nyiragongo and nearby Nyamuragira are together responsible for 40% of Africa's historical volcanic eruptions.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TEXT ID="1045">
+	<TITLE>Copenhagen</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Copenhagen</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([IPA: kəʊpənˈheɪgən], rhyming with pagan (the way the Danes themselves pronounce the name of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="15" SEMCAT="city" SENTENCE-POSITION="16" SENTENCE-RECENCY="15" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the capital</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in English), or [IPA: [kəʊpənˈhɑˑgən]], with a as in spa; Danish København [IPA: købn̩ˈhaʊˀn]) is the capital of Denmark and the country's largest city (metropolitan population 1,211,542 (2006)), at present made up of 16 municipalities.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>It is also the name of the adjacent county.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="61" PARAGRAPH-RECENCY="45" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Copenhagen</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the seat of the national parliament, the government, and the monarchy. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The original designation for  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, from which the contemporary Danish name is derived, was Kjøbmandehavn, &quot;merchants' harbor&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The English name for  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="17" SEMCAT="city" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is derived from  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="4" SEMCAT="city" SENTENCE-POSITION="9" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> German name, Kopenhagen.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The element hafnium is named after  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="10" SEMCAT="city" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the city's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> Latin name, Hafnia. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

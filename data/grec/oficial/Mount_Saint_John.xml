@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TEXT ID="526">
+	<TITLE>Mount Saint John</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Saint John</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Teton Range, Grand Teton National Park, Wyoming, northwest of Jenny Lake.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> towers above the northwest shore of Jenny Lake, and along with Symmetry Spire and Rockchuck Peak, form a massif which looms to the north above Cascade Canyon.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The scenic Lake of the Crags, a cirque lake or tarn, is located immediately south of the summit and is accessed by way of Hanging Canyon. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<TEXT ID="1725">
+	<TITLE>Robert Putnam</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Robert David Putnam</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born January 9, 1941 in Rochester, New York) is a political scientist and professor at Harvard University, well-known for  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="20" SEMCAT="person" SENTENCE-POSITION="21" SENTENCE-RECENCY="20" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> writings on civic engagement, civil society, and social capital.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="10" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Putnam</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also developed the influential two-level game theory that assumes international agreements will only be successfully brokered if they also result in domestic benefits. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> most famous (and controversial) work, Bowling Alone, argues that the United States has undergone an unprecedented collapse in civic, social, associational, and political life (social capital) since the 1960s, with serious negative consequences.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Though  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="35" SEMCAT="person" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> measured this decline in data of many varieties,  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="9" SEMCAT="person" SENTENCE-POSITION="11" SENTENCE-RECENCY="9" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> most striking point was that virtually every traditional civic, social and fraternal organization -- typified by bowling leagues -- had undergone a massive decline in membership while the number of people bowling increased drastically. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Putnam</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> makes a distinction between two kinds of social capital: bonding capital and bridging capital.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Bonding occurs when you are socializing with people who are like you: same age, same race, same religion, and so on.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>But in order to create peaceful societies in a diverse multi-etnic country, one needs to have a second kind of social capital: bridging.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Bridging is what you do when you make friends with people who are not like you, like supporters from another football team.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="82" PARAGRAPH-RECENCY="81" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Putman</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> argues that those two kinds of social capital, bonding and bridging, do strengthen each other. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

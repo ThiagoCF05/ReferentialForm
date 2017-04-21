@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEXT ID="1770">
+	<TITLE>Voltaire</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">François-Marie Arouet</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (21 November, 1694 - 30 May, 1778), better known by the pen name Voltaire, was a French Enlightenment writer, essayist, deist and philosopher. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Voltaire</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was known for  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> sharp wit, philosophical writings, and defence of civil liberties, including freedom of religion and the right to a fair trial.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was an outspoken supporter of social reform despite strict censorship laws in France and harsh penalties for those who broke them.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>A satirical polemicist,  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> frequently made use of  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> works to criticize Church dogma and the French institutions of  </STRING>
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> day.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Voltaire</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is considered one of the most influential figures of  </STRING>
+			<REFERENCE ID="9" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> time. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

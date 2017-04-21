@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<TEXT ID="994">
+	<TITLE>Almaty</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Almaty</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Алматы; formerly known as Alma-Ata, also Vernyj, Vyernyi (Верный) in Imperial Russia) is the largest city in Kazakhstan, with a population of 1,185,900 (2004) (8% of the population of Kazakhstan) citizens. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The name &quot;Almaty&quot; means &quot;appled&quot; (the place with apples), the older version of  </STRING>
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name, Alma-Ata, literally means &quot;father-apple&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>In the surrounding region, unrivalled genetic diversity among the alma, the wild apples, implies that south-east Kazakhstan is where the domesticated apple is native. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>A troop of Siberian Cossacks from Omsk founded  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the fort Zailiysky</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in 1854 at the foot of the Tian Shan mountain range, and renamed  </STRING>
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> one year later to Vernyj, a name that remained until 1921.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>In 1921, the name Alma-Ata (&quot;father-apple&quot;) was created by the Bolsheviks.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>In a devastating earthquake in 1911, almost the only large building that remained standing was the Russian Orthodox cathedral.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>In the 1920s, after the completion of the Turkestan-Siberia Railway,  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Alma-Ata</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, as it was then known, became a major stopping point along the track.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING>In 1929,  </STRING>
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Almaty</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became the capital of the Kazakh SSR. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>In late 1991,  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Almaty</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became the capital of the Republic of Kazakhstan, a designation  </STRING>
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> kept until 1998, when the capital was moved to Astana.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Almaty</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, however, remains the largest city in Kazakhstan and the country's major commercial center.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>In 2005,  </STRING>
+			<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> launched an Olympic application to host the XXII Olympic Winter Games in the year 2014, which failed, as the IOC did not select  </STRING>
+			<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as a candidate. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>A short bus ride into the Tian Shan Mountains brings one to Medeo, a popular tourist destination, with several hotels and an Olympic-size skating rink. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING>On 21 December, 1991, the Charter that ended the Soviet Union creating the Commonwealth of Independent States was signed there. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

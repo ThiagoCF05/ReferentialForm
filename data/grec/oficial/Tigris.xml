@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="1846">
+	<TITLE>Tigris</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Tigris</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the eastern member of the pair of great rivers that define Mesopotamia, along with the Euphrates,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="18" SEMCAT="river" SENTENCE-POSITION="19" SENTENCE-RECENCY="18" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flows from the mountains of Anatolia through Iraq (the name &quot;Mesopotamia&quot; is a Greek word meaning &quot;the land between the rivers&quot;). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

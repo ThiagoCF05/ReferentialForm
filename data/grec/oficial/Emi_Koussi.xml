@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<TEXT ID="152">
+	<TITLE>Emi Koussi</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Emi Koussi</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a high shield volcano  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="7" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="7" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">that</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies at the south end of the Tibesti Mountains in the central Sahara of northern Chad.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="17" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain in Chad, and the highest in the Sahara.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="13" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of several in the Tibesti massif, and  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="47" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> reaches 3445 m in altitude, rising 2.3 km above the surrounding sandstone plains.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="61" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is 60 by 80 km wide. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Two nested calderas cap  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, the outer one being about 12 by 15 km in size.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Within it on the southeast side is a smaller caldera, about 2-3 km wide and 350 m deep.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Numerous lava domes, cinder cones, maars, and lava flows are found both within the calderas and along the outer flanks of  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="56" PARAGRAPH-RECENCY="51" SEMCAT="mountain" SENTENCE-POSITION="22" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the shield</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="9" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Emi Koussi</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been used as a close analog to the famous Martian volcano Elysium Mons.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>One of the most important morphological differences between volcanoes on Mars and Earth is the widespread furrowing of the surface due to flowing water on terrestrial volcanoes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The furrows are shallow valleys.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Larger channels have a different origin.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING>Major channels can be seen on volcanoes on both planets and indicate low points in caldera rims where lava spilled out of pre-collapse craters. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

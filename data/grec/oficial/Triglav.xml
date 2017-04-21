@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<TEXT ID="894">
+	<TITLE>Triglav</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Triglav</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Monte Tricorno in italian) is the highest mountain in Slovenia (and formerly all of Yugoslavia and the Illyrian Provinces) and the Julian Alps.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>While  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="25" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name, meaning &quot;three-headed&quot;, can describe  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="8" SENTENCE-RECENCY="6" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shape as seen from the valley of Bohinj,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="17" SENTENCE-RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> may have been named after the Slavic god Triglav, although this hypothesis remains disputed.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="56" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Triglav's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shape can also be seen in the Slovenian coat of arms, on the flag of Slovenia and on the Slovenian 50 Eurocent coin. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>At the top of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> stands the Aljažev stolp (Aljaž's Tower) which is a Slovenian landmark and an important symbol of the country. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first ascended on August 26 1778, by Luka Korošec, Matija Kos, Stefan Rožič and Lovrenc Willomitzer on Sigismund Zois's initiative. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The Triglav area is also the origin of an old Slovenian legend of a chamois buck (steinbock, ibex) named Zlatorog (&quot;Goldhorn&quot;), which is used as a brand mark of Laško Brewery. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>A lengthy symphonic poem by the composer Nikolai Rimsky-Korsakov, based on his opera Mlada, bears the title &quot;Night on Mount Triglav&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

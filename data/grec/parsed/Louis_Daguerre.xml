@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1637">
+	<TITLE>Louis Daguerre</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Louis-Jacques-Mandé Daguerre</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (November 18, 1787 - July 10, 1851) was the French artist and chemist who is recognized for </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> invention of the Daguerreotype process of photography.</STRING>
+	</PARAGRAPH>
+</TEXT>

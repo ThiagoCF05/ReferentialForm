@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TEXT ID="1597">
+	<TITLE>John Calvin</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">John Calvin</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (July 10, 1509 - May 27, 1564) was a French Protestant theologian during the Protestant Reformation and  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="18" SEMCAT="person" SENTENCE-POSITION="19" SENTENCE-RECENCY="18" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a central developer of the system of Christian theology called Calvinism.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="13" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Calvin</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> derives from the Latin version of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="7" SEMCAT="person" SENTENCE-POSITION="8" SENTENCE-RECENCY="7" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name, Calvinus. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

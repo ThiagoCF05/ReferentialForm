@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<TEXT ID="992">
+	<TITLE>Ahmedabad</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ahmedabad</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Gujarati: અમદાવાદ], [Hindi: अहमदाबाद]) or Ahmadābād is the largest city in the state of Gujarat and the seventh largest urban agglomeration in India, with a population of almost 70 lakhs (7.0 million).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the epicentre of many campaigns of civil disobedience to promote workers' rights, civil rights and political independence. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>With the creation of the state of Gujarat in 1960,  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ahmedabad</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> gained prominence as the political and commercial capital of the state.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Once characterised by dusty roads and bungalows,  </STRING>
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is witnessing a major construction boom and population increase.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>A rising centre of education, information technology and scientific industries,  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ahmedabad</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> remains the cultural and commercial heart of Gujarat, and much of western India.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Since 2000,  </STRING>
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been transformed through the construction of skyscrapers, shopping malls and multiplexes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>However, this progress has been marred by natural calamities, political instability and outbreaks of communal violence. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

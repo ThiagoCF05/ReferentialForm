@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="179">
+	<TITLE>Going to the Sun Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Going to the Sun Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in Glacier National Park (U.S.) and </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> rises dramatically above St. Mary valley just north of the Going-to-the-Sun Road. Numerous Blackfeet Indian legends are credited with the origins of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountains'</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name. Used by the Blackfeet as a location for vision quests, </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the most accessible major mountain peaks in Glacier National Park. According to several sources, the actual Blackfeet name for </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is The-Face-of-Sour-Spirit-Who-Went-Back-to-The-Sun-After-His-Work-Was-Done Mountain, in explanation of the snowfields on the mountainside which, as viewed from the west, make the outline of a face.</STRING>
+	</PARAGRAPH>
+</TEXT>

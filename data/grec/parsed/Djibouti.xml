@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1253">
+	<TITLE>Djibouti</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Djibouti</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Arabic: جيبوتي], Ǧībūtī, pronounced jo-BOO-tee), officially the Republic of Djibouti, is a small country in eastern Africa, located in the Horn of Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Djibouti</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is bordered by Eritrea in the north, Ethiopia in the west and south, and Somalia in the southeast. The remainder of the border is formed by the Red Sea and the Gulf of Aden. On the other side of the Red Sea, on the Arabian Peninsula, 20 kilometers (12 mi) from the coast of </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Djibouti</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, is Yemen.</STRING>
+	</PARAGRAPH>
+</TEXT>

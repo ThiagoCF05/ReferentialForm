@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TEXT ID="438">
+	<TITLE>Mount Hungabee</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hungabee</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located on the boundaries of Banff National Park and Yoho National Park on the Continental Divide at the head of Paradise Valley.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="24" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named in 1894 by Samuel Allen after the Stoney Indian word for &quot;chieftain&quot; as  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="17" SENTENCE-RECENCY="16" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is higher than  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="4" SEMCAT="mountain" SENTENCE-POSITION="21" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> neighbouring peaks.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="48" PARAGRAPH-RECENCY="3" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can be seen from the Icefields Parkway (#93) in the upper Bow Valley. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Hungabee</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed in 1903 by H.C. Parker who was guided by Hans Kaufmann and Christian Kaufmann. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

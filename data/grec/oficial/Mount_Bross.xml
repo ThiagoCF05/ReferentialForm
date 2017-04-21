@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TEXT ID="371">
+	<TITLE>Mount Bross</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Bross</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a fourteener in the U.S. state of Colorado, located approximately 1 mile (1.6 km) south of Mount Lincoln in the Mosquito Range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="24" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies in northwestern Park County. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>With a topographic prominence in the range of 292 to 332 feet (89 to 101 m),  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="17" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> barely qualifies as an independent peak by the standard 300 foot prominence rule.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is often climbed together with Mount Lincoln and nearby Mount Democrat. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>For more information on this group of peaks, including access issues, see Mount Lincoln. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

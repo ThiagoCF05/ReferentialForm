@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="1648">
+	<TITLE>Mario Vargas Llosa</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mario Vargas Llosa</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> FKC (birth name: Jorge Mario Pedro Vargas Llosa) (born in Arequipa, March 28, 1936) is a Peruvian-Spanish writer  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="19" SEMCAT="person" SENTENCE-POSITION="20" SENTENCE-RECENCY="19" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of Latin America's leading novelists and essayists. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

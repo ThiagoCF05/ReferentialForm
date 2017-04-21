@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1277">
+	<TITLE>Grenada</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Grenada</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an island nation in the southeastern Caribbean Sea including the southern Grenadines.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Grenada</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the second-smallest independent country in the Western Hemisphere (after Saint Kitts and Nevis).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located north of Trinidad and Tobago, and south of Saint Vincent and the Grenadines. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TEXT ID="116">
+	<TITLE>Deltaform Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Deltaform Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the mountains in the Valley of the Ten Peaks, located on the Continental Divide on the border of Banff and Kootenay national parks in Canada.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="29" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was originally named Saknowa by Samuel Allen but Walter Wilcox named  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="13" SENTENCE-RECENCY="12" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> to  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="44" PARAGRAPH-RECENCY="2" SEMCAT="mountain" SENTENCE-POSITION="15" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> official title in 1897 as  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="21" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> resembles the Greek letter delta. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Deltaform</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed in 1903 by A. Eggers and H.C. Parker who were guided by Christian and Hans Kaufmann. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

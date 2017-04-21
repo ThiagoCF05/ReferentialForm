@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEXT ID="395">
+	<TITLE>Mount Dana</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Dana</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain on the eastern edge of Yosemite National Park in the U.S. state of California.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>At an elevation of 13,061 feet (3,981 m),  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="27" PARAGRAPH-RECENCY="26" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the 2nd highest mountain in Yosemite (after Mount Lyell).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Dana</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest peak in Yosemite that is a simple hike to the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="53" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Dana</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is named after James Dwight Dana, who was a professor of geology at Yale College. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Dana</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is composed of prebatholithic rock that is mostly reddish metamorphic rock, which was composed by metavolcanics of surfacing magma from the Mesozoic Era. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Dana's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> northern face includes a small, receding glacier known as the Dana Glacier. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The Dana Meadows lie at the foot of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>From the top, lakes throughout Dana Meadows, Mono Lake, and many other mountains are in view. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

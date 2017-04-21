@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="467">
+	<TITLE>Mount Lawu</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Lawu</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, or Gunung Lawu, is a massive compound stratovolcano in Central Java, Indonesia. The north side is deeply eroded and the eastern side contains parasitic crater lakes and parasitic cones. A fumarolic area is located on the south flank at 2,550 m. The only reported activity of </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lawu</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> took place in 1885, when rumblings and light volcanic ash falls were reported.</STRING>
+	</PARAGRAPH>
+</TEXT>

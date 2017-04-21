@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<TEXT ID="1256">
+	<TITLE>East Timor</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">East Timor</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Democratic Republic of Timor-Leste, is a country in Southeast Asia comprising the eastern half of the island of Timor, the nearby islands of Atauro and Jaco, and Oecussi-Ambeno, an exclave on the northwestern side of the island, within Indonesian West Timor. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The small country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> of 5,376 square miles (14,609 square kilometres) is located about 400 miles (640 km) northwest of Darwin, Australia.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The name Timor derives from timor or timur, the word for 'east' in Malay as well as Indonesian, which became Timor in Portuguese. The Portuguese name Timor-Leste and the Tetum name Timor Lorosa'e are sometimes used in English. Lorosa'e (the word for 'east' in Tetum) literally means 'rising sun'.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">East Timor</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has the lowest per capita GDP (Purchasing Power Parity adjusted) in the world, of only $400 (which corresponds to the 192nd position). However, on </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> Human Development Index, or HDI, </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is in 142nd place among the world's nations, which corresponds to medium human development.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>Colonized by Portugal in the 16th century, </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">East Timor</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was known as Portuguese Timor for centuries. </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was invaded by Indonesia in 1975, which occupied </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> until 1999. Following the UN-sponsored act of self-determination that year, Indonesia relinquished control of </STRING>
+		<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the territory</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE ID="10" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> achieved full independence on May 20, 2002, becoming the first new country of the 21st century. With the Philippines, </STRING>
+		<REFERENCE ID="11" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">East Timor</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of only two predominantly Roman Catholic countries in Asia, and the only Portuguese-speaking sovereign state in Asia.</STRING>
+	</PARAGRAPH>
+</TEXT>

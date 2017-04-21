@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="462">
+	<TITLE>Mount Kitchener</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Kitchener</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located within the Columbia Icefield of Jasper National Park, which is part of the Canadian Rockies.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="18" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can be seen from the Icefields Parkway (#93) near Sunwapta Pass. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Kitchener</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was originally named Mount Douglas by J. Norman Collie after David Douglas.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>In 1916,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was renamed to  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="4" SEMCAT="mountain" SENTENCE-POSITION="7" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> present day name after Lord Kitchener, who had just been killed in World War I. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<TEXT ID="1003">
+	<TITLE>Athens</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Athens</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Greek: Αθήνα, Athína IPA: [IPA: /a'θina/]) is the capital and largest city of Greece and the birthplace of democracy.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Named after goddess Athena,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="24" SEMCAT="city" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Athens</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a bustling, cosmopolitan metropolis with a population of 3.7 million people.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The Athens metropolitan area is currently growing both northwards and eastwards across Attica and it constitutes the dominant center of economic, financial, industrial, cultural and political life in Greece.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="67" PARAGRAPH-RECENCY="42" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also rapidly becoming a leading business center in the European Union.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="80" PARAGRAPH-RECENCY="13" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ancient Athens</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a powerful polis city-state and a renowned center of learning, home of Plato's Academy and Aristotle's Lyceum.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="99" PARAGRAPH-RECENCY="19" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is considered to have been the cradle of Western civilization, largely due to the immense impact of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="117" PARAGRAPH-RECENCY="18" SEMCAT="city" SENTENCE-POSITION="19" SENTENCE-RECENCY="18" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> cultural and political achievements during the 5th and 4th centuries BC on the rest of the then known European Continent.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>The heritage of the Athenian Enlightenment is still evident in  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="148" PARAGRAPH-RECENCY="31" SEMCAT="city" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, portrayed through a number of spectacular ancient monuments and artworks, the most famous of all being the Parthenon on the Acropolis.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.8">
+			<STRING>Most recently,  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="172" PARAGRAPH-RECENCY="24" SEMCAT="city" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Athens</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the host city of the hugely successful 2004 Summer Olympics. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

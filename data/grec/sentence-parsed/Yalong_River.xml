@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="1852">
+	<TITLE>Yalong River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Yalong River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (also called Ya-lung River) is an 822 miles (1,323 kilometers) long river in the Sichuan province of southern China.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flows into the Yangtze River along the border with Yunnan. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

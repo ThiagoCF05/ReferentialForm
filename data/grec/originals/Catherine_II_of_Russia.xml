@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "reg08-grec.dtd">
+<TEXT ID="1467">
+<TITLE>Catherine II of Russia</TITLE>
+
+<PARAGRAPH>
+<REF ID="1467.1" SEMCAT="person" SYNCAT="np-subj">
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Catherine II of Russia</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Catherine II of Russia</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Catherine II of Russia herself</REFEX>
+<REFEX REG08-TYPE="empty">_</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="nominative">she</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="pronoun" CASE="nominative">she herself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">who</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">who herself</REFEX>
+</ALT-REFEX>
+</REF>
+, called the Great (Russian: Екатерина II Великая, Yekaterina II Velikaya; 2 May 1729–17 November, 1796) — sometimes referred to as an epitome of the "enlightened despot" — reigned as Empress of Russia for some 34 years, from June 28 1762 until 
+<REF ID="1467.2" SEMCAT="person" SYNCAT="subj-det">
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="genitive">her</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="genitive">Catherine II of Russia's</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="genitive">her</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="genitive">whose</REFEX>
+</ALT-REFEX>
+</REF>
+ death.</PARAGRAPH>
+</TEXT>

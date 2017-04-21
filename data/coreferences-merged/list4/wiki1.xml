@@ -1,0 +1,672 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+	<SENTENCE ID="1">
+		<TARGET-REFERENCE ENTROPY="0" ID="1" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="UNKNOWN" entity="8" gender="UNKNOWN" mentionid="8" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="name">Makalu</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="name">makalu</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="name">Makulu</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="name">MAkalu</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> -LRB- in Nepal </STRING>
+		<REFERENCE animacy="INANIMATE" entity="9" gender="UNKNOWN" mentionid="9" mentiontype="PROPER" number="SINGULAR"> officially मकालु </REFERENCE>
+		<STRING>; in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="2" mentiontype="PROPER" number="SINGULAR"> China </REFERENCE>
+		<STRING> officially </STRING>
+		<REFERENCE animacy="INANIMATE" entity="10" gender="UNKNOWN" mentionid="10" mentiontype="PROPER" number="SINGULAR">
+			<STRING> Makaru; </STRING>
+			<REFERENCE animacy="ANIMATE" entity="11" gender="NEUTRAL" mentionid="11" mentiontype="PROPER" number="SINGULAR">
+				<STRING> Chinese: </STRING>
+				<REFERENCE animacy="INANIMATE" entity="12" gender="UNKNOWN" mentionid="12" mentiontype="PROPER" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="3" gender="UNKNOWN" mentionid="3" mentiontype="PROPER" number="SINGULAR"> 马卡鲁山 </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="13" gender="UNKNOWN" mentionid="13" mentiontype="PROPER" number="SINGULAR"> Pinyin </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>: </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="14" gender="UNKNOWN" mentionid="14" mentiontype="PROPER" number="SINGULAR"> Mǎkǎlǔ Shān </REFERENCE>
+		</REFERENCE>
+		<STRING> -RRB- </STRING>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="8" gender="NEUTRAL" mentionid="15" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the </STRING>
+			<REFERENCE animacy="INANIMATE" entity="4" gender="UNKNOWN" mentionid="4" mentiontype="PROPER" number="SINGULAR"> fifth </REFERENCE>
+			<STRING> highest mountain in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="16" mentiontype="NOMINAL" number="SINGULAR"> the world </REFERENCE>
+			<STRING> and </STRING>
+			<TARGET-REFERENCE ENTROPY="0.359334" ID="2" PARAGRAPH-POSITION="24" RECENCY="23" SYNCAT="np-subj" animacy="UNKNOWN" entity="8" gender="UNKNOWN" mentionid="8" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Makalu</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">also</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="other">is</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is located east of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="5" gender="UNKNOWN" mentionid="5" mentiontype="PROPER" number="SINGULAR"> Mount Everest </REFERENCE>
+			<STRING>, on </STRING>
+			<REFERENCE animacy="INANIMATE" entity="17" gender="NEUTRAL" mentionid="17" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the border between </STRING>
+				<REFERENCE animacy="INANIMATE" entity="18" gender="UNKNOWN" mentionid="18" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="6" mentiontype="PROPER" number="SINGULAR"> Nepal </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE animacy="INANIMATE" entity="7" gender="NEUTRAL" mentionid="7" mentiontype="PROPER" number="SINGULAR"> Tibet </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<TARGET-REFERENCE ENTROPY="0.607619" ID="3" PARAGRAPH-POSITION="38" RECENCY="14" SYNCAT="np-subj" animacy="UNKNOWN" entity="8" gender="UNKNOWN" mentionid="19" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="name">Makalu</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="name">makalu</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="other">At 27,838 metres tall, it</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="demonstrative">This mountain</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="description">The mountain</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="name">Makalu</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="8" gender="UNKNOWN" mentionid="20" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> an isolated peak shape </STRING>
+			<TARGET-REFERENCE ENTROPY="0.372904" ID="4" PARAGRAPH-POSITION="43" RECENCY="5" SYNCAT="subj-det" animacy="UNKNOWN" entity="8" gender="UNKNOWN" mentionid="19" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">whose</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">and</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Makalu's</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">and its</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">whose</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">and it's</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">whose</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">whose</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">that's</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="other">and its</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">whose</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">whose</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="other">and its</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">whose</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="other">and its</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="other">and it's</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> shape is </STRING>
+			<REFERENCE animacy="INANIMATE" entity="21" gender="NEUTRAL" mentionid="21" mentiontype="NOMINAL" number="SINGULAR"> a four-sided pyramid </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+	<SENTENCE ID="3">
+		<TARGET-REFERENCE ENTROPY="0.46814" ID="5" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="UNKNOWN" entity="8" gender="UNKNOWN" mentionid="23" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="name">Makalu</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="name">makalu</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="description">The mountain</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="description">The mountain</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="name">Makula</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="description">The mountain</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="name">Makalu</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> has </STRING>
+		<REFERENCE animacy="INANIMATE" entity="24" gender="UNKNOWN" mentionid="24" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="22" mentiontype="PROPER" number="SINGULAR"> two </REFERENCE>
+			<STRING> notable subsidiary peaks </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<REFERENCE animacy="UNKNOWN" entity="29" gender="UNKNOWN" mentionid="29" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="30" gender="UNKNOWN" mentionid="30" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="UNKNOWN" entity="35" gender="UNKNOWN" mentionid="35" mentiontype="PROPER" number="SINGULAR"> Kangchungtse </REFERENCE>
+				<STRING>, or </STRING>
+				<REFERENCE animacy="INANIMATE" entity="25" gender="NEUTRAL" mentionid="25" mentiontype="PROPER" number="SINGULAR"> Makalu II </REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="31" gender="UNKNOWN" mentionid="31" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="26" gender="UNKNOWN" mentionid="26" mentiontype="PROPER" number="SINGULAR"> 7678 </REFERENCE>
+				<STRING> m </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, lies about </STRING>
+		<REFERENCE animacy="INANIMATE" entity="32" gender="UNKNOWN" mentionid="32" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="27" gender="UNKNOWN" mentionid="27" mentiontype="PROPER" number="SINGULAR"> 3 </REFERENCE>
+			<STRING> km -LRB- </STRING>
+			<REFERENCE animacy="INANIMATE" entity="33" gender="UNKNOWN" mentionid="33" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="28" gender="UNKNOWN" mentionid="28" mentiontype="PROPER" number="SINGULAR"> 2 </REFERENCE>
+				<STRING> mi </STRING>
+			</REFERENCE>
+			<STRING> -RRB- north-northwest of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="34" gender="NEUTRAL" mentionid="34" mentiontype="NOMINAL" number="SINGULAR"> the main summit </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<STRING> Rising about </STRING>
+		<REFERENCE animacy="INANIMATE" entity="41" gender="UNKNOWN" mentionid="41" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="36" gender="UNKNOWN" mentionid="36" mentiontype="PROPER" number="SINGULAR"> 5 </REFERENCE>
+			<STRING> km -LRB- </STRING>
+			<REFERENCE animacy="INANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="37" gender="UNKNOWN" mentionid="37" mentiontype="PROPER" number="SINGULAR"> 3.5 </REFERENCE>
+				<STRING> mi </STRING>
+			</REFERENCE>
+			<STRING> -RRB- north-northeast of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="34" gender="NEUTRAL" mentionid="43" mentiontype="NOMINAL" number="SINGULAR"> the main summit </REFERENCE>
+			<STRING> across </STRING>
+			<REFERENCE animacy="INANIMATE" entity="44" gender="NEUTRAL" mentionid="44" mentiontype="NOMINAL" number="SINGULAR"> a broad plateau </REFERENCE>
+		</REFERENCE>
+		<STRING>, and connected to Kangchungtse by </STRING>
+		<REFERENCE animacy="INANIMATE" entity="45" gender="MALE" mentionid="45" mentiontype="NOMINAL" number="UNKNOWN">
+			<REFERENCE animacy="INANIMATE" entity="46" gender="MALE" mentionid="46" mentiontype="NOMINAL" number="UNKNOWN"> a narrow </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="46" gender="UNKNOWN" mentionid="47" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="38" gender="UNKNOWN" mentionid="38" mentiontype="PROPER" number="SINGULAR"> 7,200 </REFERENCE>
+				<STRING> m saddle </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, is </STRING>
+		<REFERENCE animacy="ANIMATE" entity="48" gender="UNKNOWN" mentionid="48" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="48" gender="UNKNOWN" mentionid="39" mentiontype="PROPER" number="SINGULAR"> Chomo Lonzo </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="49" gender="UNKNOWN" mentionid="49" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="40" gender="UNKNOWN" mentionid="40" mentiontype="PROPER" number="SINGULAR"> 7804 </REFERENCE>
+				<STRING> m </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+	<SENTENCE ID="6">
+		<REFERENCE animacy="INANIMATE" entity="51" gender="NEUTRAL" mentionid="51" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> The </STRING>
+			<REFERENCE animacy="INANIMATE" entity="50" gender="NEUTRAL" mentionid="50" mentiontype="PROPER" number="SINGULAR"> first </REFERENCE>
+			<STRING> attempt on </STRING>
+			<TARGET-REFERENCE ENTROPY="0.499393" ID="6" PARAGRAPH-POSITION="5" RECENCY="0" SYNCAT="np-obj" animacy="UNKNOWN" entity="8" gender="UNKNOWN" mentionid="52" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Makalu</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Makalu</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="description">the summit</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Makalu</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Makalu</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Makalu</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">makalu</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Makalu</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Makalu</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">summiting the peak</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Mount Makala</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">Makalu</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Makalu</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Makalu</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="demonstrative">this mount</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="description">the mountain</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="description">the peak</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Makalu</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="demonstrative">this mountain</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="other">climbing it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+		</REFERENCE>
+		<STRING> was made by </STRING>
+		<REFERENCE animacy="INANIMATE" entity="53" gender="NEUTRAL" mentionid="53" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> an American team led by </STRING>
+			<REFERENCE animacy="ANIMATE" entity="54" gender="MALE" mentionid="54" mentiontype="PROPER" number="SINGULAR">
+				<STRING> W. Siri in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="55" gender="UNKNOWN" mentionid="55" mentiontype="PROPER" number="SINGULAR">
+					<STRING> the spring of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="56" gender="UNKNOWN" mentionid="56" mentiontype="PROPER" number="SINGULAR"> 1954 </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<REFERENCE animacy="ANIMATE" entity="29" gender="UNKNOWN" mentionid="59" mentiontype="PRONOMINAL" number="PLURAL"> They </REFERENCE>
+		<STRING> attempted </STRING>
+		<REFERENCE animacy="INANIMATE" entity="60" gender="MALE" mentionid="60" mentiontype="NOMINAL" number="SINGULAR"> the southeast ridge </REFERENCE>
+		<STRING> but were turned back at </STRING>
+		<REFERENCE animacy="INANIMATE" entity="61" gender="UNKNOWN" mentionid="61" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="57" gender="UNKNOWN" mentionid="57" mentiontype="PROPER" number="SINGULAR"> 7,100 </REFERENCE>
+			<STRING> m -LRB- </STRING>
+			<REFERENCE animacy="INANIMATE" entity="62" gender="NEUTRAL" mentionid="62" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="58" gender="UNKNOWN" mentionid="58" mentiontype="PROPER" number="SINGULAR"> 23,300 </REFERENCE>
+				<STRING> ft </STRING>
+			</REFERENCE>
+			<STRING> -RRB- </STRING>
+		</REFERENCE>
+		<STRING> by </STRING>
+		<REFERENCE animacy="INANIMATE" entity="63" gender="UNKNOWN" mentionid="63" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a constant barrage of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="64" gender="UNKNOWN" mentionid="64" mentiontype="NOMINAL" number="PLURAL"> storms </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<REFERENCE animacy="INANIMATE" entity="66" gender="NEUTRAL" mentionid="66" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> A </STRING>
+			<REFERENCE animacy="INANIMATE" entity="65" gender="MALE" mentionid="65" mentiontype="PROPER" number="SINGULAR"> New Zealand </REFERENCE>
+			<STRING> team including </STRING>
+			<REFERENCE animacy="ANIMATE" entity="67" gender="MALE" mentionid="67" mentiontype="PROPER" number="SINGULAR"> Sir Edmund Hillary </REFERENCE>
+		</REFERENCE>
+		<STRING> was also active in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="55" gender="UNKNOWN" mentionid="68" mentiontype="PROPER" number="SINGULAR"> the spring </REFERENCE>
+		<STRING>, but did not get very high due to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="69" gender="UNKNOWN" mentionid="69" mentiontype="LIST" number="PLURAL"> injury and illness </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<STRING> In </STRING>
+		<REFERENCE animacy="INANIMATE" entity="75" gender="UNKNOWN" mentionid="75" mentiontype="PROPER" number="SINGULAR">
+			<STRING> the fall of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="56" gender="UNKNOWN" mentionid="76" mentiontype="PROPER" number="SINGULAR"> 1954 </REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="77" gender="NEUTRAL" mentionid="77" mentiontype="NOMINAL" number="SINGULAR"> a French reconnaissance expedition </REFERENCE>
+		<STRING> made </STRING>
+		<REFERENCE animacy="INANIMATE" entity="78" gender="UNKNOWN" mentionid="78" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> the </STRING>
+			<REFERENCE animacy="INANIMATE" entity="50" gender="NEUTRAL" mentionid="70" mentiontype="PROPER" number="SINGULAR"> first </REFERENCE>
+			<STRING> ascents of </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="79" gender="UNKNOWN" mentionid="79" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="80" gender="UNKNOWN" mentionid="80" mentiontype="NOMINAL" number="PLURAL"> the subsidiary summits </REFERENCE>
+				<STRING> Kangchungtse -LRB- </STRING>
+				<REFERENCE animacy="INANIMATE" entity="81" gender="UNKNOWN" mentionid="81" mentiontype="LIST" number="PLURAL">
+					<STRING> October 22: </STRING>
+					<REFERENCE animacy="ANIMATE" entity="82" gender="UNKNOWN" mentionid="82" mentiontype="LIST" number="PLURAL">
+						<STRING> Jean Franco -LRB- climber -RRB-, </STRING>
+						<REFERENCE animacy="ANIMATE" entity="83" gender="UNKNOWN" mentionid="83" mentiontype="LIST" number="PLURAL">
+							<REFERENCE animacy="ANIMATE" entity="71" gender="MALE" mentionid="71" mentiontype="PROPER" number="SINGULAR"> Lionel Terray </REFERENCE>
+							<STRING>, </STRING>
+							<REFERENCE animacy="ANIMATE" entity="72" gender="MALE" mentionid="72" mentiontype="PROPER" number="SINGULAR"> Sirdar Gyaltsen Norbu </REFERENCE>
+							<STRING> and </STRING>
+							<REFERENCE animacy="INANIMATE" entity="73" gender="MALE" mentionid="73" mentiontype="PROPER" number="UNKNOWN"> Pa Norbu </REFERENCE>
+						</REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING> -RRB- and </STRING>
+				<REFERENCE animacy="ANIMATE" entity="48" gender="UNKNOWN" mentionid="74" mentiontype="PROPER" number="SINGULAR"> Chomo Lonzo </REFERENCE>
+				<STRING> -LRB- </STRING>
+				<REFERENCE animacy="INANIMATE" entity="84" gender="NEUTRAL" mentionid="84" mentiontype="PROPER" number="SINGULAR"> October 30 </REFERENCE>
+				<STRING> -LRB- </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>? -RRB- </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<STRING>: </STRING>
+		<REFERENCE animacy="ANIMATE" entity="86" gender="UNKNOWN" mentionid="86" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="85" gender="UNKNOWN" mentionid="85" mentiontype="PROPER" number="SINGULAR"> Jean Couzy </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="71" gender="UNKNOWN" mentionid="87" mentiontype="PROPER" number="SINGULAR"> Terray </REFERENCE>
+		</REFERENCE>
+		<STRING> -RRB-. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+	<SENTENCE ID="11">
+		<REFERENCE animacy="INANIMATE" entity="91" gender="NEUTRAL" mentionid="91" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> The </STRING>
+			<REFERENCE animacy="INANIMATE" entity="50" gender="NEUTRAL" mentionid="88" mentiontype="PROPER" number="SINGULAR"> first </REFERENCE>
+			<STRING> ascent of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="92" gender="UNKNOWN" mentionid="92" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the southeast ridge route attempted by </STRING>
+				<REFERENCE animacy="ANIMATE" entity="93" gender="UNKNOWN" mentionid="93" mentiontype="PROPER" number="SINGULAR"> the Americans </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> was made by </STRING>
+		<REFERENCE animacy="ANIMATE" entity="94" gender="UNKNOWN" mentionid="94" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="89" gender="MALE" mentionid="89" mentiontype="PROPER" number="SINGULAR"> Y. Ozaki </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="ANIMATE" entity="90" gender="MALE" mentionid="90" mentiontype="PROPER" number="SINGULAR"> A. Tanaka </REFERENCE>
+		</REFERENCE>
+		<STRING> from </STRING>
+		<REFERENCE animacy="INANIMATE" entity="95" gender="NEUTRAL" mentionid="95" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a Japanese expedition on </STRING>
+			<REFERENCE animacy="INANIMATE" entity="96" gender="MALE" mentionid="96" mentiontype="PROPER" number="SINGULAR"> May 23, 1970 </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<REFERENCE animacy="INANIMATE" entity="98" gender="UNKNOWN" mentionid="98" mentiontype="NOMINAL" number="SINGULAR"> The very technical West Pillar route </REFERENCE>
+		<STRING> was climbed in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="99" gender="MALE" mentionid="99" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="100" gender="MALE" mentionid="100" mentiontype="PROPER" number="SINGULAR"> May </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="101" gender="UNKNOWN" mentionid="101" mentiontype="PROPER" number="SINGULAR"> 1971 </REFERENCE>
+		</REFERENCE>
+		<STRING> by </STRING>
+		<REFERENCE animacy="ANIMATE" entity="102" gender="UNKNOWN" mentionid="102" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="97" gender="MALE" mentionid="97" mentiontype="PROPER" number="SINGULAR"> Frenchmen B. Mellet </REFERENCE>
+			<STRING> and Y. Seigneur </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="13">
+		<REFERENCE animacy="INANIMATE" entity="107" gender="NEUTRAL" mentionid="107" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> The </STRING>
+			<REFERENCE animacy="INANIMATE" entity="103" gender="UNKNOWN" mentionid="103" mentiontype="PROPER" number="SINGULAR"> second </REFERENCE>
+			<STRING> ascent of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="108" gender="UNKNOWN" mentionid="108" mentiontype="PROPER" number="SINGULAR"> the West Pillar </REFERENCE>
+		</REFERENCE>
+		<STRING> was completed in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="100" gender="MALE" mentionid="109" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="100" gender="MALE" mentionid="110" mentiontype="PROPER" number="SINGULAR"> May </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="111" gender="UNKNOWN" mentionid="111" mentiontype="PROPER" number="SINGULAR">
+				<STRING> 1980 by </STRING>
+				<REFERENCE animacy="ANIMATE" entity="112" gender="UNKNOWN" mentionid="112" mentiontype="LIST" number="PLURAL">
+					<STRING> John Roskelley -LRB- summit -RRB-, </STRING>
+					<REFERENCE animacy="ANIMATE" entity="104" gender="MALE" mentionid="104" mentiontype="PROPER" number="SINGULAR"> Chris Kopczynski </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="ANIMATE" entity="105" gender="MALE" mentionid="105" mentiontype="PROPER" number="SINGULAR"> James States </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE animacy="ANIMATE" entity="106" gender="MALE" mentionid="106" mentiontype="PROPER" number="SINGULAR"> Kim Momb </REFERENCE>
+				</REFERENCE>
+				<STRING>, without </STRING>
+				<REFERENCE animacy="INANIMATE" entity="113" gender="NEUTRAL" mentionid="113" mentiontype="NOMINAL" number="SINGULAR"> Sherpa support </REFERENCE>
+				<STRING> and without bottled oxygen </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. -RRB- </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+	<SENTENCE ID="14">
+		<REFERENCE animacy="UNKNOWN" entity="114" gender="UNKNOWN" mentionid="114" mentiontype="NOMINAL" number="UNKNOWN">. </REFERENCE>
+	</SENTENCE>
+	<SENTENCE ID="15">
+		<STRING> On or about </STRING>
+		<REFERENCE animacy="INANIMATE" entity="116" gender="NEUTRAL" mentionid="116" mentiontype="PROPER" number="SINGULAR"> January 27, 2006 </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="117" gender="MALE" mentionid="117" mentiontype="PROPER" number="SINGULAR"> the French mountaineer Jean-Christophe Lafaille </REFERENCE>
+		<STRING> disappeared on </STRING>
+		<TARGET-REFERENCE ENTROPY="0.502788" ID="7" PARAGRAPH-POSITION="14" RECENCY="0" SYNCAT="np-obj" animacy="UNKNOWN" entity="8" gender="UNKNOWN" mentionid="118" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="name">Makalu</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="description">the mountain</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="description">the mountainside</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="name">makalu</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="description">the peak</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="description">the peak</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="name">Makula</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">this mountain</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="description">the peak</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="description">the mountain</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="name">Makalu</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> while trying to make </STRING>
+		<REFERENCE animacy="INANIMATE" entity="119" gender="NEUTRAL" mentionid="119" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the </STRING>
+			<REFERENCE animacy="INANIMATE" entity="50" gender="NEUTRAL" mentionid="115" mentiontype="PROPER" number="SINGULAR"> first </REFERENCE>
+			<STRING> winter ascent </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+	<SENTENCE ID="16">
+		<TARGET-REFERENCE ENTROPY="0.627679" ID="8" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="UNKNOWN" entity="8" gender="UNKNOWN" mentionid="120" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="name">Makalu</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="name">Mt. Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="name">makalu</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="demonstrative">This mountain</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="description">The mountain</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="name">Makula</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">This mountain</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="name">makalu</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="pronoun">It</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="121" gender="UNKNOWN" mentionid="121" mentiontype="PROPER" number="SINGULAR"> one of the harder eight-thousanders </REFERENCE>
+		<STRING>, and </STRING>
+		<TARGET-REFERENCE ENTROPY="0.407581" ID="9" PARAGRAPH-POSITION="9" RECENCY="8" SYNCAT="np-subj" animacy="UNKNOWN" entity="8" gender="UNKNOWN" mentionid="120" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="empty">-</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="other">thus</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="name">it</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="other">generally</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="other">still</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="other">by experts</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="other">widely</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="empty">-</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> is considered </STRING>
+		<REFERENCE animacy="INANIMATE" entity="122" gender="UNKNOWN" mentionid="122" mentiontype="PROPER" number="SINGULAR"> one of the most difficult mountains </REFERENCE>
+		<STRING> in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="123" gender="NEUTRAL" mentionid="123" mentiontype="NOMINAL" number="SINGULAR"> the world to climb </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="17">
+		<TARGET-REFERENCE ENTROPY="0.658419" ID="10" PARAGRAPH-POSITION="23" RECENCY="14" SYNCAT="np-subj" animacy="INANIMATE" entity="8" gender="NEUTRAL" mentionid="124" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="name">makalu</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="description">The terrain</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="description">The mountain</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="demonstrative">This mountain</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="name">Makalu</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="125" gender="UNKNOWN" mentionid="125" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="124" gender="UNKNOWN" mentionid="126" mentiontype="NOMINAL" number="UNKNOWN">
+				<STRING> notorious for </STRING>
+				<REFERENCE animacy="INANIMATE" entity="127" gender="UNKNOWN" mentionid="127" mentiontype="NOMINAL" number="PLURAL">
+					<TARGET-REFERENCE ENTROPY="0.159881" ID="11" PARAGRAPH-POSITION="27" RECENCY="4" SYNCAT="subj-det" animacy="INANIMATE" entity="8" gender="UNKNOWN" mentionid="128" number="SINGULAR">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">its</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="86" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="89" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="101" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="104" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="107" TYPE="other">sharp,</REFEX>
+							<REFEX PARTICIPANT-ID="110" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="113" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="119" TYPE="other">very</REFEX>
+							<REFEX PARTICIPANT-ID="122" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="125" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="131" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="141" TYPE="other">having</REFEX>
+							<REFEX PARTICIPANT-ID="143" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="145" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="156" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="162" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="163" TYPE="other">having</REFEX>
+							<REFEX PARTICIPANT-ID="164" TYPE="pronoun">its</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> steep pitches </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="129" gender="UNKNOWN" mentionid="129" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> knife-edged ridges that are completely open to </STRING>
+				<REFERENCE animacy="INANIMATE" entity="130" gender="UNKNOWN" mentionid="130" mentiontype="NOMINAL" number="PLURAL"> the elements </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="18">
+		<REFERENCE animacy="INANIMATE" entity="131" gender="NEUTRAL" mentionid="131" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> The final ascent of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="132" gender="NEUTRAL" mentionid="132" mentiontype="NOMINAL" number="SINGULAR"> the summit pyramid </REFERENCE>
+		</REFERENCE>
+		<STRING> involves technical rock climbing. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="19">
+		<TARGET-REFERENCE ENTROPY="0.289542" ID="12" PARAGRAPH-POSITION="51" RECENCY="24" SYNCAT="np-subj" animacy="UNKNOWN" entity="8" gender="UNKNOWN" mentionid="134" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="name">Makalu</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="other">and</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="name">makalu</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="other">The West Pillar route</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="pronoun">which</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="name">Makalu</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="pronoun">IT</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="8" gender="UNKNOWN" mentionid="135" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the only Nepalese </STRING>
+			<REFERENCE animacy="INANIMATE" entity="133" gender="UNKNOWN" mentionid="133" mentiontype="PROPER" number="SINGULAR"> 8,000 </REFERENCE>
+			<STRING> m peak which has yet to be climbed in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="136" gender="UNKNOWN" mentionid="136" mentiontype="NOMINAL" number="PLURAL"> true winter conditions </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

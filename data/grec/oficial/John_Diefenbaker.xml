@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="1600">
+	<TITLE>John Diefenbaker</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">John George Diefenbaker</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, CH, PC, QC, BA, MA, LL.B, LL.D, DCL, FRSC, FRSA, D.Litt, DSL, (18 September 1895 - 16 August 1979) was the 13th Prime Minister of Canada (1957 - 1963). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Diefenbaker</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was known by several nicknames during  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="7" SEMCAT="person" SENTENCE-POSITION="8" SENTENCE-RECENCY="7" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> career, &quot;J.G.D.&quot;</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>and &quot;The Leader&quot; (a monicker that continued to be applied to  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="14" SEMCAT="person" SENTENCE-POSITION="12" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> even after  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="3" SEMCAT="person" SENTENCE-POSITION="15" SENTENCE-RECENCY="3" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> leaving the post of prime minister), but most affectionately as &quot;Dief the Chief,&quot; (or simply &quot;the Chief&quot;). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

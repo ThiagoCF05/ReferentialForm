@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TEXT ID="50">
+	<TITLE>Blüemlisalp</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Blüemlisalp</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a massif of the Bernese Alps, in the territory of the municipalies of Kandersteg and Reichenbach im Kandertal.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="20" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> main peaks are:*Blüemlisalphorn (3,664 m) 46°29'20N,7°46'30E*Wyssi Frau (3,650 m) 46°29'35N,7°47'0E*Morgenhorn (3,623 m)46°29'46N,7°47'28E </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The entire massif</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is contained within the canton of Berne, and  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms a northern extension to the main range of the Bernese alps.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>To the west,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is connected with the Dolderhorn group via the Oeschinenhorn and Fründenhorn peaks; to the east,  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="20" SENTENCE-RECENCY="16" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is continued by the Gspaltenhorn. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Ascent is from the Blüemlisalphütte (2,840 m), over the glacier, past the Wildi Frau (3,260 46°30'16N,7°46'46E) </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

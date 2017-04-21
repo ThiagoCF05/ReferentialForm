@@ -1,0 +1,341 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="5" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="1" mentiontype="PROPER" number="SINGULAR"> Brazil </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="6" gender="NEUTRAL" mentionid="6" mentiontype="PROPER" number="SINGULAR">
+				<STRING> officially the Federative Republic of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="7" gender="UNKNOWN" mentionid="7" mentiontype="LIST" number="PLURAL">
+					<STRING> Brazil -LRB- -LSB- </STRING>
+					<REFERENCE animacy="ANIMATE" entity="8" gender="UNKNOWN" mentionid="8" mentiontype="LIST" number="PLURAL">
+						<STRING> Portuguese: </STRING>
+						<REFERENCE animacy="UNKNOWN" entity="9" gender="UNKNOWN" mentionid="9" mentiontype="LIST" number="PLURAL">
+							<REFERENCE animacy="UNKNOWN" entity="10" gender="NEUTRAL" mentionid="10" mentiontype="PROPER" number="SINGULAR"> Brasil -RSB- </REFERENCE>
+							<STRING> or </STRING>
+							<REFERENCE animacy="ANIMATE" entity="11" gender="MALE" mentionid="11" mentiontype="PROPER" number="SINGULAR"> -LSB- Portuguese </REFERENCE>
+						</REFERENCE>
+						<STRING>: </STRING>
+					</REFERENCE>
+					<STRING> República Federativa do </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="10" gender="NEUTRAL" mentionid="12" mentiontype="PROPER" number="SINGULAR"> Brasil -RSB- </REFERENCE>
+					<STRING>, listen -RRB- </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="13" gender="UNKNOWN" mentionid="13" mentiontype="LIST" number="PLURAL">
+			<STRING> the largest and most populous country in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="3" mentiontype="PROPER" number="SINGULAR"> South America </REFERENCE>
+		</REFERENCE>
+		<STRING>, and </STRING>
+		<REFERENCE animacy="INANIMATE" entity="4" gender="UNKNOWN" mentionid="4" mentiontype="PROPER" number="SINGULAR"> fifth </REFERENCE>
+		<STRING> largest in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="14" gender="NEUTRAL" mentionid="14" mentiontype="NOMINAL" number="SINGULAR"> the world </REFERENCE>
+		<STRING> in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="15" gender="UNKNOWN" mentionid="15" mentiontype="LIST" number="PLURAL"> both area and population </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="17" mentiontype="PRONOMINAL" number="SINGULAR"> It </REFERENCE>
+		<STRING> is also </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="18" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the </STRING>
+			<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="16" mentiontype="PROPER" number="SINGULAR"> second </REFERENCE>
+			<STRING> most populous country in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="19" gender="NEUTRAL" mentionid="19" mentiontype="PROPER" number="SINGULAR"> the Western Hemisphere </REFERENCE>
+		</REFERENCE>
+		<STRING> after </STRING>
+		<REFERENCE animacy="INANIMATE" entity="20" gender="NEUTRAL" mentionid="20" mentiontype="PROPER" number="SINGULAR"> the United States </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<STRING> Spanning </STRING>
+		<REFERENCE animacy="INANIMATE" entity="33" gender="NEUTRAL" mentionid="33" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a vast area between </STRING>
+			<REFERENCE animacy="INANIMATE" entity="34" gender="UNKNOWN" mentionid="34" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="35" gender="NEUTRAL" mentionid="35" mentiontype="PROPER" number="SINGULAR">
+					<STRING> central </STRING>
+					<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="21" mentiontype="PROPER" number="SINGULAR"> South America </REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="36" gender="NEUTRAL" mentionid="36" mentiontype="PROPER" number="SINGULAR">
+					<STRING> the </STRING>
+					<REFERENCE animacy="INANIMATE" entity="22" gender="NEUTRAL" mentionid="22" mentiontype="PROPER" number="SINGULAR"> Atlantic Ocean </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="33" gender="NEUTRAL" mentionid="37" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="33" gender="NEUTRAL" mentionid="38" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the easternmost country of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="23" mentiontype="PROPER" number="SINGULAR"> America </REFERENCE>
+		</REFERENCE>
+		<STRING> and </STRING>
+		<REFERENCE animacy="INANIMATE" entity="33" gender="NEUTRAL" mentionid="39" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> borders </STRING>
+		<REFERENCE animacy="INANIMATE" entity="40" gender="UNKNOWN" mentionid="40" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="41" gender="UNKNOWN" mentionid="41" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="24" gender="NEUTRAL" mentionid="24" mentiontype="PROPER" number="SINGULAR"> Uruguay </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="25" gender="NEUTRAL" mentionid="25" mentiontype="PROPER" number="SINGULAR"> Argentina </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="26" gender="NEUTRAL" mentionid="26" mentiontype="PROPER" number="SINGULAR"> Paraguay </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="27" gender="NEUTRAL" mentionid="27" mentiontype="PROPER" number="SINGULAR"> Bolivia </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="28" gender="NEUTRAL" mentionid="28" mentiontype="PROPER" number="SINGULAR"> Peru </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="29" gender="NEUTRAL" mentionid="29" mentiontype="PROPER" number="SINGULAR"> Colombia </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="30" gender="NEUTRAL" mentionid="30" mentiontype="PROPER" number="SINGULAR"> Venezuela </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="31" gender="NEUTRAL" mentionid="31" mentiontype="PROPER" number="SINGULAR"> Guyana </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="32" gender="NEUTRAL" mentionid="32" mentiontype="PROPER" number="SINGULAR"> Suriname </REFERENCE>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="42" gender="NEUTRAL" mentionid="42" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the French department of </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="43" gender="UNKNOWN" mentionid="43" mentiontype="PROPER" number="SINGULAR"> French Guiana </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<STRING> In fact, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="33" gender="NEUTRAL" mentionid="46" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> borders every South American nation except for </STRING>
+		<REFERENCE animacy="INANIMATE" entity="47" gender="UNKNOWN" mentionid="47" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="44" gender="NEUTRAL" mentionid="44" mentiontype="PROPER" number="SINGULAR"> Ecuador </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="45" gender="NEUTRAL" mentionid="45" mentiontype="PROPER" number="SINGULAR"> Chile </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<REFERENCE animacy="INANIMATE" entity="49" gender="UNKNOWN" mentionid="49" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="33" gender="NEUTRAL" mentionid="50" mentiontype="NOMINAL" number="SINGULAR"> The country's </REFERENCE>
+			<STRING> name </STRING>
+		</REFERENCE>
+		<STRING> is generally believed to be derived from </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="51" gender="UNKNOWN" mentionid="51" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="UNKNOWN" entity="52" gender="UNKNOWN" mentionid="52" mentiontype="NOMINAL" number="SINGULAR"> pau-brasil -LRB- brazilwood -RRB- </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="52" gender="NEUTRAL" mentionid="53" mentiontype="NOMINAL" number="SINGULAR"> a tree highly valued </REFERENCE>
+		</REFERENCE>
+		<STRING> by </STRING>
+		<REFERENCE animacy="ANIMATE" entity="54" gender="UNKNOWN" mentionid="54" mentiontype="NOMINAL" number="PLURAL"> early colonists </REFERENCE>
+		<STRING>, though </STRING>
+		<REFERENCE animacy="INANIMATE" entity="55" gender="NEUTRAL" mentionid="55" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> some credit </STRING>
+			<REFERENCE animacy="INANIMATE" entity="49" gender="UNKNOWN" mentionid="56" mentiontype="NOMINAL" number="SINGULAR"> the name </REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="57" gender="NEUTRAL" mentionid="57" mentiontype="NOMINAL" number="SINGULAR"> a mythical land </REFERENCE>
+		</REFERENCE>
+		<STRING> mentioned in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="48" gender="NEUTRAL" mentionid="48" mentiontype="PROPER" number="SINGULAR"> Europe </REFERENCE>
+		<STRING> during </STRING>
+		<REFERENCE animacy="ANIMATE" entity="58" gender="UNKNOWN" mentionid="58" mentiontype="PROPER" number="PLURAL"> Middle Ages </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="59" mentiontype="PROPER" number="SINGULAR"> Brazil </REFERENCE>
+		<STRING> is home to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="60" gender="UNKNOWN" mentionid="60" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="61" gender="UNKNOWN" mentionid="61" mentiontype="NOMINAL" number="PLURAL"> both extensive agricultural lands </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="62" gender="UNKNOWN" mentionid="62" mentiontype="NOMINAL" number="PLURAL"> rain forests </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<STRING> Exploring </STRING>
+		<REFERENCE animacy="INANIMATE" entity="64" gender="UNKNOWN" mentionid="64" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="65" gender="UNKNOWN" mentionid="65" mentiontype="NOMINAL" number="PLURAL"> vast natural resources </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="66" gender="NEUTRAL" mentionid="66" mentiontype="NOMINAL" number="SINGULAR"> a large labor pool </REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="66" gender="NEUTRAL" mentionid="67" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="68" gender="UNKNOWN" mentionid="68" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="66" gender="NEUTRAL" mentionid="69" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="63" mentiontype="PROPER" number="SINGULAR"> South America's </REFERENCE>
+				<STRING> leading economic power </STRING>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="ANIMATE" entity="70" gender="MALE" mentionid="70" mentiontype="NOMINAL" number="SINGULAR"> a regional leader </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<STRING> Brazilian society is still heavily influenced by </STRING>
+		<REFERENCE animacy="INANIMATE" entity="72" gender="NEUTRAL" mentionid="72" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="71" gender="NEUTRAL" mentionid="71" mentiontype="PROPER" number="SINGULAR"> Portugal's </REFERENCE>
+			<STRING> 300 year colonization </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<STRING> Portuguese is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="74" gender="NEUTRAL" mentionid="74" mentiontype="NOMINAL" number="SINGULAR"> the official language </REFERENCE>
+		<STRING>, and </STRING>
+		<REFERENCE animacy="INANIMATE" entity="75" gender="NEUTRAL" mentionid="75" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the </STRING>
+			<REFERENCE animacy="ANIMATE" entity="73" gender="UNKNOWN" mentionid="73" mentiontype="PROPER" number="SINGULAR"> Roman Catholic </REFERENCE>
+			<STRING> religion </STRING>
+		</REFERENCE>
+		<STRING> is adopted by </STRING>
+		<REFERENCE animacy="INANIMATE" entity="76" gender="UNKNOWN" mentionid="76" mentiontype="NOMINAL" number="UNKNOWN">
+			<STRING> most of </STRING>
+			<REFERENCE animacy="ANIMATE" entity="77" gender="UNKNOWN" mentionid="77" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="75" gender="UNKNOWN" mentionid="78" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+				<STRING> people </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="79" gender="NEUTRAL" mentionid="79" mentiontype="NOMINAL" number="SINGULAR"> a number of adherents never seen in any other country </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<REFERENCE animacy="INANIMATE" entity="80" gender="NEUTRAL" mentionid="80" mentiontype="NOMINAL" number="SINGULAR"> The population </REFERENCE>
+		<STRING> is composed mainly of </STRING>
+		<REFERENCE animacy="ANIMATE" entity="81" gender="UNKNOWN" mentionid="81" mentiontype="NOMINAL" number="PLURAL"> descendants </REFERENCE>
+		<STRING> from </STRING>
+		<REFERENCE animacy="ANIMATE" entity="82" gender="UNKNOWN" mentionid="82" mentiontype="LIST" number="PLURAL">
+			<STRING> European immigrants and Africans brought during </STRING>
+			<REFERENCE animacy="INANIMATE" entity="83" gender="UNKNOWN" mentionid="83" mentiontype="NOMINAL" number="PLURAL"> the slavery times </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<STRING> In </STRING>
+		<REFERENCE animacy="INANIMATE" entity="88" gender="UNKNOWN" mentionid="88" mentiontype="LIST" number="PLURAL">
+			<STRING> the late </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="84" gender="UNKNOWN" mentionid="84" mentiontype="PROPER" number="SINGULAR"> 19th </REFERENCE>
+			<STRING> and early 20th centuries </STRING>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="85" mentiontype="PROPER" number="SINGULAR"> Brazil </REFERENCE>
+		<STRING> attracted well over 5 million </STRING>
+		<REFERENCE animacy="ANIMATE" entity="89" gender="UNKNOWN" mentionid="89" mentiontype="LIST" number="PLURAL">
+			<STRING> European, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="87" gender="MALE" mentionid="87" mentiontype="PROPER" number="SINGULAR"> Arab </REFERENCE>
+			<STRING> and Japanese immigrants </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<REFERENCE animacy="INANIMATE" entity="91" gender="NEUTRAL" mentionid="91" mentiontype="NOMINAL" number="SINGULAR"> That period </REFERENCE>
+		<STRING> also saw </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="90" mentiontype="PROPER" number="SINGULAR"> Brazil </REFERENCE>
+		<STRING> industrialise, further colonise, and develop </STRING>
+		<REFERENCE animacy="INANIMATE" entity="92" gender="NEUTRAL" mentionid="92" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="93" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+			<STRING> interior </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="13">
+		<STRING> After declaring independence from </STRING>
+		<REFERENCE animacy="INANIMATE" entity="95" gender="NEUTRAL" mentionid="95" mentiontype="PROPER" number="SINGULAR">
+			<STRING> Portugal in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="96" gender="UNKNOWN" mentionid="96" mentiontype="PROPER" number="SINGULAR"> 1822 </REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="94" mentiontype="PROPER" number="SINGULAR"> Brazil </REFERENCE>
+		<STRING> became </STRING>
+		<REFERENCE animacy="INANIMATE" entity="97" gender="NEUTRAL" mentionid="97" mentiontype="NOMINAL" number="SINGULAR"> a monarchy </REFERENCE>
+		<STRING> until </STRING>
+		<REFERENCE animacy="INANIMATE" entity="98" gender="UNKNOWN" mentionid="98" mentiontype="NOMINAL" number="SINGULAR"> a military coup </REFERENCE>
+		<STRING> deposed </STRING>
+		<REFERENCE animacy="ANIMATE" entity="99" gender="MALE" mentionid="99" mentiontype="NOMINAL" number="SINGULAR"> the emperor </REFERENCE>
+		<STRING> and established </STRING>
+		<REFERENCE animacy="INANIMATE" entity="100" gender="NEUTRAL" mentionid="100" mentiontype="PROPER" number="SINGULAR"> a Republic </REFERENCE>
+		<STRING> in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="101" gender="UNKNOWN" mentionid="101" mentiontype="PROPER" number="SINGULAR"> 1889 </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="14">
+		<STRING> Brazilian democracy was replaced by </STRING>
+		<REFERENCE animacy="INANIMATE" entity="103" gender="UNKNOWN" mentionid="103" mentiontype="LIST" number="PLURAL">
+			<STRING> dictatorships </STRING>
+			<REFERENCE animacy="INANIMATE" entity="104" gender="UNKNOWN" mentionid="104" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="102" gender="UNKNOWN" mentionid="102" mentiontype="PROPER" number="SINGULAR"> three </REFERENCE>
+				<STRING> times </STRING>
+			</REFERENCE>
+			<STRING>-- </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="105" gender="UNKNOWN" mentionid="105" mentiontype="LIST" number="PLURAL">
+				<STRING> 1930-1934 and 1937-1945 under </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="106" gender="MALE" mentionid="106" mentiontype="PROPER" number="SINGULAR"> Getúlio Vargas </REFERENCE>
+			</REFERENCE>
+			<STRING>, and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="107" gender="UNKNOWN" mentionid="107" mentiontype="PROPER" number="SINGULAR"> 1964-1985 </REFERENCE>
+		</REFERENCE>
+		<STRING>, under </STRING>
+		<REFERENCE animacy="INANIMATE" entity="108" gender="UNKNOWN" mentionid="108" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a succession of </STRING>
+			<REFERENCE animacy="ANIMATE" entity="109" gender="UNKNOWN" mentionid="109" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> generals appointed by </STRING>
+				<REFERENCE animacy="INANIMATE" entity="110" gender="NEUTRAL" mentionid="110" mentiontype="NOMINAL" number="SINGULAR"> the military </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="15">
+		<STRING> In the 1980s </STRING>
+		<REFERENCE animacy="INANIMATE" entity="112" gender="NEUTRAL" mentionid="112" mentiontype="NOMINAL" number="SINGULAR"> the military regime </REFERENCE>
+		<STRING> ended and </STRING>
+		<REFERENCE animacy="INANIMATE" entity="113" gender="NEUTRAL" mentionid="113" mentiontype="NOMINAL" number="SINGULAR"> a new constitution </REFERENCE>
+		<STRING> was established, opening </STRING>
+		<REFERENCE animacy="INANIMATE" entity="114" gender="NEUTRAL" mentionid="114" mentiontype="NOMINAL" number="SINGULAR"> the way </REFERENCE>
+		<STRING> to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="115" gender="UNKNOWN" mentionid="115" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="116" gender="UNKNOWN" mentionid="116" mentiontype="PROPER" number="SINGULAR"> the Brazilians' </REFERENCE>
+			<STRING> return </STRING>
+		</REFERENCE>
+		<STRING> to democracy. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="16">
+		<STRING> Currently </STRING>
+		<REFERENCE animacy="INANIMATE" entity="120" gender="NEUTRAL" mentionid="120" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="117" mentiontype="PROPER" number="SINGULAR"> Brazil's </REFERENCE>
+			<STRING> greatest challenge </STRING>
+		</REFERENCE>
+		<STRING> is to reactivate </STRING>
+		<REFERENCE animacy="INANIMATE" entity="121" gender="NEUTRAL" mentionid="121" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="122" gender="NEUTRAL" mentionid="122" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="120" gender="UNKNOWN" mentionid="123" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+				<STRING> economy </STRING>
+			</REFERENCE>
+			<STRING>, which was once </STRING>
+			<REFERENCE animacy="INANIMATE" entity="118" gender="UNKNOWN" mentionid="118" mentiontype="PROPER" number="SINGULAR"> one </REFERENCE>
+			<STRING> of the most thriving in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="14" gender="NEUTRAL" mentionid="124" mentiontype="NOMINAL" number="SINGULAR"> the world </REFERENCE>
+			<STRING> but had </STRING>
+			<REFERENCE animacy="INANIMATE" entity="125" gender="UNKNOWN" mentionid="125" mentiontype="NOMINAL" number="PLURAL"> many problems </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="126" gender="UNKNOWN" mentionid="126" mentiontype="PROPER" number="SINGULAR">
+				<STRING> the last </STRING>
+				<REFERENCE animacy="INANIMATE" entity="119" gender="UNKNOWN" mentionid="119" mentiontype="PROPER" number="SINGULAR"> 20-30 </REFERENCE>
+				<STRING> years </STRING>
+			</REFERENCE>
+			<STRING>, while dealing with </STRING>
+			<REFERENCE animacy="INANIMATE" entity="127" gender="UNKNOWN" mentionid="127" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> serious issues that plague </STRING>
+				<REFERENCE animacy="ANIMATE" entity="128" gender="UNKNOWN" mentionid="128" mentiontype="NOMINAL" number="UNKNOWN">
+					<STRING> many of </STRING>
+					<REFERENCE animacy="ANIMATE" entity="129" gender="UNKNOWN" mentionid="129" mentiontype="NOMINAL" number="PLURAL">
+						<REFERENCE animacy="INANIMATE" entity="118" gender="UNKNOWN" mentionid="130" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+						<STRING> inhabitants </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, like </STRING>
+		<REFERENCE animacy="INANIMATE" entity="131" gender="UNKNOWN" mentionid="131" mentiontype="LIST" number="PLURAL"> poverty, hunger and crime </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+</TEXT>

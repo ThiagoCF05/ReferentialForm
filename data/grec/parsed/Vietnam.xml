@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1412">
+	<TITLE>Vietnam</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vietnam</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Vietnamese: Việt Nam]), officially the Socialist Republic of Vietnam is a nation in Southeast Asia. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> borders the People's Republic of China to the north, Laos to the northwest and Cambodia to the southwest. To </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> east lies the South China Sea. With a population of approximately 84 million, </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vietnam</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the most densely populated nations in Southeast Asia. The name of </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> comes from the Vietnamese [Vietnamese: Việt Nam], which means the land of the Viet people in the South (Nam).</STRING>
+	</PARAGRAPH>
+</TEXT>

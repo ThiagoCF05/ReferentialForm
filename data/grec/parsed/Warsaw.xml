@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TEXT ID="1193">
+	<TITLE>Warsaw</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Warsaw</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Polish: Warszawa], [varˈʂava], in full The Capital City of Warsaw, Polish: Miasto Stołeczne Warszawa) is the capital of Poland and its largest city. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located on the Vistula river roughly 370 km from both the Baltic Sea coast and the Carpathian Mountains. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> population as of 2005 was estimated at 1,697,596, with a metropolitan area of approximately 2,879,000. The city area amounts to 516.9 km², with an agglomeration of 6100.43 km² (Warsaw Metro Area - Obszar Metropolitalny Warszawy).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, also the capital of the Masovian Voivodeship, is home to many industries, including manufacturing, steel, electrical engineering, and automotive; </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> features 66 institutions of higher learning, including Warsaw University, Stefan Wyszyński University, Warsaw University of Technology, Warsaw School of Economics, and a Medical Academy. </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Warsaw</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is home to over 30 theatres, including the National Theatre and Opera and the National Philharmonic Orchestra.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Warsaw</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is internationally notable for giving its name to the Warsaw Pact, Warsaw Convention and the Treaty of Warsaw.</STRING>
+	</PARAGRAPH>
+</TEXT>

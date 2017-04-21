@@ -1,0 +1,541 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="1" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> have been using </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.565233" GENDER="unknown" ID="1" MENTION-ID="2" NUMBER="singular" PARAGRAPH-POSITION="5" RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this telephone</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">the 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">4 Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Panasonic's 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="demonstrative">this phone</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">the 5.8 GHz 4-line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="demonstrative">this phone system</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="description">the phone system</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">this product</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="demonstrative">this phone system</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">the 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="description">the Panasonic phone</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> for </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="unknown" MENTION-ID="3" NUMBER="singular" TYPE="name">
+				<STRING> 4 months in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="4" GENDER="neutral" MENTION-ID="4" NUMBER="singular" TYPE="description"> a home office </REFERENCE>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="5" GENDER="neutral" MENTION-ID="5" NUMBER="singular" TYPE="description"> the quality </REFERENCE>
+			<STRING> is unacceptable. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="6" GENDER="neutral" MENTION-ID="6" NUMBER="singular" TYPE="name"> First </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="7" GENDER="unknown" MENTION-ID="7" NUMBER="singular" TYPE="description"> battery life </REFERENCE>
+			<STRING> has become increasingly short, despite </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="8" GENDER="neutral" MENTION-ID="8" NUMBER="singular" TYPE="description">
+				<STRING> the fact that </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="9" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+				<STRING> have always followed </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="10" GENDER="unknown" MENTION-ID="10" NUMBER="plural" TYPE="description"> the instructions </REFERENCE>
+				<STRING> to let </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.415206" GENDER="unknown" ID="2" MENTION-ID="11" NUMBER="singular" PARAGRAPH-POSITION="20" RECENCY="0" SYNCAT="np-obj" TYPE="description">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="description">the phone</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="other">the battery</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="description">the phones</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> discharge entirely before putting </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.358097" GENDER="neutral" ID="3" MENTION-ID="12" NUMBER="singular" PARAGRAPH-POSITION="25" RECENCY="5" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">it</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="pronoun">them</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="description">the phone system</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> back in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="13" GENDER="neutral" MENTION-ID="13" NUMBER="singular" TYPE="description"> the recharging cradle </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING> When </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="14" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> first got </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.780793" GENDER="neutral" ID="4" MENTION-ID="15" NUMBER="singular" PARAGRAPH-POSITION="35" RECENCY="10" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the phone</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">the 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">the 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="description">the Panasonic 5.8 GHz</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="demonstrative">this phone system</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="description">the phone systme</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="description">the device</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="demonstrative">this system</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">the 5.8 GHz 4-Line Phone System</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="16" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> had to recharge </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.279949" GENDER="neutral" ID="5" MENTION-ID="17" NUMBER="singular" PARAGRAPH-POSITION="40" RECENCY="5" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">the battery</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="description">the system</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="description">the phones</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> about every </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="15" GENDER="unknown" MENTION-ID="18" NUMBER="singular" TYPE="name"> 5-7 </REFERENCE>
+			<STRING> days. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING> While not great, </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="20" GENDER="neutral" MENTION-ID="19" NUMBER="unknown" TYPE="demonstrative"> this </REFERENCE>
+			<STRING> is in keeping with </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="21" GENDER="neutral" MENTION-ID="20" NUMBER="singular" TYPE="description">
+				<STRING> the table in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="22" GENDER="neutral" MENTION-ID="21" NUMBER="singular" TYPE="description">
+					<STRING> the manual which says that </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="23" GENDER="unknown" MENTION-ID="22" NUMBER="singular" TYPE="description">
+						<STRING> battery life in </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="24" GENDER="neutral" MENTION-ID="23" NUMBER="singular" TYPE="description"> use -LRB- talking -RRB- </REFERENCE>
+					</REFERENCE>
+					<STRING> should be </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="23" GENDER="unknown" MENTION-ID="24" NUMBER="singular" TYPE="name"> 4.5 hours </REFERENCE>
+					<STRING> and in standby should be </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="26" GENDER="unknown" MENTION-ID="25" NUMBER="singular" TYPE="name"> 11 days </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING> Now, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="26" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> find that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="27" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> must recharge </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.51239" GENDER="neutral" ID="6" MENTION-ID="28" NUMBER="singular" PARAGRAPH-POSITION="84" RECENCY="44" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the phone</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="demonstrative">this phone</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="description">the device</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="demonstrative">this thing</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> every </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="27" GENDER="unknown" MENTION-ID="29" NUMBER="singular" TYPE="name"> 36-48 </REFERENCE>
+			<STRING> hours and </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.139004" GENDER="neutral" ID="7" MENTION-ID="30" NUMBER="singular" PARAGRAPH-POSITION="89" RECENCY="5" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">it then</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="other">that it</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> goes from fully charged -LRB- by </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="32" GENDER="neutral" MENTION-ID="31" NUMBER="singular" TYPE="description">
+				<STRING> the battery indicator on </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.266753" GENDER="neutral" ID="8" MENTION-ID="32" NUMBER="singular" PARAGRAPH-POSITION="99" RECENCY="10" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="description">the phone</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="description">the device</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="other">display</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="other">the base</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="description">phone</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="other">100 percent</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="other">the handset</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="description">phone</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="description">the phone</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="other">the base</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="other">the light</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> -RRB- to unusable very quickly. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING> Twice in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="34" GENDER="unknown" MENTION-ID="33" NUMBER="singular" TYPE="name"> recent days </REFERENCE>
+			<STRING> I have lost connection during </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="36" GENDER="unknown" MENTION-ID="34" NUMBER="singular" TYPE="description"> a call </REFERENCE>
+			<STRING> because </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.428836" GENDER="neutral" ID="9" MENTION-ID="35" NUMBER="singular" PARAGRAPH-POSITION="117" RECENCY="18" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the phone</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">the battery</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="other">the battery</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">the battery</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">the battery</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="other">the battery</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> died. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="34" GENDER="neutral" MENTION-ID="36" NUMBER="singular" TYPE="pronoun"> It </REFERENCE>
+			<STRING> used to be that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="37" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> would have </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="40" GENDER="unknown" MENTION-ID="38" NUMBER="singular" TYPE="name"> several minutes </REFERENCE>
+			<STRING> when </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.429601" GENDER="neutral" ID="10" MENTION-ID="39" NUMBER="singular" PARAGRAPH-POSITION="130" RECENCY="13" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">left</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="other">calling</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="description">the phone</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> began </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="42" GENDER="unknown" MENTION-ID="40" NUMBER="singular" TYPE="description"> a warning beep </REFERENCE>
+			<STRING> to finish </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="43" GENDER="unknown" MENTION-ID="41" NUMBER="plural"> the call or change phones </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.7">
+			<STRING> Today, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="42" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> had </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="45" GENDER="unknown" MENTION-ID="43" NUMBER="singular" TYPE="name"> seconds </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="44" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> am also unhappy with how </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="48" GENDER="unknown" MENTION-ID="45" NUMBER="plural" TYPE="description">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="46" GENDER="unknown" MENTION-ID="46" NUMBER="singular" TYPE="name"> three </REFERENCE>
+				<STRING> mailboxes work </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="52" GENDER="unknown" MENTION-ID="47" NUMBER="plural" TYPE="description"> Messages </REFERENCE>
+			<STRING> are put in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="53" GENDER="neutral" MENTION-ID="48" NUMBER="singular" TYPE="description">
+				<STRING> box </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="49" GENDER="unknown" MENTION-ID="49" NUMBER="singular" TYPE="name"> 1 </REFERENCE>
+			</REFERENCE>
+			<STRING> by default, and </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="54" GENDER="unknown" MENTION-ID="50" NUMBER="unknown" TYPE="pronoun"> you </REFERENCE>
+			<STRING> can set </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="55" GENDER="neutral" MENTION-ID="51" NUMBER="singular" TYPE="description">
+				<STRING> a code for </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="56" GENDER="unknown" MENTION-ID="52" NUMBER="plural">
+					<STRING> boxes </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="50" GENDER="unknown" MENTION-ID="53" NUMBER="singular" TYPE="name"> 2 </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="51" GENDER="unknown" MENTION-ID="54" NUMBER="singular" TYPE="name"> 3 </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING> For example, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="55" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> want </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="60" GENDER="unknown" MENTION-ID="56" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="57" NUMBER="singular" TYPE="pronoun"> my </REFERENCE>
+				<STRING> business messages </STRING>
+			</REFERENCE>
+			<STRING> to go to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="62" GENDER="unknown" MENTION-ID="58" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="53" GENDER="neutral" MENTION-ID="59" NUMBER="singular" TYPE="description">
+					<STRING> box </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="49" GENDER="unknown" MENTION-ID="60" NUMBER="singular" TYPE="name"> 1 </REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="64" GENDER="unknown" MENTION-ID="61" NUMBER="plural" TYPE="description"> home messages </REFERENCE>
+			</REFERENCE>
+			<STRING> to go to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="65" GENDER="neutral" MENTION-ID="62" NUMBER="singular" TYPE="description">
+				<STRING> box </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="50" GENDER="unknown" MENTION-ID="63" NUMBER="singular" TYPE="name"> 2 </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING> So, when </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="66" GENDER="neutral" MENTION-ID="64" NUMBER="singular" TYPE="description"> the machine </REFERENCE>
+			<STRING> picks up on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="67" GENDER="neutral" MENTION-ID="65" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="66" NUMBER="singular" TYPE="pronoun"> my </REFERENCE>
+				<STRING> home line </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="69" GENDER="unknown" MENTION-ID="67" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="68" NUMBER="singular" TYPE="pronoun"> my </REFERENCE>
+				<STRING> message </STRING>
+			</REFERENCE>
+			<STRING> says to press # 2 to leave </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="71" GENDER="unknown" MENTION-ID="69" NUMBER="singular" TYPE="description"> a message </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING> Unfortunately, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="74" GENDER="neutral" MENTION-ID="70" NUMBER="singular" TYPE="description"> the machine does n't </REFERENCE>
+			<STRING> always respond promptly so that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="75" GENDER="unknown" MENTION-ID="71" NUMBER="plural" TYPE="description"> sometimes people </REFERENCE>
+			<STRING> end up pressing # 2 repeatedly without getting into </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="76" GENDER="neutral" MENTION-ID="72" NUMBER="singular" TYPE="description">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="72" GENDER="unknown" MENTION-ID="73" NUMBER="singular" TYPE="name"> second </REFERENCE>
+				<STRING> mailbox </STRING>
+			</REFERENCE>
+			<STRING>, or </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="75" GENDER="unknown" MENTION-ID="74" NUMBER="plural" TYPE="pronoun"> they </REFERENCE>
+			<STRING> press # 2 but </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="69" GENDER="unknown" MENTION-ID="75" NUMBER="singular" TYPE="description"> the message </REFERENCE>
+			<STRING> goes to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="79" GENDER="neutral" MENTION-ID="76" NUMBER="singular" TYPE="description">
+				<STRING> mailbox </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="49" GENDER="unknown" MENTION-ID="77" NUMBER="singular" TYPE="name"> 1 </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="78" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> plan to try to return </STRING>
+			<TARGET-REFERENCE ANIMACY="unknown" ENTITY-ID="2" ENTROPY="0.676826" GENDER="neutral" ID="11" MENTION-ID="79" NUMBER="unknown" PARAGRAPH-POSITION="7" RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="description">the phpne</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">the 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">the 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">the 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="demonstrative">this terrible phone</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">the 5.8 GHz 4-line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="demonstrative">this phone</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="description">the system</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">this phone</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="demonstrative">this phone</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">the 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="demonstrative">this phone</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="80" GENDER="neutral" MENTION-ID="80" NUMBER="unknown" TYPE="name"> Panasonic </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="81" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> bought </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="2" ENTROPY="0.275722" GENDER="neutral" ID="12" MENTION-ID="82" NUMBER="singular" PARAGRAPH-POSITION="12" RECENCY="5" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">it on sale</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">one</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> at </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="86" GENDER="unknown" MENTION-ID="83" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="83" GENDER="unknown" MENTION-ID="84" NUMBER="singular" TYPE="name"> Staples </REFERENCE>
+				<STRING>, which accepts </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="87" GENDER="unknown" MENTION-ID="85" NUMBER="plural" TYPE="description">
+					<STRING> returns for </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="88" GENDER="unknown" MENTION-ID="86" NUMBER="singular" TYPE="name"> only 30 days </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

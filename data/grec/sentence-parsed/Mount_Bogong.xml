@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<TEXT ID="366">
+	<TITLE>Mount Bogong</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Bogong</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, located in the Alpine National Park, is the highest mountain in Victoria, Australia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Big River separates the massif of  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="yes" HEAD="nominal" TYPE="pronoun">the mountain itself</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> from the Bogong High Plains to the south.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>&quot;Bogong&quot; in the local Aboriginal language means bigfella. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Like most Australian peaks,  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can be climbed without specialised mountaineering equipment, and, indeed, there are several summer walking trails to the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The shortest route, via The Staircase Spur, is an eight kilometre walk with the track described as &quot;moderate&quot; in difficulty but with reasonably steep terrain, taking four hours in one direction. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Bogong</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a popular backcountry skiing mountain through winter but  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> only has snow for the mid winter-spring months.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is relatively close (around 30km by road and walking track; 12km direct) to Mount Beauty and several ski resorts (Falls Creek &amp; Mount Hotham), giving easy access.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Camping is relatively safe below the treeline but the summit ridgeline is very exposed. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Emergency shelter is also available at Bivouac Hut on the Staircase Spur, and at Cleve Cole, above Camp Creek on the broad ridge to the south of the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>A third emergency shelter, Michell Hut, was destroyed by bushfire in 2003. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TEXT ID="127">
+	<TITLE>Diran</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Diran</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in the Karakoram range of the Northern Areas of Pakistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">This pyramid shaped mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies in the East of Rakaposhi (7,788m). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Diran</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed in 1968 by three Austrians Rainer Goeschl, Rudolph Pischinger and Hanns Schell.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Earlier attempts by a German expedition in 1959 and an Australian expedition in 1964 were unsuccessful. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

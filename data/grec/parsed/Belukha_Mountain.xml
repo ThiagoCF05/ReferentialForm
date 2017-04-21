@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TEXT ID="39">
+	<TITLE>Belukha Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Belukha Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Russian: Белуха; Altai: Muztau), located in the Katun Mountains, is the highest peak of the Altay Mountains in Russia. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of the World Heritage Site entitled Golden Mountains of Altai.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Belukha</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a twin-peaked mountain massif </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">that</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> rises along the border of Russia and Kazakhstan, just north of the point where these two borders meet those of China and Mongolia. There are several small glaciers on </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. Of the two peaks, the eastern peak (4,506 m, 14,784 ft.) is higher than the western peak (4,440 m, 14,567 ft.).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Belukha</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first climbed in 1914 by the Tronov brothers. Most ascents of the eastern peak follow the same southern route as that taken in the first ascent. Though the Altai is lower in elevation than other Asian mountain groups, it is very remote, and much time and planning are required for its approach.</STRING>
+	</PARAGRAPH>
+</TEXT>

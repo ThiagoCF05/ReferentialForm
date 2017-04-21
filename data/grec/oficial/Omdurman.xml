@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TEXT ID="1130">
+	<TITLE>Omdurman</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Omdurman</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> or Omdur (Standard Arabic Umm Durmān أم درمان) is the largest city in Sudan, lying on the western banks of the river Nile, opposite the capital, Khartoum.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="28" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Omdurman</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a population of over 1.2 million (1993) and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="10" SEMCAT="city" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the largest city in the country and the national center of commerce.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>With Khartoum and Khartoum North or Bahri,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="60" PARAGRAPH-RECENCY="21" SEMCAT="city" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms the cultural and industrial heart of the nation. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

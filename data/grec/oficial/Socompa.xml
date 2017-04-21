@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<TEXT ID="848">
+	<TITLE>Socompa</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Socompa</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a stratovolcano at the border of Argentina and Chile.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>A large composite complex,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Socompa</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is best known for  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="5" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="5" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> large debris avalanche deposit, widely accepted as the best preserved example of this type deposit in the world.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is difficult to reach - either from the north along dirt tracks south of the Miscanti Pass, or from the west via the Escondida copper mine.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Both routes require a full-day's driving and for any reasonable amount of time to be spent at  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="84" PARAGRAPH-RECENCY="44" SEMCAT="mountain" SENTENCE-POSITION="18" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Socompa</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> would need significant planning. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The western rim of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders the Monturaqui Basin, which is draped with the large debris avalanche deposit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Escondida mining currently has a network of roads covering this area, from beneath which they pump ground water for use at the nearby copper mine.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The southern margin of the deposit is bordered by the Antofagasta to Salta trans-Andean railway, although this is rarely used. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

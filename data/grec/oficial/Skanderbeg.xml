@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="1738">
+	<TITLE>Skanderbeg</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">George Kastrioti</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Gjergj Kastrioti, 1405 - January 17 1468), better known as Skanderbeg, is one of the most prominent historical figures in the history of Albania and the Albanian people.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="29" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also known as the Dragon of Albania and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="10" SEMCAT="person" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the national hero of the Albanians.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="48" PARAGRAPH-RECENCY="8" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is remembered for  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="52" PARAGRAPH-RECENCY="4" SEMCAT="person" SENTENCE-POSITION="5" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> struggle against the Ottoman Empire, through the work of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="62" PARAGRAPH-RECENCY="10" SEMCAT="person" SENTENCE-POSITION="15" SENTENCE-RECENCY="10" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> first biographer, Marin Barleti. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

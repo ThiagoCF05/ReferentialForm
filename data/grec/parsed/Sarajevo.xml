@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<TEXT ID="1165">
+	<TITLE>Sarajevo</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sarajevo </REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>(Cyrillic: Сарајево; [IPA: sa'rajɛʋɔ], in English usually IPA: ˌsærəˈjeɪvoʊ) is the capital city and largest urban center of Bosnia and Herzegovina, with an estimated population of 308,558 (as of 2005). </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the capital of the Federation of Bosnia and Herzegovina entity, and the de jure capital of the Republika Srpska entity, as well as the center of the Sarajevo Canton. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sarajevo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the Sarajevo valley of Bosnia proper, surrounded by the Dinaric Alps and situated around the Miljacka river. </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is famous for </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> traditional religious diversity, with adherents of Islam, Catholicism, Orthodoxy, and Judaism peacefully coexisting there for centuries.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Although settlement in the area stretches back to prehistoric times, </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the modern city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> arose as an Ottoman stronghold in the 15th century. </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sarajevo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has attracted international attention several times throughout </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> history: In 1914 </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was the site of the assassination that sparked World War I, while seventy years later </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became the host city of the 1984 Winter Olympics. More recently, </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sarajevo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> underwent the longest siege in modern military history during the Bosnian war. Today </STRING>
+		<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is recovering and adjusting to a post-war reality, as a major center of culture and economic development in Bosnia and Herzegovina.</STRING>
+	</PARAGRAPH>
+</TEXT>

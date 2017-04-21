@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TEXT ID="1820">
+	<TITLE>Kura River</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kura</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Georgian [] - Mtkvari, Azerbaijani Kür) is a river in the Caucasus Mountains. Starting in Eastern Turkey (formerly Georgian province of Tao), </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> flows through Turkey to Georgia, then to Azerbaijan, where </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> receives the Araks River as a right tributary, and </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> enters the Caspian Sea. The total length of </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 1,364 km.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The name Kura is taken from the name Kurosh which is the Persianpronunciation of the name of the Persian king Cyrus the Great. In ancient western documents </STRING>
+		<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was known as Cyrus.The Georgian name of Kura is Mtkvari, meaning &quot;slow one&quot;. The name Kura was adopted first by the Russians and later by the European cartographers.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Previously navigable up to Tbilisi in Georgia, </STRING>
+		<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is now much slower and shallower, as </STRING>
+		<REFERENCE ID="8" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> power has been harnessed by hydroelectricity stations. </STRING>
+		<REFERENCE ID="9" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is moderately polluted by major industrial centers like Tbilisi and Rustavi in Georgia.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>Should not be confused with Kura river near Kursk, Russia.</STRING>
+	</PARAGRAPH>
+</TEXT>

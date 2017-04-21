@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TEXT ID="1755">
+	<TITLE>Thomas Sowell</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Thomas Sowell</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born 30 June, 1930), is an American economist, political writer, and commentator, generally from a socially conservative and economically laissez faire perspective.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is presently a senior fellow at Stanford University's Hoover Institution.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>In 1990,  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> won the Francis Boyer Award, presented by the American Enterprise Institute.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>In 2002  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was awarded the National Humanities Medal for prolific scholarship melding history, economics, and political science.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>According to conservative British author Paul Johnson: &quot;America's leading philosopher is Thomas Sowell.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>He has given me more than any other living American philosopher...&quot; </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

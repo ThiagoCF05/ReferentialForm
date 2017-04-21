@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TEXT ID="1823">
+	<TITLE>Loire River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Loire River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (pronounced [IPA: /lwaʁ/] in French), the longest river in France with a length of just over 1000 km, drains an area of 117,000 km², more than a fifth of France.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The central part of the Loire Valley was added on the World Heritage Sites list by the UNESCO On December 2, 2000. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

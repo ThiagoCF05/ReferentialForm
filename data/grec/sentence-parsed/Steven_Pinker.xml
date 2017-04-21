@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TEXT ID="1744">
+	<TITLE>Steven Pinker</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Steven Arthur Pinker</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born September 18 1954, in Montreal, Canada) is a prominent American experimental psychologist, cognitive scientist, and popular science writer known for  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> spirited and wide-ranging advocacy of evolutionary psychology and the computational theory of mind. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Pinker’s</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> academic specializations are visual cognition and language development in children, and  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is most famous for popularising the idea that language is an &quot;instinct&quot; or biological adaptation shaped by natural selection rather than a by-product of general intelligence.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> four for a general audience — The Language Instinct, How the Mind Works, Words and Rules and The Blank Slate — have won numerous awards. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

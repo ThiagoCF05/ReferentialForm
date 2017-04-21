@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="202">
+	<TITLE>Haleakalā</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Haleakalā</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> or East Maui Volcano is a massive shield volcano  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">that</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms more than 75% of the Hawaiian Island of Maui. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

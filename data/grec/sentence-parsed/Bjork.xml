@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="963">
+	<TITLE>Björk</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Björk Guðmundsdóttir</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (ˈpjœr̥k ˈkvʏðmʏnstoʊhtɪr) (born November 21, 1965 in Reykjavík, Iceland) is a Brit Award-winning Icelandic singer/songwriter and composer (formerly the lead singer of alternative rock band The Sugarcubes), with a great expressive range and an interest in many kinds of music including pop, alternative rock, jazz, ambient music, electronica, folk, and classical music.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known for  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> innovative music videos and individualistic music.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> record label, One Little Indian, reported in 2003 that  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has sold over 15 million albums worldwide. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

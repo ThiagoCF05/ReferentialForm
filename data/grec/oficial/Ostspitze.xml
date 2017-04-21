@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="626">
+	<TITLE>Ostspitze</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Ostspitze</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (4,632 m) is a peak of the Monte Rosa massif in the Pennine Alps in Switzerland.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="18" PARAGRAPH-RECENCY="17" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the second highest peak of the massif, after the Dufourspitze (4,634 m), and the second highest summit in Switzerland. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The first ascent was by Christopher Smyth, James G. Smyth and E. Smyth in 1854.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>At the time it was unclear which was the higher summit — the Ostspitze or the neighbouring Dufourspitze. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The first traverse of the entire summit ridge (Grenzgipfel–  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ostspitze</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> –Dufourspitze) was by Richard and William Pendlebury and Rev.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Charles Taylor with guides Ferdinand Imseng, Gabriel Spechtenhauser and Giovanni Oberto in 1873.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>This party had made the ascent, earlier in the day, of the Macugnaga face. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

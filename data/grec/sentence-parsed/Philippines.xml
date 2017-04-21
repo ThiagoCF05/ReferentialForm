@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEXT ID="1349">
+	<TITLE>Philippines</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Philippines</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Filipino: Pilipinas), officially the Republic of the Philippines (Republika ng Pilipinas), is an island nation located in the Malay Archipelago in Southeast Asia, with Manila as  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> capital.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> comprises 7,107 islands called the Philippine Archipelago, with a total land area of approximately 300,000 square kilometers or 116,000 square miles, making  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> the 72nd largest country by area. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Modern day Filipinos are mostly of Austronesian stock, although there are a number of Filipinos with Spanish, Chinese, American, and Arab ancestry. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named &quot;Las Islas Filipinas&quot; by Ruy López de Villalobos after King Philip II of Spain.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Spanish colonial rule began in 1565 and lasted for about three centuries until the Philippine Revolution of 1896.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The United States gained possession of  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Philippines</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> after the Spanish-American War in 1898 and ruled  </STRING>
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> for about five decades.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Philippine culture has many affinities with the West.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING>Roman Catholicism is the predominant religion, and Filipino is an official language, along with English. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

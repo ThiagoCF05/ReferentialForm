@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TEXT ID="1140">
+	<TITLE>Port Moresby</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Port Moresby</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, (9°30'S,147°12'E), population 255,000 (2000), is the capital of Papua New Guinea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="12" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located on the shores of the Gulf of Papua, on the southeastern coast of the island of New Guinea. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The area on which  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was founded was first sighted by a European in 1873 by Captain John Moresby.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="15" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named in honour of his father Admiral Sir Fairfax Moresby. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

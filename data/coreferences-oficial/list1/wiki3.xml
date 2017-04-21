@@ -1,0 +1,782 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0" GENDER="neutral" ID="1" MENTION-ID="1" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Brazil</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">BRazil</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">The country of Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Brazil</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="6" GENDER="neutral" MENTION-ID="2" NUMBER="singular" TYPE="name">
+				<STRING> officially the Federative Republic of Brazil -LRB- -LSB- Portuguese: Brasil -RSB- -LSB- Portuguese República Federativa do Brasil -RSB- listen -RRB-</STRING>
+			</REFERENCE>
+			<STRING>, is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="13" GENDER="unknown" MENTION-ID="3" NUMBER="plural">
+				<STRING> the largest and most populous country in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="4" NUMBER="singular" TYPE="name"> South America </REFERENCE>
+			</REFERENCE>
+			<STRING>, and </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="4" GENDER="unknown" MENTION-ID="5" NUMBER="singular" TYPE="name"> fifth </REFERENCE>
+			<STRING> largest in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="14" GENDER="neutral" MENTION-ID="6" NUMBER="singular" TYPE="description"> the world </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="15" GENDER="unknown" MENTION-ID="7" NUMBER="plural"> both area and population </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.600629" GENDER="neutral" ID="2" MENTION-ID="8" NUMBER="singular" PARAGRAPH-POSITION="38" RECENCY="37" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">This south American country</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">This south American country</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="demonstrative">This South American country</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Brazil</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is also </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="9" NUMBER="singular" TYPE="description">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="unknown" MENTION-ID="10" NUMBER="singular" TYPE="name"> second </REFERENCE>
+				<STRING> most populous country in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="19" GENDER="neutral" MENTION-ID="11" NUMBER="singular" TYPE="name"> the Western Hemisphere </REFERENCE>
+			</REFERENCE>
+			<STRING> after </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="20" GENDER="neutral" MENTION-ID="12" NUMBER="singular" TYPE="name"> the United States </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING> Spanning </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="33" GENDER="neutral" MENTION-ID="13" NUMBER="singular" TYPE="description">
+				<STRING> a vast area between </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="34" GENDER="unknown" MENTION-ID="14" NUMBER="plural">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="35" GENDER="neutral" MENTION-ID="15" NUMBER="singular" TYPE="name">
+						<STRING> central </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="16" NUMBER="singular" TYPE="name"> South America </REFERENCE>
+					</REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="36" GENDER="neutral" MENTION-ID="17" NUMBER="singular" TYPE="name">
+						<STRING> the </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="22" GENDER="neutral" MENTION-ID="18" NUMBER="singular" TYPE="name"> Atlantic Ocean </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.480428" GENDER="neutral" ID="3" MENTION-ID="19" NUMBER="singular" PARAGRAPH-POSITION="66" RECENCY="28" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">the country of Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">this country</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">and it</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="33" GENDER="neutral" MENTION-ID="20" NUMBER="singular" TYPE="description">
+				<STRING> the easternmost country of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="21" NUMBER="singular" TYPE="name"> America </REFERENCE>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.620452" GENDER="neutral" ID="4" MENTION-ID="22" NUMBER="singular" PARAGRAPH-POSITION="74" RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="other">also</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">also</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> borders </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="40" GENDER="unknown" MENTION-ID="23" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="41" GENDER="unknown" MENTION-ID="24" NUMBER="plural">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="24" GENDER="neutral" MENTION-ID="25" NUMBER="singular" TYPE="name"> Uruguay </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="25" GENDER="neutral" MENTION-ID="26" NUMBER="singular" TYPE="name"> Argentina </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="26" GENDER="neutral" MENTION-ID="27" NUMBER="singular" TYPE="name"> Paraguay </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="27" GENDER="neutral" MENTION-ID="28" NUMBER="singular" TYPE="name"> Bolivia </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="28" GENDER="neutral" MENTION-ID="29" NUMBER="singular" TYPE="name"> Peru </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="29" GENDER="neutral" MENTION-ID="30" NUMBER="singular" TYPE="name"> Colombia </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="30" GENDER="neutral" MENTION-ID="31" NUMBER="singular" TYPE="name"> Venezuela </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="31" GENDER="neutral" MENTION-ID="32" NUMBER="singular" TYPE="name"> Guyana </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="32" GENDER="neutral" MENTION-ID="33" NUMBER="singular" TYPE="name"> Suriname </REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="42" GENDER="neutral" MENTION-ID="34" NUMBER="singular" TYPE="description">
+					<STRING> the French department of </STRING>
+					<REFERENCE ANIMACY="unknown" ENTITY-ID="43" GENDER="unknown" MENTION-ID="35" NUMBER="singular" TYPE="name"> French Guiana </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING> In fact, </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="33" ENTROPY="0.525317" GENDER="neutral" ID="5" MENTION-ID="36" NUMBER="singular" PARAGRAPH-POSITION="94" RECENCY="20" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">the country of Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Brazil</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> borders every South American nation except for </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="47" GENDER="unknown" MENTION-ID="37" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="44" GENDER="neutral" MENTION-ID="38" NUMBER="singular" TYPE="name"> Ecuador </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="45" GENDER="neutral" MENTION-ID="39" NUMBER="singular" TYPE="name"> Chile </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="49" GENDER="unknown" MENTION-ID="40" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.321967" GENDER="neutral" ID="6" MENTION-ID="41" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="description">The country's</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">Brazils</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">Brazil</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="description">The country's</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="name">Brazil</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">Brazil</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="name">Brazils'</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="name">Brazil</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="pronoun">It's</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="name">Brazil</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="name">Brazil</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Brazil'a</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="name">Brazil</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="name">Brazil's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> name </STRING>
+			</REFERENCE>
+			<STRING> is generally believed to be derived from </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="51" GENDER="unknown" MENTION-ID="42" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="52" GENDER="unknown" MENTION-ID="43" NUMBER="singular" TYPE="description"> pau-brasil -LRB- brazilwood -RRB- </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="52" GENDER="neutral" MENTION-ID="44" NUMBER="singular" TYPE="description"> a tree highly valued </REFERENCE>
+			</REFERENCE>
+			<STRING> by </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="54" GENDER="unknown" MENTION-ID="45" NUMBER="plural" TYPE="description"> early colonists </REFERENCE>
+			<STRING>, though </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="55" GENDER="neutral" MENTION-ID="46" NUMBER="singular" TYPE="description">
+				<STRING> some credit </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="49" GENDER="unknown" MENTION-ID="47" NUMBER="singular" TYPE="description"> the name </REFERENCE>
+				<STRING> to </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="57" GENDER="neutral" MENTION-ID="48" NUMBER="singular" TYPE="description"> a mythical land </REFERENCE>
+			</REFERENCE>
+			<STRING> mentioned in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="48" GENDER="neutral" MENTION-ID="49" NUMBER="singular" TYPE="name"> Europe </REFERENCE>
+			<STRING> during </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="58" GENDER="unknown" MENTION-ID="50" NUMBER="plural" TYPE="name"> Middle Ages </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.492401" GENDER="neutral" ID="7" MENTION-ID="51" NUMBER="singular" PARAGRAPH-POSITION="34" RECENCY="33" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Brazil</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="description">The country</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is home to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="60" GENDER="unknown" MENTION-ID="52" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="61" GENDER="unknown" MENTION-ID="53" NUMBER="plural" TYPE="description"> both extensive agricultural lands </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="62" GENDER="unknown" MENTION-ID="54" NUMBER="plural" TYPE="description"> rain forests </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING> Exploring </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="64" GENDER="unknown" MENTION-ID="55" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="65" GENDER="unknown" MENTION-ID="56" NUMBER="plural" TYPE="description"> vast natural resources </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="66" GENDER="neutral" MENTION-ID="57" NUMBER="singular" TYPE="description"> a large labor pool </REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.429972" GENDER="neutral" ID="8" MENTION-ID="58" NUMBER="singular" PARAGRAPH-POSITION="54" RECENCY="20" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="other">also</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Brazil</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="68" GENDER="unknown" MENTION-ID="59" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="66" GENDER="neutral" MENTION-ID="60" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="61" NUMBER="singular" TYPE="name"> South America's </REFERENCE>
+					<STRING> leading economic power </STRING>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="70" GENDER="male" MENTION-ID="62" NUMBER="singular" TYPE="description"> a regional leader </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING> Brazilian society is still heavily influenced by </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="72" GENDER="neutral" MENTION-ID="63" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="71" GENDER="neutral" MENTION-ID="64" NUMBER="singular" TYPE="name"> Portugal's </REFERENCE>
+				<STRING> 300 year colonization </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING> Portuguese is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="74" GENDER="neutral" MENTION-ID="65" NUMBER="singular" TYPE="description"> the official language </REFERENCE>
+			<STRING>, and </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="75" GENDER="neutral" MENTION-ID="66" NUMBER="singular" TYPE="description">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="73" GENDER="unknown" MENTION-ID="67" NUMBER="singular" TYPE="name"> Roman Catholic </REFERENCE>
+				<STRING> religion </STRING>
+			</REFERENCE>
+			<STRING> is adopted by </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="76" GENDER="unknown" MENTION-ID="68" NUMBER="unknown" TYPE="description">
+				<STRING> most of </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="77" GENDER="unknown" MENTION-ID="69" NUMBER="plural" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.403401" GENDER="unknown" ID="9" MENTION-ID="70" NUMBER="singular" PARAGRAPH-POSITION="27" RECENCY="0" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">its</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="7" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="8" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="11" TYPE="name">Brazilian</REFEX>
+							<REFEX PARTICIPANT-ID="14" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="25" TYPE="name">Brazil's</REFEX>
+							<REFEX PARTICIPANT-ID="27" TYPE="name">Brazil's</REFEX>
+							<REFEX PARTICIPANT-ID="35" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="39" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="43" TYPE="name">brazilian</REFEX>
+							<REFEX PARTICIPANT-ID="45" TYPE="name">Brazil</REFEX>
+							<REFEX PARTICIPANT-ID="47" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="48" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="49" TYPE="name">Brazils</REFEX>
+							<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="54" TYPE="name">the Brazilian</REFEX>
+							<REFEX PARTICIPANT-ID="57" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="60" TYPE="name">Brazil's</REFEX>
+							<REFEX PARTICIPANT-ID="62" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="63" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="64" TYPE="name">Brazil's</REFEX>
+							<REFEX PARTICIPANT-ID="66" TYPE="name">Brazilian</REFEX>
+							<REFEX PARTICIPANT-ID="67" TYPE="name">Brazil's</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> people </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, with </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="79" GENDER="neutral" MENTION-ID="71" NUMBER="singular" TYPE="description"> a number of adherents never seen in any other country </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="80" GENDER="neutral" MENTION-ID="72" NUMBER="singular" TYPE="description"> The population </REFERENCE>
+			<STRING> is composed mainly of </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="81" GENDER="unknown" MENTION-ID="73" NUMBER="plural" TYPE="description"> descendants </REFERENCE>
+			<STRING> from </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="82" GENDER="unknown" MENTION-ID="74" NUMBER="plural">
+				<STRING> European immigrants and Africans brought during </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="83" GENDER="unknown" MENTION-ID="75" NUMBER="plural" TYPE="description"> the slavery times </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING> In </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="88" GENDER="unknown" MENTION-ID="76" NUMBER="plural">
+				<STRING> the late </STRING>
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="84" GENDER="unknown" MENTION-ID="77" NUMBER="singular" TYPE="name"> 19th </REFERENCE>
+				<STRING> and early 20th centuries </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.545999" GENDER="neutral" ID="10" MENTION-ID="78" NUMBER="singular" PARAGRAPH-POSITION="65" RECENCY="38" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Brazil</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">South America</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">the state of Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">The country</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Brazil</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> attracted well over 5 million </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="89" GENDER="unknown" MENTION-ID="79" NUMBER="plural">
+				<STRING> European, </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="87" GENDER="male" MENTION-ID="80" NUMBER="singular" TYPE="name"> Arab </REFERENCE>
+				<STRING> and Japanese immigrants </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="91" GENDER="neutral" MENTION-ID="81" NUMBER="singular" TYPE="demonstrative"> That period </REFERENCE>
+			<STRING> also saw </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.644093" GENDER="neutral" ID="11" MENTION-ID="82" NUMBER="singular" PARAGRAPH-POSITION="80" RECENCY="15" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Brazil</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">huge</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">more</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">much of its country</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Brazil's</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">mass</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> industrialise, further colonise, and develop </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="92" GENDER="neutral" MENTION-ID="83" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.359334" GENDER="unknown" ID="12" MENTION-ID="84" NUMBER="singular" PARAGRAPH-POSITION="86" RECENCY="6" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="other">'s</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="other">much</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="other">full</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="other">to the</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> interior </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING> After declaring independence from </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="95" GENDER="neutral" MENTION-ID="85" NUMBER="singular" TYPE="name">
+				<STRING> Portugal in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="96" GENDER="unknown" MENTION-ID="86" NUMBER="singular" TYPE="name"> 1822 </REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.189281" GENDER="neutral" ID="13" MENTION-ID="87" NUMBER="singular" PARAGRAPH-POSITION="8" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Brazil</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Brazil</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> became </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="97" GENDER="neutral" MENTION-ID="88" NUMBER="singular" TYPE="description"> a monarchy </REFERENCE>
+			<STRING> until </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="98" GENDER="unknown" MENTION-ID="89" NUMBER="singular" TYPE="description"> a military coup </REFERENCE>
+			<STRING> deposed </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="99" GENDER="male" MENTION-ID="90" NUMBER="singular" TYPE="description"> the emperor </REFERENCE>
+			<STRING> and established </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="100" GENDER="neutral" MENTION-ID="91" NUMBER="singular" TYPE="name"> a Republic </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="101" GENDER="unknown" MENTION-ID="92" NUMBER="singular" TYPE="name"> 1889 </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING> Brazilian democracy was replaced by </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="103" GENDER="unknown" MENTION-ID="93" NUMBER="plural">
+				<STRING> dictatorships </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="104" GENDER="unknown" MENTION-ID="94" NUMBER="plural" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="102" GENDER="unknown" MENTION-ID="95" NUMBER="singular" TYPE="name"> three </REFERENCE>
+					<STRING> times </STRING>
+				</REFERENCE>
+				<STRING>-- </STRING>
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="105" GENDER="unknown" MENTION-ID="96" NUMBER="plural">
+					<STRING> 1930-1934 and 1937-1945 under </STRING>
+					<REFERENCE ANIMACY="unknown" ENTITY-ID="106" GENDER="male" MENTION-ID="97" NUMBER="singular" TYPE="name"> Getúlio Vargas </REFERENCE>
+				</REFERENCE>
+				<STRING>, and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="107" GENDER="unknown" MENTION-ID="98" NUMBER="singular" TYPE="name"> 1964-1985 </REFERENCE>
+			</REFERENCE>
+			<STRING>, under </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="108" GENDER="unknown" MENTION-ID="99" NUMBER="singular" TYPE="description">
+				<STRING> a succession of </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="109" GENDER="unknown" MENTION-ID="100" NUMBER="plural" TYPE="description">
+					<STRING> generals appointed by </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="110" GENDER="neutral" MENTION-ID="101" NUMBER="singular" TYPE="description"> the military </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING> In the 1980s </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="112" GENDER="neutral" MENTION-ID="102" NUMBER="singular" TYPE="description"> the military regime </REFERENCE>
+			<STRING> ended and </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="113" GENDER="neutral" MENTION-ID="103" NUMBER="singular" TYPE="description"> a new constitution </REFERENCE>
+			<STRING> was established, opening </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="114" GENDER="neutral" MENTION-ID="104" NUMBER="singular" TYPE="description"> the way </REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="115" GENDER="unknown" MENTION-ID="105" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="116" GENDER="unknown" MENTION-ID="106" NUMBER="singular" TYPE="name"> the Brazilians' </REFERENCE>
+				<STRING> return </STRING>
+			</REFERENCE>
+			<STRING> to democracy. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING> Currently </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="120" GENDER="neutral" MENTION-ID="107" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.271003" GENDER="neutral" ID="14" MENTION-ID="108" NUMBER="singular" PARAGRAPH-POSITION="2" RECENCY="0" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Brazil's</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">Brazils</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">Brazil</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">Brazil</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="other">the states</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="name">Brazil</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Brazil's</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="name">Brazil's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> greatest challenge </STRING>
+			</REFERENCE>
+			<STRING> is to reactivate </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="121" GENDER="neutral" MENTION-ID="109" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="122" GENDER="neutral" MENTION-ID="110" NUMBER="singular" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.209077" GENDER="unknown" ID="15" MENTION-ID="111" NUMBER="singular" PARAGRAPH-POSITION="8" RECENCY="6" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">its</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="7" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="8" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="11" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="14" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="25" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="27" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="35" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="39" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="43" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="45" TYPE="name">Brazils'</REFEX>
+							<REFEX PARTICIPANT-ID="47" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="48" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="49" TYPE="name">its</REFEX>
+							<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="54" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="57" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="60" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="62" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="63" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="64" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="66" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> economy </STRING>
+				</REFERENCE>
+				<STRING>, which was once </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="118" GENDER="unknown" MENTION-ID="112" NUMBER="singular" TYPE="name"> one </REFERENCE>
+				<STRING> of the most thriving in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="14" GENDER="neutral" MENTION-ID="113" NUMBER="singular" TYPE="description"> the world </REFERENCE>
+				<STRING> but had </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="125" GENDER="unknown" MENTION-ID="114" NUMBER="plural" TYPE="description"> many problems </REFERENCE>
+				<STRING> in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="126" GENDER="unknown" MENTION-ID="115" NUMBER="singular" TYPE="name">
+					<STRING> the last </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="119" GENDER="unknown" MENTION-ID="116" NUMBER="singular" TYPE="name"> 20-30 </REFERENCE>
+					<STRING> years </STRING>
+				</REFERENCE>
+				<STRING>, while dealing with </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="127" GENDER="unknown" MENTION-ID="117" NUMBER="plural" TYPE="description">
+					<STRING> serious issues that plague </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="128" GENDER="unknown" MENTION-ID="118" NUMBER="unknown" TYPE="description">
+						<STRING> many of </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="129" GENDER="unknown" MENTION-ID="119" NUMBER="plural" TYPE="description">
+							<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.209077" GENDER="unknown" ID="16" MENTION-ID="120" NUMBER="singular" PARAGRAPH-POSITION="39" RECENCY="31" SYNCAT="subj-det">
+								<ORIGINAL-REFEX>
+									<REFEX TYPE="pronoun">its</REFEX>
+								</ORIGINAL-REFEX>
+								<PARTICIPANTS-REFEX>
+									<REFEX PARTICIPANT-ID="7" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="8" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="11" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="14" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="25" TYPE="name">Brazil's</REFEX>
+									<REFEX PARTICIPANT-ID="27" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="35" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="39" TYPE="other">the</REFEX>
+									<REFEX PARTICIPANT-ID="43" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="45" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="47" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="48" TYPE="other">natural</REFEX>
+									<REFEX PARTICIPANT-ID="49" TYPE="name">its</REFEX>
+									<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it's</REFEX>
+									<REFEX PARTICIPANT-ID="54" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="57" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="60" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="62" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="63" TYPE="other">the</REFEX>
+									<REFEX PARTICIPANT-ID="64" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="66" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+								</PARTICIPANTS-REFEX>
+							</TARGET-REFERENCE>
+							<STRING> inhabitants </STRING>
+						</REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, like </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="131" GENDER="unknown" MENTION-ID="121" NUMBER="plural"> poverty, hunger and crime </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

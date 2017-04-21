@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<TEXT ID="1322">
+	<TITLE>Moldova</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Republic of Moldova</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Republica Moldova) is a small landlocked country in eastern Europe, located between Romania to the west and Ukraine to the east and south.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Historically part of the Principality of Moldavia,  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was annexed by the Russian Empire in 1812 and reunited with other Romanian lands in Romania in 1918.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>After changing hands during World War II and  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> final annexation by the Soviet Union,  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was known as the Moldavian SSR between 1945 and 1991 and  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> finally declared  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> independence on 27 August 1991. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Republic of Moldova</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a member state of the United Nations, WMO, UNICEF, GUAM, CIS, BSEC and other international organizations. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Moldova</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a parliamentary democracy.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="9" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Moldova's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> head of state is  </STRING>
+			<REFERENCE ID="10" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> President.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The head of government is the Prime Minister. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

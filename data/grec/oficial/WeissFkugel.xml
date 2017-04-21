@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEXT ID="917">
+	<TITLE>Weisskugel</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Weißkugel</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (or Palla Bianca in Italian) is the second highest mountain in the Ötztal Alps and the third highest mountain in Austria.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies on the border between Austria and Italy.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> features many glaciers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The easiest way to climb  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is over the south side of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="48" PARAGRAPH-RECENCY="7" SEMCAT="mountain" SENTENCE-POSITION="13" SENTENCE-RECENCY="7" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="49" PARAGRAPH-RECENCY="1" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed in 1850 by J.A.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>Specht, Leander Klotz, and Nicodem Klotz. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Due to  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> central location,  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="3" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="3" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has one of the best views in the entire Alps. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

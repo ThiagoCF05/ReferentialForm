@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="721">
+	<TITLE>Abajo Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Abajo Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest peak in the Abajo Mountains of southeast Utah and </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located near Monticello, Utah in the Manti-La Sal National Forest on the Colorado border.</STRING>
+	</PARAGRAPH>
+</TEXT>

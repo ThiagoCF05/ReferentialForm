@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1581">
+	<TITLE>Jane Austen</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Jane Austen</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (16 December, 1775 - 18 July, 1817) was an English novelist. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> insights into women's lives and </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> mastery of form and irony have made </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> one of the most noted and influential novelists of </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> era despite being only moderately successful during </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lifetime.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="936">
+	<TITLE>Baku</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Baku</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Azerbaijani: Bakı]; Cyrillic Бакы), sometimes known as Baky or Baki, is the capital and the largest city of Azerbaijan. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located on the southern shore of the Apsheron Peninsula, at 40°23'N,49°52'E. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Modern Baku</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> consists of three parts: the Old Town (İçəri Şəhər), the boomtown and the Soviet-built town. Population (January 1, 2003 census): 2,074,300. About 3 million people live in metropolitan area (due to large numbers of refugees and internally displaced persons).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The layout of </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the oil-rich city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is rectangular, only in the oldest part of </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> within the fortress walls the streets are crooked and narrow. The boomtown, south of the old city, was built after massive petroleum exploitation began nearly a century ago and has interesting beaux-arts architecture. Fine arts, history and literature museums are located there, all housed in the mansions of pre-Revolutionary millionaires.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Modern Baku</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> spreads out from the city walls, </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> streets and buildings rising up hills that rim the Bay of Baku. Greater Baku is divided into 11 districts (Azizbayov, Binagadi, Garadagh, Narimanov, Nasimi, Nizami, Sabail, Sabunchu, Khatai, Surakhany and Yasamal) and 48 townships. Among these are townships on islands in the bay and one island town built on stilts in the Caspian Sea, 50-100 km from </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Baku proper</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (the so-called Oil Rocks).</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,688 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING> After </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="male" MENTION-ID="1" NUMBER="singular" TYPE="name">
+				<STRING> astounding Wall Street with </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="2" NUMBER="singular" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.45394" GENDER="neutral" ID="1" MENTION-ID="3" NUMBER="unknown" PARAGRAPH-POSITION="6" RECENCY="0" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">its</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="7" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="8" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="11" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="14" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="25" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="27" TYPE="name">Google's</REFEX>
+							<REFEX PARTICIPANT-ID="35" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="39" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="43" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="45" TYPE="name">Googles'</REFEX>
+							<REFEX PARTICIPANT-ID="47" TYPE="other">its</REFEX>
+							<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="54" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="57" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="60" TYPE="name">Google's</REFEX>
+							<REFEX PARTICIPANT-ID="62" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="63" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="64" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="66" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> incredible growth </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.236422" GENDER="neutral" ID="2" MENTION-ID="4" NUMBER="unknown" PARAGRAPH-POSITION="9" RECENCY="3" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Google</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="other">investors</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">GOOGLE</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Googlw</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">the tech giant</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Google</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> learned on Tuesday </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="6" GENDER="unknown" MENTION-ID="5" NUMBER="plural" TYPE="description">
+				<STRING> the perils of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="7" GENDER="unknown" MENTION-ID="6" NUMBER="plural" TYPE="description"> high expectations </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="8" GENDER="neutral" MENTION-ID="7" NUMBER="singular" TYPE="description">
+				<STRING> An earnings increase that fell shy of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="9" GENDER="unknown" MENTION-ID="8" NUMBER="plural" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="10" GENDER="unknown" MENTION-ID="9" NUMBER="plural" TYPE="description"> investors' </REFERENCE>
+					<STRING> hopes </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> sent </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="11" GENDER="unknown" MENTION-ID="10" NUMBER="plural" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.430677" GENDER="neutral" ID="3" MENTION-ID="11" NUMBER="unknown" PARAGRAPH-POSITION="28" RECENCY="19" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">some</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> shares </STRING>
+			</REFERENCE>
+			<STRING> plummeting after </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="13" GENDER="neutral" MENTION-ID="12" NUMBER="singular" TYPE="description">
+				<STRING> the close of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="14" GENDER="neutral" MENTION-ID="13" NUMBER="singular" TYPE="description"> the market </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="neutral" MENTION-ID="14" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0" GENDER="neutral" ID="4" MENTION-ID="15" NUMBER="unknown" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Google's</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">Google'</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="other">GOOGLE STOCK</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="name">Google's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> stock </STRING>
+			</REFERENCE>
+			<STRING> fell almost 20 percent immediately after </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="17" GENDER="neutral" MENTION-ID="16" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="18" GENDER="neutral" MENTION-ID="17" NUMBER="singular" TYPE="description"> the announcement </REFERENCE>
+				<STRING>, made after </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="19" GENDER="neutral" MENTION-ID="18" NUMBER="singular" TYPE="description"> the close of regular trading </REFERENCE>
+			</REFERENCE>
+			<STRING>, then recovered somewhat. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING> By </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="20" GENDER="unknown" MENTION-ID="19" NUMBER="singular" TYPE="name"> evening </REFERENCE>
+			<STRING> it was down about 12 percent from </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="22" GENDER="neutral" MENTION-ID="20" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="5" GENDER="unknown" MENTION-ID="21" NUMBER="singular" TYPE="name"> Tuesday's </REFERENCE>
+				<STRING> close </STRING>
+			</REFERENCE>
+			<STRING>, trading around $ 379. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="24" GENDER="unknown" MENTION-ID="22" NUMBER="singular" TYPE="name"> Only three weeks </REFERENCE>
+			<STRING> ago, at </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="25" GENDER="male" MENTION-ID="23" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="24" GENDER="unknown" MENTION-ID="24" NUMBER="singular" TYPE="pronoun"> its </REFERENCE>
+				<STRING> high-water mark </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="neutral" MENTION-ID="25" NUMBER="singular" TYPE="description"> the stock </REFERENCE>
+			<STRING> reached $ 475.11. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="24" GENDER="neutral" MENTION-ID="26" NUMBER="singular" TYPE="pronoun"> It </REFERENCE>
+			<STRING> has still been less than </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="29" GENDER="unknown" MENTION-ID="27" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="30" GENDER="unknown" MENTION-ID="28" NUMBER="singular" TYPE="name"> a year </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="31" GENDER="unknown" MENTION-ID="29" NUMBER="singular" TYPE="description"> a half </REFERENCE>
+			</REFERENCE>
+			<STRING> since </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.65849" GENDER="neutral" ID="5" MENTION-ID="30" NUMBER="singular" PARAGRAPH-POSITION="25" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the company</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="description">the American multinational company</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">GOOGLE</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">this tech company</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">the internet company</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">the tech company</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Google</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> made </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="33" GENDER="neutral" MENTION-ID="31" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.133313" GENDER="neutral" ID="6" MENTION-ID="32" NUMBER="singular" PARAGRAPH-POSITION="27" RECENCY="2" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> initial public offering </STRING>
+			</REFERENCE>
+			<STRING> at $ 85 </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="35" GENDER="neutral" MENTION-ID="33" NUMBER="singular" TYPE="description"> a share </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="39" GENDER="male" MENTION-ID="34" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="36" GENDER="male" MENTION-ID="35" NUMBER="singular" TYPE="name"> Safa Rashtchy </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="36" GENDER="male" MENTION-ID="36" NUMBER="singular" TYPE="description">
+					<STRING> an analyst with </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="37" GENDER="unknown" MENTION-ID="37" NUMBER="plural"> Piper Jaffray &amp; Co. </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, attributed </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="41" GENDER="neutral" MENTION-ID="38" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="5" GENDER="unknown" MENTION-ID="39" NUMBER="singular" TYPE="name"> Tuesday's </REFERENCE>
+				<STRING> decline </STRING>
+			</REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="43" GENDER="unknown" MENTION-ID="40" NUMBER="plural" TYPE="description">
+				<STRING>`` momentum investors'' who had been betting that </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.415063" GENDER="neutral" ID="7" MENTION-ID="41" NUMBER="unknown" PARAGRAPH-POSITION="21" RECENCY="0" SYNCAT="np-subj"/>
+				<STRING> would continue to surpass </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="44" GENDER="unknown" MENTION-ID="42" NUMBER="plural" TYPE="description"> published estimates </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>`` </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="45" GENDER="neutral" MENTION-ID="43" NUMBER="unknown" TYPE="demonstrative"> This </REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="46" GENDER="unknown" MENTION-ID="44" NUMBER="singular" TYPE="name"> one of the biggest momentum stocks there is </REFERENCE>
+			<STRING>,'' </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="36" GENDER="male" MENTION-ID="45" NUMBER="singular" TYPE="pronoun"> he </REFERENCE>
+			<STRING> said. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>`` </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="45" GENDER="unknown" MENTION-ID="46" NUMBER="plural" TYPE="pronoun"> They </REFERENCE>
+			<STRING> said </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="neutral" MENTION-ID="47" NUMBER="singular" TYPE="demonstrative"> this stock </REFERENCE>
+			<STRING> should be growing even faster. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.4">
+			<STRING> And when </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="neutral" MENTION-ID="48" NUMBER="singular" TYPE="pronoun"> it </REFERENCE>
+			<STRING> does n't, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="45" GENDER="unknown" MENTION-ID="49" NUMBER="plural" TYPE="pronoun"> they </REFERENCE>
+			<STRING> just get out.'' </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING> For any other company, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="52" GENDER="unknown" MENTION-ID="50" NUMBER="plural" TYPE="description"> the results </REFERENCE>
+			<STRING> announced </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="5" GENDER="unknown" MENTION-ID="51" NUMBER="singular" TYPE="name"> Tuesday </REFERENCE>
+			<STRING> would be impressive. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.201985" GENDER="neutral" ID="8" MENTION-ID="52" NUMBER="unknown" PARAGRAPH-POSITION="12" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Google</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="other">He</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">They</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">GOOGLE</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="other">Rashtchy</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Google</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> said </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.349398" GENDER="neutral" ID="9" MENTION-ID="53" NUMBER="singular" PARAGRAPH-POSITION="14" RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">that it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">that it</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> earned $ 372 million in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="56" GENDER="neutral" MENTION-ID="54" NUMBER="singular" TYPE="name">
+				<STRING> the fourth quarter of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="57" GENDER="unknown" MENTION-ID="55" NUMBER="singular" TYPE="name"> last year </REFERENCE>
+			</REFERENCE>
+			<STRING>, up 82 percent from </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="57" GENDER="unknown" MENTION-ID="56" NUMBER="singular" TYPE="name"> the year </REFERENCE>
+			<STRING> before. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING> But </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="60" GENDER="neutral" MENTION-ID="57" NUMBER="singular" TYPE="description">
+				<STRING> the enormous valuation of </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.575171" GENDER="neutral" ID="10" MENTION-ID="58" NUMBER="unknown" PARAGRAPH-POSITION="6" RECENCY="0" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Google</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="description">the internet-related services company</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="description">the company</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="other">stock</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="other">its stock</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="other">Google's stock</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="other">its stock</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="description">the company</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="description">the company</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="demonstrative">this company</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="name">Google</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> is based -- to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="61" GENDER="neutral" MENTION-ID="59" NUMBER="singular" TYPE="description">
+				<STRING> the extent </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="60" GENDER="neutral" MENTION-ID="60" NUMBER="singular" TYPE="pronoun"> it </REFERENCE>
+				<STRING> has any rational basis </STRING>
+			</REFERENCE>
+			<STRING>-- on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="63" GENDER="unknown" MENTION-ID="61" NUMBER="plural" TYPE="description"> predictions </REFERENCE>
+			<STRING> that </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.380797" GENDER="neutral" ID="11" MENTION-ID="62" NUMBER="unknown" PARAGRAPH-POSITION="22" RECENCY="16" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="description">the company</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">the internet</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">the internet</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> will continue to grow very rapidly, extending </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="65" GENDER="neutral" MENTION-ID="63" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.39333" GENDER="neutral" ID="12" MENTION-ID="64" NUMBER="unknown" PARAGRAPH-POSITION="30" RECENCY="8" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="name">Googles'</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">great</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="other">more</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> success </STRING>
+			</REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="67" GENDER="unknown" MENTION-ID="65" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="68" GENDER="neutral" MENTION-ID="66" NUMBER="singular" TYPE="description">
+					<STRING> Internet advertising to </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="69" GENDER="unknown" MENTION-ID="67" NUMBER="plural" TYPE="description"> other Internet services </REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="70" GENDER="unknown" MENTION-ID="68" NUMBER="plural" TYPE="description"> other forms of advertising </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="72" GENDER="unknown" MENTION-ID="69" NUMBER="plural" TYPE="description">
+				<STRING> Signs of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="73" GENDER="neutral" MENTION-ID="70" NUMBER="singular" TYPE="description">
+					<STRING> even a modest slowing in </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="74" GENDER="neutral" MENTION-ID="71" NUMBER="singular" TYPE="demonstrative"> that expansion </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, relative to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="75" GENDER="unknown" MENTION-ID="72" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="10" GENDER="unknown" MENTION-ID="73" NUMBER="plural" TYPE="description"> investors' </REFERENCE>
+				<STRING> expectations </STRING>
+			</REFERENCE>
+			<STRING>, could have </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="77" GENDER="neutral" MENTION-ID="74" NUMBER="singular" TYPE="description">
+				<STRING> a large impact on </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="78" GENDER="unknown" MENTION-ID="75" NUMBER="singular" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.502788" GENDER="neutral" ID="13" MENTION-ID="76" NUMBER="unknown" PARAGRAPH-POSITION="63" RECENCY="33" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="name">Google's</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="7" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="8" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="11" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="14" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="25" TYPE="name">Google's</REFEX>
+							<REFEX PARTICIPANT-ID="27" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="35" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="39" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="43" TYPE="name">Google's</REFEX>
+							<REFEX PARTICIPANT-ID="45" TYPE="name">Google</REFEX>
+							<REFEX PARTICIPANT-ID="47" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="48" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="54" TYPE="name">Google's</REFEX>
+							<REFEX PARTICIPANT-ID="57" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="60" TYPE="name">Google's</REFEX>
+							<REFEX PARTICIPANT-ID="62" TYPE="name">Google's</REFEX>
+							<REFEX PARTICIPANT-ID="63" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="64" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="66" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> share price </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<STRING> All told, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="79" GENDER="unknown" MENTION-ID="77" NUMBER="plural" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.189281" GENDER="neutral" ID="14" MENTION-ID="78" NUMBER="unknown" PARAGRAPH-POSITION="3" RECENCY="0" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="name">Googles'</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="name">GOOGLE's</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="name">Google's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> quarterly earnings </STRING>
+			</REFERENCE>
+			<STRING> came to $ 1.22 per share. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="7.2">
+			<STRING> Excluding </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="82" GENDER="unknown" MENTION-ID="79" NUMBER="plural" TYPE="description"> some special items </REFERENCE>
+			<STRING>-- including $ 58 million in stock-based compensation, and </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="83" GENDER="unknown" MENTION-ID="80" NUMBER="singular" TYPE="description">
+				<STRING> a $ 90 million contribution to </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="81" NUMBER="unknown" TYPE="name"> the Google Foundation </REFERENCE>
+			</REFERENCE>
+			<STRING>-- </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.692025" GENDER="neutral" ID="15" MENTION-ID="82" NUMBER="unknown" PARAGRAPH-POSITION="32" RECENCY="29" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Google</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="description">the company</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="description">the company</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">when</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Google</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">as it</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Google</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> earned $ 1.54 per share, far below the $ 1.76 per share that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="85" GENDER="unknown" MENTION-ID="83" NUMBER="plural" TYPE="description"> analysts </REFERENCE>
+			<STRING> had expected. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="8">
+		<SENTENCE ID="8.1">
+			<STRING> Even with </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="87" GENDER="neutral" MENTION-ID="84" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="5" GENDER="unknown" MENTION-ID="85" NUMBER="singular" TYPE="name"> Tuesday's </REFERENCE>
+				<STRING> after-hours decline </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="neutral" MENTION-ID="86" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.128114" GENDER="neutral" ID="16" MENTION-ID="87" NUMBER="unknown" PARAGRAPH-POSITION="6" RECENCY="0" SYNCAT="subj-det" TYPE="name">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Google's</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">Google'</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="name">GOOGLE</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="name">Google</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Google's</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="demonstrative">this tech company's</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="name">Google's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> stock </STRING>
+			</REFERENCE>
+			<STRING> is worth about $ 112 billion, more than any other media company in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="90" GENDER="neutral" MENTION-ID="88" NUMBER="singular" TYPE="description"> the world </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

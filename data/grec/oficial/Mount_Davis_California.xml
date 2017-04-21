@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT ID="397">
+	<TITLE>Mount Davis (California)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Davis</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a prominent peak in the Ansel Adams Wilderness, California, USA.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named after Lieutenant Milton Fennimore Davis, who was one of the first US military personnel to guard Yosemite National Park.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Davis was the first person to climb  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="29" SEMCAT="mountain" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

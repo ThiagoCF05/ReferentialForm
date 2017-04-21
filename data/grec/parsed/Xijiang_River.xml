@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="1851">
+	<TITLE>Xijiang River</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Xi River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (西江, pinyin: Xī Jiāng, Postal map spelling: Si Kiang, lit. &quot;West River&quot;) is the western tributary of Pearl River in southern China. The other two main tributaries of Pearl River are Dongjiang River and Beijiang River. Many parts of </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Xijiang</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are navigable. </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the largest of the tributaries, being 2,197 km. Other transliterations include Hsi River and Hsi Chiang. </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> supplies water to many places in Guangxi, Guangdong and Macao.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Another Xi is a minor tributary of the Jiulong River northwest of Xiamen.</STRING>
+	</PARAGRAPH>
+</TEXT>

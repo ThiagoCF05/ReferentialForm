@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1320">
+	<TITLE>Mayotte</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mayotte</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> [IPA: mɑjɔːt] (French pronunciation [IPA: /maˈjɔt/]) is an overseas community of France at the northern end of the Mozambique Channel in the Indian Ocean, between northern Madagascar and northern Mozambique.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The territory</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is geographically part of the Comoro islands, but  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been politically separate since the 1970s.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The island</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also known as Mahoré, especially by advocates of  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> inclusion in the Union of Comoros. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

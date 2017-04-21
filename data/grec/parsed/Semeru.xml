@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TEXT ID="719">
+	<TITLE>Semeru</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Semeru</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also Gunung Semeru - is the tallest mountain on the island of Java and one of its most active volcanoes. Known also as Mahameru (Great Mountain), </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is very steep and </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> rises abruptly above the coastal plains of eastern Java. Maars containing crater lakes have formed along a line through the summit. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Semeru</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies at the south end of the Tengger Volcanic Complex.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Semeru's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> eruptive history is extensive. Since 1818, at least 55 eruptions have been recorded (10 of which resulted in fatalities) consisting of both lava flows and pyroclastic flows. Moderate explosive eruptions (VEI 2-3) have also been recorded with some regularity.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Semeru</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been in a state of near-constant eruption from 1967 to the present. At times, small eruptions happen every 10 minutes or so.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Semeru</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is regularly climbed by tourists, usually starting from the village of Rano Pani to the north, but though non-technical </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> can be dangerous. Soe Hok Gie, an Indonesian political activist of the 1960s died in 1969 from inhaling poisonous gas while hiking on </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Semeru</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="377">
+	<TITLE>Mount Celeste</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Celeste</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain located on Vancouver Island, British Columbia. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> shares the name Celeste with two peaks in the BC Cariboo. Within the boundaries of Strathcona Provincial Park, </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies at the north end of Rees Ridge. Iceberg Peak lies at the south end of this ridge.</STRING>
+	</PARAGRAPH>
+</TEXT>

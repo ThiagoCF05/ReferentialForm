@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="338">
+	<TITLE>Mount Alberta</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Alberta</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain located in the upper Athabasca River Valley of Jasper National Park.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>J. Norman Collie named  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in 1898 after Princess Louise Caroline Alberta. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The first ascent was made by members of the Japanese Alpine Club: S. Hashimoto, H. Hatano, T. Hayakawa, Y. Maki, Y.Mita, N. Okabe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The team was guided by Hans Fuhrer, H. Kohler and J. Weber.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>After some difficulty in dealing with an overhang and a steep series of ledges, they reached the top and ceremoniously planted an ice axe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The ice axe was left as a symbol of their achievement.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>Parties on subsequent ascents took parts of the axe to the American Alpine Club in New York and back home to Japan. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The second ascent was completed in 1948 by Americans Fred Ayers and John Oberlin.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>In 1958, the first ascent by a Canadian team was completed by Neil Brown, Hans Gmoser, Leo Grillmair, Heinz Kahl and Sarka Spinkova. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

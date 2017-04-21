@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<TEXT ID="1593">
+	<TITLE>Johannes Gutenberg</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Johannes Gensfleisch zur Laden zum Gutenberg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (c. 1398 – c. February 3, 1468) was a German goldsmith and inventor  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="14" SEMCAT="person" SENTENCE-POSITION="15" SENTENCE-RECENCY="14" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> invented the European technology of printing with movable type in 1447. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Movable type technology was known in Korea and China by at least 1234, but  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="15" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Gutenberg's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> printing technology was most likely an independent invention.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="9" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Gutenberg's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> main contribution may have been in the combination of the use of movable type, the art of making such type, the use of oil-based ink, and the wooden printing press, which was presumably derived from the various presses in use at the time, including those for book-binding and those used in wine-making and in olive-oil production.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="81" PARAGRAPH-RECENCY="57" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Gutenberg's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> technology for making type is traditionally considered to have included a type metal alloy and a mould for casting type accurately. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The use of movable type constituted an improvement on the block printing already in use.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="yes" HEAD="nominal" TYPE="pronoun">Gutenberg himself</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was well versed in woodcut printing, having been for a period apprenticed to a playing card printer.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>(Similar techniques were used at the time for the production of printed textiles.)</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Combining these elements into a production system permitted the rapid printing of written materials, which fed the information-hungry world of Renaissance Europe. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Gutenberg's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> printing technology rapidly spread throughout Europe and is generally thought to have been a key development leading to the European Renaissance.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Consequently,  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="23" SEMCAT="person" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gutenberg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> remains a towering figure in the popular image; in 1999, the A&amp;E Network ranked  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="15" SEMCAT="person" SENTENCE-POSITION="17" SENTENCE-RECENCY="15" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gutenberg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> at #1 on their &quot;People of the Millennium&quot; countdown. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

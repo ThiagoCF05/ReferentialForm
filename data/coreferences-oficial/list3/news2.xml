@@ -1,0 +1,973 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="female" ID="1" MENTION-ID="1" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Jeanine F. Pirro</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Jeannine Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Jeanine Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Jeanine Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Pierro</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="female" MENTION-ID="2" NUMBER="singular" TYPE="description">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="male" MENTION-ID="3" NUMBER="singular" TYPE="name"> Republican </REFERENCE>
+				<STRING> candidate for </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="5" GENDER="male" MENTION-ID="4" NUMBER="singular" TYPE="description"> attorney general </REFERENCE>
+			</REFERENCE>
+			<STRING>, has begun </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="6" GENDER="neutral" MENTION-ID="5" NUMBER="singular" TYPE="description"> an attack </REFERENCE>
+			<STRING> on </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="7" GENDER="unknown" MENTION-ID="6" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="8" GENDER="unknown" MENTION-ID="7" NUMBER="singular" TYPE="name"> MySpace.com </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="8" GENDER="neutral" MENTION-ID="8" NUMBER="singular" TYPE="description">
+					<STRING> the popular Internet social network for </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="10" GENDER="unknown" MENTION-ID="9" NUMBER="plural">
+						<REFERENCE ANIMACY="animate" ENTITY-ID="11" GENDER="unknown" MENTION-ID="10" NUMBER="plural" TYPE="description"> teenagers </REFERENCE>
+						<STRING> and </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="12" GENDER="unknown" MENTION-ID="11" NUMBER="plural" TYPE="description"> young adults </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, saying that </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="8" GENDER="neutral" MENTION-ID="12" NUMBER="singular" TYPE="pronoun"> it </REFERENCE>
+			<STRING> represents </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="14" GENDER="neutral" MENTION-ID="13" NUMBER="singular" TYPE="description"> a threat </REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="15" GENDER="unknown" MENTION-ID="14" NUMBER="singular" TYPE="description"> child safety </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="8" GENDER="unknown" MENTION-ID="15" NUMBER="singular" TYPE="name"> MySpace.com </REFERENCE>
+			<STRING> is owned by </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="21" GENDER="male" MENTION-ID="16" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="16" GENDER="male" MENTION-ID="17" NUMBER="singular" TYPE="name"> Rupert Murdoch </REFERENCE>
+				<STRING>, who controls </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="22" GENDER="neutral" MENTION-ID="18" NUMBER="unknown" TYPE="name">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="17" GENDER="neutral" MENTION-ID="19" NUMBER="unknown" TYPE="name"> News Corp. </REFERENCE>
+					<STRING>, which owns </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="23" GENDER="unknown" MENTION-ID="20" NUMBER="unknown" TYPE="name">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="24" GENDER="unknown" MENTION-ID="21" NUMBER="unknown" TYPE="name">
+							<STRING> The </STRING>
+							<REFERENCE ANIMACY="inanimate" ENTITY-ID="18" GENDER="unknown" MENTION-ID="22" NUMBER="unknown" TYPE="name"> New York Post </REFERENCE>
+						</REFERENCE>
+						<STRING>, </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="18" GENDER="neutral" MENTION-ID="23" NUMBER="singular" TYPE="description">
+							<STRING> a publication that has often been critical of </STRING>
+							<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.510902" GENDER="female" ID="2" MENTION-ID="24" NUMBER="singular" PARAGRAPH-POSITION="25" RECENCY="0" SYNCAT="np-obj">
+								<ORIGINAL-REFEX>
+									<REFEX TYPE="name">Pirro</REFEX>
+								</ORIGINAL-REFEX>
+								<PARTICIPANTS-REFEX>
+									<REFEX PARTICIPANT-ID="85" TYPE="name">Pirro</REFEX>
+									<REFEX PARTICIPANT-ID="88" TYPE="name">Pirro</REFEX>
+									<REFEX PARTICIPANT-ID="91" TYPE="name">Ms. Pirro</REFEX>
+									<REFEX PARTICIPANT-ID="97" TYPE="other">restrictions on internet usage and freedom</REFEX>
+									<REFEX PARTICIPANT-ID="100" TYPE="other">government</REFEX>
+									<REFEX PARTICIPANT-ID="106" TYPE="pronoun">her</REFEX>
+									<REFEX PARTICIPANT-ID="109" TYPE="name">Jeanine Ferris Pirro</REFEX>
+									<REFEX PARTICIPANT-ID="112" TYPE="name">Pirro</REFEX>
+									<REFEX PARTICIPANT-ID="115" TYPE="name">Pirro</REFEX>
+									<REFEX PARTICIPANT-ID="118" TYPE="empty">-</REFEX>
+									<REFEX PARTICIPANT-ID="124" TYPE="other">him</REFEX>
+									<REFEX PARTICIPANT-ID="133" TYPE="name">Jeanine</REFEX>
+									<REFEX PARTICIPANT-ID="136" TYPE="name">Pirro</REFEX>
+									<REFEX PARTICIPANT-ID="140" TYPE="name">Pirro</REFEX>
+									<REFEX PARTICIPANT-ID="142" TYPE="name">Pirro</REFEX>
+									<REFEX PARTICIPANT-ID="149" TYPE="name">Pirro</REFEX>
+									<REFEX PARTICIPANT-ID="152" TYPE="pronoun">her</REFEX>
+									<REFEX PARTICIPANT-ID="155" TYPE="description">the candidate</REFEX>
+									<REFEX PARTICIPANT-ID="158" TYPE="name">Pirro</REFEX>
+									<REFEX PARTICIPANT-ID="161" TYPE="other">politics</REFEX>
+								</PARTICIPANTS-REFEX>
+							</TARGET-REFERENCE>
+						</REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING> In </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="28" GENDER="male" MENTION-ID="25" NUMBER="singular" TYPE="description">
+				<STRING> an interview on </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="29" GENDER="unknown" MENTION-ID="26" NUMBER="singular" TYPE="name"> Tuesday </REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="27" NUMBER="singular" TYPE="name">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.123344" GENDER="female" ID="3" MENTION-ID="28" NUMBER="singular" PARAGRAPH-POSITION="6" RECENCY="0" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Pirro</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="name">Mr. Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="name">Ms. Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="name">Jeanine Ferris Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="name">pirro</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="name">Jeanine Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="name">Jeanine</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="name">Jeanine Ferris Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="name">Pierro</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="29" NUMBER="singular" TYPE="description">
+					<STRING> a former </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="27" GENDER="neutral" MENTION-ID="30" NUMBER="singular" TYPE="name"> Westchester County </REFERENCE>
+					<STRING> district attorney </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, said that </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="32" GENDER="unknown" MENTION-ID="31" NUMBER="plural" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.159881" GENDER="female" ID="4" MENTION-ID="32" NUMBER="singular" PARAGRAPH-POSITION="15" RECENCY="9" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">her</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="other">his</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="other">her and her office's</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="other">Rupert Murdoch</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="name">Pirro's</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="other">his</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="pronoun">her</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> criticisms of </STRING>
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="8" GENDER="unknown" MENTION-ID="33" NUMBER="singular" TYPE="name"> MySpace.com </REFERENCE>
+			</REFERENCE>
+			<STRING> were based on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="35" GENDER="unknown" MENTION-ID="34" NUMBER="plural" TYPE="description"> reports </REFERENCE>
+			<STRING> that </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="36" GENDER="neutral" MENTION-ID="35" NUMBER="singular" TYPE="description"> the site </REFERENCE>
+			<STRING> is shocking to </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="37" GENDER="unknown" MENTION-ID="36" NUMBER="plural" TYPE="description"> many parents </REFERENCE>
+			<STRING> and, according to </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="38" GENDER="unknown" MENTION-ID="37" NUMBER="singular" TYPE="description"> the police </REFERENCE>
+			<STRING>, is attracting </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="39" GENDER="unknown" MENTION-ID="38" NUMBER="plural" TYPE="description"> sexual predators </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING> In </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="43" GENDER="unknown" MENTION-ID="39" NUMBER="singular" TYPE="description">
+				<STRING> a letter to </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="16" GENDER="male" MENTION-ID="40" NUMBER="singular" TYPE="name"> Murdoch </REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.536124" GENDER="female" ID="5" MENTION-ID="41" NUMBER="singular" PARAGRAPH-POSITION="6" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Pirro</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Mrs. Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="description">the aspiring attorney general</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Jeanine</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">she</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> proposed that </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="44" GENDER="neutral" MENTION-ID="42" NUMBER="singular" TYPE="description"> a forum </REFERENCE>
+			<STRING>`` be convened as soon as possible'' to include </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="45" GENDER="unknown" MENTION-ID="43" NUMBER="plural" TYPE="description">
+				<STRING> executives of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="46" GENDER="unknown" MENTION-ID="44" NUMBER="plural">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="17" GENDER="neutral" MENTION-ID="45" NUMBER="unknown" TYPE="name"> News Corp. </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="unknown" ENTITY-ID="8" GENDER="unknown" MENTION-ID="46" NUMBER="singular" TYPE="name"> MySpace.com </REFERENCE>
+				</REFERENCE>
+				<STRING> as well as </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="47" GENDER="unknown" MENTION-ID="47" NUMBER="plural">
+					<STRING> school officials and leaders of </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="48" GENDER="unknown" MENTION-ID="48" NUMBER="plural" TYPE="description"> parent groups </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>`` Together </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="45" GENDER="unknown" MENTION-ID="49" NUMBER="plural" TYPE="pronoun"> we </REFERENCE>
+			<STRING> can solve </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="51" GENDER="neutral" MENTION-ID="50" NUMBER="singular" TYPE="demonstrative"> this problem </REFERENCE>
+			<STRING>,'' </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.415206" GENDER="female" ID="6" MENTION-ID="51" NUMBER="singular" PARAGRAPH-POSITION="7" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Ms. Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">she</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> said. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING> In </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="55" GENDER="unknown" MENTION-ID="52" NUMBER="singular" TYPE="name"> the last year </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="18" GENDER="unknown" MENTION-ID="53" NUMBER="unknown" TYPE="name"> The Post </REFERENCE>
+			<STRING> has printed </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="56" GENDER="unknown" MENTION-ID="54" NUMBER="plural" TYPE="description">
+				<STRING> less-than-flattering portrayals of </STRING>
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.557724" GENDER="female" ID="7" MENTION-ID="55" NUMBER="singular" PARAGRAPH-POSITION="12" RECENCY="0" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Pirro</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="name">Mrs. Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="name">Ms. Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="description">Republicans like Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="name">Jeanine</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="name">Jeanine Ferris Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="other">him</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="name">Jeanine Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="name">Jeanine Ferris Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="name">Jeanine</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING>, </STRING>
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.558086" GENDER="female" ID="8" MENTION-ID="56" NUMBER="singular" PARAGRAPH-POSITION="13" RECENCY="1" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">who</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="pronoun">who</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="pronoun">who</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="other">and just</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="other">and</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="other">and</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="other">who as recently as</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="other">and</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="pronoun">who</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="other">and</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="name">Pierro</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="58" GENDER="unknown" MENTION-ID="57" NUMBER="singular" TYPE="name"> two months </REFERENCE>
+				<STRING> ago announced </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="59" GENDER="unknown" MENTION-ID="58" NUMBER="singular" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.275722" GENDER="female" ID="9" MENTION-ID="59" NUMBER="singular" PARAGRAPH-POSITION="18" RECENCY="5" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">her</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="85" TYPE="other">his</REFEX>
+							<REFEX PARTICIPANT-ID="88" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="91" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="97" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="100" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="106" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="109" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="112" TYPE="other">his</REFEX>
+							<REFEX PARTICIPANT-ID="115" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="118" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="124" TYPE="other">his</REFEX>
+							<REFEX PARTICIPANT-ID="133" TYPE="name">Jeanine</REFEX>
+							<REFEX PARTICIPANT-ID="136" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="140" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="142" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="149" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="152" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="155" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="158" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="161" TYPE="pronoun">her</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> candidacy </STRING>
+				</REFERENCE>
+				<STRING> for </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="5" GENDER="male" MENTION-ID="60" NUMBER="singular" TYPE="description"> attorney general </REFERENCE>
+				<STRING> after abandoning </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="62" GENDER="unknown" MENTION-ID="61" NUMBER="plural" TYPE="description"> plans </REFERENCE>
+				<STRING> to run against </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="63" GENDER="female" MENTION-ID="62" NUMBER="singular" TYPE="name"> Sen. Hillary Rodham Clinton </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="66" GENDER="neutral" MENTION-ID="63" NUMBER="singular" TYPE="description"> The paper </REFERENCE>
+			<STRING> published </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="67" GENDER="unknown" MENTION-ID="64" NUMBER="plural" TYPE="description">
+				<STRING> unflattering pictures of </STRING>
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.329125" GENDER="female" ID="10" MENTION-ID="65" NUMBER="singular" PARAGRAPH-POSITION="7" RECENCY="0" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Pirro</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="name">Ms. Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="other">Pirro in a bikini</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="name">Jeanine Ferris Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="name">Piro</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="other">him</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="name">Jeanine</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="name">Pierro</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> and reminded </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="68" GENDER="unknown" MENTION-ID="66" NUMBER="plural" TYPE="description"> readers </REFERENCE>
+			<STRING> that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="69" GENDER="male" MENTION-ID="67" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="70" GENDER="male" MENTION-ID="68" NUMBER="singular" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="female" ID="11" MENTION-ID="69" NUMBER="singular" PARAGRAPH-POSITION="12" RECENCY="5" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">her</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="85" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="88" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="91" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="97" TYPE="pronoun">her second</REFEX>
+							<REFEX PARTICIPANT-ID="100" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="106" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="109" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="112" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="115" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="118" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="124" TYPE="other">his</REFEX>
+							<REFEX PARTICIPANT-ID="133" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="136" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="140" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="142" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="149" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="152" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="155" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="158" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="161" TYPE="pronoun">her</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> husband </STRING>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="70" GENDER="male" MENTION-ID="70" NUMBER="singular" TYPE="name"> Albert </REFERENCE>
+			</REFERENCE>
+			<STRING>, had served </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="72" GENDER="neutral" MENTION-ID="71" NUMBER="singular" TYPE="description"> time </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="73" GENDER="unknown" MENTION-ID="72" NUMBER="singular" TYPE="description">
+				<STRING> prison for </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="74" GENDER="neutral" MENTION-ID="73" NUMBER="singular" TYPE="description"> tax fraud </REFERENCE>
+			</REFERENCE>
+			<STRING> and had been found to have fathered </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="75" GENDER="unknown" MENTION-ID="74" NUMBER="singular" TYPE="description"> a child </REFERENCE>
+			<STRING> out of wedlock. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="8">
+		<SENTENCE ID="8.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.333448" GENDER="female" ID="12" MENTION-ID="75" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" TYPE="name">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Pirro</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="description">The candidate</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="pronoun">Pirro herself</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Ms. Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">PIrro</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="other">He</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Jeanine</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">She</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> said that </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="77" GENDER="neutral" MENTION-ID="76" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="female" ID="13" MENTION-ID="77" NUMBER="singular" PARAGRAPH-POSITION="4" RECENCY="3" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">her</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="other">Rupert Murdoch</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="other">his</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="other">her strongest</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="pronoun">her</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> motivation for taking on </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="79" GENDER="neutral" MENTION-ID="78" NUMBER="singular" TYPE="description"> the issue </REFERENCE>
+			</REFERENCE>
+			<STRING> was </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="77" GENDER="neutral" MENTION-ID="79" NUMBER="singular" TYPE="description">
+				<STRING> a result of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="81" GENDER="neutral" MENTION-ID="80" NUMBER="singular" TYPE="description">
+					<STRING> the work </STRING>
+					<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="female" ID="14" MENTION-ID="81" NUMBER="singular" PARAGRAPH-POSITION="17" RECENCY="13" SYNCAT="np-subj">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">she</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="85" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="88" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="91" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="97" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="100" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="106" TYPE="pronoun">shw</REFEX>
+							<REFEX PARTICIPANT-ID="109" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="112" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="115" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="118" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="124" TYPE="other">he</REFEX>
+							<REFEX PARTICIPANT-ID="133" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="136" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="140" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="142" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="149" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="152" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="155" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="158" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="161" TYPE="pronoun">she</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> did in </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="83" GENDER="unknown" MENTION-ID="82" NUMBER="singular" TYPE="name">
+						<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="female" ID="15" MENTION-ID="83" NUMBER="singular" PARAGRAPH-POSITION="20" RECENCY="3" SYNCAT="subj-det">
+							<ORIGINAL-REFEX>
+								<REFEX TYPE="pronoun">her</REFEX>
+							</ORIGINAL-REFEX>
+							<PARTICIPANTS-REFEX>
+								<REFEX PARTICIPANT-ID="85" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="88" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="91" TYPE="other">over</REFEX>
+								<REFEX PARTICIPANT-ID="97" TYPE="other">Harlem with teengeras on the street,</REFEX>
+								<REFEX PARTICIPANT-ID="100" TYPE="other">over</REFEX>
+								<REFEX PARTICIPANT-ID="106" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="109" TYPE="other">office fot</REFEX>
+								<REFEX PARTICIPANT-ID="112" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="115" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="118" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="124" TYPE="other">New York</REFEX>
+								<REFEX PARTICIPANT-ID="133" TYPE="other">approximately</REFEX>
+								<REFEX PARTICIPANT-ID="136" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="140" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="142" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="149" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="152" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="155" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="158" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="161" TYPE="other">the</REFEX>
+							</PARTICIPANTS-REFEX>
+						</TARGET-REFERENCE>
+						<STRING> 12 years as </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="male" MENTION-ID="84" NUMBER="singular" TYPE="description"> district attorney </REFERENCE>
+					</REFERENCE>
+					<STRING> as </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="86" GENDER="male" MENTION-ID="85" NUMBER="singular" TYPE="description">
+						<STRING> a zealous pursuer of </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="87" GENDER="unknown" MENTION-ID="86" NUMBER="plural" TYPE="description"> sex offenders </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="8.2">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.415206" GENDER="female" ID="16" MENTION-ID="87" NUMBER="singular" PARAGRAPH-POSITION="33" RECENCY="13" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Mrs. Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">Pirro zealously</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="other">He</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Pierro</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> remains outspoken in supporting </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="89" GENDER="neutral" MENTION-ID="88" NUMBER="singular" TYPE="description">
+				<STRING> a law that would confine </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="90" GENDER="unknown" MENTION-ID="89" NUMBER="plural" TYPE="description"> convicted sex felons </REFERENCE>
+				<STRING> civilly after </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="91" GENDER="unknown" MENTION-ID="90" NUMBER="plural" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="90" GENDER="unknown" MENTION-ID="91" NUMBER="plural" TYPE="pronoun"> their </REFERENCE>
+					<STRING> criminal sentences </STRING>
+				</REFERENCE>
+				<STRING> have ended </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="9">
+		<SENTENCE ID="9.1">
+			<STRING>`` </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="92" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> know that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="95" GENDER="unknown" MENTION-ID="93" NUMBER="plural" TYPE="description"> pedophiles </REFERENCE>
+			<STRING> are devious and cunning,'' </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.387499" GENDER="female" ID="17" MENTION-ID="94" NUMBER="singular" PARAGRAPH-POSITION="9" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Pirro</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Ms. Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Jeanine</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">she</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> said. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="9.2">
+			<STRING>`` And it was clear to </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="95" NUMBER="singular" TYPE="pronoun"> me </REFERENCE>
+			<STRING> that </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="97" GENDER="neutral" MENTION-ID="96" NUMBER="unknown" TYPE="demonstrative"> this </REFERENCE>
+			<STRING> was </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="97" GENDER="neutral" MENTION-ID="97" NUMBER="singular" TYPE="description">
+				<STRING> a vehicle to maintain </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="99" GENDER="unknown" MENTION-ID="98" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="95" GENDER="unknown" MENTION-ID="99" NUMBER="plural" TYPE="pronoun"> their </REFERENCE>
+					<STRING> anonymity </STRING>
+				</REFERENCE>
+				<STRING> and reach out to </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="101" GENDER="unknown" MENTION-ID="100" NUMBER="plural" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="90" GENDER="unknown" MENTION-ID="101" NUMBER="plural" TYPE="pronoun"> our </REFERENCE>
+					<STRING> children </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>.'' </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="10">
+		<SENTENCE ID="10.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.430677" GENDER="female" ID="18" MENTION-ID="102" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">Pirro further</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Jeanine</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="other">He</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="other">Then she</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="other">Later</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> added:`` </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="103" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> 'm not looking to shut anything down. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="10.2">
+			<STRING> But </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="unknown" MENTION-ID="104" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> 'm trying to get </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="106" GENDER="unknown" MENTION-ID="105" NUMBER="plural" TYPE="description"> experts </REFERENCE>
+			<STRING> together and deal with </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="107" GENDER="neutral" MENTION-ID="106" NUMBER="singular" TYPE="description">
+				<STRING> an issue that confronts </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="108" GENDER="unknown" MENTION-ID="107" NUMBER="plural">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="109" GENDER="neutral" MENTION-ID="108" NUMBER="singular" TYPE="demonstrative"> this state </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="110" GENDER="neutral" MENTION-ID="109" NUMBER="singular" TYPE="demonstrative"> this nation </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>.'' </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="11">
+		<SENTENCE ID="11.1">
+			<STRING> Created in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="114" GENDER="unknown" MENTION-ID="110" NUMBER="singular" TYPE="name"> 2003 </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="111" GENDER="unknown" MENTION-ID="111" NUMBER="singular" TYPE="name"> Los Angeles </REFERENCE>
+			<STRING> by </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="115" GENDER="unknown" MENTION-ID="112" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="112" GENDER="unknown" MENTION-ID="113" NUMBER="singular" TYPE="name"> two </REFERENCE>
+				<STRING> businessmen </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="116" GENDER="neutral" MENTION-ID="114" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="117" GENDER="neutral" MENTION-ID="115" NUMBER="singular" TYPE="name"> MySpace </REFERENCE>
+				<STRING>, which calls </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="114" GENDER="unknown" MENTION-ID="116" NUMBER="singular" TYPE="pronoun"> itself </REFERENCE>
+				<STRING>`` </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="119" GENDER="neutral" MENTION-ID="117" NUMBER="singular" TYPE="description">
+					<STRING> a place for </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="120" GENDER="unknown" MENTION-ID="118" NUMBER="plural" TYPE="description"> friends </REFERENCE>
+				</REFERENCE>
+				<STRING>,'' </STRING>
+			</REFERENCE>
+			<STRING> has grown to </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="121" GENDER="unknown" MENTION-ID="119" NUMBER="plural" TYPE="description">
+				<STRING> more than </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="113" GENDER="neutral" MENTION-ID="120" NUMBER="singular" TYPE="name"> 57 million </REFERENCE>
+				<STRING> users </STRING>
+			</REFERENCE>
+			<STRING>, including </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="122" GENDER="neutral" MENTION-ID="121" NUMBER="singular" TYPE="name">
+				<STRING> 25 million in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="123" GENDER="unknown" MENTION-ID="122" NUMBER="singular" TYPE="name"> the last four months </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="11.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="125" GENDER="neutral" MENTION-ID="123" NUMBER="unknown" TYPE="name">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="16" GENDER="male" MENTION-ID="124" NUMBER="singular" TYPE="name"> Murdoch's </REFERENCE>
+				<STRING> News Corp. </STRING>
+			</REFERENCE>
+			<STRING> bought </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="125" GENDER="neutral" MENTION-ID="125" NUMBER="singular" TYPE="pronoun"> it </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="127" GENDER="neutral" MENTION-ID="126" NUMBER="singular" TYPE="name"> July </REFERENCE>
+			<STRING> for $ 580 million. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="12">
+		<SENTENCE ID="12.1">
+			<STRING> But </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="36" GENDER="neutral" MENTION-ID="127" NUMBER="singular" TYPE="description"> the site </REFERENCE>
+			<STRING> has been embroiled in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="129" GENDER="neutral" MENTION-ID="128" NUMBER="singular" TYPE="description"> some controversy </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="13">
+		<SENTENCE ID="13.1">
+			<STRING> In </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="130" GENDER="unknown" MENTION-ID="129" NUMBER="singular" TYPE="name"> recent months </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="131" GENDER="unknown" MENTION-ID="130" NUMBER="plural" TYPE="description">
+				<STRING> teachers in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="132" GENDER="unknown" MENTION-ID="131" NUMBER="plural" TYPE="description"> some states </REFERENCE>
+			</REFERENCE>
+			<STRING> have warned </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="133" GENDER="unknown" MENTION-ID="132" NUMBER="plural" TYPE="description">
+				<STRING> parents that </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="134" GENDER="unknown" MENTION-ID="133" NUMBER="plural" TYPE="description">
+					<STRING> students who post personal information on </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="36" GENDER="neutral" MENTION-ID="134" NUMBER="singular" TYPE="description"> the site </REFERENCE>
+				</REFERENCE>
+				<STRING>, including </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="136" GENDER="unknown" MENTION-ID="135" NUMBER="plural" TYPE="description"> provocative photographs </REFERENCE>
+				<STRING>, could fall prey to </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="137" GENDER="unknown" MENTION-ID="136" NUMBER="plural" TYPE="description">
+					<STRING> predators posing as </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="138" GENDER="unknown" MENTION-ID="137" NUMBER="plural" TYPE="description"> cyberspace friends </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="14">
+		<SENTENCE ID="14.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="16" GENDER="male" MENTION-ID="138" NUMBER="singular" TYPE="name"> Murdoch </REFERENCE>
+			<STRING> did not return </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="140" GENDER="unknown" MENTION-ID="139" NUMBER="plural" TYPE="description"> telephone messages </REFERENCE>
+			<STRING> left at </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="141" GENDER="neutral" MENTION-ID="140" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="16" GENDER="male" MENTION-ID="141" NUMBER="singular" TYPE="pronoun"> his </REFERENCE>
+				<STRING> office </STRING>
+			</REFERENCE>
+			<STRING> on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="29" GENDER="unknown" MENTION-ID="142" NUMBER="singular" TYPE="name"> Tuesday </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="15">
+		<SENTENCE ID="15.1">
+			<STRING> By taking on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="145" GENDER="neutral" MENTION-ID="143" NUMBER="singular" TYPE="description"> the Web site </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.333448" GENDER="female" ID="19" MENTION-ID="144" NUMBER="singular" PARAGRAPH-POSITION="7" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Pirro</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Mrs. Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Ms. Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="description">the future general attorney</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Ms. Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Jeanine Ferris Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Mrs. Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Jeanine</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Jeanine Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Pirro</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Pierro</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is seeking to heighten </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="146" GENDER="neutral" MENTION-ID="145" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="147" ENTROPY="0" GENDER="female" ID="20" MENTION-ID="146" NUMBER="singular" PARAGRAPH-POSITION="12" RECENCY="5" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">her</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="other">the issue's</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="other">increased</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="other">victim's</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="other">support</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="other">his</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="pronoun">her</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> visibility </STRING>
+			</REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="109" GENDER="neutral" MENTION-ID="147" NUMBER="singular" TYPE="description"> the state </REFERENCE>
+			<STRING> by focusing on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="149" GENDER="neutral" MENTION-ID="148" NUMBER="singular" TYPE="description">
+				<STRING> an issue that will resonate with </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="150" GENDER="unknown" MENTION-ID="149" NUMBER="plural" TYPE="description">
+					<STRING> parents in </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="151" GENDER="neutral" MENTION-ID="150" NUMBER="singular" TYPE="description"> the November general election </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="152" GENDER="unknown" MENTION-ID="151" NUMBER="plural" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="147" ENTROPY="0.349398" GENDER="female" ID="21" MENTION-ID="152" NUMBER="singular" PARAGRAPH-POSITION="32" RECENCY="20" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">her</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="other">Clinton's</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="other">political and media</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="name">Jeanine Ferris Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="name">Pirro's</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="other">his</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="name">Pirro's</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="other">some of her</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="name">Pirro</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="pronoun">her</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> aides </STRING>
+			</REFERENCE>
+			<STRING> say. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

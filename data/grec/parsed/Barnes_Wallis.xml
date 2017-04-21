@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1446">
+	<TITLE>Barnes Wallis</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Barnes Neville Wallis</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, CBE, FRS, RDI, commonly known as Barnes Wallis, (September 26 1887 - October 30 1979) was an English scientist, engineer and inventor. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is best known for inventing the bouncing bomb used by the RAF in Operation Chastise (the Dambusters Raid) to attack the Möhne and Eder dams in the Ruhr area in May 1943, during the Second World War.</STRING>
+	</PARAGRAPH>
+</TEXT>

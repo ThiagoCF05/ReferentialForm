@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1419">
+	<TITLE>Adam Smith</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Adam Smith</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, FRSE, (baptised and probably born June 5, 1723 O.S. (June 16 N.S.) – July 17, 1790) was a Scottish political economist and moral philosopher. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> Inquiry into the Nature and Causes of the Wealth of Nations was one of the earliest attempts to study the historical development of industry and commerce in Europe. That work helped to create the modern academic discipline of economics and provided one of the best-known intellectual rationales for free trade, capitalism, and libertarianism.</STRING>
+	</PARAGRAPH>
+</TEXT>

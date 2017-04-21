@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="1590">
+	<TITLE>Jim Carrey</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">James Eugene &quot;Jim&quot; Carrey</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born January 17 1962 in Newmarket, Ontario, Canada) is a Canadian comedian and film actor.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="16" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is best-known for  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="4" SEMCAT="person" SENTENCE-POSITION="5" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> manic, slapstick performances in comedy films such as Ace Ventura: Pet Detective, Ace Ventura: When Nature Calls, Dumb &amp; Dumber, The Mask, Liar Liar, and Bruce Almighty.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="49" PARAGRAPH-RECENCY="28" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Carrey</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has also achieved critical success in dramatic roles in films such as The Truman Show, The Majestic, Man on the Moon, and Eternal Sunshine of the Spotless Mind.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Will Ferrell called  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="81" PARAGRAPH-RECENCY="32" SEMCAT="person" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Jim Carrey</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> the funniest man in comedy. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

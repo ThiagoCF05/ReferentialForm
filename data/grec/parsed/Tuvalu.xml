@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TEXT ID="1401">
+	<TITLE>Tuvalu</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tuvalu</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, formerly known as the Ellice Islands, is a Polynesian island nation located in the Pacific Ocean midway between Hawaii and Australia. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> nearest neighbours are Kiribati, Samoa and Fiji. Comprising 4 reef islands and 5 true atolls, with a total land area of just 26 square kilometers (10 sq mi), </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the second-least populated independent country in the world, Vatican City being the smallest. </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the smallest member by population of the United Nations.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The first inhabitants of </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tuvalu</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> were Polynesian people. </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> came under Britain's sphere of influence in the late 19th century. </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Ellice Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> were administered by Britain as part of a protectorate from 1892 to 1916 and as part of the Gilbert and Ellice Islands Colony from 1916 to 1974. In 1974 the Ellice Islanders voted for separate British dependency status as Tuvalu, separating from the Gilbert Islands which became Kiribati upon independence. </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tuvalu</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became fully independent in 1978.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Due to their low elevation, the islands that make up </STRING>
+		<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this nation</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are threatened by any future sea level rise. The population may evacuate during the next decades to New Zealand, Niue or the Fijian island of Kioa.</STRING>
+	</PARAGRAPH>
+</TEXT>

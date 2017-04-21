@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "reg08-grec.dtd">
+<TEXT ID="1652">
+<TITLE>Mencius</TITLE>
+
+<PARAGRAPH>
+<REF ID="1652.1" SEMCAT="person" SYNCAT="np-subj">
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Mencius</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Mencius</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Mencius himself</REFEX>
+<REFEX REG08-TYPE="empty">_</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="nominative">he</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="pronoun" CASE="nominative">he himself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">who</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">who himself</REFEX>
+</ALT-REFEX>
+</REF>
+ ([Chinese: 孟子], transliterated Meng Zi, 
+most accepted dates: 372-289 BCE; other possible dates: 385-303/302 BCE) was a Chinese philosopher and follower of Confucianism 
+<REF ID="1652.2" SEMCAT="person" SYNCAT="np-subj">
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">who</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Mencius</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Mencius himself</REFEX>
+<REFEX REG08-TYPE="empty">_</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="nominative">he</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="pronoun" CASE="nominative">he himself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">who</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">who himself</REFEX>
+</ALT-REFEX>
+</REF>
+ argued that humans are naturally moral beings but are corrupted by society.</PARAGRAPH>
+</TEXT>

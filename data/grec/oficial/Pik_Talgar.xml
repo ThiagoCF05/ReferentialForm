@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TEXT ID="651">
+	<TITLE>Pik Talgar</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pik Talgar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a northern peak in the Tian Shan mountain range in Kazakhstan, highest of the Trans-Ili Alatau.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Due to  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="20" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> close proximity to the Kazakh capital of Alma-Ata,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a popular mountaineering destination. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<TEXT ID="1258">
+	<TITLE>Egypt</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Egypt</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Egyptian: Km.t, Coptic: Ⲭⲏⲙⲓ Kīmi, Arabic: مصر Miṣr; Egyptian Arabic: Máṣr), officially the Arab Republic of Egypt, is a country in North Africa </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">that</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> includes the Sinai Peninsula, a land bridge to Asia. Covering an area of about 1,001,450 square kilometers (386,560 square miles), </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Egypt</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> borders Libya to the west, Sudan to the south, and Israel and the Gaza Strip to the northeast; on the north and the east are the Mediterranean Sea and the Red Sea, respectively.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Egypt</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the fifteenth most populous country in the world. The vast majority of </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> 78.8 million population (2006) live near the banks of the Nile River (about 40,000 km² or 15,450 sq miles) where the only arable agricultural land is found. Large areas of land form part of the Sahara Desert and are sparsely inhabited. Around half of </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Egypt's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> residents live in urban areas, with the majority spread across the densely populated centres of greater Cairo (the largest city in Africa and the Middle East), Alexandria and other major towns in the Nile Delta.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Egypt</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is famous for </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ancient civilization and some of the world's most ancient and important monuments, including the Giza Pyramids and the Great Sphinx of Giza; the southern city of Luxor contains a particularly large number of ancient artifacts such as the Karnak Temple and the Valley of the Kings. Today, </STRING>
+		<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Egypt</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is widely regarded as the main political and cultural centre of the Middle East.</STRING>
+	</PARAGRAPH>
+</TEXT>

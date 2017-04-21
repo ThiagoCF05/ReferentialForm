@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="29">
+	<TITLE>Arjuno-Welirang</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Arjuno-Welirang</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a stratovolcano in the province of East Java on Java, Indonesia. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a twin volcano. Volcanic cones and craters are located in a 6 km long of line between Arjuno and Welirang. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="yes" HEAD="nominal" TYPE="pronoun">The Arjuno-Welirang volcanic complex itself</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies in the older two volcano, named Mount Ringgit to the east and Mount Linting to the south. The summit is unvegetated. Fumarolic area with sulfur deposits are found in several locations on </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

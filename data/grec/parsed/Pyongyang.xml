@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="944">
+	<TITLE>Pyongyang</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pyongyang</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the capital city of North Korea, located on the Taedong River, at 39°02'N,125°45'E (39.0333, 125.75). The official population of </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is not disclosed; given as 2,741,260 in 1993, it was reported as 2.5 and 3.8 million in 2002 and 2003 by Chosen Soren, a pro-North Korean organization.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was split from the South P'yŏngan province in 1946. </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is administered as a Directly Governed City (Chikhalsi), on the same level as provincial governments, not a Special City (Teukbyeolsi) as Seoul is in South Korea. Some sources, mostly older and South Korean, refer to </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Phyŏngyang</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> as a Special City, but it has been reported that even the South Korean government adopted the Directly Governed City terminology in 1994.</STRING>
+	</PARAGRAPH>
+</TEXT>

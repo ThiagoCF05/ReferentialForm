@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1385">
+	<TITLE>Svalbard</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Svalbard</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an archipelago lying in the Arctic Ocean north of mainland Europe, about midway between Norway and the North Pole. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> consists of a group of islands ranging from 76° to 81° North, and 10° to 35° East. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The archipelago</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the northernmost part of the Kingdom of Norway. Three islands are populated: Spitsbergen, Bjørnøya and Hopen. The largest settlement is Longyearbyen. The Svalbard Treaty recognises Norwegian sovereignty over </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Svalbard</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. With the 1925 Svalbard Act, Norway chose to make </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Svalbard</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> a part of the Kingdom, and </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> remains one of five special entities whose status is recognized by international treaty in the world today.</STRING>
+	</PARAGRAPH>
+</TEXT>

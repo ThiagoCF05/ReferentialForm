@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TEXT ID="348">
+	<TITLE>Mount Athabasca</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Athabasca</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Columbia Icefield of Jasper National Park in Canada.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named in 1898 by J. Norman Collie, who made the first ascent on August 18 of that year.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Athabasca is the Cree Indian name for &quot;where there are reeds&quot; which originally referred to Lake Athabasca. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

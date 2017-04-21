@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="545">
+	<TITLE>Mount Sizer</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Sizer</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a prominent topographical summit located on Blue Ridge within Henry W. Coe State Park, just east of Morgan Hill, California.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Because  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Sizer</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest point on Blue Ridge and under 10 miles from the park's headquarters, it makes  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> an ideal destination for day hikers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>There are two ways to reach the summit, one by trails and one by a combination of trail and fire road.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The fire road route leads you almost directly up Blue Ridge to  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Sizer</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and is affectionately nicknamed &quot;The Shortcut&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>This road rises roughly 1,500 feet (457.2 m) in 1.3 miles (2.1 km) giving it an average grade of 22%.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>To better understand this incline, most paved roads never exceed an 8% grade in California. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

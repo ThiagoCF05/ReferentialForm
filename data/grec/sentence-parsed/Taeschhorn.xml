@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT ID="870">
+	<TITLE>Täschhorn</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Täschhorn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (4,491 m) is a mountain in the Mischabelhörner group of the Pennine Alps in Switzerland. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The first ascent of  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was by the Rev.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>John Llewelyn-Davies and Rev.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>J. W. Hayward with guides Stefan and Johann Zumtaugwald and Peter-Josef Summermatter on 30 July 1862. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

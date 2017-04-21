@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TEXT ID="1509">
+	<TITLE>Enrico Fermi</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Enrico Fermi</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (September 29, 1901 - November 28, 1954) was an Italian physicist most noted for  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="15" SEMCAT="person" SENTENCE-POSITION="16" SENTENCE-RECENCY="15" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> work on the development of the first nuclear reactor, and for the development of quantum theory.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="17" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Fermi</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> won the 1938 Nobel Prize in Physics for  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="9" SEMCAT="person" SENTENCE-POSITION="10" SENTENCE-RECENCY="9" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> work on induced radioactivity. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

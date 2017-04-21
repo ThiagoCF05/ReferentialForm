@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TEXT ID="278">
+	<TITLE>Lascar Volcano</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lascar</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the most active volcano of the northern Chilean Andes. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies east of the Salar de Atacama and immediately west of Aguas Calientes volcano. Other volcanoes in the area include the Acamarachi and Chiliques, all of which form a spectacular backdrop for Laguna Lejía.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The andesitic-to-dacitic stratovolcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> contains six overlapping summit craters. Prominent lava flows descend </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> NW flanks. The largest eruption of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lascar</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> took place about 26,500 years ago, and following the eruption of the Tumbres scoria flow about 9000 years ago, activity shifted back to the eastern edifice, where three overlapping craters were formed. Frequent small-to-moderate explosive eruptions have been recorded from </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lascar</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in historical time since the mid-19th century, along with periodic larger eruptions that produced ashfall hundreds of kilometers away from </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. The largest historical eruption of </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lascar</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> took place in 1993, producing pyroclastic flows to 8.5 km NW of the summit and ashfall in Buenos Aires.</STRING>
+	</PARAGRAPH>
+</TEXT>

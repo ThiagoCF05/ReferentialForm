@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="430">
+	<TITLE>Mount Harvard</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Harvard</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a fourteener in the U.S. state of Colorado. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the third highest mountain in Colorado, and also the fourth highest mountain in the Contiguous United States. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the Collegiate Peaks, part of the central Sawatch Range of Chaffee County, approximately 10 miles (16 km) northwest of the town of Buena Vista. The Harvard Crimson, flagship newspaper of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> namesake university, wrote that:</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>&quot;despite its height, climbing up Mt. Harvard is hardly a death-defying experience. 'It's an undistinguished lump on a fairly undistinguished range; it just happens to be very high,' says John C. Reed of the U.S. Geological Survey in Denver. Reed, who has climbed the mountain once, describes it only as 'a long walk' of about three or four miles. Nor is the view from the mountain especially scenic, compared with Colorado's other 54 mountains above 14,000 feet. 'In terms of being spectacular, Mt. Harvard would not be really high on the list,' Reed says.&quot;</STRING>
+	</PARAGRAPH>
+</TEXT>

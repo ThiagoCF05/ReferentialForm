@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="418">
+	<TITLE>Mount Frakes</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Frakes</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a prominent mountain marking the highest elevation in the Crary Mountains, in Marie Byrd Land, Antarctica. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Mapped by the USGS from surveys and U.S. Navy air photos, 1959-66.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Named by US-ACAN for Lawrence A. Frakes, USARP geologist who worked three summer seasons in the Falkland Islands and Antarctica, 1964-65 through 1967-68. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

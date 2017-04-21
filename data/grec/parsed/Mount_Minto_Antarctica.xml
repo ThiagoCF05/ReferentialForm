@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="489">
+	<TITLE>Mount Minto (Antarctica)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Minto</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a lofty, mostly ice-free mountain rising to 4,165 metres, located 2.5 mi E of Mount Adam in the central portion of the Admiralty Mountains. Discovered in January 1841 by Capt. James Ross, who named </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> for the Earl of Minto, then First Lord of the Admiralty.</STRING>
+	</PARAGRAPH>
+</TEXT>

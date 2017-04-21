@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1310">
+	<TITLE>Madagascar</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Madagascar</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Republic of Madagascar), is an island nation in the Indian Ocean, off the eastern coast of Africa, close to Mozambique. The main island, also called Madagascar, is the fourth largest island in the world. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is home to five percent of the world's plant and animal species, more than 80 percent of them endemic to </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Madagascar</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. Most notable are the lemur infraorder of primates, the carnivorous fossa, three endemic bird families and six endemic baobab species. The adjective of Madagascar is Malagasy (pronounced &quot;mal-la-gas-ee&quot;). The main language is Malagasy. </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> natural balance is severely threatened, because of loss of most of </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> forest and the extinction of at least 15 lemur species.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="691">
+	<TITLE>Rimpfischhorn</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Rimpfischhorn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (4,199 m) is a mountain in the Pennine Alps of Switzerland. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The first ascent of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was by Leslie Stephen and Robert Liveing with guides Melchior Anderegg and Johann Zumtaugwald on 9 September 1859.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Their route of ascent was from Fluh Alp via the Rimpfischwänge. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

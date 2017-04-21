@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TEXT ID="1315">
+	<TITLE>Malta</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Malta</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Malta, (also Malta GC) is a small and densely populated island nation consisting of an archipelago of seven islands in the middle of the Mediterranean Sea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Malta</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies directly south of Sicily, east of Tunisia and north of Libya.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The country's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> official languages are Maltese and English.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Roman Catholicism is the most practised religion.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The strategically located islands constituting  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Maltese nation</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> have been ruled by various powers and fought over for centuries.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Malta</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been a member state of the European Union since May 1 2004, and  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is currently the smallest EU country in both population and area.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Malta</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the only nation in the world that has collectively been awarded the George Cross for conspicuous gallantry, and  </STRING>
+			<REFERENCE ID="8" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flag bears a replica of that award. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

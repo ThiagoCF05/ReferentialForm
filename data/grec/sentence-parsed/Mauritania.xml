@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="1318">
+	<TITLE>Mauritania</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mauritania</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Arabic: موريتانية Mūrītāniyyah), officially the Islamic Republic of Mauritania, is a country in northwest Africa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is bordered by the Atlantic Ocean on the west, by Senegal on the south-west, by Mali on the east and south-east, by Algeria on the north-east, and by Moroccan-annexed territory of Western Sahara on the north-west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is named after the ancient Berber kingdom of Mauretania.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The capital and largest city is Nouakchott, located on the Atlantic coast. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

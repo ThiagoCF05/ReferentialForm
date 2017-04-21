@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TEXT ID="1093">
+	<TITLE>La Paz</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">La Paz</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> or Chuquiyapu (&quot;chuqui&quot;, 'gold', &quot;yapu&quot;, 'farm') is the administrative capital of Bolivia, as well as the departmental capital of La Paz Department.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>As of the 2001 census,  </STRING>
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the city of La Paz</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> had a population of about one million. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">La Paz</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is situated in the canyon of the Choqueyapu River below a plateau with an altitude of 3,600 meters (11,811 feet).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Atop the plateau is the city of El Alto, where the international airport is located.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Transportation links between the two cities has improved in recent years.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 16°30' South, 68°8' West (-16.5, -68.1333).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name is translated into English as &quot;The Peace&quot; or &quot;peace.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">La Paz</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is renowned for  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> unique markets, very unusual topography, and traditional culture.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital of a country that is often referred to as the &quot;Tibet of the Americas&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

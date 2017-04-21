@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TEXT ID="511">
+	<TITLE>Mount Parnassus</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Parnassus</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain of barren limestone in central Greece  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">that</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> towers above Delphi, north of the Gulf of Corinth, and  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> offers scenic views of the surrounding olive groves and countryside.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>According to Greek mythology,  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was sacred to Apollo, the Corycian nymphs, and the home of the Muses.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was also favored by the Dorians.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The name Parnassos seems etymologically related to the pre-Greek Substratum language (some call Pelasgian) that made use of *-ssos in placenames (eg.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Knossos).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>*Parna- it has been suggested is derived from the same root as the word in Hittite meaning House. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

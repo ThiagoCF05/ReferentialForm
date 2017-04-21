@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="182">
+	<TITLE>Gran Paradiso</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Gran Paradiso</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([French: Grand Paradis]), the highest mountain in the Graian Alps, is located in the Aosta Valley region of north-west Italy. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is close to Mont Blanc on the nearby border with France, but </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies entirely within Italian territory. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Gran Paradiso</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the only mountain whose summit reaches over 4,000 metres that is entirely within Italian territory.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The highest summit was first reached on September 4, 1860 by J. J. Cowell, W. Dundas, J. Payot and J. Tairraz. Today it is generally considered an easy climb, except for the last 60 metres to the top. Climbs normally start from either the Rifugio Chabod or the Rifugio Vittorio Emanuele. The latter is named after Vittorio Emanuele II of Italy who created the Gran Paradiso royal reserve in 1856, presently Gran Paradiso National Park.</STRING>
+	</PARAGRAPH>
+</TEXT>

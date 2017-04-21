@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="529">
+	<TITLE>Mount Sanford</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Sanford</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a shield volcano in the Wrangell Volcanic Field, in eastern Alaska near the Copper River. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the third highest volcano in the United States behind Mount Bona and Mount Blackburn. The south face of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, at the head of the Sanford Glacier, rises 8,000 ft in one mile (2,400 m in 1,600 m) resulting in one of the steepest gradients in North America.</STRING>
+	</PARAGRAPH>
+</TEXT>

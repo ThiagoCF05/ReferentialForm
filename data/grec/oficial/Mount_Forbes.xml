@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEXT ID="417">
+	<TITLE>Mount Forbes</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Forbes</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a peak in the Canadian Rockies located 18 km southwest of the Saskatchewan River Crossing in Banff National Park.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named by James Hector in 1859 after Edward Forbes, Hector's natural history professor at the University of Edinburgh during the mid-nineteenth century. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Forbes</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first ascended in 1902 by J. Norman Collie, James Outram, Hugh E.M. Stutfield, George M. Weed, Herman Woolley, guided by Christian Kaufmann. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

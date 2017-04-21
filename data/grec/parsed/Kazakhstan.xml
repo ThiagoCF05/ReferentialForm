@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<TEXT ID="1296">
+	<TITLE>Kazakhstan</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kazakhstan</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, also spelled Kazakstan or Khazakhstan, (Kazakh: Қазақстан, Qazaqstan, IPA [IPA: [qɑzɑqˈstɑn]]; Russian: Казахстан, Kazakhstán, IPA [IPA: [kəzʌxˈstan]]), officially the Republic of Kazakhstan, is a country that stretches over a vast expanse of northern and central Eurasia. A small portion of </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> territory west of the Ural River is located in eastern-most Europe. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has borders with Russia, the People's Republic of China, and the Central Asian countries Kyrgyzstan, Uzbekistan and Turkmenistan, and </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a coastline on the Caspian Sea. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kazakhstan</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was a republic of the former Soviet Union and </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is now a member of the Commonwealth of Independent States.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the ninth-largest country in the world by area, but </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is only 62nd country in population, with approximately 6 persons per km² (15 per sq. mi.). Population in 2006 is estimated at 15,300,000, down from 16,464,464 in 1989 due to the emigration of ethnic Russians and Volga Germans. Much of </STRING>
+		<REFERENCE ID="9" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> land consists of semi-desert (steppe) terrain.</STRING>
+	</PARAGRAPH>
+</TEXT>

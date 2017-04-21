@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="1764">
+	<TITLE>Václav Havel</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Václav Havel</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, GCB, CC, (IPA: [IPA: [ˈvaːʦlaf ˈɦavɛl]]) (born October 5, 1936 in Prague) is a Czech writer and dramatist.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="19" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the last President of Czechoslovakia and the first President of the Czech Republic. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

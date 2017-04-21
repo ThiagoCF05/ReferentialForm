@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<TEXT ID="1065">
+	<TITLE>Harare</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Harare</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (pronounced [IPA: /'hʌ ɹɑ' ɹi/], formerly Salisbury) is the capital city of Zimbabwe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="14" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has an estimated population 1,600,000, with 2,800,000 in  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="9" SEMCAT="city" SENTENCE-POSITION="10" SENTENCE-RECENCY="9" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> metropolitan area (2006).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="4" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Zimbabwe's largest city and its administrative, commercial, and communications centre.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="12" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a trade centre for tobacco, maize, cotton, and citrus fruits.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Manufactures include textiles, steel, and chemicals.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>Gold is mined in the area..  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="64" PARAGRAPH-RECENCY="24" SEMCAT="city" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is at an elevation of 4,865 feet (1,483 metres) and  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="75" PARAGRAPH-RECENCY="11" SEMCAT="city" SENTENCE-POSITION="18" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a temperate climate. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Despite the renaming of  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, some suburbs have retained their European names, such as Warren Park 'D', Borrowdale, Mount Pleasant, Tynwald and Avondale. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="9" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Harare</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is famous for  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="4" SEMCAT="city" SENTENCE-POSITION="5" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> beautiful jacaranda-lined streets, especially in the &quot;Avenues&quot; suburbs to the immediate north of the city centre. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="11" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Harare</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the site of the University of Zimbabwe, the largest and most complete institution of higher learning in Zimbabwe. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

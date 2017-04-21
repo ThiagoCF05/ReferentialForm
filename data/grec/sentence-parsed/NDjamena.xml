@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="1126">
+	<TITLE>N'Djamena</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">N'Djamena</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (IPA: [IPA: [nˈʤɑmɛnə]], Arabic Niǧāmīnā نجامينا), population 721,000 (2005), is the capital of Chad, and also by far the country's biggest city.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>A port on the Chari River, near to the confluence with the Logone River,  </STRING>
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> directly faces the Cameroonian town of Kousséri, by which  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is connected by a bridge.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also a special statute region, divided in 10 arondissements.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a regional market for livestock, salt, dates, and grains.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Meat processing is the chief industry. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT ID="893">
+	<TITLE>Traverse Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Traverse Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is in the northern Teton Range, Grand Teton National Park, Wyoming.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> rises abruptly above Moran Canyon to the south and the North Fork of Snowshoe Canyon to the north.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>From Moran Bay on Jackson Lake, the south slopes of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can be seen behind Bivouac Peak rising above Moran Canyon. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<TEXT ID="1719">
+	<TITLE>Robbie Williams</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Robbie Williams</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born Robert Peter Williams on February 13, 1974 in Burslem, Stoke-on-Trent, Staffordshire) is an English pop artist/songwriter.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> career started as a member of the immensely successful band Take That in 1990, which  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> left in 1995.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Since then,  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Robbie Williams</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has grown to become one of the most successful male solo artists in British history.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Despite  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lack of success in United States,  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> album sales stand at nearly 47 million worldwide and  </STRING>
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has sold approximately 15 million singles around the world.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>In the UK alone  </STRING>
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has sold nearly 5.5.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>This brings  </STRING>
+			<REFERENCE ID="9" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> total sales to more than 60 million records.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<REFERENCE ID="10" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> holds 8 number one albums, 6 number one singles in the UK and  </STRING>
+			<REFERENCE ID="11" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been the recepient of countless awards.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.8">
+			<REFERENCE ID="12" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also the best-selling international act in Latin America.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.9">
+			<STRING>Elton John recently described  </STRING>
+			<REFERENCE ID="13" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Robbie Williams</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as &quot;the #1 star in the world right now&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

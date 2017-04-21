@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="882">
+	<TITLE>The Ogre (mountain)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Ogre</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> or Baintha Brakk is a steep, craggy mountain, 7285 m high, in the Panmah Muztagh, a subrange of the Karakoram mountain range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="23" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Northern Areas of Pakistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is famous for being one of the hardest peaks in the world to climb: twenty-four years elapsed between the first ascent in 1977 and the second in 2001. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

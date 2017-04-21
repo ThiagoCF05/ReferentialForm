@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<TEXT ID="1085">
+	<TITLE>Kingston, Jamaica</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The City of Kingston</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the capital and largest city of Jamaica. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located on the southeastern coast of the island country at 17°59'N,76°48'W. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> faces a natural harbour protected by the Palisadoes, a long sandspit which connects Port Royal and the Norman Manley International Airport to the rest of the island. In the Western Hemisphere, </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kingston</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the largest predominantly English-speaking city south of the United States.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The local government bodies of the parishes of Kingston and St. Andrew were amalgamated by the Kingston and St Andrew Corporation Act of 1923, to form the Kingston and St Andrew Corporation (KSAC). Greater Kingston or the &quot;Corporate Area&quot; refers to the KSAC, and not just the Parish of Kingston, which consists of only the old downtown and Port Royal.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Two parts make up the central area of </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kingston</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>: the historic but troubled Downtown, and New Kingston, which is home to </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the city's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> most visited attraction, the Bob Marley Museum (built at his former residence). Several other reggae stars, including Buju Banton, Sean Paul and Beenie Man, also hail from </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kingston</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. Other attractions include the nearby Hellshire and Lime Cay beaches, the National Gallery of Jamaica, the ruins of Port Royal, and Devon House, a mansion with adjoining park that once belonged to Jamaica's first black millionaire.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kingston</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is served by Norman Manley International Airport and also by the smaller and primarily domestic Tinson Pen Airport.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>Several annual and well-visited festivals are held in </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kingston</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

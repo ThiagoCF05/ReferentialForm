@@ -1,0 +1,247 @@
+<?xml version="1.0" ?>
+<TEXT ID="934">
+	<TITLE>Zugspitze</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Zugspitze</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain in Germany.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="7" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at the Austrian border in the town of Grainau of the district of Garmisch-Partenkirchen, Bavaria.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>On the Austrian side is the town of Ehrwald in the district of Reutte, Tyrol.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>There is a cog railway (Zugspitzbahn ) leading from the tourist resort of Garmisch-Partenkirchen to the peak.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>There are also two cable cars that go to the peak from the base: one ascends from the German side of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="79" PARAGRAPH-RECENCY="71" SEMCAT="mountain" SENTENCE-POSITION="22" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> at the Eibsee (Eibsee Aerial Tramway), and the other ascends from Austria (Tiroler Zugspitzbahn ).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>The peak is regularly crowded with tourists. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>For those wishing to reach the summit under their own power, various hiking and ski trails can also be followed to the top.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Hiking to the top from the base takes between one and two days.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Food and lodging is available on some trails.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>In winter  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="47" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Zugspitze</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a popular skiing destination, with several slopes on both sides.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>The Zugspitzplatt is the highest ski resort of Germany and thus has enough snow all winter. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The border between Germany and Austria goes right through  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>There used to be a border checkpoint at the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>But since Germany and Austria are now both part of the Schengen zone, the border crossing is no longer staffed. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Zugspitze</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> belongs to the Wetterstein range in the northern Kalkalpen.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> gets  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="2" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name from the many avalanches (Lawinenzüge in German) on  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="13" SENTENCE-RECENCY="10" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> steep north slopes. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>At  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="2" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">the Zugspitze's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit is the Münchner Haus, an Alpenvereinshütte, a facility built by the Deutscher Alpenverein.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>For more than a hundred years now, the summit has also had a weather station, which nowadays also gathers data for the Global Atmosphere Watch. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING>Shortly after WW II the USA military took over the Schneefernerhaus (as the hotel at the top was then called) for the exclusive use of USA military and civilian employees.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.2">
+			<STRING>Room rates, including meals, were US$1/day.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.3">
+			<STRING>Ski lessons were available, taught by Austrians and Germans, at a cost of USD$ 0.25 (25 cents) per hour. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<STRING>The first recorded ascent to the summit was accomplished by a team of land surveyors on 27 August 1820.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="7.2">
+			<STRING>The team was led by Lieutenant Josef Naus, who was accompanied by two men named Maier and G. Deutschl.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="7.3">
+			<STRING>However, local people had conquered  </STRING>
+			<REFERENCE ID="11" PARAGRAPH-POSITION="44" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> over 50 years earlier, according to a 1770 map discovered by the Alpenverein . </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="8">
+		<SENTENCE ID="8.1">
+			<STRING>On 7 January 1882 the first successful winter assault on  </STRING>
+			<REFERENCE ID="12" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Zugspitze</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was accomplished by F. Kilger, H. and J. Zametzer and H. Schwaiger. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="9">
+		<SENTENCE ID="9.1">
+			<STRING>Climbing up  </STRING>
+			<REFERENCE ID="13" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Zugspitze</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can involve several routes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="9.2">
+			<STRING>The difference in elevation between Garmisch-Partenkirchen and the summit is 2 200 m, making the climb a challenge even for trained mountaineers. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="10">
+		<SENTENCE ID="10.1">
+			<STRING>On the German side, from Garmisch-Partenkirchen, climbers go either through the Höllental (&quot;Valley of Hell&quot;) or the Reintal.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="10.2">
+			<STRING>The way through the Reintal is the easiest, but also the longest and takes 8 to 10 hours.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="10.3">
+			<STRING>This path goes through the Partnachklamm, a scenic gorge, then through the Reintal up to the Zugspitzplatt, a barren plateau.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="10.4">
+			<STRING>from there up to the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="10.5">
+			<STRING>Climbers can stay for the night at two Alpine huts, the &quot;Reintalangerhütte&quot; or the &quot;Knorrhütte&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="11">
+		<SENTENCE ID="11.1">
+			<STRING>The more popular, but harder route is through the Höllental.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="11.2">
+			<STRING>It starts at Hammersbach near Garmisch, goes through the Höllentalklamm, a similar gorge up to the &quot;Höllentalangerhütte&quot;, where one can take a meal or stay for the night.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="11.3">
+			<STRING>It then crosses the Höllentalferner, the remnants of a small glacier.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="11.4">
+			<STRING>After that it traverses a wall with the help of iron ladders and steps.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="11.5">
+			<STRING>Via ferrata equipment is recommended for that part.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="11.6">
+			<STRING>Over the Irmerscharte (a gap) it reaches the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="11.7">
+			<STRING>This path should take 7 to 8 hours. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="12">
+		<SENTENCE ID="12.1">
+			<STRING>From the Austrian village of Ehrwald, there are also two variants.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="12.2">
+			<STRING>One goes straight through the Western Flank, which is the shortest route overall, but rather hard.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="12.3">
+			<STRING>It includes a via ferrata, and there is a hut called &quot;Wiener Neustädter Hütte&quot; by the Austrian Alpine Club.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="12.4">
+			<STRING>An easier path leads via the Ehrwalder Alm, across a small pass called &quot;Gatterl&quot;, joining the Reintal path at the Knorrhütte. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="13">
+		<SENTENCE ID="13.1">
+			<REFERENCE ID="14" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">The Zugspitze's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> exact height was a matter of debate for quite a while.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="13.2">
+			<STRING>Given figures ranged from 2 960 m to 2 970 m, but it is now generally accepted that the peak is 2 962 m above sea level as a result of a survey carried out by the Bavarian land survey office.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="13.3">
+			<STRING>The lounge at the new café is named &quot;2962&quot; for this reason. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

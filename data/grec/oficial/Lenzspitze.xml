@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TEXT ID="284">
+	<TITLE>Lenzspitze</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Lenzspitze</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (4,294 m) is a mountain located in the Pennine Alps in Switzerland.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="13" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the furthest peak south on the Nadelgrat, a high-level ridge running roughly north–south above the resort of Saas Fee to the east, and the Mattertal to the west. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed in August 1870 by Clinton Thomas Dent with guide Alex­ander Burgener and a porter, Franz Burgener, by the north-east face to the Nadeljoch and then the north-west ridge to the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>This route is rarely used today. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The east-north-east ridge starts at the Mischabel Hut.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>This ridge was first climbed on 3 August 1882 by William Woodman Goodman with guides Ambros Supersaxo and Theodor Andenmatten. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> north-east face is a classic ice climb, comprising a 500-metre wall of ice or neve at an angle of up to 56 degrees, first climbed by Dietrich von Bethmann-Hollweg with Oskar and Othmar Supersaxo on 7 July 1911.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>This face was descended on skis by Heini Holzer on 22 July 1972. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="964">
+	<TITLE>Ernest Shackleton</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sir Ernest Henry Shackleton</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> CVO, OBE (February 15, 1874 – January 5, 1922) was an Anglo-Irish explorer, now chiefly remembered for  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> Antarctic expedition of 1914-1916 in the ship Endurance. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

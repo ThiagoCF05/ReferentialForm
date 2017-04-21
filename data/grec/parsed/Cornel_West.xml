@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1482">
+	<TITLE>Cornel West</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cornel Ronald West</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (born June 2, 1953 in Tulsa, Oklahoma) is a prominent African-American scholar and public intellectual. Formerly at Harvard University, </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">West</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is currently a professor of Religion at Princeton. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">West's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> intellectual contributions draw from such diverse traditions as the African American Baptist Church, Marxism, pragmatism, and transcendentalism.</STRING>
+	</PARAGRAPH>
+</TEXT>

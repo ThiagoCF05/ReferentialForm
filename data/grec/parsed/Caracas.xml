@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1037">
+	<TITLE>Caracas</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Caracas</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (pron. IPA [IPA: [ka'ɾakas]]) is the capital of Venezuela. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the north of the country, following the contours of a narrow mountain valley located on the Venezuelan coastal range (Cordillera de la Costa). The valley's temperatures are springlike, and the urbanizable terrain of the Caracas Valley lies between 2,500 and 3,000 ft (760 and 910 m) above sea level. The Valley is close to the Caribbean Sea , separated from the coast by a steep mountain range (Cerro Ívila) that rises above 7400 ft (2200 m); to the south lies further hills and mountains. The historic center of </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Caracas</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, known as the Libertador District, had an estimated population of 2.1 million in 2005. In that same year, the official metropolitan area had an estimated population of 3.3 million. Distrito Capital (Capital District) is the name of </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Caracas'</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> primary seat, covering part of Miranda State. The population of </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Caracas'</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> urban agglomeration (Greater Caracas, including neighboring cities out of the Capital District) is about 4.7 million.</STRING>
+	</PARAGRAPH>
+</TEXT>

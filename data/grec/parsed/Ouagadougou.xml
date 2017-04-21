@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TEXT ID="1131">
+	<TITLE>Ouagadougou</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ouagadougou</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (WAH-GAH-doo-goo) is the capital of Burkina Faso. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the country's largest city, with a population of 960,116 (as of 2000) and </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the administrative, communications, cultural and economic centre of the nation. </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The city's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name is often shortened to Ouaga.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Ouagadougou's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> primary industries are food processing and textiles. </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ouagadougou</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is served by an international airport, rail links to Abidjan in Côte d'Ivoire and to Kaya in the north of Burkina, and a highway to Niamey, Niger.Being such a focal point, there are many cinemas, nightclubs, and French, American and Zaka cultural centres. </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ouagadougou</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the site of Ouagadougou Grand Market, one of the largest markets in West Africa. Other attractions include the National Museum of Burkina Faso, the Moro-Naba Palace (site of the Moro-Naba Ceremony), the National Museum of Music, and several craft markets.</STRING>
+	</PARAGRAPH>
+</TEXT>

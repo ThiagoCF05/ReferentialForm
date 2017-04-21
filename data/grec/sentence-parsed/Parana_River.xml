@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1836">
+	<TITLE>Paraná River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Paraná River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Río Paraná in Spanish, Rio Paraná in Portuguese) is a river in south central South America, running through Brazil, Paraguay and Argentina over a course of some 2,570 kilometers (1,600 miles).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>This length increases to 3,998 km (2,484 miles) if the distance is counted from the headwaters of the Paranaiba River in Brazil.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is considered second in size only to the Amazon River among South American rivers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The name Paraná comes from the Tupi language and means &quot;like the sea&quot; (that is, &quot;as big as the sea&quot;). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

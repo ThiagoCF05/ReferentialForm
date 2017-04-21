@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TEXT ID="1376">
+	<TITLE>Somalia</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Somalia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Somali: Soomaaliya; Arabic: الصومال, Aṣ-Ṣuumaal), formerly known as the Somali Democratic Republic, is a coastal nation at the Horn of Africa in East Africa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is bordered by Ethiopia to the west, Djibouti to the north and mid-west, Kenya on  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> south-west, and the Gulf of Aden on  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> north, and the Indian Ocean at  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> east.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Somali state</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> currently exists solely in a de jure capacity;  </STRING>
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Somalia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has no recognized central government authority nor any other feature associated with an established independent state.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>De facto authority resides in the hands of the governments for the unrecognized entities of Somaliland, Puntland, the Supreme Islamic Courts Council and the weak, but United Nations-recognized, Interim transitional government in Baidoa about 250 kilometers north-west of the capital Mogadishu.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Violence has plagued  </STRING>
+			<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Somalia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> since warlords ousted former dictator Mohamed Siad Barre in 1991. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

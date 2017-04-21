@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TEXT ID="1649">
+	<TITLE>Marshall McLuhan</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Herbert Marshall McLuhan</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> CC (July 21, 1911 – December 31, 1980) was a Canadian educator, philosopher, and scholar. A professor of English literature, a literary critic, and communications theorist, </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">McLuhan's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> work is viewed as one of the cornerstones of the study of media ecology.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Perhaps the most celebrated English teacher of the twentieth century, </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">McLuhan</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was a fixture in media discourse from the late 1960s to </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> death and </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> remains highly influential. Timothy Leary credited a meeting with </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">McLuhan</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> as inspiring Leary's phrase &quot;Turn on, tune in, drop out.&quot; The &quot;patron saint&quot; of Wired magazine, </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">McLuhan</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> famously coined the expressions &quot;the medium is the message&quot; and the &quot;global village&quot;.</STRING>
+	</PARAGRAPH>
+</TEXT>

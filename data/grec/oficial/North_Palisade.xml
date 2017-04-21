@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="617">
+	<TITLE>North Palisade</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">North Palisade</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the third highest mountain in the Sierra Nevada range of California.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="13" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest peak of the Palisades group of peaks in the central part of the range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="18" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> sports a small glacier (the Palisade Glacier) and several highly prized rock climbing routes on  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="48" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="17" SENTENCE-RECENCY="16" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> northeast side. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

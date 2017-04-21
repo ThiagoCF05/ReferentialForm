@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="767">
+	<TITLE>Mont Blanc</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte Bianco</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Italian for white mountain) or Mont Blanc (French, same meaning) also known as &quot;La Dame Blanche&quot; (French, the white lady) is a mountain in the Alps. With </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> 4,808 m summit, </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest mountain in the Alps and Western Europe.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies between the regions of Aosta Valley, Italy, and Haute-Savoie, France. The location of the summit itself is a subject of controversy between the two countries, as each tends to place it within its own boundaries on maps. In a convention between France and Kingdom of Sardinia, in Turin (1861), the border was fixed on the highest point of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mont Blanc</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. This was the last official definition of this border, but often the French maps do not respect this solution.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The two most famous towns near </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mont Blanc</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are Courmayeur, in Aosta Valley, Italy, and Chamonix, in Haute-Savoie, France - the site of the first Winter Olympics.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>Begun in 1957 and completed in 1965, the 11.6 km (7¼ mi) Mont Blanc Tunnel runs beneath </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> between these two cities and is one of the major trans-Alpine transport routes.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>The Mont Blanc Massif is popular for mountaineering, hiking, and skiing.</STRING>
+	</PARAGRAPH>
+</TEXT>

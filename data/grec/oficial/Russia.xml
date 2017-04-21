@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<TEXT ID="956">
+	<TITLE>Russia</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Russia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Russian: []], Rossiya; pronounced [IPA: [rʌ'sʲi.jə]]), also the Russian Federation ([Russian: []], Rossiyskaya Federatsiya; pronounced [IPA: [rʌ'sʲi.skə.jə fʲɪ.dʲɪ'ra.ʦɪ.jə]], listen), is a country that stretches over a vast expanse of Eurasia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>With an area of 17,075,400 square kilometres,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="38" SEMCAT="country" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the largest country in the world by land mass, covering almost twice the territory of the next-largest country, Canada.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="60" PARAGRAPH-RECENCY="21" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has the world's eighth largest population.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="67" PARAGRAPH-RECENCY="7" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Russia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shares land borders with the following countries (counter-clockwise from NW to SE): Norway, Finland, Estonia, Latvia, Lithuania, Poland, Belarus, Ukraine, Georgia, Azerbaijan, Kazakhstan, China, Mongolia, and North Korea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="96" PARAGRAPH-RECENCY="29" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also close to the United States and Japan across relatively small stretches of water. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Formerly the dominant republic of the Union of Soviet Socialist Republics (USSR),  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Russia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is now an independent country and an influential member of the Commonwealth of Independent States, since the Union's dissolution in December 1991.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>During the Soviet era,  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="27" SEMCAT="country" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Russia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was officially called the Russian Soviet Federative Socialist Republic (RSFSR).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="51" PARAGRAPH-RECENCY="11" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Russia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is considered the Soviet Union's successor state in diplomatic matters. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Most of the area, population, and industrial production of the Soviet Union, then one of the world's two superpowers, lay in  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="22" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Russia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>After the breakup of the Soviet Union,  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="8" SEMCAT="country" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Russia's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> global role was greatly diminished compared to that of the former Soviet Union.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>In October 2005, the federal statistics agency reported that  </STRING>
+			<REFERENCE ID="11" PARAGRAPH-POSITION="53" PARAGRAPH-RECENCY="23" SEMCAT="country" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Russia's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> population has shrunk by more than half a million people dipping to 143 million, although  </STRING>
+			<REFERENCE ID="12" PARAGRAPH-POSITION="69" PARAGRAPH-RECENCY="16" SEMCAT="country" SENTENCE-POSITION="26" SENTENCE-RECENCY="16" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Russia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became the second country in the world by the number of immigrants from abroad. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEXT ID="544">
+	<TITLE>Mount Siyeh</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Siyeh</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, with a height of 10014 feet (3052 meters), is one of six peaks over 10,000 feet high in Glacier National Park, Montana, United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="25" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is part of the Rocky Mountains. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Siyeh</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named after a Blackfoot Indian, Sai-yeh, whose name means &quot;Crazy Dog&quot; or &quot;Mad Wolf.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

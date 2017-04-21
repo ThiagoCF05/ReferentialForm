@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="48">
+	<TITLE>Black Tooth Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Black Tooth Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (13,005 ft / 3,964 m) is located in the Bighorn Mountains in the U.S. state of Wyoming. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the second highest in the range after Cloud Peak. The summit is located in the Cloud Peak Wilderness of Bighorn National Forest.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<TEXT ID="1447">
+	<TITLE>Benedict of Nursia</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Benedict of Nursia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (c. 480 - 543), born at Nursia (Norcia), Italy, was the founder of western monasticism.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Many of those monastic men and women belong to a Christian religious order named in  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> honor, the Order of Saint Benedict. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was canonized in 1220.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The only authentic life of  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Benedict of Nursia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is that contained in the second book of St Gregory's Dialogues.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>It is more of a character sketch than a biography and consists, for the most part, of a number of miraculous incidents, which, although they illustrate the life of  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the saint</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, give little help towards a chronological account of  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> career.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>St Gregory's authorities for all that he relates were  </STRING>
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the saint's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> own disciples, viz.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>Constantinus, who succeeded  </STRING>
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as Abbot of Monte Cassino; and Honoratus, who was Abbot of Subiaco when St Gregory wrote his Dialogues. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

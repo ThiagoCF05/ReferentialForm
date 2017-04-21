@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="657">
+	<TITLE>Piz Bernina</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Piz Bernina</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (4,049 m) is the highest mountain of the Eastern Alps. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the furthest easterly mountain higher than 4,000 m in the Alps, the highest point of the Graubünden canton of Switzerland, and the fifth most prominent peak in the Alps. Although </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> straddles the Swiss-Italian border, the highest summit is entirely on Swiss territory.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEXT ID="274">
+	<TITLE>Laila Peak (Rupal Valley)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Laila Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in the Rupal Valley is 5,971m high.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>In  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> north is the Rupal Glacier and in  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="18" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="8" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> east lies Rupal Peak (5,584 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>In the north of the Rupal Glacier is the Nanga Parbat massif that has many high peaks like Rakhiot Peak and Mazeno Peak. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TEXT ID="1116">
+	<TITLE>Mogadishu</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mogadishu</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Somali: Muqdisho, popularly Xamar; [Arabic: مقديشو] Maqadīshū; [Italian: Mogadiscio]), is the largest city in Somalia, and its nominal capital. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mogadishu</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies on the historically important Indian Ocean Benadir coast, and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="11" SEMCAT="city" SENTENCE-POSITION="12" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has served as an important regional port for centuries.With the 1991 collapse of central governance in Somalia,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="18" SEMCAT="city" SENTENCE-POSITION="30" SENTENCE-RECENCY="18" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mogadishu</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has seen 15 years of fighting by rival militias.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>However, since June 2006,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="44" PARAGRAPH-RECENCY="14" SEMCAT="city" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mogadishu</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has seen unusual peace and stabiliy, thanks to the Islamic Courts Union - though the group is thought by some to have links within the courts with al-Qaeda with plans to overthrow the Somali government.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>With no government and an unstable situation, estimates of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="89" PARAGRAPH-RECENCY="45" SEMCAT="city" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the city's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> current population vary wildly, between 1.5 and 3 million. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

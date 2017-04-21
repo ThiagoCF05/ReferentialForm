@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<TEXT ID="621">
+	<TITLE>Nuptse</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nuptse</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in the Khumbu region of the Mahalangur Himal, in the Nepalese Himalaya.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies two kilometres WSW of Mount Everest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Nuptse is Tibetan for &quot;west peak&quot;, as  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the western segment of the Lhotse-Nuptse massif. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The long east-west trending main ridge of  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nuptse</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is crowned by seven peaks: </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The main peak, Nuptse I, was first climbed on May 16, 1961 by Dennis Davis and Sherpa Tashi, members of a British expedition.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>After a long hiatus,  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nuptse</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> again became the objective of high-standard mountaineers in the 1990s and 2000s, with important routes being put up on  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> west, south, and north faces. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>While  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nuptse</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a dramatic peak when viewed from the south or west, and  </STRING>
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> towers above the base camp for the standard south col route on Everest,  </STRING>
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is not a particularly independent peak:  </STRING>
+			<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> topographic prominence is only 319 m (1,047 ft).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Hence  </STRING>
+			<REFERENCE ID="11" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is not ranked on the list of highest mountains. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

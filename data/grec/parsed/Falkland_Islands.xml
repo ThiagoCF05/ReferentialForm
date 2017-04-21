@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="1263">
+	<TITLE>Falkland Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Falkland Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, also called The Malvinas, are an archipelago in the South Atlantic Ocean, located 300 miles (483 kilometres) from the coast of South America, 671 miles (1080 km) west of South Georgia and the South Sandwich Islands (Shag Rocks), and 584 miles (940 km) north of Antarctica (Elephant Island). </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">They</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> consist of two main islands, East Falkland and West Falkland, together with about 700 smaller islands. Stanley, on East Falkland, is the capital and largest city. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are a self-governing Overseas Territory of the United Kingdom, but </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> have been the subject of a claim to sovereignty by Argentina since the early years of Argentina's independence from Spain.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>In 1982 </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> were invaded by Argentina, precipitating the two-month-long undeclared Falklands War between Argentina and the United Kingdom, which resulted in the defeat and withdrawal of Argentine forces. Since the war there has been strong economic growth in both fisheries and tourism. The inhabitants of </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, who are of mainly Scottish descent, are British citizens, and support British sovereignty.</STRING>
+	</PARAGRAPH>
+</TEXT>

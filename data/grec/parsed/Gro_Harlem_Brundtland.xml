@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1548">
+	<TITLE>Gro Harlem Brundtland</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gro Harlem Brundtland</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> [IPA: gro hɑɭɛm brʉntlɑnd] (born April 20, 1939) is a Norwegian politician, diplomat, and physician, and an international leader in sustainable development and public health. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a former Prime Minister of Norway, and </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has served as the Director General of the World Health Organization.</STRING>
+	</PARAGRAPH>
+</TEXT>

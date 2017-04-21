@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1255">
+	<TITLE>Dominican Republic</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Dominican Republic</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, (Spanish: República Dominicana, IPA [IPA: [re'puβlika domini'kana]]) is a country located on the eastern two-thirds of the Caribbean island of Hispaniola, bordering Haiti. Hispaniola is the second-largest of the Greater Antilles islands, and lies west of Puerto Rico and east of Cuba and Jamaica. A legacy of unsettled, mostly non-representative rule lasted for much of the 20th century; the move towards representative democracy has improved vastly since the death of military dictator Rafael Leónidas Trujillo in 1961. Dominicans sometimes refer to </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">their country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> as Quisqueya, a name for Hispaniola used by indigenous Taíno people. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Dominican Republic</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is not to be confused with Dominica, another Caribbean country.</STRING>
+	</PARAGRAPH>
+</TEXT>

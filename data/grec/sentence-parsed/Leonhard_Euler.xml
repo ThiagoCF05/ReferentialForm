@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<TEXT ID="1635">
+	<TITLE>Leonhard Euler</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Leonhard Euler</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (pronounced Oiler; IPA [IPA: [ˈɔʏlɐ]]) (Basel, Switzerland, April 15, 1707 - St Petersburg, Russia, September 18, 1783) was a Swiss mathematician and physicist. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Euler</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> made important discoveries in fields as diverse as calculus, number theory, and topology.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also introduced much of the modern mathematical terminology and notation, particularly for mathematical analysis, such as the notion of a mathematical function.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>A statement attributed to Pierre-Simon Laplace expresses  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Euler's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> influence on mathematics: &quot;Read Euler, read Euler, he is a master for us all&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Euler</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was featured on the sixth series of the Swiss 10-franc banknote and on numerous Swiss, German, and Russian postage stamps.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The asteroid 2002 Euler was named in  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> honor. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

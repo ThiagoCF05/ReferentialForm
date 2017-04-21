@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TEXT ID="232">
+	<TITLE>Incahuasi</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Incahuasi</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> or Nevado de Incahuasi is a mountain between the Argentine province of Catamarca, and the Atacama Region of Chile.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Located at approximate coordenates 27°02'S,68°18'W,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="25" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a height of 6,621m. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The German geographer Walther Penck made the first recorded ascent of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Incahuasi</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in 1913. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

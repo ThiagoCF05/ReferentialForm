@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="1010">
+	<TITLE>Banjul</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Banjul</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital of The Gambia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The population of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="city" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city proper</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is only 34,828 but the total urban area is many times larger with a population of 523,589 (2003 census).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="20" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located on St Mary's Island (or Banjul Island) where the Gambia River enters the Atlantic Ocean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="49" PARAGRAPH-RECENCY="18" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Banjul</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 13°28' North, 16°36' West (13.4667, -16.60). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

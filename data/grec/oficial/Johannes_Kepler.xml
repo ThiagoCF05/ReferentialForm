@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<TEXT ID="1594">
+	<TITLE>Johannes Kepler</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Johannes Kepler</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (December 27, 1571 - November 15, 1630), a key figure in the scientific revolution, was a German mathematician, astronomer, astrologer, and an early writer of science fiction stories.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="29" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is best known for  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="35" PARAGRAPH-RECENCY="5" SEMCAT="person" SENTENCE-POSITION="6" SENTENCE-RECENCY="5" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> laws of planetary motion, based on  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="7" SEMCAT="person" SENTENCE-POSITION="13" SENTENCE-RECENCY="7" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> works Astronomia nova, Harmonice Mundi and the textbook Epitome of Copernican Astronomy. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Through  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="2" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> career  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="2" SEMCAT="person" SENTENCE-POSITION="4" SENTENCE-RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kepler</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a mathematics teacher at a Graz seminary school (later the University of Graz, Austria), an assistant to Tycho Brahe, court mathematician to Emperor Rudolf II, mathematics teacher in Linz, Austria, and court astrologer to General Wallenstein.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="38" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also did fundamental work in the field of optics and  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="53" PARAGRAPH-RECENCY="11" SEMCAT="person" SENTENCE-POSITION="12" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> helped to legitimize the telescopic discoveries of  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="61" PARAGRAPH-RECENCY="8" SEMCAT="person" SENTENCE-POSITION="20" SENTENCE-RECENCY="8" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> contemporary Galileo Galilei. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="10" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is sometimes referred to as &quot;the first theoretical astrophysicist&quot;, although Carl Sagan also referred to  </STRING>
+			<REFERENCE ID="11" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="16" SEMCAT="person" SENTENCE-POSITION="17" SENTENCE-RECENCY="16" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as the last scientific astrologer. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="257">
+	<TITLE>Kīlauea</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kīlauea</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([IPA: kiːlauea]) is an active volcano in the Hawaiian Islands, one of five shield volcanoes that together form the Island of Hawaii.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>In Hawaiian, the word kīlauea means &quot;spewing&quot; or &quot;much spreading&quot;, in reference to  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="36" SEMCAT="mountain" SENTENCE-POSITION="14" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> frequent outpouring of lava.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="5" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is currently the most active volcano and one of the most visited active volcanoes on Earth.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="59" PARAGRAPH-RECENCY="17" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kīlauea</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the most recent of a series of volcanoes that created the Hawaiian Archipelago, as the Pacific Plate moves over the Hawaii hotspot (see, however, Lōihi Seamount). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

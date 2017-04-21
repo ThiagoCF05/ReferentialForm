@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TEXT ID="1232">
+	<TITLE>Burundi</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Burundi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (IPA: [IPA: /bəˈɹʊndɪ/]), officially the Republic of Burundi, is a small country in the Great Lakes region of Africa. The former name was Urundi-Ubrundi-Bruwanda. Urundi is the shortened form of &quot;Urundi Rwanda&quot; (&quot;The other Rwanda&quot;), as the Belgian colonial powers formerly referred to </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the territory</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is bordered by Rwanda on the north, Tanzania on the south and east, and the Democratic Republic of the Congo on the west. Although </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is landlocked, much of </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> western border is adjacent to Lake Tanganyika. The </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> modern name is derived from </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> Bantu language, Kirundi.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Geographically isolated, facing population pressures and having sparse resources, </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Burundi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the poorest and most conflict-ridden countries in Africa and in the world. </STRING>
+		<REFERENCE ID="9" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> small size belies the magnitude of the problems </STRING>
+		<REFERENCE ID="10" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> faces in reconciling the claims of the Tutsi minority with the Hutu majority.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="947">
+	<TITLE>Albania</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Republic of Albania</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Albanian: Republika e Shqipërisë, IPA [IPA: [ɾɛˈpubliˌka ɛ ˌʃcipəˈɾis]]) is a Balkan country in Southeastern Europe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders Montenegro to the north, the Serbian province of Kosovo to the northeast, the Republic of Macedonia in the east, and Greece in the south.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a coast on the Adriatic Sea to the west and a coast on the Ionian Sea to the southwest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Despite having a troubled history,  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been classified as an emerging democracy since the 1990s. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

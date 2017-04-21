@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<TEXT ID="1321">
+	<TITLE>Mexico</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The United Mexican States</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Spanish: Estados Unidos Mexicanos), generally known as Mexico (Spanish: México) is a country located in North America, bordered at the north by the United States, and at the south by Guatemala and Belize, in Central America.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="37" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the northernmost and westernmost country in Latin America, and also the most populous Spanish-speaking country in the world. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The site of advanced Mesoamerican or Amerindian civilizations, the land that currently makes up  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="15" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mexico</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> existed under Spanish rule for three centuries before achieving independence early in the 19th century.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The first century of independence was tumultuous, culminating in the decade-long Mexican Revolution, followed by roughly seventy years of rule by the Institutional Revolutionary Party (PRI). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>A devaluation of the peso in late 1994 threw  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mexico</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> into economic turmoil, triggering the worst recession in over half a century.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="13" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The nation</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> continues to make an impressive recovery.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Ongoing economic and social concerns include low real wages, underemployment for a large segment of the population, inequitable income distribution, and few advancement opportunities for the largely Amerindian population in the impoverished southern states.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Elections held in July 2000 marked the first time since the 1910 Mexican Revolution that the opposition defeated the (PRI) and Vicente Fox of the National Action Party (PAN) was sworn in as President on 1 December 2000. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mexico</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a powerful and influential neighbor of the United States, in terms of trade, culture, diplomacy, with a history of emigration of Mexicans into the U.S. since the early 1900's. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

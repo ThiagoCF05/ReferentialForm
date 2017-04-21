@@ -1,0 +1,458 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+	<SENTENCE ID="1">
+		<STRING> If </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="2" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> 're looking to buy </STRING>
+		<REFERENCE animacy="INANIMATE" entity="3" gender="UNKNOWN" mentionid="3" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="4" gender="UNKNOWN" mentionid="4" mentiontype="NOMINAL" number="UNKNOWN"> a really nice </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="5" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> an </STRING>
+				<REFERENCE animacy="INANIMATE" entity="6" gender="NEUTRAL" mentionid="6" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> honestly good </STRING>
+					<REFERENCE animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="1" mentiontype="PROPER" number="SINGULAR"> 5.8 </REFERENCE>
+					<STRING> GHz </STRING>
+				</REFERENCE>
+				<STRING> system </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="7" gender="UNKNOWN" mentionid="7" mentiontype="NOMINAL" number="PLURAL"> some very nice features </REFERENCE>
+		<STRING>, then seriously consider </STRING>
+		<TARGET-REFERENCE ENTROPY="0.294599" ID="1" PARAGRAPH-POSITION="23" RECENCY="0" SYNCAT="np-obj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="5" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="demonstrative">this one</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="7" TYPE="description">the 4-line Panasonic cordless phone system</REFEX>
+				<REFEX PARTICIPANT-ID="8" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="11" TYPE="name">the 5.8 GHz 4-Line Expandable Cordless Phone</REFEX>
+				<REFEX PARTICIPANT-ID="14" TYPE="name">The 5.8 GHz 4-Line Expandable Cordless Phone</REFEX>
+				<REFEX PARTICIPANT-ID="25" TYPE="name">Panasonics' 5.8 GHz 4-Line System</REFEX>
+				<REFEX PARTICIPANT-ID="27" TYPE="name">Panasonic's 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="35" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="39" TYPE="description">phone by Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="43" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="45" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="47" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="48" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="49" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="50" TYPE="name">the 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="54" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="57" TYPE="description">a phone system developed by Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="60" TYPE="name">4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="62" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="63" TYPE="description">a phone by Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="64" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="66" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="67" TYPE="name">Panasonic</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> if </STRING>
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="9" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> do n't mind </STRING>
+		<REFERENCE animacy="INANIMATE" entity="10" gender="UNKNOWN" mentionid="10" mentiontype="NOMINAL" number="SINGULAR"> the price </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+	<SENTENCE ID="2">
+		<STRING> Bought </STRING>
+		<TARGET-REFERENCE ENTROPY="0.829535" ID="2" PARAGRAPH-POSITION="2" RECENCY="0" SYNCAT="np-obj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="5" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="description">the system</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="7" TYPE="description">the phone</REFEX>
+				<REFEX PARTICIPANT-ID="8" TYPE="name">the Expandable Cordless Phone syste</REFEX>
+				<REFEX PARTICIPANT-ID="11" TYPE="other">one</REFEX>
+				<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="25" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="27" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="35" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">this phone</REFEX>
+				<REFEX PARTICIPANT-ID="43" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="45" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="47" TYPE="pronoun">mine</REFEX>
+				<REFEX PARTICIPANT-ID="48" TYPE="name">from 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="50" TYPE="name">4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="54" TYPE="demonstrative">this system</REFEX>
+				<REFEX PARTICIPANT-ID="57" TYPE="description">a phone system</REFEX>
+				<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="63" TYPE="description">a phone</REFEX>
+				<REFEX PARTICIPANT-ID="64" TYPE="other">one</REFEX>
+				<REFEX PARTICIPANT-ID="66" TYPE="demonstrative">this new phone system</REFEX>
+				<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> </STRING>
+		<REFERENCE animacy="INANIMATE" entity="13" gender="UNKNOWN" mentionid="13" mentiontype="PROPER" number="SINGULAR"> a few weeks </REFERENCE>
+		<STRING> ago with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="14" gender="UNKNOWN" mentionid="14" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="11" gender="UNKNOWN" mentionid="11" mentiontype="PROPER" number="SINGULAR"> 2 </REFERENCE>
+			<STRING> extra hand sets </STRING>
+		</REFERENCE>
+		<STRING> for </STRING>
+		<REFERENCE animacy="INANIMATE" entity="15" gender="UNKNOWN" mentionid="15" mentiontype="NOMINAL" number="SINGULAR"> a total of 4 hand sets </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<STRING> Although </STRING>
+		<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="16" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="17" gender="UNKNOWN" mentionid="17" mentiontype="PRONOMINAL" number="PLURAL"> our </REFERENCE>
+			<STRING> home </STRING>
+		</REFERENCE>
+		<STRING> is not big </STRING>
+		<REFERENCE animacy="ANIMATE" entity="17" gender="UNKNOWN" mentionid="18" mentiontype="PRONOMINAL" number="PLURAL"> we </REFERENCE>
+		<STRING> do enjoy having </STRING>
+		<REFERENCE animacy="INANIMATE" entity="19" gender="NEUTRAL" mentionid="19" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the option of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="NOMINAL" number="PLURAL"> several hand sets </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<REFERENCE animacy="INANIMATE" entity="22" gender="NEUTRAL" mentionid="22" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="21" gender="UNKNOWN" mentionid="21" mentiontype="PROPER" number="SINGULAR"> One </REFERENCE>
+			<STRING> feature which </STRING>
+			<REFERENCE animacy="ANIMATE" entity="23" gender="UNKNOWN" mentionid="23" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+			<STRING> really love </STRING>
+		</REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="22" gender="NEUTRAL" mentionid="24" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the built-in speaker phone in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="25" mentiontype="NOMINAL" number="PLURAL"> the hand sets </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<STRING> Its </STRING>
+		<REFERENCE animacy="INANIMATE" entity="27" gender="UNKNOWN" mentionid="27" mentiontype="PROPER" number="SINGULAR">
+			<STRING> one of those`` why did n't </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="28" gender="NEUTRAL" mentionid="28" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> anyone think of </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="29" gender="NEUTRAL" mentionid="29" mentiontype="NOMINAL" number="UNKNOWN"> this </REFERENCE>
+			</REFERENCE>
+			<STRING> before'' </STRING>
+			<REFERENCE animacy="INANIMATE" entity="30" gender="UNKNOWN" mentionid="30" mentiontype="NOMINAL" number="PLURAL"> options </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+	<SENTENCE ID="6">
+		<TARGET-REFERENCE ENTROPY="0.663023" ID="3" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="31" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="demonstrative">This system</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="7" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="8" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="11" TYPE="description">The cordless phone system</REFEX>
+				<REFEX PARTICIPANT-ID="14" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="25" TYPE="description">The Panasonic System</REFEX>
+				<REFEX PARTICIPANT-ID="27" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="35" TYPE="description">The phone</REFEX>
+				<REFEX PARTICIPANT-ID="39" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="43" TYPE="other">I</REFEX>
+				<REFEX PARTICIPANT-ID="45" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="47" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="49" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="50" TYPE="other">We</REFEX>
+				<REFEX PARTICIPANT-ID="54" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="57" TYPE="description">The new Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="60" TYPE="name">4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="62" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="63" TYPE="description">The new phone</REFEX>
+				<REFEX PARTICIPANT-ID="64" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="66" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="67" TYPE="pronoun">It</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> replaced </STRING>
+		<REFERENCE animacy="INANIMATE" entity="32" gender="UNKNOWN" mentionid="32" mentiontype="PROPER" number="SINGULAR">
+			<STRING> another one that </STRING>
+			<REFERENCE animacy="ANIMATE" entity="29" gender="UNKNOWN" mentionid="33" mentiontype="PRONOMINAL" number="PLURAL"> we </REFERENCE>
+			<STRING> bought at </STRING>
+			<REFERENCE animacy="INANIMATE" entity="34" gender="NEUTRAL" mentionid="34" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="35" gender="NEUTRAL" mentionid="35" mentiontype="NOMINAL" number="SINGULAR"> a local discount club </REFERENCE>
+				<STRING>, which was horrible and much </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> hated from </STRING>
+		<REFERENCE animacy="INANIMATE" entity="36" gender="NEUTRAL" mentionid="36" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the moment </STRING>
+			<REFERENCE animacy="INANIMATE" entity="32" gender="NEUTRAL" mentionid="37" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+			<STRING> was connected </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<STRING> Should have know better since </STRING>
+		<REFERENCE animacy="INANIMATE" entity="10" gender="UNKNOWN" mentionid="38" mentiontype="NOMINAL" number="SINGULAR"> the price </REFERENCE>
+		<STRING> was $ 60 for </STRING>
+		<REFERENCE animacy="INANIMATE" entity="39" gender="UNKNOWN" mentionid="39" mentiontype="PROPER" number="SINGULAR">
+			<STRING> three </STRING>
+			<REFERENCE animacy="INANIMATE" entity="40" gender="NEUTRAL" mentionid="40" mentiontype="NOMINAL" number="SINGULAR"> a hand set system </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<REFERENCE animacy="INANIMATE" entity="41" gender="UNKNOWN" mentionid="41" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> A good example of </STRING>
+			<REFERENCE animacy="ANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		</REFERENCE>
+		<STRING> get what </STRING>
+		<REFERENCE animacy="ANIMATE" entity="43" gender="UNKNOWN" mentionid="43" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> pay for. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+	<SENTENCE ID="9">
+		<STRING> Before deciding on </STRING>
+		<TARGET-REFERENCE ENTROPY="0.781669" ID="4" PARAGRAPH-POSITION="4" RECENCY="0" SYNCAT="np-obj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="45" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="demonstrative">this system</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="7" TYPE="demonstrative">this phone</REFEX>
+				<REFEX PARTICIPANT-ID="8" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="11" TYPE="description">a phone system</REFEX>
+				<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="25" TYPE="description">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="27" TYPE="name">Panasonic's 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="35" TYPE="pronoun">which</REFEX>
+				<REFEX PARTICIPANT-ID="39" TYPE="other">which to buy</REFEX>
+				<REFEX PARTICIPANT-ID="43" TYPE="description">a phone system</REFEX>
+				<REFEX PARTICIPANT-ID="45" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="47" TYPE="name">Panasonic,</REFEX>
+				<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="49" TYPE="description">a phone system</REFEX>
+				<REFEX PARTICIPANT-ID="50" TYPE="name">4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="54" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">this phone</REFEX>
+				<REFEX PARTICIPANT-ID="60" TYPE="name">4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="63" TYPE="pronoun">which</REFEX>
+				<REFEX PARTICIPANT-ID="64" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="66" TYPE="other">what and which to buy,</REFEX>
+				<REFEX PARTICIPANT-ID="67" TYPE="name">Panasonic</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> I seriously was looking at </STRING>
+		<REFERENCE animacy="INANIMATE" entity="47" gender="NEUTRAL" mentionid="47" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the </STRING>
+			<REFERENCE animacy="INANIMATE" entity="44" gender="UNKNOWN" mentionid="44" mentiontype="PROPER" number="UNKNOWN"> Seimens </REFERENCE>
+			<STRING> system </STRING>
+		</REFERENCE>
+		<STRING> and came` oh-so-close' to buying </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="48" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<STRING> But something told </STRING>
+		<REFERENCE animacy="ANIMATE" entity="23" gender="UNKNOWN" mentionid="49" mentiontype="PRONOMINAL" number="SINGULAR"> me </REFERENCE>
+		<STRING> to look </STRING>
+		<REFERENCE animacy="INANIMATE" entity="50" gender="NEUTRAL" mentionid="50" mentiontype="NOMINAL" number="UNKNOWN"> a little further </REFERENCE>
+		<STRING> and then </STRING>
+		<REFERENCE animacy="ANIMATE" entity="23" gender="UNKNOWN" mentionid="51" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> found </STRING>
+		<TARGET-REFERENCE ENTROPY="0.760013" ID="5" PARAGRAPH-POSITION="32" RECENCY="28" SYNCAT="np-obj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="52" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="demonstrative">this system</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="7" TYPE="description">the Panasonic phone</REFEX>
+				<REFEX PARTICIPANT-ID="8" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="11" TYPE="description">Panasonic's</REFEX>
+				<REFEX PARTICIPANT-ID="14" TYPE="name">the 5.8 GHz 4-Line Expandable Cordless Phone</REFEX>
+				<REFEX PARTICIPANT-ID="25" TYPE="name">Panasonics' 5.8 GHz 4-Line System</REFEX>
+				<REFEX PARTICIPANT-ID="27" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="35" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">this phone system</REFEX>
+				<REFEX PARTICIPANT-ID="43" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="45" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="47" TYPE="demonstrative">this one</REFEX>
+				<REFEX PARTICIPANT-ID="48" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="49" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="54" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="62" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="63" TYPE="pronoun">a phone system by panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="64" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="66" TYPE="name">the Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="67" TYPE="demonstrative">this</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<REFERENCE animacy="INANIMATE" entity="47" gender="NEUTRAL" mentionid="53" mentiontype="NOMINAL" number="SINGULAR"> The Seimens system </REFERENCE>
+		<STRING> looks </STRING>
+		<REFERENCE animacy="INANIMATE" entity="54" gender="UNKNOWN" mentionid="54" mentiontype="NOMINAL" number="UNKNOWN"> really sleek </REFERENCE>
+		<STRING> but all the reviews are either neutral or negative, and in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="55" gender="UNKNOWN" mentionid="55" mentiontype="NOMINAL" number="PLURAL"> some cases </REFERENCE>
+		<STRING> very negative. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+	<SENTENCE ID="12">
+		<TARGET-REFERENCE ENTROPY="0.750102" ID="6" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="UNKNOWN" entity="5" gender="NEUTRAL" mentionid="57" number="UNKNOWN">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="demonstrative">This</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="7" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="8" TYPE="description">The system</REFEX>
+				<REFEX PARTICIPANT-ID="11" TYPE="description">Panasonic's phone system</REFEX>
+				<REFEX PARTICIPANT-ID="14" TYPE="description">The phone system</REFEX>
+				<REFEX PARTICIPANT-ID="25" TYPE="description">The Panasonic System</REFEX>
+				<REFEX PARTICIPANT-ID="27" TYPE="description">Panasonic's system</REFEX>
+				<REFEX PARTICIPANT-ID="35" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">This phone system</REFEX>
+				<REFEX PARTICIPANT-ID="43" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="45" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="47" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="49" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="50" TYPE="name">The 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="54" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="57" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="60" TYPE="name">4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="62" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="63" TYPE="description">My new phone system</REFEX>
+				<REFEX PARTICIPANT-ID="64" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="66" TYPE="description">The phone system</REFEX>
+				<REFEX PARTICIPANT-ID="67" TYPE="name">Panasonic</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> gives me </STRING>
+		<REFERENCE animacy="INANIMATE" entity="59" gender="NEUTRAL" mentionid="59" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> no interference what so ever with </STRING>
+			<REFERENCE animacy="INANIMATE" entity="60" gender="NEUTRAL" mentionid="60" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the wireless network in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="61" gender="NEUTRAL" mentionid="61" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="62" gender="NEUTRAL" mentionid="62" mentiontype="NOMINAL" number="SINGULAR"> the house </REFERENCE>
+					<STRING>, which was </STRING>
+					<REFERENCE animacy="INANIMATE" entity="63" gender="NEUTRAL" mentionid="63" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> a major gripe with </STRING>
+						<REFERENCE animacy="INANIMATE" entity="64" gender="NEUTRAL" mentionid="64" mentiontype="NOMINAL" number="SINGULAR">
+							<STRING> the older </STRING>
+							<REFERENCE animacy="INANIMATE" entity="56" gender="UNKNOWN" mentionid="56" mentiontype="PROPER" number="SINGULAR"> 900 </REFERENCE>
+							<STRING> MHz system </STRING>
+						</REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> we had </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+	<SENTENCE ID="13">
+		<STRING> If </STRING>
+		<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="67" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="68" gender="UNKNOWN" mentionid="68" mentiontype="PRONOMINAL" number="UNKNOWN"> your </REFERENCE>
+			<STRING> home </STRING>
+		</REFERENCE>
+		<STRING> is huge </STRING>
+		<TARGET-REFERENCE ENTROPY="0.615829" ID="7" PARAGRAPH-POSITION="6" RECENCY="0" SYNCAT="np-subj" animacy="UNKNOWN" entity="5" gender="NEUTRAL" mentionid="69" number="UNKNOWN">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="demonstrative">this</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="7" TYPE="description">the system</REFEX>
+				<REFEX PARTICIPANT-ID="8" TYPE="description">the Panasonic system</REFEX>
+				<REFEX PARTICIPANT-ID="11" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="25" TYPE="other">you</REFEX>
+				<REFEX PARTICIPANT-ID="27" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="35" TYPE="other">than you</REFEX>
+				<REFEX PARTICIPANT-ID="39" TYPE="other">than you</REFEX>
+				<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="48" TYPE="other">then</REFEX>
+				<REFEX PARTICIPANT-ID="49" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="54" TYPE="other">you</REFEX>
+				<REFEX PARTICIPANT-ID="57" TYPE="other">you</REFEX>
+				<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="63" TYPE="other">than it</REFEX>
+				<REFEX PARTICIPANT-ID="64" TYPE="description">the phone system</REFEX>
+				<REFEX PARTICIPANT-ID="66" TYPE="other">than you</REFEX>
+				<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> will use up to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="70" gender="UNKNOWN" mentionid="70" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="66" gender="UNKNOWN" mentionid="66" mentiontype="PROPER" number="SINGULAR"> eight </REFERENCE>
+			<STRING> hand sets </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="14">
+		<STRING> If </STRING>
+		<REFERENCE animacy="ANIMATE" entity="71" gender="UNKNOWN" mentionid="71" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> home requires more then </STRING>
+		<REFERENCE animacy="ANIMATE" entity="72" gender="UNKNOWN" mentionid="72" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> have enough money to install </STRING>
+		<REFERENCE animacy="INANIMATE" entity="73" gender="NEUTRAL" mentionid="73" mentiontype="NOMINAL" number="SINGULAR"> a professional system </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+	<SENTENCE ID="15">
+		<STRING> So far </STRING>
+		<REFERENCE animacy="ANIMATE" entity="23" gender="UNKNOWN" mentionid="74" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> love </STRING>
+		<TARGET-REFERENCE ENTROPY="0.802274" ID="8" PARAGRAPH-POSITION="5" RECENCY="0" SYNCAT="np-obj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="75" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="description">the system</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="7" TYPE="demonstrative">this phone</REFEX>
+				<REFEX PARTICIPANT-ID="8" TYPE="description">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="11" TYPE="name">the expandable cordless phone system</REFEX>
+				<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="25" TYPE="description">The Panasonic System</REFEX>
+				<REFEX PARTICIPANT-ID="27" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="35" TYPE="demonstrative">this system</REFEX>
+				<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">this Panasonic system</REFEX>
+				<REFEX PARTICIPANT-ID="43" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="45" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="47" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="50" TYPE="name">the 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="54" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="57" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="60" TYPE="name">my 4-Line Phone System</REFEX>
+				<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="63" TYPE="demonstrative">this new phone</REFEX>
+				<REFEX PARTICIPANT-ID="64" TYPE="name">Panasonic</REFEX>
+				<REFEX PARTICIPANT-ID="66" TYPE="other">the system but</REFEX>
+				<REFEX PARTICIPANT-ID="67" TYPE="name">Panasonic</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="76" gender="FEMALE" mentionid="76" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="23" gender="UNKNOWN" mentionid="77" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+			<STRING> wife on </STRING>
+			<REFERENCE animacy="INANIMATE" entity="78" gender="UNKNOWN" mentionid="78" mentiontype="NOMINAL" number="SINGULAR"> the other hand </REFERENCE>
+		</REFERENCE>
+		<STRING> keeps saying`` its </STRING>
+		<REFERENCE animacy="INANIMATE" entity="80" gender="NEUTRAL" mentionid="80" mentiontype="NOMINAL" number="SINGULAR"> a guy thing'' </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

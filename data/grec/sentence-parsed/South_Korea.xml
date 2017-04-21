@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<TEXT ID="1379">
+	<TITLE>South Korea</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">South Korea</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Korea (Korean: 대한민국, [IPA: tɛ.ɦan.min.guk̚], listen), is an East Asian state on the southern half of the Korean Peninsula.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>To the north,  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is bordered by North Korea (Democratic People's Republic of Korea), with which  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a single country called Korea until 1945.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>To the west, across the Yellow Sea, lies China, and to the southeast, across the Korea Strait, lies Japan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Approximately one-half of  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">South Korea's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> population lives in or near the capital and largest city, Seoul, the second largest metropolitan area in the world. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Since  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> founding in 1948,  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has struggled with the aftermath of 35 years of Japanese annexation, the Korean War, and decades of military rule, seeing five major constitutional changes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Pro-democracy demonstrations during the 1980s led to free elections in 1987.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">South Korea</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is now a multi-party democracy. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The South Korean economy has advanced rapidly since the 1950s and is now the 10th largest (nominal value) economy in the world.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">South Korea</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also one of the world's most technologically advanced and digitally-connected countries.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has the second highest broadband Internet connections per capita among OECD countries and  </STRING>
+			<REFERENCE ID="10" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a global leader in electronics, digital displays, shipbuilding and mobile phones. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="11" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">South Korea's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> entertainment industry has grown explosively since the 1990s, producing Asia-wide successes in music, television, and film in a phenomenon known as Hallyu, or the &quot;Korean wave.&quot;</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>However,  </STRING>
+			<REFERENCE ID="12" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> still retains centuries-old customs and traditions, such as  </STRING>
+			<REFERENCE ID="13" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> unique cuisine and ancestor worship. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,356 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="1" mentiontype="PROPER" number="UNKNOWN"> Hamas </REFERENCE>
+		<STRING> delivered </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="5" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="6" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+			<STRING> proposed </STRING>
+			<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="2" mentiontype="PROPER" number="UNKNOWN"> Cabinet </REFERENCE>
+			<STRING> list to </STRING>
+			<REFERENCE animacy="ANIMATE" entity="7" gender="MALE" mentionid="7" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="8" gender="MALE" mentionid="8" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the </STRING>
+					<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="3" mentiontype="PROPER" number="UNKNOWN"> Palestinian Authority </REFERENCE>
+					<STRING> president </STRING>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="8" gender="MALE" mentionid="4" mentiontype="PROPER" number="SINGULAR"> Mahmoud Abbas </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="9" gender="UNKNOWN" mentionid="9" mentiontype="PROPER" number="SINGULAR"> Sunday </REFERENCE>
+		<STRING> night. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="11" mentiontype="PROPER" number="UNKNOWN"> Hamas </REFERENCE>
+		<STRING> is expected to control </STRING>
+		<REFERENCE animacy="INANIMATE" entity="12" gender="UNKNOWN" mentionid="12" mentiontype="NOMINAL" number="PLURAL"> the most important government ministries </REFERENCE>
+		<STRING> after </STRING>
+		<REFERENCE animacy="INANIMATE" entity="13" gender="UNKNOWN" mentionid="13" mentiontype="PROPER" number="SINGULAR">
+			<STRING> weeks of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="14" gender="UNKNOWN" mentionid="14" mentiontype="NOMINAL" number="PLURAL"> negotiations </REFERENCE>
+		</REFERENCE>
+		<STRING> failed to persuade </STRING>
+		<REFERENCE animacy="ANIMATE" entity="15" gender="UNKNOWN" mentionid="15" mentiontype="NOMINAL" number="PLURAL"> other Palestinian parties </REFERENCE>
+		<STRING> to join </STRING>
+		<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="16" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="13" gender="UNKNOWN" mentionid="17" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+			<STRING> government </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="ANIMATE" entity="22" gender="UNKNOWN" mentionid="22" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="18" gender="MALE" mentionid="18" mentiontype="PROPER" number="SINGULAR"> Ismail Haniya </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="23" gender="UNKNOWN" mentionid="23" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="24" gender="MALE" mentionid="24" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the </STRING>
+					<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="19" mentiontype="PROPER" number="UNKNOWN"> Hamas </REFERENCE>
+					<STRING> leader </STRING>
+				</REFERENCE>
+				<STRING> and prime minister-designate </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, presented </STRING>
+		<REFERENCE animacy="INANIMATE" entity="25" gender="NEUTRAL" mentionid="25" mentiontype="NOMINAL" number="SINGULAR"> the lineup </REFERENCE>
+		<STRING> to </STRING>
+		<REFERENCE animacy="ANIMATE" entity="8" gender="MALE" mentionid="20" mentiontype="PROPER" number="SINGULAR"> Abbas </REFERENCE>
+		<STRING> at </STRING>
+		<REFERENCE animacy="INANIMATE" entity="26" gender="UNKNOWN" mentionid="26" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a meeting in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="21" gender="NEUTRAL" mentionid="21" mentiontype="PROPER" number="SINGULAR"> Gaza City </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<STRING> Pressed by </STRING>
+		<REFERENCE animacy="ANIMATE" entity="28" gender="UNKNOWN" mentionid="28" mentiontype="NOMINAL" number="PLURAL"> reporters </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="8" gender="MALE" mentionid="27" mentiontype="PROPER" number="SINGULAR"> Abbas </REFERENCE>
+		<STRING> declined to say whether </STRING>
+		<REFERENCE animacy="ANIMATE" entity="8" gender="MALE" mentionid="29" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING> would give </STRING>
+		<REFERENCE animacy="INANIMATE" entity="30" gender="NEUTRAL" mentionid="30" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="8" gender="MALE" mentionid="31" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+			<STRING> approval </STRING>
+		</REFERENCE>
+		<STRING>, though </STRING>
+		<REFERENCE animacy="ANIMATE" entity="32" gender="UNKNOWN" mentionid="32" mentiontype="NOMINAL" number="PLURAL"> aides </REFERENCE>
+		<STRING> said </STRING>
+		<REFERENCE animacy="ANIMATE" entity="8" gender="MALE" mentionid="33" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING> was likely to do so. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<REFERENCE animacy="ANIMATE" entity="8" gender="MALE" mentionid="34" mentiontype="PRONOMINAL" number="SINGULAR"> He </REFERENCE>
+		<STRING> said </STRING>
+		<REFERENCE animacy="ANIMATE" entity="8" gender="MALE" mentionid="35" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING> would convene </STRING>
+		<REFERENCE animacy="INANIMATE" entity="36" gender="NEUTRAL" mentionid="36" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="37" gender="NEUTRAL" mentionid="37" mentiontype="NOMINAL" number="SINGULAR"> the Palestinian legislature </REFERENCE>
+			<STRING>, in which </STRING>
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="38" mentiontype="PROPER" number="UNKNOWN"> the militant Islamic Hamas </REFERENCE>
+			<STRING> has </STRING>
+			<REFERENCE animacy="ANIMATE" entity="39" gender="NEUTRAL" mentionid="39" mentiontype="NOMINAL" number="SINGULAR"> an absolute majority </REFERENCE>
+		</REFERENCE>
+		<STRING>, for </STRING>
+		<REFERENCE animacy="INANIMATE" entity="40" gender="NEUTRAL" mentionid="40" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a vote of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="41" gender="UNKNOWN" mentionid="41" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> confidence on </STRING>
+				<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="42" mentiontype="PROPER" number="UNKNOWN"> the Cabinet </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<STRING>`` </STRING>
+		<REFERENCE animacy="ANIMATE" entity="8" gender="UNKNOWN" mentionid="44" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> pray to </STRING>
+		<REFERENCE animacy="ANIMATE" entity="45" gender="MALE" mentionid="45" mentiontype="PROPER" number="SINGULAR"> God </REFERENCE>
+		<STRING> to help </STRING>
+		<REFERENCE animacy="ANIMATE" entity="28" gender="UNKNOWN" mentionid="46" mentiontype="PRONOMINAL" number="PLURAL"> us </REFERENCE>
+		<STRING>,'' </STRING>
+		<REFERENCE animacy="ANIMATE" entity="8" gender="MALE" mentionid="43" mentiontype="PROPER" number="SINGULAR"> Abbas </REFERENCE>
+		<STRING> said. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<STRING>`` </STRING>
+		<REFERENCE animacy="INANIMATE" entity="47" gender="NEUTRAL" mentionid="47" mentiontype="NOMINAL" number="SINGULAR"> The task </REFERENCE>
+		<STRING> is not easy, neither for </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="48" gender="UNKNOWN" mentionid="48" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="28" gender="UNKNOWN" mentionid="49" mentiontype="PRONOMINAL" number="PLURAL"> us </REFERENCE>
+			<STRING> nor </STRING>
+			<REFERENCE animacy="INANIMATE" entity="50" gender="NEUTRAL" mentionid="50" mentiontype="NOMINAL" number="SINGULAR"> for the new government </REFERENCE>
+		</REFERENCE>
+		<STRING>.'' </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<REFERENCE animacy="ANIMATE" entity="18" gender="MALE" mentionid="51" mentiontype="PROPER" number="SINGULAR"> Haniya </REFERENCE>
+		<STRING> declined to make </STRING>
+		<REFERENCE animacy="INANIMATE" entity="54" gender="UNKNOWN" mentionid="54" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> public the names of </STRING>
+			<REFERENCE animacy="ANIMATE" entity="55" gender="UNKNOWN" mentionid="55" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> the proposed ministers in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="56" mentiontype="PROPER" number="UNKNOWN">
+					<STRING> the 24-member </STRING>
+					<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="52" mentiontype="PROPER" number="UNKNOWN"> Cabinet </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, though </STRING>
+		<REFERENCE animacy="ANIMATE" entity="18" gender="MALE" mentionid="57" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING> said </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="58" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> would include </STRING>
+		<REFERENCE animacy="ANIMATE" entity="59" gender="UNKNOWN" mentionid="59" mentiontype="LIST" number="PLURAL">
+			<STRING>`` </STRING>
+			<REFERENCE animacy="ANIMATE" entity="60" gender="UNKNOWN" mentionid="60" mentiontype="LIST" number="PLURAL"> professionals, experts and technocrats </REFERENCE>
+			<STRING>,'' in addition </STRING>
+		</REFERENCE>
+		<STRING> to </STRING>
+		<REFERENCE animacy="ANIMATE" entity="61" gender="UNKNOWN" mentionid="61" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="53" mentiontype="PROPER" number="UNKNOWN"> Hamas </REFERENCE>
+			<STRING> members </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<STRING> However, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="63" gender="UNKNOWN" mentionid="63" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="64" gender="NEUTRAL" mentionid="64" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="8" gender="MALE" mentionid="65" mentiontype="PROPER" number="SINGULAR"> Abbas' </REFERENCE>
+				<STRING> Fatah movement </STRING>
+			</REFERENCE>
+			<STRING> and all other Palestinian parties </STRING>
+		</REFERENCE>
+		<STRING> rejected </STRING>
+		<REFERENCE animacy="INANIMATE" entity="66" gender="UNKNOWN" mentionid="66" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="67" mentiontype="PROPER" number="UNKNOWN"> Hamas' </REFERENCE>
+			<STRING> invitation to join </STRING>
+			<REFERENCE animacy="INANIMATE" entity="68" gender="NEUTRAL" mentionid="68" mentiontype="NOMINAL" number="SINGULAR"> a government of national unity </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<REFERENCE animacy="INANIMATE" entity="70" gender="UNKNOWN" mentionid="70" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> The lack of </STRING>
+			<REFERENCE animacy="ANIMATE" entity="71" gender="UNKNOWN" mentionid="71" mentiontype="NOMINAL" number="PLURAL"> political partners </REFERENCE>
+		</REFERENCE>
+		<STRING> is likely to leave </STRING>
+		<REFERENCE animacy="INANIMATE" entity="72" gender="NEUTRAL" mentionid="72" mentiontype="PROPER" number="UNKNOWN">
+			<STRING> Hamas isolated as </STRING>
+			<REFERENCE animacy="INANIMATE" entity="70" gender="NEUTRAL" mentionid="73" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+			<STRING> prepares to lead </STRING>
+			<REFERENCE animacy="INANIMATE" entity="74" gender="MALE" mentionid="74" mentiontype="PROPER" number="UNKNOWN"> the deeply troubled Palestinian </REFERENCE>
+			<STRING> Authority </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<REFERENCE animacy="INANIMATE" entity="77" gender="UNKNOWN" mentionid="77" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="75" gender="NEUTRAL" mentionid="75" mentiontype="PROPER" number="SINGULAR"> Israel </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="78" gender="NEUTRAL" mentionid="78" mentiontype="PROPER" number="SINGULAR">
+				<STRING> the </STRING>
+				<REFERENCE animacy="INANIMATE" entity="76" gender="NEUTRAL" mentionid="76" mentiontype="PROPER" number="SINGULAR"> United States </REFERENCE>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="79" gender="NEUTRAL" mentionid="79" mentiontype="PROPER" number="UNKNOWN"> the European Union </REFERENCE>
+		</REFERENCE>
+		<STRING> all regard </STRING>
+		<REFERENCE animacy="INANIMATE" entity="80" gender="NEUTRAL" mentionid="80" mentiontype="PROPER" number="UNKNOWN">
+			<STRING> Hamas as </STRING>
+			<REFERENCE animacy="INANIMATE" entity="81" gender="NEUTRAL" mentionid="81" mentiontype="NOMINAL" number="SINGULAR"> a terrorist organization </REFERENCE>
+		</REFERENCE>
+		<STRING> and have refused to deal with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="75" gender="NEUTRAL" mentionid="82" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<STRING> In </STRING>
+		<REFERENCE animacy="INANIMATE" entity="89" gender="UNKNOWN" mentionid="89" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> remarks to </STRING>
+			<REFERENCE animacy="ANIMATE" entity="28" gender="UNKNOWN" mentionid="90" mentiontype="NOMINAL" number="PLURAL"> reporters </REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="18" gender="MALE" mentionid="83" mentiontype="PROPER" number="SINGULAR"> Haniya </REFERENCE>
+		<STRING> did say that </STRING>
+		<REFERENCE animacy="ANIMATE" entity="91" gender="UNKNOWN" mentionid="91" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="84" gender="UNKNOWN" mentionid="84" mentiontype="PROPER" number="SINGULAR"> two </REFERENCE>
+			<STRING> prominent </STRING>
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="85" mentiontype="PROPER" number="UNKNOWN"> Hamas </REFERENCE>
+			<STRING> leaders-- </STRING>
+			<REFERENCE animacy="ANIMATE" entity="92" gender="UNKNOWN" mentionid="92" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="93" gender="MALE" mentionid="93" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Dr. </STRING>
+					<REFERENCE animacy="ANIMATE" entity="86" gender="MALE" mentionid="86" mentiontype="PROPER" number="SINGULAR"> Mahmoud Zahar </REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="ANIMATE" entity="87" gender="MALE" mentionid="87" mentiontype="PROPER" number="SINGULAR"> Said Siam </REFERENCE>
+			</REFERENCE>
+			<STRING>-- </STRING>
+		</REFERENCE>
+		<STRING> would be in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="94" mentiontype="PROPER" number="UNKNOWN">
+			<STRING> the </STRING>
+			<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="88" mentiontype="PROPER" number="UNKNOWN"> Cabinet </REFERENCE>
+		</REFERENCE>
+		<STRING>, though </STRING>
+		<REFERENCE animacy="ANIMATE" entity="86" gender="MALE" mentionid="95" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING> did not give </STRING>
+		<REFERENCE animacy="INANIMATE" entity="96" gender="UNKNOWN" mentionid="96" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="91" gender="UNKNOWN" mentionid="97" mentiontype="PRONOMINAL" number="PLURAL"> their </REFERENCE>
+			<STRING> positions </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="13">
+		<STRING> However, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="86" gender="MALE" mentionid="101" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="86" gender="MALE" mentionid="98" mentiontype="PROPER" number="SINGULAR"> Zahar </REFERENCE>
+			<STRING>, more confrontational in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="102" gender="UNKNOWN" mentionid="102" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="86" gender="MALE" mentionid="103" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+				<STRING> public comments </STRING>
+			</REFERENCE>
+			<STRING> than </STRING>
+			<REFERENCE animacy="ANIMATE" entity="18" gender="MALE" mentionid="99" mentiontype="PROPER" number="SINGULAR"> Haniya </REFERENCE>
+		</REFERENCE>
+		<STRING>, is expected to become foreign minister, and </STRING>
+		<REFERENCE animacy="INANIMATE" entity="87" gender="UNKNOWN" mentionid="100" mentiontype="PROPER" number="SINGULAR"> Siam </REFERENCE>
+		<STRING> is believed to be </STRING>
+		<REFERENCE animacy="INANIMATE" entity="104" gender="UNKNOWN" mentionid="104" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the choice for interior minister, which would give him </STRING>
+			<REFERENCE animacy="INANIMATE" entity="106" gender="UNKNOWN" mentionid="106" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="107" gender="NEUTRAL" mentionid="107" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> authority over </STRING>
+					<REFERENCE animacy="ANIMATE" entity="108" gender="UNKNOWN" mentionid="108" mentiontype="NOMINAL" number="SINGULAR"> the police </REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="109" gender="UNKNOWN" mentionid="109" mentiontype="NOMINAL" number="PLURAL">
+					<STRING> other branches of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="110" gender="UNKNOWN" mentionid="110" mentiontype="NOMINAL" number="PLURAL"> the security forces </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="14">
+		<STRING> In </STRING>
+		<REFERENCE animacy="INANIMATE" entity="114" gender="NEUTRAL" mentionid="114" mentiontype="NOMINAL" number="SINGULAR"> another development </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="115" gender="MALE" mentionid="115" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="116" gender="MALE" mentionid="116" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the U.S. ambassador to </STRING>
+				<REFERENCE animacy="INANIMATE" entity="75" gender="NEUTRAL" mentionid="111" mentiontype="PROPER" number="SINGULAR"> Israel </REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="112" gender="FEMALE" mentionid="112" mentiontype="PROPER" number="SINGULAR"> Richard H. Jones </REFERENCE>
+		</REFERENCE>
+		<STRING>, brokered </STRING>
+		<REFERENCE animacy="INANIMATE" entity="117" gender="UNKNOWN" mentionid="117" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a Sunday night meeting in which </STRING>
+			<REFERENCE animacy="INANIMATE" entity="118" gender="UNKNOWN" mentionid="118" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="75" gender="NEUTRAL" mentionid="113" mentiontype="PROPER" number="SINGULAR"> Israel </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="ANIMATE" entity="119" gender="UNKNOWN" mentionid="119" mentiontype="PROPER" number="SINGULAR"> the Palestinians </REFERENCE>
+			</REFERENCE>
+			<STRING> reached </STRING>
+			<REFERENCE animacy="INANIMATE" entity="120" gender="NEUTRAL" mentionid="120" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a deal to allow </STRING>
+				<REFERENCE animacy="INANIMATE" entity="121" gender="UNKNOWN" mentionid="121" mentiontype="LIST" number="PLURAL"> food and other essential supplies </REFERENCE>
+				<STRING> to go into </STRING>
+				<REFERENCE animacy="INANIMATE" entity="122" gender="NEUTRAL" mentionid="122" mentiontype="PROPER" number="SINGULAR">
+					<STRING> the Gaza Strip beginning </STRING>
+					<REFERENCE animacy="INANIMATE" entity="123" gender="UNKNOWN" mentionid="123" mentiontype="PROPER" number="SINGULAR"> Monday </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="15">
+		<STRING> Citing </STRING>
+		<REFERENCE animacy="INANIMATE" entity="126" gender="UNKNOWN" mentionid="126" mentiontype="NOMINAL" number="PLURAL"> security concerns </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="75" gender="NEUTRAL" mentionid="124" mentiontype="PROPER" number="SINGULAR"> Israel </REFERENCE>
+		<STRING> has kept </STRING>
+		<REFERENCE animacy="INANIMATE" entity="127" gender="MALE" mentionid="127" mentiontype="PROPER" number="UNKNOWN">
+			<REFERENCE animacy="INANIMATE" entity="128" gender="MALE" mentionid="128" mentiontype="PROPER" number="UNKNOWN"> the Karni crossing </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="128" gender="UNKNOWN" mentionid="129" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> the main commercial goods terminal on </STRING>
+				<REFERENCE animacy="INANIMATE" entity="130" gender="NEUTRAL" mentionid="130" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="122" gender="UNKNOWN" mentionid="125" mentiontype="PROPER" number="SINGULAR"> Gaza's </REFERENCE>
+					<STRING> border </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, closed for </STRING>
+		<REFERENCE animacy="INANIMATE" entity="131" gender="UNKNOWN" mentionid="131" mentiontype="NOMINAL" number="UNKNOWN">
+			<STRING> most of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="132" gender="UNKNOWN" mentionid="132" mentiontype="PROPER" number="SINGULAR"> the past two months </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="16">
+		<REFERENCE animacy="ANIMATE" entity="135" gender="UNKNOWN" mentionid="135" mentiontype="LIST" number="PLURAL">
+			<STRING> Palestinian and </STRING>
+			<REFERENCE animacy="ANIMATE" entity="136" gender="UNKNOWN" mentionid="136" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="133" gender="UNKNOWN" mentionid="133" mentiontype="PROPER" number="UNKNOWN"> U.N. </REFERENCE>
+				<STRING> officials </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> say </STRING>
+		<REFERENCE animacy="INANIMATE" entity="122" gender="UNKNOWN" mentionid="134" mentiontype="PROPER" number="SINGULAR"> Gaza </REFERENCE>
+		<STRING> is facing </STRING>
+		<REFERENCE animacy="INANIMATE" entity="137" gender="UNKNOWN" mentionid="137" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> shortages of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="138" gender="UNKNOWN" mentionid="138" mentiontype="LIST" number="PLURAL"> bread and other basic foods </REFERENCE>
+		</REFERENCE>
+		<STRING> because </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="139" gender="NEUTRAL" mentionid="139" mentiontype="NOMINAL" number="UNKNOWN"> the crossing </REFERENCE>
+		<STRING> has been closed. </STRING>
+	</SENTENCE>
+</TEXT>

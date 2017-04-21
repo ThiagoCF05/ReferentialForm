@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TEXT ID="1758">
+	<TITLE>Tom of Finland</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tom of Finland</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (May 8, 1920 - November 7, 1991) (born Touko Laaksonen in Kaarina, Finland) was a fetish artist notable for  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="20" SEMCAT="person" SENTENCE-POSITION="21" SENTENCE-RECENCY="20" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> stylized homoerotic art and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="5" SEMCAT="person" SENTENCE-POSITION="26" SENTENCE-RECENCY="5" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> influence on late twentieth century gay culture. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

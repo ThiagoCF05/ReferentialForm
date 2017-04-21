@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="777">
+	<TITLE>Monte Perdido</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte Perdido</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Mont Perdu in French, both meaning lost mountain) is the third highest mountain in the Pyrenees.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The summit of  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte Perdido</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (3355m), located in Spain, lies hidden from France by the seemingly impenetrable peaks of the Cirques of Gavarnie and Estaube. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>To get to  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> from Spain is easier.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Explorers first had to hike from the Aragonese village of Torla along the huge Ordesa Valley and then up through the Circo de Soaso before attempting the stiff climb to the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte Perdido</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the centrepiece of the Spanish Ordesa y Monte Perdido National Park which was established in 1918 with just 21 square kilometres of land. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Today the park has grown significantly to 156 square kilometres and incorporates the whole of the Añisclo Canyon.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>There are more than 1500 species of flowers, 171 birds, 32 different mammals and 8 types of reptile in the Ordesa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Most magnificent of all is the Lammergeier (Bearded Vulture) with a 3 metre wingspan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>The Pyrenees is one of the rare places to see these birds in Europe. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

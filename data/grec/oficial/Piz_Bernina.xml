@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT ID="657">
+	<TITLE>Piz Bernina</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Piz Bernina</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (4,049 m) is the highest mountain of the Eastern Alps.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also the furthest easterly mountain higher than 4,000 m in the Alps, the highest point of the Graubünden canton of Switzerland, and the fifth most prominent peak in the Alps.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Although  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="33" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> straddles the Swiss-Italian border, the highest summit is entirely on Swiss territory. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

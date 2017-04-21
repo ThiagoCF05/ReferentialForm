@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1001">
+	<TITLE>Astana</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Astana</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Kazakh: Астана; former names include Aqmola and Tselinograd), estimated population of 600,000 (2004), is the second largest city and the capital of Kazakhstan since 1997.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The name &quot;Astana&quot;, which in Kazakh language means &quot;Capital city&quot;, was allegedly chosen because it is easily pronounced in many languages.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>However, in Kazakh, it is pronounced &quot;As-ta-na&quot;, while in English and many other international languages, the common pronunciation is &quot;As-ta-na&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="68" PARAGRAPH-RECENCY="67" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is within Aqmola Province, though politically separate from the rest of the province, which has its own capital. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The current mayor of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Astana</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Askar Mamin, formerly Minister for Transportation.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>He was appointed mayor on 25 September 2006. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

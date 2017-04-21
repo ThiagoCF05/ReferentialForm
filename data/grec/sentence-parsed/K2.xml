@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="247">
+	<TITLE>K2</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">K2</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the second-highest mountain on Earth.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Karakoram segment of the Himalayan range, on the border between the Gilgit-Baltistan region of the Pakistan administered Northern Areas and the Taxkorgan Tajik Autonomous County of Xinjiang, China.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>However, to climb  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">K2</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> you have to acquire entry via Pakistan as the Chinese side is inaccessible. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Chinese authorities officially refer to  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">K2</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as Qogir [simplified Chinese: 乔戈里峰; traditional Chinese: 喬戈里峰; pinyin: ].</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>This name is derived from Chogori, a synthetic name made up by Western explorers early in the 20th century from two Balti words, chhogo ('big') and ri ('mountain').</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Other names include Mount Godwin-Austen, Lamba Pahar (&quot;Tall Mountain&quot; in Urdu), Dapsang, Kechu or Ketu (both derived from &quot;K2&quot;). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

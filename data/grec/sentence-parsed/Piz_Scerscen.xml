@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TEXT ID="663">
+	<TITLE>Piz Scerscen</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Piz Scerscen</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (3,971 m) is a mountain in the Bernina Range in Switzerland and Italy, joining the neighbouring Piz Bernina by its north-east ridge via a 3,895 m pass.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name means 'the circular mountain' ('Scerscen' is pronounced cherchen). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a prominent secondary summit called the Schneehaube (3,875 m). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The first ascent of  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Piz Scerscen</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was by Paul Güssfeldt, Hans Grass and Caspar Capat on 13 September 1877 via the north-west spur, descending the same way.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>This is the well-known Eisnase route, involving a 100-metre ice pitch of between 60–70°, although its precise length and steepness are debated.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>This was the route followed by Walter Risch on the first solo ascent of  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in 1924.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>The first ascent of the north-west face was by Christian Klucker and L. Norman-Neruda on 9 July 1890. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

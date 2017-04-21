@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="75">
+	<TITLE>Cerro de la Estrella</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cerro de la Estrella</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (from Spanish, meaning Hill of the Star) is a small mountain associated with several pre-Columbian Mesoamerican archaeological sites, located in southeastern Central Mexico's Valley of Mexico. The site is contained within the urban sprawl of present-day Mexico City, in the Iztapalapa delegación (borough) of the Mexican Federal District.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>One of the sites is a 1,500 year old pyramid structure associated with the Classic-era Teotihuacano culture, which is located underneath a Roman Catholic religious site from the Colonial period. Originally rediscovered and described in 1972, the structure was rediscovered on April 5, 2006 with much accompanying fanfare. The 60-foot tall pyramid was originally carved from the hillside in 500 B.C., some 2,000 years before the Spanish conquest of Mexico. It was abandoned in about 800 A.D.. It measures 500 feet on each side. Ceramic fragments and ceremonial structures convinced archaeologist Miriam Advincula to begin mapping the area in 2004.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Archaeologist Jesús Sánchez said, &quot;When they first saw us digging there, the local people just couldn't believe there was a pyramid. It was only when the slopes and shapes of the pyramid, the floors with altars were found, that they finally believed us.&quot; Noting the important Holy Week celebrations on the site, he said &quot;Both the pre-Hispanic structure and the Holy Week rituals are part of our cultural legacy, so we have to look for a way to protect both cultural values.&quot;</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>Another important archaeological site on </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cerro de la Estrella</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the Aztec New Fire temple. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cerro de la Estrella</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was known as &quot;Huixachtepetl&quot; (&quot;hill of the huisache&quot;) in Aztec times. In the Aztec calendrical renewal ceremony known as the &quot;New fire ceremony&quot; priests observed the heavens from this temple every 52 years to determine if the world would be destroyed by the gods or saved for another 52 years. If the world was not to be destroyed, priests carried out a sacrifice and lit a new fire which was then carried to all towns in the Aztec Empire.</STRING>
+	</PARAGRAPH>
+</TEXT>

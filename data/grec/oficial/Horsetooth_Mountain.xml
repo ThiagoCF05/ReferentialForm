@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TEXT ID="216">
+	<TITLE>Horsetooth Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Horsetooth Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in the foothills of the Front Range west of the city of Fort Collins, Colorado, from which  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="mountain" SENTENCE-POSITION="22" SENTENCE-RECENCY="21" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is easily visible. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is easily distinguishable by the large rock formation on  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit known as Horsetooth Rock.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The formation is a prominent landmark of the nearby city of Fort Collins and often used as a symbol of that city, appearing in the official city seal.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The name comes from its distinctive appearance. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The rock was previously on the private property of the Soderburg family.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>In 1982, it was purchased by the county as an &quot;open space&quot; tax acquisition.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="27" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is now a popular destination for hikers as well as mountain bikers, with trails leading to the summit. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

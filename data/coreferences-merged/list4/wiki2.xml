@@ -1,0 +1,394 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+	<SENTENCE ID="1">
+		<TARGET-REFERENCE ENTROPY="0" ID="1" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="ANIMATE" entity="5" gender="UNKNOWN" mentionid="19" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="name">The Nile</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="name">Nile</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="name">Nile</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="name">Nile</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="name">Nile</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="name">The river Nile</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="name">Nile</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="name">The Nile</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> -LRB- </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="6" gender="NEUTRAL" mentionid="6" mentiontype="PROPER" number="SINGULAR">
+			<STRING> -LSB- Arabic: </STRING>
+			<REFERENCE animacy="INANIMATE" entity="7" gender="UNKNOWN" mentionid="7" mentiontype="PROPER" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="8" gender="UNKNOWN" mentionid="8" mentiontype="PROPER" number="SINGULAR"> النيل -RSB- </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="8" gender="UNKNOWN" mentionid="9" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> -LSB- </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="1" gender="NEUTRAL" mentionid="1" mentiontype="PROPER" number="SINGULAR"> Arabic </REFERENCE>
+					<STRING> transliteration </STRING>
+				</REFERENCE>
+				<STRING>: </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="10" gender="UNKNOWN" mentionid="10" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="UNKNOWN" entity="11" gender="UNKNOWN" mentionid="11" mentiontype="NOMINAL" number="SINGULAR"> an-nīl -RSB- </REFERENCE>
+					<STRING>, Ancient Egyptian iteru </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> -RRB- is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="12" gender="NEUTRAL" mentionid="12" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a major north-flowing river in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="2" mentiontype="PROPER" number="SINGULAR"> Africa </REFERENCE>
+		</REFERENCE>
+		<STRING>, often regarded as </STRING>
+		<REFERENCE animacy="INANIMATE" entity="13" gender="NEUTRAL" mentionid="13" mentiontype="NOMINAL" number="SINGULAR"> the longest river </REFERENCE>
+		<STRING> on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="3" mentiontype="PROPER" number="SINGULAR"> Earth </REFERENCE>
+		<STRING>, although </STRING>
+		<REFERENCE animacy="INANIMATE" entity="14" gender="UNKNOWN" mentionid="14" mentiontype="NOMINAL" number="PLURAL"> some sources </REFERENCE>
+		<STRING> claim </STRING>
+		<REFERENCE animacy="INANIMATE" entity="15" gender="NEUTRAL" mentionid="15" mentiontype="PROPER" number="SINGULAR">
+			<STRING> the Amazon in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="4" gender="NEUTRAL" mentionid="4" mentiontype="PROPER" number="SINGULAR"> South America </REFERENCE>
+		</REFERENCE>
+		<STRING> is longer. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<TARGET-REFERENCE ENTROPY="0.649903" ID="2" PARAGRAPH-POSITION="36" RECENCY="35" SYNCAT="np-subj" animacy="ANIMATE" entity="5" gender="UNKNOWN" mentionid="19" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="name">The Nile</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="description">The river</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="description">The river</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="description">The main river</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="description">The river</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="name">The Nile</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> has </STRING>
+		<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="21" gender="UNKNOWN" mentionid="21" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="16" mentiontype="PROPER" number="SINGULAR"> two </REFERENCE>
+				<STRING> major tributaries </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="22" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="23" gender="UNKNOWN" mentionid="23" mentiontype="LIST" number="PLURAL">
+					<STRING> the </STRING>
+					<REFERENCE animacy="INANIMATE" entity="17" gender="UNKNOWN" mentionid="17" mentiontype="PROPER" number="SINGULAR"> White Nile </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE animacy="INANIMATE" entity="18" gender="UNKNOWN" mentionid="18" mentiontype="PROPER" number="SINGULAR"> Blue Nile </REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="24" gender="NEUTRAL" mentionid="24" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the latter being </STRING>
+					<REFERENCE animacy="INANIMATE" entity="25" gender="UNKNOWN" mentionid="25" mentiontype="NOMINAL" number="SINGULAR"> the source </REFERENCE>
+					<STRING> of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="26" gender="UNKNOWN" mentionid="26" mentiontype="NOMINAL" number="UNKNOWN">
+						<STRING> most of </STRING>
+						<REFERENCE animacy="INANIMATE" entity="27" gender="NEUTRAL" mentionid="27" mentiontype="NOMINAL" number="SINGULAR">
+							<TARGET-REFERENCE ENTROPY="0.279949" ID="3" PARAGRAPH-POSITION="55" RECENCY="19" SYNCAT="subj-det" animacy="ANIMATE" entity="5" gender="UNKNOWN" mentionid="28" number="SINGULAR">
+								<ORIGINAL-REFEX>
+									<REFEX TYPE="name">the Nile's</REFEX>
+								</ORIGINAL-REFEX>
+								<PARTICIPANTS-REFEX>
+									<REFEX PARTICIPANT-ID="86" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+									<REFEX PARTICIPANT-ID="95" TYPE="other">Africa's</REFEX>
+									<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+									<REFEX PARTICIPANT-ID="104" TYPE="other">fresh</REFEX>
+									<REFEX PARTICIPANT-ID="107" TYPE="other">northeastern Africas</REFEX>
+									<REFEX PARTICIPANT-ID="110" TYPE="other">Egypt's</REFEX>
+									<REFEX PARTICIPANT-ID="113" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="119" TYPE="other">Egypt's</REFEX>
+									<REFEX PARTICIPANT-ID="122" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="125" TYPE="other">fresh</REFEX>
+									<REFEX PARTICIPANT-ID="131" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="141" TYPE="other">the</REFEX>
+									<REFEX PARTICIPANT-ID="143" TYPE="other">the</REFEX>
+									<REFEX PARTICIPANT-ID="145" TYPE="name">the Nile's</REFEX>
+									<REFEX PARTICIPANT-ID="156" TYPE="other">flowing</REFEX>
+									<REFEX PARTICIPANT-ID="162" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="163" TYPE="other">Egypt's</REFEX>
+									<REFEX PARTICIPANT-ID="164" TYPE="other">drinking</REFEX>
+								</PARTICIPANTS-REFEX>
+							</TARGET-REFERENCE>
+							<STRING> water </STRING>
+						</REFERENCE>
+					</REFERENCE>
+					<STRING> and fertile soil </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, but </STRING>
+		<REFERENCE animacy="INANIMATE" entity="29" gender="UNKNOWN" mentionid="29" mentiontype="NOMINAL" number="UNKNOWN"> the former </REFERENCE>
+		<STRING> being </STRING>
+		<REFERENCE animacy="INANIMATE" entity="30" gender="UNKNOWN" mentionid="30" mentiontype="NOMINAL" number="UNKNOWN">
+			<STRING> the longer of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="31" mentiontype="PROPER" number="SINGULAR"> the two </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="INANIMATE" entity="23" gender="UNKNOWN" mentionid="44" mentiontype="PROPER" number="SINGULAR"> The White Nile </REFERENCE>
+		<STRING> rises in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="45" gender="NEUTRAL" mentionid="45" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the </STRING>
+			<REFERENCE animacy="INANIMATE" entity="32" gender="NEUTRAL" mentionid="32" mentiontype="PROPER" number="SINGULAR"> Great Lakes </REFERENCE>
+			<STRING> region of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="46" mentiontype="PROPER" number="SINGULAR">
+				<STRING> central </STRING>
+				<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="33" mentiontype="PROPER" number="SINGULAR"> Africa </REFERENCE>
+			</REFERENCE>
+			<STRING>, with </STRING>
+			<REFERENCE animacy="INANIMATE" entity="47" gender="UNKNOWN" mentionid="47" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the most distant source in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="48" gender="NEUTRAL" mentionid="48" mentiontype="PROPER" number="SINGULAR"> southern Rwanda 2 </REFERENCE>
+			</REFERENCE>
+			<STRING> ° 16' </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="49" gender="NEUTRAL" mentionid="49" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="35" gender="UNKNOWN" mentionid="35" mentiontype="PROPER" number="SINGULAR"> 55.92 </REFERENCE>
+				<STRING> S </STRING>
+				<REFERENCE animacy="INANIMATE" entity="36" gender="UNKNOWN" mentionid="36" mentiontype="PROPER" number="SINGULAR"> ,29 ° 19 </REFERENCE>
+			</REFERENCE>
+			<STRING>' </STRING>
+			<REFERENCE animacy="INANIMATE" entity="50" gender="UNKNOWN" mentionid="50" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="37" gender="UNKNOWN" mentionid="37" mentiontype="PROPER" number="SINGULAR"> 52.32 </REFERENCE>
+				<STRING> E </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, and flows north from there through </STRING>
+		<REFERENCE animacy="INANIMATE" entity="51" gender="UNKNOWN" mentionid="51" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="38" gender="NEUTRAL" mentionid="38" mentiontype="PROPER" number="SINGULAR"> Tanzania </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="39" gender="UNKNOWN" mentionid="39" mentiontype="PROPER" number="SINGULAR"> Lake Victoria </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="40" gender="NEUTRAL" mentionid="40" mentiontype="PROPER" number="SINGULAR"> Uganda </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="52" gender="NEUTRAL" mentionid="52" mentiontype="PROPER" number="SINGULAR">
+				<STRING> southern </STRING>
+				<REFERENCE animacy="INANIMATE" entity="41" gender="NEUTRAL" mentionid="41" mentiontype="PROPER" number="SINGULAR"> Sudan </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, while </STRING>
+		<REFERENCE animacy="INANIMATE" entity="18" gender="UNKNOWN" mentionid="53" mentiontype="PROPER" number="SINGULAR"> the Blue Nile </REFERENCE>
+		<STRING> starts at </STRING>
+		<REFERENCE animacy="INANIMATE" entity="54" gender="MALE" mentionid="54" mentiontype="PROPER" number="SINGULAR">
+			<STRING> Lake Tana in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="42" gender="NEUTRAL" mentionid="42" mentiontype="PROPER" number="SINGULAR"> Ethiopia </REFERENCE>
+		</REFERENCE>
+		<STRING>, flowing into </STRING>
+		<REFERENCE animacy="INANIMATE" entity="41" gender="NEUTRAL" mentionid="43" mentiontype="PROPER" number="SINGULAR"> Sudan </REFERENCE>
+		<STRING> from </STRING>
+		<REFERENCE animacy="INANIMATE" entity="55" gender="NEUTRAL" mentionid="55" mentiontype="NOMINAL" number="SINGULAR"> the southeast </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<REFERENCE animacy="INANIMATE" entity="57" gender="UNKNOWN" mentionid="57" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> The </STRING>
+			<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="56" mentiontype="PROPER" number="SINGULAR"> two </REFERENCE>
+			<STRING> rivers </STRING>
+		</REFERENCE>
+		<STRING> meet near </STRING>
+		<REFERENCE animacy="INANIMATE" entity="58" gender="NEUTRAL" mentionid="58" mentiontype="PROPER" number="SINGULAR"> the Sudanese capital Khartoum </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+	<SENTENCE ID="5">
+		<REFERENCE animacy="INANIMATE" entity="61" gender="NEUTRAL" mentionid="61" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> The northern section of </STRING>
+			<TARGET-REFERENCE ENTROPY="0.39333" ID="4" PARAGRAPH-POSITION="5" RECENCY="0" SYNCAT="np-obj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="62" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">The Nile</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">the nile</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">The Nile</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">this river</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">The Nile</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">The Nile</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+		</REFERENCE>
+		<STRING> flows almost entirely through desert, from </STRING>
+		<REFERENCE animacy="INANIMATE" entity="41" gender="NEUTRAL" mentionid="59" mentiontype="PROPER" number="SINGULAR"> Sudan </REFERENCE>
+		<STRING> into </STRING>
+		<REFERENCE animacy="INANIMATE" entity="63" gender="NEUTRAL" mentionid="63" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="60" gender="NEUTRAL" mentionid="60" mentiontype="PROPER" number="SINGULAR"> Egypt </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="60" gender="NEUTRAL" mentionid="64" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a country whose civilization has depended on </STRING>
+				<TARGET-REFERENCE ENTROPY="0.777387" ID="5" PARAGRAPH-POSITION="22" RECENCY="17" SYNCAT="np-obj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="65" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="description">the river</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="name">the Nile</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="description">the watersource</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="name">the Nile</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="other">the waters of the Nile</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="other">water</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="name">the  Nile</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="other">it for water</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="name">the Nile</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="demonstrative">this river</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> since </STRING>
+				<REFERENCE animacy="INANIMATE" entity="66" gender="UNKNOWN" mentionid="66" mentiontype="NOMINAL" number="PLURAL"> ancient times </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="INANIMATE" entity="70" gender="UNKNOWN" mentionid="70" mentiontype="NOMINAL" number="UNKNOWN">
+			<STRING> Most of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="71" gender="UNKNOWN" mentionid="71" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="72" gender="NEUTRAL" mentionid="72" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the population of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="60" gender="NEUTRAL" mentionid="67" mentiontype="PROPER" number="SINGULAR"> Egypt </REFERENCE>
+				</REFERENCE>
+				<STRING> and all of its cities </STRING>
+			</REFERENCE>
+			<STRING>, with </STRING>
+			<REFERENCE animacy="INANIMATE" entity="73" gender="UNKNOWN" mentionid="73" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the exception of </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="74" gender="UNKNOWN" mentionid="74" mentiontype="NOMINAL" number="UNKNOWN">
+					<STRING> those near </STRING>
+					<REFERENCE animacy="INANIMATE" entity="75" gender="NEUTRAL" mentionid="75" mentiontype="NOMINAL" number="SINGULAR"> the coast </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, lie along </STRING>
+		<REFERENCE animacy="INANIMATE" entity="76" gender="UNKNOWN" mentionid="76" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> those parts of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="77" gender="NEUTRAL" mentionid="77" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the </STRING>
+				<REFERENCE animacy="INANIMATE" entity="23" gender="UNKNOWN" mentionid="68" mentiontype="PROPER" number="SINGULAR"> Nile </REFERENCE>
+				<STRING> valley north of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="69" gender="UNKNOWN" mentionid="69" mentiontype="PROPER" number="SINGULAR"> Aswan </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>; and nearly all the cultural and historical sites of </STRING>
+		<REFERENCE animacy="INANIMATE" entity="63" gender="NEUTRAL" mentionid="78" mentiontype="PROPER" number="SINGULAR"> Ancient Egypt </REFERENCE>
+		<STRING> are found along </STRING>
+		<REFERENCE animacy="INANIMATE" entity="79" gender="UNKNOWN" mentionid="79" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> the banks of </STRING>
+			<TARGET-REFERENCE ENTROPY="0.604962" ID="6" PARAGRAPH-POSITION="73" RECENCY="51" SYNCAT="np-obj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="80" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">The Nile</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">the nile</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">The Nile</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="demonstrative">this river.</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">the river</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">the Nile</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">river Nile</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">Africa</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">the mighty Nile</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">The Nile</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+	<SENTENCE ID="7">
+		<TARGET-REFERENCE ENTROPY="0.333448" ID="7" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="ANIMATE" entity="5" gender="UNKNOWN" mentionid="81" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="name">The Nile</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="description">The river</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="description">The river</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="name">The Nile</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="name">The Nile</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> ends in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="82" gender="NEUTRAL" mentionid="82" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a large delta that empties into </STRING>
+			<REFERENCE animacy="INANIMATE" entity="83" gender="NEUTRAL" mentionid="83" mentiontype="PROPER" number="SINGULAR"> the Mediterranean Sea </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

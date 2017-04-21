@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="407">
+	<TITLE>Mount Eolus</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Eolus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a fourteener in the U.S. state of Colorado, the highest of the Needle Mountains (a subrange of the San Juan Mountains). </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the Weminuche Wilderness (part of the San Juan National Forest) in La Plata County approximately 13 miles (21 km) south of Silverton.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Eolus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of three fourteeners in the Needle Mountains; the others are Sunlight Peak and Windom Peak. All three peaks are located around the cirque known as Upper Chicago Basin. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Eolus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies to the west of the upper basin, while the other peaks lie on the east side. These peaks are among the most remote of the fourteeners and have a strong wilderness character. Windom Peak is only 1 foot lower than </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Eolus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>; some sources have Windom being slightly higher than </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Eolus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>North Eolus (14,039 ft) is a northern subpeak of </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Eolus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, which is not usually counted as a separate peak or as an official fourteener, since it has a topographic prominence of only 159-199 feet. However it is sometimes climbed in conjunction with </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Eolus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

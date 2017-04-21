@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="1185">
+	<TITLE>Tunis</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tunis</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Arabic: تونس, Tūnis) is the capital of the Tunisian Republic and also the Tunis Governorate, with a population of 699,700 in 2003. Informal estimates state that the population of greater Tunis approaches two million.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Situated on a large Mediterranean gulf, (the Gulf of Tunis), behind the Lake of Tunis and the port of La Goulette (Halq al Wadi), </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> extends along the coastal plain and the hills that surround it. At the centre of more modern development (colonial era and post) lies the old medina. Beyond this section lie the suburbs of Carthage, La Marsa, and Sidi Bou Said.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The medina is found at the centre of </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>: a dense agglomeration of alleys and covered passages, full of intense scents and colours, boisterous and active trade, a surfeit of goods on offer ranging from leather to plastic, tin to the finest filigree, tourist souvenirs to the works of tiny crafts-shops.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>Just through the Sea Gate (also known as the Bab el Bahr and the Porte de France), begins the modern city, or Ville Nouvelle, transversed by the grand Avenue Bourguiba (considered by many to be the Tunisian Champs-Élysées), where the colonial-era buildings provide a clear contrast to smaller older structures. As the capital city of the country </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tunis</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the center of Tunisian commercial activity, as well as focus of political and administrative life in the country. The expansion of the Tunisian economy in the last decades is reflected in the booming development of the outer city where one can see clearly the social challenges brought about by rapid modernization in Tunisia.</STRING>
+	</PARAGRAPH>
+</TEXT>

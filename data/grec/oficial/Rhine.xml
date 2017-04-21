@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<TEXT ID="1837">
+	<TITLE>Rhine</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Rhine River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Dutch Rijn, French Rhin, German Rhein, Italian: Reno, Romansch: Rein, ) is one of the longest and most important rivers in Europe at 1,320 kilometres (820 miles), with an average discharge of more than 2,000 cubic meters per second.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The name of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="44" PARAGRAPH-RECENCY="43" SEMCAT="river" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Rhine</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> comes from the Celtic Renos, literally &quot;that which flows&quot;, from the Proto-Indo-European root *rei- (&quot;to flow, run&quot;), which is also the origin of the English verb &quot;to run&quot; and the Greek adage Πάντα ῥεῖ καὶ οὐδὲν μένει, (everything flows, nothing stands still). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Rhine</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and the Danube formed most of the northern frontier of the Roman Empire, and since those days  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="18" SEMCAT="river" SENTENCE-POSITION="19" SENTENCE-RECENCY="18" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Rhine</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been a vital navigable waterway, carrying trade and goods deep inland.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="13" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has also served as a defensive feature, and been the basis for regional and international borders.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The many castles and prehistoric fortifications along  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="56" PARAGRAPH-RECENCY="24" SEMCAT="river" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Rhine</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> testify to  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="59" PARAGRAPH-RECENCY="3" SEMCAT="river" SENTENCE-POSITION="11" SENTENCE-RECENCY="3" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> importance as a waterway - river traffic could be stopped at these locations, usually for the purpose of collecting tolls, by the state controlling that portion of  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="87" PARAGRAPH-RECENCY="28" SEMCAT="river" SENTENCE-POSITION="39" SENTENCE-RECENCY="28" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

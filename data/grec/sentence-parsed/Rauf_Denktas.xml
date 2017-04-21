@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1708">
+	<TITLE>Rauf Denktaş</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rauf Raif Denktaş</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (in English often spelled Rauf Denktash) (born January 27, 1924) is the founder of the Turkish Republic of Northern Cyprus, a defacto state which is only recognized by Turkey.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the first President of the TRNC and  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has served four five-year terms in that office. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

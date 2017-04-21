@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="563">
+	<TITLE>Mount Tasman</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Tasman</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Rarakiora in Māori) is New Zealand's second highest mountain, rising to a height of 3497 metres.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Southern Alps of the South Island, four kilometres to the north of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> larger neighbour, Aoraki/Mount Cook.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Unlike Aoraki/Mount Cook,  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Tasman</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> sits on the South Island's Main Divide, on the border between Aoraki/Mount Cook National Park and Westland National Park.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest point in Westland District. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

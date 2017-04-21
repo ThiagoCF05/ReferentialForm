@@ -1,0 +1,521 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="5" ENTROPY="0" GENDER="male" ID="1" MENTION-ID="1" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Cho Oyu</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">cho oyu</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Cho Oyu</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> -LRB- or </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="6" GENDER="unknown" MENTION-ID="2" NUMBER="singular" TYPE="name"> Qowowuyag </REFERENCE>
+			<STRING>; in </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="7" GENDER="unknown" MENTION-ID="3" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="8" GENDER="unknown" MENTION-ID="4" NUMBER="singular" TYPE="name">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="5" NUMBER="singular" TYPE="name"> Nepal </REFERENCE>
+					<STRING> चोयु </STRING>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="9" GENDER="unknown" MENTION-ID="6" NUMBER="singular" TYPE="name">
+					<STRING> Tibetan in </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="10" GENDER="unknown" MENTION-ID="7" NUMBER="singular" TYPE="description">
+						<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="8" NUMBER="singular" TYPE="name"> Wylie </REFERENCE>
+						<STRING> transliteration </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING>: </STRING>
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="11" GENDER="unknown" MENTION-ID="9" NUMBER="singular" TYPE="description"> jo bo dbu yag </REFERENCE>
+				<STRING>; Chinese: </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="12" GENDER="unknown" MENTION-ID="10" NUMBER="singular" TYPE="name">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="unknown" MENTION-ID="11" NUMBER="singular" TYPE="name"> 卓奧有山 </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="unknown" ENTITY-ID="13" GENDER="unknown" MENTION-ID="12" NUMBER="singular" TYPE="name"> Pinyin </REFERENCE>
+				</REFERENCE>
+				<STRING>: -LSB- </STRING>
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="14" GENDER="unknown" MENTION-ID="13" NUMBER="unknown" TYPE="description"> -RSB- </REFERENCE>
+			</REFERENCE>
+			<STRING> -RRB- </STRING>
+			<STRING> is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="15" GENDER="neutral" MENTION-ID="14" NUMBER="singular" TYPE="description">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="4" GENDER="male" MENTION-ID="15" NUMBER="singular" TYPE="name"> sixth </REFERENCE>
+				<STRING> highest mountain in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="neutral" MENTION-ID="16" NUMBER="singular" TYPE="description"> the world </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="5" ENTROPY="0.642188" GENDER="male" ID="2" MENTION-ID="17" NUMBER="singular" PARAGRAPH-POSITION="27" RECENCY="26" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Cho Oyu</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="demonstrative">This mountain</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="description">The mountain</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="demonstrative">This mountain</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="description">The mountain</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Cho oyu</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> lies in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="23" GENDER="neutral" MENTION-ID="18" NUMBER="singular" TYPE="name">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="18" GENDER="neutral" MENTION-ID="19" NUMBER="singular" TYPE="name"> Himalayas </REFERENCE>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="5" ENTROPY="0.694336" GENDER="male" ID="3" MENTION-ID="20" NUMBER="singular" PARAGRAPH-POSITION="33" RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the mountain</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="other">is</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="other">it's location</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="other">is</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="other">is</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="empty">-</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="24" GENDER="unknown" MENTION-ID="21" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="19" GENDER="unknown" MENTION-ID="22" NUMBER="singular" TYPE="name"> 20 </REFERENCE>
+				<STRING> km west of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="20" GENDER="unknown" MENTION-ID="23" NUMBER="singular" TYPE="name"> Mount Everest </REFERENCE>
+			</REFERENCE>
+			<STRING>, at </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="25" GENDER="neutral" MENTION-ID="24" NUMBER="singular" TYPE="description"> the border </REFERENCE>
+			<STRING> between </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="26" GENDER="unknown" MENTION-ID="25" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="21" GENDER="neutral" MENTION-ID="26" NUMBER="singular" TYPE="name"> China </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="27" NUMBER="singular" TYPE="name"> Nepal </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="5" GENDER="male" MENTION-ID="28" NUMBER="singular" TYPE="name"> Cho Oyu </REFERENCE>
+			<STRING> means </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="28" GENDER="female" MENTION-ID="29" NUMBER="singular" TYPE="name">`` Turquoise Goddess'' in Tibetan </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="5" ENTROPY="0.2341" GENDER="male" ID="4" MENTION-ID="30" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Cho Oyu</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="other">Ascent</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="other">Reaching the peak</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="other">Climbing</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">A climb</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">cho oyu</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">Climbing</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="other">A climb</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Cho Oyu</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> was </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="30" GENDER="neutral" MENTION-ID="31" NUMBER="singular" TYPE="name"> first </REFERENCE>
+			<STRING> attempted in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="35" GENDER="unknown" MENTION-ID="32" NUMBER="singular" TYPE="name"> 1952 </REFERENCE>
+			<STRING> by </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="36" GENDER="neutral" MENTION-ID="33" NUMBER="singular" TYPE="description">
+				<STRING> an expedition led by </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="31" GENDER="male" MENTION-ID="34" NUMBER="singular" TYPE="name"> Eric Shipton </REFERENCE>
+			</REFERENCE>
+			<STRING> and including </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="32" GENDER="male" MENTION-ID="35" NUMBER="singular" TYPE="name"> Tom Bourdillon </REFERENCE>
+			<STRING>, but </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="37" GENDER="unknown" MENTION-ID="36" NUMBER="plural" TYPE="description">
+				<STRING> technical difficulties at </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="38" GENDER="male" MENTION-ID="37" NUMBER="singular" TYPE="description">
+					<STRING> an ice cliff above </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="39" GENDER="unknown" MENTION-ID="38" NUMBER="singular" TYPE="description">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="33" GENDER="unknown" MENTION-ID="39" NUMBER="singular" TYPE="name"> 6,650 </REFERENCE>
+						<STRING> m -LRB- </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="40" GENDER="neutral" MENTION-ID="40" NUMBER="singular" TYPE="description">
+							<REFERENCE ANIMACY="inanimate" ENTITY-ID="34" GENDER="unknown" MENTION-ID="41" NUMBER="singular" TYPE="name"> 21,820 </REFERENCE>
+							<STRING> ft </STRING>
+						</REFERENCE>
+						<STRING> -RRB- </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> proved beyond </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="41" GENDER="unknown" MENTION-ID="42" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="5" GENDER="unknown" MENTION-ID="43" NUMBER="plural" TYPE="pronoun"> their </REFERENCE>
+				<STRING> abilities </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING> -LRB- Today, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="43" GENDER="unknown" MENTION-ID="44" NUMBER="plural" TYPE="demonstrative"> these ice cliffs </REFERENCE>
+			<STRING> are normally ascended using </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="44" GENDER="unknown" MENTION-ID="45" NUMBER="plural" TYPE="description"> fixed ropes </REFERENCE>
+			<STRING>. -RRB- </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="5" ENTROPY="0.75835" GENDER="male" ID="5" MENTION-ID="46" NUMBER="singular" PARAGRAPH-POSITION="42" RECENCY="41" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Cho Oyu</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">The mountain</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="description">The mountain</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="demonstrative">yhis</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="description">The mountain</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">cho oyu</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="other">The Turquoise Goddess</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="description">The mountain</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="description">The mountain</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> was </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="30" GENDER="neutral" MENTION-ID="47" NUMBER="singular" TYPE="name"> first </REFERENCE>
+			<STRING> climbed on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="49" GENDER="neutral" MENTION-ID="48" NUMBER="singular" TYPE="name">
+				<STRING> October 19, 1954 via </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="50" GENDER="male" MENTION-ID="49" NUMBER="singular" TYPE="name">
+					<STRING> the northwest ridge by </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="51" GENDER="unknown" MENTION-ID="50" NUMBER="plural">
+						<REFERENCE ANIMACY="animate" ENTITY-ID="47" GENDER="male" MENTION-ID="51" NUMBER="singular" TYPE="name"> Herbert Tichy </REFERENCE>
+						<STRING>, </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="48" GENDER="male" MENTION-ID="52" NUMBER="singular" TYPE="name"> Joseph Jöchler </REFERENCE>
+						<STRING> and Sherpa Pasang </STRING>
+					</REFERENCE>
+					<STRING> Dawa Lama of </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="52" GENDER="neutral" MENTION-ID="53" NUMBER="singular" TYPE="description"> an Austrian expedition </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="5" ENTROPY="0.403674" GENDER="male" ID="6" MENTION-ID="54" NUMBER="singular" PARAGRAPH-POSITION="68" RECENCY="26" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Cho Oyu</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Cho Oyu</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> was </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="56" GENDER="unknown" MENTION-ID="55" NUMBER="singular" TYPE="description">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="54" GENDER="unknown" MENTION-ID="56" NUMBER="singular" TYPE="name"> fifth </REFERENCE>
+				<STRING> 8000 metre peak to be climbed, after </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="57" GENDER="neutral" MENTION-ID="57" NUMBER="singular" TYPE="name">
+					<STRING> Annapurna in </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="58" GENDER="unknown" MENTION-ID="58" NUMBER="singular" TYPE="name"> June 1950 </REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="59" GENDER="unknown" MENTION-ID="59" NUMBER="plural">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="60" GENDER="unknown" MENTION-ID="60" NUMBER="singular" TYPE="name">
+						<STRING> Mount Everest in </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="61" GENDER="male" MENTION-ID="61" NUMBER="singular" TYPE="name"> May 1953 </REFERENCE>
+					</REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="62" GENDER="unknown" MENTION-ID="62" NUMBER="singular" TYPE="name">
+						<STRING> Nanga Parbat in </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="63" GENDER="neutral" MENTION-ID="63" NUMBER="singular" TYPE="name"> July 1953 </REFERENCE>
+					</REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="unknown" ENTITY-ID="64" GENDER="unknown" MENTION-ID="64" NUMBER="singular" TYPE="description">
+						<STRING> K2 in </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="65" GENDER="neutral" MENTION-ID="65" NUMBER="singular" TYPE="name"> July 1954 </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="69" GENDER="unknown" MENTION-ID="66" NUMBER="singular" TYPE="description">
+				<STRING> Just a few kilometres west of </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="5" ENTROPY="0.228433" GENDER="male" ID="7" MENTION-ID="67" NUMBER="singular" PARAGRAPH-POSITION="7" RECENCY="0" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Cho Oyu</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="82" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="90" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="93" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="96" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="99" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="102" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="105" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="108" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="111" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="114" TYPE="name">cho oyu</REFEX>
+						<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="123" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="126" TYPE="demonstrative">this peak</REFEX>
+						<REFEX PARTICIPANT-ID="129" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="132" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="135" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="138" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="148" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="151" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="154" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="157" TYPE="name">Cho Oyu</REFEX>
+						<REFEX PARTICIPANT-ID="160" TYPE="name">Cho Oyu</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> is Nangpa La -LRB- </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="70" GENDER="unknown" MENTION-ID="68" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="67" GENDER="unknown" MENTION-ID="69" NUMBER="singular" TYPE="name"> 5,716 </REFERENCE>
+				<STRING> m/18 </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="71" GENDER="neutral" MENTION-ID="70" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="68" GENDER="unknown" MENTION-ID="71" NUMBER="singular" TYPE="name"> ,753 </REFERENCE>
+					<STRING> ft </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> -RRB-, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="72" GENDER="neutral" MENTION-ID="72" NUMBER="singular" TYPE="description">
+				<STRING> a glaciated pass that serves as </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="73" GENDER="unknown" MENTION-ID="73" NUMBER="plural">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="74" GENDER="unknown" MENTION-ID="74" NUMBER="singular" TYPE="description">
+						<STRING> the main trading route between </STRING>
+						<REFERENCE ANIMACY="unknown" ENTITY-ID="9" GENDER="male" MENTION-ID="75" NUMBER="singular" TYPE="name"> the Tibetans </REFERENCE>
+					</REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="76" GENDER="unknown" MENTION-ID="76" NUMBER="plural" TYPE="name">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="77" GENDER="unknown" MENTION-ID="77" NUMBER="singular" TYPE="name"> the Khumbu's </REFERENCE>
+						<STRING> Sherpas </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING> Due to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="80" GENDER="unknown" MENTION-ID="78" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="81" GENDER="neutral" MENTION-ID="79" NUMBER="singular" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="5" ENTROPY="0.128114" GENDER="unknown" ID="8" MENTION-ID="80" NUMBER="singular" PARAGRAPH-POSITION="31" RECENCY="24" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">its</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="90" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="93" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="99" TYPE="description">the mountains</REFEX>
+							<REFEX PARTICIPANT-ID="102" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="108" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="111" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="114" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="117" TYPE="other">close</REFEX>
+							<REFEX PARTICIPANT-ID="123" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="126" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="132" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="135" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="138" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="148" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="151" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="154" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="157" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it's</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> proximity to </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="72" GENDER="neutral" MENTION-ID="81" NUMBER="singular" TYPE="demonstrative"> this pass </REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="84" GENDER="unknown" MENTION-ID="82" NUMBER="plural" TYPE="description">
+					<STRING> the generally moderate slopes of </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="85" GENDER="unknown" MENTION-ID="83" NUMBER="singular" TYPE="description"> the standard northwest ridge route </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="86" GENDER="unknown" MENTION-ID="84" NUMBER="plural" TYPE="description"> climbers </REFERENCE>
+			<STRING> consider </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="5" ENTROPY="0.709858" GENDER="male" ID="9" MENTION-ID="85" NUMBER="singular" PARAGRAPH-POSITION="49" RECENCY="18" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Cho Oyu</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the mountain</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Nangpa</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">cho oyu</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Cho</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="other">Nangpa</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="demonstrative">this mountain</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="demonstrative">this</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> to be </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="87" GENDER="neutral" MENTION-ID="86" NUMBER="unknown" TYPE="description">
+				<STRING> the easiest </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="88" GENDER="unknown" MENTION-ID="87" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="79" GENDER="unknown" MENTION-ID="88" NUMBER="singular" TYPE="name"> 8,000 </REFERENCE>
+					<STRING> metre peak </STRING>
+				</REFERENCE>
+				<STRING> to climb </STRING>
+			</REFERENCE>
+			<STRING>, and </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="5" ENTROPY="0.513263" GENDER="neutral" ID="10" MENTION-ID="89" NUMBER="singular" PARAGRAPH-POSITION="60" RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Cho Oyu</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="description">the mountain</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="other">often</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="other">summiting</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="81" GENDER="neutral" MENTION-ID="90" NUMBER="singular" TYPE="description">
+				<STRING> a popular objective for </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="91" GENDER="unknown" MENTION-ID="91" NUMBER="plural" TYPE="description"> professionally guided parties </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<TEXT ID="110">
+	<TITLE>Cross Fell</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cross Fell</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest point in the Pennine hills of Northern England. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the highest point in England outside of the Lake District. The summit is a stony plateau being part of a 20 km long ridge running North West to South East, which also incorporates Little Dun Fell (842 m) and Great Dun Fell (849 m). The three adjoining fells form an escarpment that rises steeply above the Eden Valley on its south western side and drops off more gently on its north eastern side towards the South Tyne and Tees Valleys.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Cross Fell summit is crowned by a cross-shaped dry-stone shelter, though this is not the reason for the naming of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the hill</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. On a clear day there are excellent views from the summit across the Eden Valley to the mountains of the Lake District. On the northern side of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cross Fell</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> there are also fine views across the Solway Firth to the Southern Uplands of Scotland.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The fell</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is prone to dense hill fog and fierce winds. A shrieking noise induced by the Helm Wind (see below) is a characteristic of the locality. </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> can be an inhospitable place for much of the year. In ancient times </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was known as &quot;Fiends Fell&quot; and believed to be the haunt of evil spirits. It has been speculated that this last feature may be why </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the fell</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became known as Cross Fell ('cross' meaning 'angry'). Another theory is that at some time a cross was placed at the summit in order to ward off the spirits. But the origin of the name is not known for sure.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>A conspicuous local feature is the golf ball shaped radar installation on the summit of Great Dun Fell. This was built in the 1960s and serves to support civil air traffic control over the North Atlantic.</STRING>
+	</PARAGRAPH>
+</TEXT>

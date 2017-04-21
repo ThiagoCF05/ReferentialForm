@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<TEXT ID="67">
+	<TITLE>Carrauntoohil</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Carrauntoohil</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (; Irish: Corrán Tuathail), also spelt Carrantuohill and in various other ways, is a mountain located in County Kerry, Ireland, and  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="23" SENTENCE-RECENCY="22" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest peak in Ireland.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="7" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is 1,038 m (3,406 feet) tall and  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the central peak of the Macgillycuddy's Reeks range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>There are two other peaks in this range above 1,000 m (Beenkeragh, 1,010 m; and Caher, 1,001 m) and four others on the island over 3,000 feet, in the Dingle Peninsula (Mount Brandon), south Tipperary (Galtymore) and County Wicklow (Lugnaquilla).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>A large metal cross 5 metres (16 ft) tall tops  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="98" PARAGRAPH-RECENCY="60" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The name &quot;Carrauntoohil&quot; derives from the Irish language Corrán Tuathail, meaning &quot;Tuathal's sickle&quot; . </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is most often climbed from the north-east, along the Hag's Glen to the col between  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="17" SENTENCE-RECENCY="16" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Carrauntoohil</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and Cnoc na Péiste, and then north-west up the steep Devil's Ladder.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The route has become more dangerous in recent years due to loose stones and crowding .</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>No special equipment is needed to climb  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="52" PARAGRAPH-RECENCY="35" SEMCAT="mountain" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, but caution is advised.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Alternatively, one can walk the two other 1,000 m peaks in a horseshoe trip, starting from the west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING>The traverse from highest point to the second highest involves a light scramble.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.6">
+			<STRING>The weather conditions on  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="92" PARAGRAPH-RECENCY="40" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are very changeable, and due to a high number of underdressed tourists attempting  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="106" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="19" SENTENCE-RECENCY="14" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> each summer, there have been a number of deaths. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

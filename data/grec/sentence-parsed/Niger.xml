@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TEXT ID="1335">
+	<TITLE>Niger</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Niger</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Niger, is a landlocked sub-Saharan country in Western Africa, named after the Niger River.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders Nigeria and Benin to the south, Burkina Faso and Mali to the west, Algeria and Libya to the north and Chad to the east.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The capital city is Niamey.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> proper English pronunciation (in IPA) is [IPA: /niːˈʒɛə(ɹ)/], although [IPA: /ˈnaɪdʒə(ɹ)/] is also acceptable.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> adjective form is Nigerien [IPA: /niːˈʒɛɹiən/], which should not be confused with Nigerian [IPA: /naɪˈdʒiɹiən/] for Nigeria and derives from the French nigérien, -ne.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>There are different opinions about the adjective form however.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>Merriam-Webster lists Nigerois (which has, despite its sound, no equivalent form in French) only as the noun form.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.8">
+			<STRING>However, there are instances of Nigerois having been used adjectively.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.9">
+			<STRING>CNN and other news sources often circumvent using the adjective altogether, using the noun instead, e.g.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.10">
+			<STRING>'the Niger parliament', 'Niger leader slain' or 'Niger's capital', 'Niger's people'.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.11">
+			<STRING>The citizens of  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Niger</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> use the adjective 'nigérien'. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

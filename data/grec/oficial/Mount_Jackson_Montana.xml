@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="442">
+	<TITLE>Mount Jackson (Montana)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Jackson</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a 10,052 feet (3064 meters) peak in Glacier National Park and one of the six over 10,000 feet in the park.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="23" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is part of the Rocky Mountain and Lewis Ranges and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="35" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="11" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> nearest higher neighbor is Mount Stimson to the south east. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

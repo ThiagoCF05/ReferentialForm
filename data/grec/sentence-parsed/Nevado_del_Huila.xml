@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TEXT ID="606">
+	<TITLE>Nevado del Huila</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado del Huila</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, at 5,365 metres (17,602 ft), is the highest volcano in Colombia, located in Huila Department.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Over the years, the amount of snow on  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been decreasing due to global warming.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>After being dormant for more than 500 years,  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> showed heavy signs of activity in 2007.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>As of February 20, 2007 there have been more than 7000 &quot;minor&quot; seismic events, and a high state of alert is currently in place for the departments of Cauca, Huila, Caldas and Valle del Cauca.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>An eruption could result in a tragedy for the small villages around  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, mostly Paez, Cauca where their habitants still have in the memory the eruption of the Nevado del Ruiz volcano and the destruction of Armero. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

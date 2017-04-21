@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1292">
+	<TITLE>Iraq</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Republic of Iraq</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (conventional short form: Iraq) ([Arabic: ] العراق [Arabic transliteration: 'al-‘Irāq], Kurdish: عيَراق), is a country in Southwest Asia encompassing most of Mesopotamia as well as the northwestern end of the Zagros mountain range and the eastern part of the Syrian Desert. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> shares borders with Kuwait and Saudi Arabia to the south, Jordan to the west, Syria to the northwest, Turkey to the north, and Iran to the east. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a very narrow section of coastline at Umm Qasr on the Persian Gulf.</STRING>
+	</PARAGRAPH>
+</TEXT>

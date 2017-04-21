@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "reg08-grec.dtd">
+<TEXT ID="1551">
+<TITLE>Hans Christian Andersen</TITLE>
+
+<PARAGRAPH>
+<REF ID="1551.1" SEMCAT="person" SYNCAT="np-subj">
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Hans Christian Andersen</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Hans Christian Andersen</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Hans Christian Andersen himself</REFEX>
+<REFEX REG08-TYPE="empty">_</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="nominative">he</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="pronoun" CASE="nominative">he himself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">who</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">who himself</REFEX>
+</ALT-REFEX>
+</REF>
+ [IPA: [ˈhænˈs ˈkʰʁæsd̥jæn ˈanɔsn̩]] or simply HC Andersen [IPA: [ho̞ se ˈanɔsn̩]], (April 2 1805 – August 4 1875) was a Danish author and poet most famous for 
+<REF ID="1551.2" SEMCAT="person" SYNCAT="subj-det">
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="genitive">his</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="genitive">Hans Christian Andersen's</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="genitive">his</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="genitive">whose</REFEX>
+</ALT-REFEX>
+</REF>
+ fairy tales.</PARAGRAPH>
+</TEXT>

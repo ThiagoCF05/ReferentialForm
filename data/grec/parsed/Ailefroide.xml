@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="11">
+	<TITLE>Ailefroide</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Ailefroide</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (3,954 m) is a mountain in the Massif des Écrins in the French Alps, and </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the third highest peak in the Dauphiné Alps after the Barre des Écrins and La Meije. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies at the south-western end of the Mont Pelvoux–Pic Sans Nom–Ailefroide ridge.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>There are three main summits on </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>:</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>*L'Ailefroide Occidentale (3,954 m): first ascent by W. A. B. Coolidge with guides Christian Almer and Ulrich Almer on 7 July 1870*L'Ailefroide Centrale (3,928 m): first ascent by Auguste Reynier, Pierre Gaspard (father), Christophe Clot and Joseph Turc on 8 August 1889*L'Ailefroide Orientale (3,848 m): first ascent by J. Nérot, Emile Pic and Giraud-Lézin on 25 August 1880</STRING>
+	</PARAGRAPH>
+</TEXT>

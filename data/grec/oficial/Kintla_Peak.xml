@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<TEXT ID="262">
+	<TITLE>Kintla Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kintla Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in Glacier National Park, Montana, United States and  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the tallest mountain in the Livingston Range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is in the remote northwest corner of the park and  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> requires a hike of almost 15 miles (24 km) from the nearest road just to reach the base of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="52" PARAGRAPH-RECENCY="20" SEMCAT="mountain" SENTENCE-POSITION="32" SENTENCE-RECENCY="20" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kintla Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is notable for  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="4" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> large rise above local terrain; nearby Upper Kintla Lake is only 4,370 ft (1,332 m) in elevation.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>( </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Kintla Peak's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> northern neighbor Kinnerly Peak has an even more dramatic drop to Upper Kintla Lake.)</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>This helps make  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="18" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kintla</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> &quot;the most arduous climb in the northwest section of the park&quot; (Edwards 1995:89).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The standard route is the Southeast Ridge Route, from the Agassiz Glacier basin.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>This route has a long approach and a large total vertical gain, and involves rock scrambling up to Class 4, in addition to some climbing on snow, depending on the season.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<STRING>Other routes include the East Ridge, West Face, and Upper North Face routes. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

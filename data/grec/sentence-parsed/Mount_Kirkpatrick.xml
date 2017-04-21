@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TEXT ID="461">
+	<TITLE>Mount Kirkpatrick</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Kirkpatrick</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a lofty, generally ice-free mountain in Antarctica's Queen Alexandra Range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Located 8 km (5 mi) west of Mount Dickerson,  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Kirkpatrick</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest point in the range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Discovered and named by the British Antarctic Expedition (1907-09),  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named for a Glasgow businessman, who was one of the original supporters of the expedition.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Mount Kilpatrick is an alternate name for  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

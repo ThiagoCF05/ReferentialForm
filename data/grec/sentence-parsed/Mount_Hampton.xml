@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="429">
+	<TITLE>Mount Hampton</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hampton</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain with a circular ice-filled crater occupying much of the summit area.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the northernmost of the extinct volcanoes which comprise the Executive Committee Range in Marie Byrd Land. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Discovered by the USAS on a flight, December 15, 1940, and named for Ruth Hampton, Dept.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>of the Interior member of the USAS Executive Committee.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Mapped in detail by USGS from surveys and U.S. Navy trimetrogon photography, 1958-60. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

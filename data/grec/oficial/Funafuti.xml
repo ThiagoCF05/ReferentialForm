@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<TEXT ID="1059">
+	<TITLE>Funafuti</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Funafuti</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital of the small island nation of Tuvalu.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="11" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a population of 4,492 (2002 Census), making  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="9" SEMCAT="city" SENTENCE-POSITION="10" SENTENCE-RECENCY="9" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> the most populated atoll in this country.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="8" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a narrow sweep of land between 20 and 400 meters wide, encircling a large lagoon.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>There is an airstrip, hotel (Vaiaku Langi Hotel), and administrative buildings, as well as homes, constructed both in the traditional manner, out of palm fronds, and more recently out of cement blocks.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The most prominent building on  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="83" PARAGRAPH-RECENCY="54" SEMCAT="city" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Funafuti atoll</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the Church of Tuvalu.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>Other sites of interest are the remains of American aircraft that crashed on  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="102" PARAGRAPH-RECENCY="19" SEMCAT="city" SENTENCE-POSITION="14" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Funafuti</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> during World War II, when the airstrip was used by the American forces to defend the Gilbert Islands (now Kiribati).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>The USA claimed  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="126" PARAGRAPH-RECENCY="24" SEMCAT="city" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Funafuti</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> until a treaty of friendship was concluded in the late 70's or early 80's. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The largest island is Fongafale.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>On this island, there are four villages, of which one is Vaiaku, where the government is located.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The capital of Tuvalu is sometimes given as Fongafale or Vaiaku, but  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="35" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the entire atoll of Funafuti</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is officially the capital. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>* 8°31'S,179°13'E </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

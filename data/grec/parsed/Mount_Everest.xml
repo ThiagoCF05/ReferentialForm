@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="413">
+	<TITLE>Mount Everest</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Everest</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, also called Chomolungma or Qomolangma () or Sagarmatha () is the highest mountain on Earth, as measured by the height of </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> summit above sea level. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of the Himalaya range in High Asia, is located on the border between Nepal and Tibet, China. By the end of the 2006 climbing season there had been 3,050 ascents to the summit by 2,062 individuals, and at least 630 more ascents in 2007. There have been more than 200 deaths on </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, where conditions are so difficult that most corpses have been left where they fell; some are visible from standard climbing routes.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Climbers range from experienced mountaineers to relative novices who count on their paid guides to get them to the top. This means climbers are a significant source of tourist revenue for Nepal, whose government also requires all prospective climbers to obtain an expensive permit, costing up to $25,000 (USD) per person.</STRING>
+	</PARAGRAPH>
+</TEXT>

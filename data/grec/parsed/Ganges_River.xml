@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TEXT ID="1811">
+	<TITLE>Ganges River</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Ganges River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (English: [IPA: /ˈgænʤiz/]; Gangā [IPA: /ˈgəŋgaː/] in most Indian languages) (Devanagari गंगा) is a river of northern India and Bangladesh. </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a long history of reverence in India and </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is worshipped by Hindus as a goddess. </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is often called the 'holy Ganga'.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The total length of </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is about 2,510 km (1,557 mi). Along with another river Yamuna, </STRING>
+		<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> forms a large and fertile basin, known as the Gangetic plains, stretching across north India and Bangladesh, and </STRING>
+		<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> supports one of the highest densities of human population in the world. Indeed, about one in every 12 people on earth (8.5% of world population) live in </STRING>
+		<REFERENCE ID="8" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> catchment area. Due to this incredible concentration of population, pollution and the destruction of habitats are matters of serious concern.</STRING>
+	</PARAGRAPH>
+</TEXT>

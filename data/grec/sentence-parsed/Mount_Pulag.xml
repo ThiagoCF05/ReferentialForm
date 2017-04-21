@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<TEXT ID="515">
+	<TITLE>Mount Pulag</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Pulag</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (or sometimes Mount Pulog) is the second-highest mountain in the Philippines.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The borders between the provinces of Benguet, Ifugao, and Nueva Vizcaya meet at  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> peak. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The climate on  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Pulag</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is tropical with rains predominating the whole year.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Rainfall on  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> averages 4,489 mm yearly with August being the wettest month with an average rainfall of 1,135 mm. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> hosts 528 documented plant species.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the natural habitat of the endemic dwarf bamboo, (Yushania niitakayamensis) and the Benguet pine (Pinus insularis).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Among  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> native wildlife are 33 bird species and several threatened mammals such as Philippine deer, giant bushy-tailed cloud rat and long-haired fruit bat. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>On February 20, 1987, a large part of  </STRING>
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was designated as a National Park with Proclamation No.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>75.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>This act aims to preserve the environment around  </STRING>
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> due to threats from increased development such as conversion to agricultural lands, timber production, hunting, and increased tourism. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>The indigenous people of Benguet consider  </STRING>
+			<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> to be a sacred place. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

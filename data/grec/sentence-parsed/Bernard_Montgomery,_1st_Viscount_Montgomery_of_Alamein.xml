@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1449">
+	<TITLE>Bernard Montgomery, 1st Viscount Montgomery of Alamein</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bernard Law Montgomery</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, 1st Viscount Montgomery of Alamein, KG, GCB, DSO, PC (17 November 1887–24 March 1976) was a British Army officer, often referred to as &quot;Monty&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> successfully commanded Allied forces at the Battle of El Alamein, a major turning point in World War II, and troops under  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> command were largely responsible for the expulsion of Axis forces from North Africa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was later a prominent commander in Italy and North-West Europe, where  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was in command of all Allied ground forces during Operation Overlord and then until after the Battle of Normandy. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TEXT ID="1805">
+	<TITLE>Don River (Russia)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Don</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Дон) is one of the major rivers of Russia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> rises near Tula, southeast of Moscow, and  </STRING>
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flows for a distance of about 1,950 km (1,220 miles) to the Sea of Azov. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>From  </STRING>
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> source,  </STRING>
+			<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> first flows southeast to Voronezh, then southwest to  </STRING>
+			<REFERENCE ID="6" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> mouth.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The main city on  </STRING>
+			<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Rostov on Don,  </STRING>
+			<REFERENCE ID="8" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> main tributary the Donets. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

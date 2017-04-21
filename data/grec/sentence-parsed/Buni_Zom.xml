@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<TEXT ID="62">
+	<TITLE>Buni Zom</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Buni Zom group</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a prominent mountain area of Chitral, in the Hindu Kush range of Pakistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> rises about 50 km (30 mi) northeast of the town of Chitral, and about 50 km (30 mi) east of Tirich Mir, the highest peak in the Hindu Kush. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>In 1957, the New Zealanders W.K.A.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Berry and C.H.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Tyndale-Biscoe accomplished the first ascent of the Main Peak of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Buni Zom</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> from the steep razorlike north ridge.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The second ascent was in 1975 by Japaneses Masao Okabe, Hideo Sato and Shigeru Tabe and third ascent was in 1979 by Americans Joe Reinhard and Richard J. Isherwood both from south face. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Buni Zom Group</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has many other peaks, some of which have been climbed.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>There are 12 peaks over 6000 m in  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Buni Zom group</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> which are unclimbed. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

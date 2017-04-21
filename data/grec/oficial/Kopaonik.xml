@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="267">
+	<TITLE>Kopaonik</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kopaonik</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Serbian: Копаоник), is one of the biggest mountains of Serbia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the southern part of Central Serbia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> highest peak is 2,017 metres above sea level, Pančić's Peak.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Kopaonik's national park was established in 1981.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The national park's area is 118.1 km², and is spread over the central part of the Kopaonik plateau. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TEXT ID="1176">
+	<TITLE>Sydney</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sydney</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (pronounced [IPA: /ˈsɪd.niː/]) is the most populous city in Australia with a metropolitan area population of over 4.2 million people (2006).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sydney</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the state capital of New South Wales and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="10" SEMCAT="city" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located on the country's south-east coast. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The first European colony in Australia,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="7" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sydney</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was established in 1788 at Sydney Cove by Arthur Phillip who led the First Fleet from Britain.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Built around Port Jackson, which includes Sydney Harbour,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="26" SEMCAT="city" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the city of Sydney</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been called the &quot;Harbour City&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="7" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Australia's largest financial centre and a major international tourist destination, notable for  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="54" PARAGRAPH-RECENCY="14" SEMCAT="city" SENTENCE-POSITION="15" SENTENCE-RECENCY="14" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> beaches and twin landmarks: the Sydney Opera House and the Harbour Bridge.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="67" PARAGRAPH-RECENCY="13" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sydney</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has also played host to numerous sporting events, including the 1938 British Empire Games and the 2000 Summer Olympics. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

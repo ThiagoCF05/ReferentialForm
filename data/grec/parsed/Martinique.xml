@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="1317">
+	<TITLE>Martinique</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Martinique</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an island in the eastern Caribbean Sea, having a total area of 1,128 km². </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an overseas département (département d'outre-mer, or DOM) of France. Like the other DOMs, </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Martinique</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also one of the 26 régions of France (as a région d'outre-mer), and an integral part of the Republic. As part of France, </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Martinique</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of the European Union, the currency used is the euro. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> official language is French, although almost all of </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> inhabitants also speak Antillean Creole (Créole Martiniquais). </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Martinique</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is pictured on all euro banknotes, on the backside at the bottom of each note, right of the Greek ΕΥΡΩ (EURO) next to the denomination.</STRING>
+	</PARAGRAPH>
+</TEXT>

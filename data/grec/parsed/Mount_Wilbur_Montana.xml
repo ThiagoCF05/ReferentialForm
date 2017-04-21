@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="588">
+	<TITLE>Mount Wilbur (Montana)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Wilbur</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a prominent peak located in the heart of Glacier National Park in the U.S. state of Montana. Plainly visible from the region of Many Glacier, </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> rises over 4,500 feet above Swiftcurrent Lake and </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a steep pyramid on three sides. The west slopes of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> join to ridges along the Continental Divide. Much of the climbing routes are rated at class 4 to 5, with some only used once. The sedimentary rock of the mountains makes for often poor anchoring points and enhances the difficulty.</STRING>
+	</PARAGRAPH>
+</TEXT>

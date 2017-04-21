@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TEXT ID="1578">
+	<TITLE>James Naismith</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">James Naismith</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, M.A., M.D., D.D, (November 6, 1861 - November 28, 1939) was the inventor of the sport of basketball and the first to introduce the use of a helmet in American football. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was also the first basketball coach to assemble a team of 5 players.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was born in Almonte, Ontario, the eldest son of Scottish immigrants who had arrived in the area in 1851 and worked in the mining industry.</STRING>
+	</PARAGRAPH>
+</TEXT>

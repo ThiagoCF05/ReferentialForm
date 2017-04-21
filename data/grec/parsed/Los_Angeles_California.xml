@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<TEXT ID="1101">
+	<TITLE>Los Angeles, California</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Los Angeles</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, known around the world as &quot;L.A.&quot; or by locals as the &quot;City of Angels&quot;, is the most populous city in the state of California and the second-most in the United States. One of the world's major global cities, </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in Southern California and </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a population of just over 4 million people, spanning 498 square miles. According to the U.S. Census Bureau, the Los Angeles metropolitan area has a total area of 4,850 square miles and is home to roughly 13 million people. </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Los Angeles</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also one of the world's most multicultural cities.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Los Angeles</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was founded in 1781 though </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was not incorporated as a municipality until April 4, 1850--five months before California achieved statehood--and </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the county seat of Los Angeles County.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Los Angeles</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the world's most important centers of culture, science, technology, international trade, and higher education, and </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is home to numerous world-renowned institutions in a broad range of professional and cultural fields. </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Los Angeles</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a wide and diverse range of museums, theatres, and galleries. In addition, </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a leading producer of popular entertainment--such as motion pictures, television, and recorded music--which forms the base of </STRING>
+		<REFERENCE ID="12" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> international fame and global status. In many circles, </STRING>
+		<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Los Angeles</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is considered the leading center of American popular culture and </STRING>
+		<REFERENCE ID="14" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> numerous media companies are a driving force in the Americanization of many countries in the Western world.</STRING>
+	</PARAGRAPH>
+</TEXT>

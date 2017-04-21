@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<TEXT ID="1798">
+	<TITLE>Colorado River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Colorado River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a river in the southwestern United States and northwestern Mexico, approximately 1,450 mi (2,330 km) long, draining a part of the arid regions on the western slope of the Rocky Mountains.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The natural course of  </STRING>
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flows into the Gulf of California, but the heavy use of  </STRING>
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as an irrigation source for Imperial Valley has desiccated the lower course of  </STRING>
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in Mexico such that  </STRING>
+			<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> no longer consistently reaches the sea. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Colorado River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> drains 242,900 sq mi (629,100 km²).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Total flows of  </STRING>
+			<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> range from 20,000 cubic feet per second (570 m³/s) in droughts to 1,000,000 ft³/s (28,000 m³/s) in severe floods.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>With the construction of massive power dams on the lower course of  </STRING>
+			<REFERENCE ID="8" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, floods of over 70,000 ft³/s (2000 m³/s) are rare.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The mean flow of  </STRING>
+			<REFERENCE ID="9" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the total river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> before diversion is 42,600 ft³/s (1206 m³/s).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>At full flow more runoff volume exists in  </STRING>
+			<REFERENCE ID="10" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> than any other in North America except the Mississippi and Columbia. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

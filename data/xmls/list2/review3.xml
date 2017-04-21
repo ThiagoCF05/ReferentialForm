@@ -1,0 +1,404 @@
+<?xml version="1.0" ?>
+<TEXT GENRE="review" ID="16" TOPIC-ANIMACY="inanimate">
+	<TITLE>Product Review #3</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING>I purchased  </STRING>
+			<REFERENCE ENTROPY="0.601953672613" ID="1" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this phone</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">the 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">a 5.8 GHz 4-line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="demonstrative">this phone</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">the 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">the 5.8GHz 4-line sysyem</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="description">the phone system</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">the Panasonic 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">the 5.8 GHz Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">the 5.8 GHz 4-Line Phone</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">the 5.8 GHz 4-Line phone system</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">the 5.8 GHz 4 line phone</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="description">a Panasonic phone system</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">a 5.8 GHz 4-Line Phone System</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> about a year ago.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>All the features that  </STRING>
+			<REFERENCE ENTROPY="0.512389646966" ID="2" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="9" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this phone</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="description">the Panasonic phone</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">the 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">were</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="description">phone</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="description">the system</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">were</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="other">were</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">the 5.8 GHz 4-Line</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> offered (along with  </STRING>
+			<REFERENCE ENTROPY="0.159881060683" ID="3" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="4" SENTENCE-POSITION="9" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">its</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> price) is what attracted me to  </STRING>
+			<REFERENCE ENTROPY="0.511085743147" ID="4" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="7" SENTENCE-POSITION="16" SENTENCE-RECENCY="7" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this particular phone</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="description">the product</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="description">the Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="description">the phone system</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="demonstrative">this product</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>I couldn't find anything that compared, however...I'm highly dissapointed in  </STRING>
+			<REFERENCE ENTROPY="0.739766963141" ID="5" PARAGRAPH-POSITION="34" PARAGRAPH-RECENCY="11" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this Panasonic product</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the system</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="description">the phone system</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="demonstrative">this product</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="description">the system</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="description">my purchase</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="demonstrative">this product.</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="description">the system</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="description">the phone system</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>.   </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>I've called Panasonic service, they attempted to help, but my receipt is long gone....so I'm out of luck.   </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Since purchasing  </STRING>
+			<REFERENCE ENTROPY="0.816349836494" ID="6" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this phone</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="description">the product</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">the 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="description">the system</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="demonstrative">this system</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="description">the Panasonic phone</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="demonstrative">this phone stystem</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">the 5.8 GHz Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="demonstrative">this phone system</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="demonstrative">this Panasonic phone system</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="description">the phone</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>, I've had problems with loosing (or should I say) fading conversations and clicking noises in  </STRING>
+			<REFERENCE ENTROPY="0.488804962179" ID="7" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="16" SENTENCE-POSITION="19" SENTENCE-RECENCY="16" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the phone</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="other">the background</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">the background</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">quality</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="description">the receiver</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="other">(remove in)</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="description">the line</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="description">the phone</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>I originally thought I had a phone line problem, but that wasn't the case.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Finally I thought that  </STRING>
+			<REFERENCE ENTROPY="0.358126313648" ID="8" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="19" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the phone</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="description">phone</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">mine</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> was perhaps a lemon and I would try  </STRING>
+			<REFERENCE ENTROPY="0.483268056224" ID="9" PARAGRAPH-POSITION="47" PARAGRAPH-RECENCY="9" SENTENCE-POSITION="14" SENTENCE-RECENCY="9" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="other">using it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">replacing</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="description">the phone system</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="other">my luck</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="description">the product</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="other">a new one</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> again.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>I went out and purchased  </STRING>
+			<REFERENCE ENTROPY="0.502075862893" ID="10" PARAGRAPH-POSITION="54" PARAGRAPH-RECENCY="7" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the exact same phone</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="other">a replacement</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="description">a new one</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="description">the same one</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">another</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="description">the same system</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="description">the same phone</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="description">one</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="description">a new phone</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="description">another unit</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">another 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="description">another</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="description">another</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="description">a new one</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="description">another one</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="description">another Panasonic system</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="description">another one</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> just last week.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING>Since purchasing  </STRING>
+			<REFERENCE ENTROPY="0.380797201139" ID="11" PARAGRAPH-POSITION="60" PARAGRAPH-RECENCY="6" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the new one</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the system</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="other">a replacement</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="description">the phone</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="description">the system</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="other">that</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="demonstrative">that one</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>, I'm starting to notice the same problems.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.6">
+			<REFERENCE ENTROPY="0.642188211314" ID="12" PARAGRAPH-POSITION="68" PARAGRAPH-RECENCY="8" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">The 4-Line Phone</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="description">the new phone</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">the 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="description">The phone</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="description">The phone</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="demonstrative">This</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="demonstrative">This phone</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> goes back to the store for a refund tomorrow and I'll try my luck with another brand.   </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Great features and low cost is attractive, but it's not worth me having to wonder if Panasonic just isn't up to par when it comes to cordless phone technology.  </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1261">
+	<TITLE>Estonia</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Estonia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Republic of Estonia (Estonian: Eesti or Eesti Vabariik), is a country in Northern Europe. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Estonia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has land borders to the south with fellow Baltic state Latvia (339 km) and Russia (229 km) to the east. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is separated from Finland in the north by the narrow Gulf of Finland and from Sweden in the west by the Baltic Sea. </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Estonia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been a member of the European Union since May 1, 2004 and of the NATO since March 29, 2004.</STRING>
+	</PARAGRAPH>
+</TEXT>

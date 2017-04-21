@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<TEXT ID="661">
+	<TITLE>Piz Palü</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Piz Palü</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (3,901 m) is a mountain in the Bernina Range in Switzerland and Italy.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>There are three summits on  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> main ridge, which runs from east to west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The name Palü derives from the Latin palus, meaning a swamp, and  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is probably named after the Alpe Palü, a high alpine pasture some 4 km to  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> east. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>It is uncertain when  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed, but the first ascent of the central and highest peak was probably by K. E. Digby with guide Peter Jenny and a porter in 1866.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was certainly ascended on 28 June 1868 by A. W. Moore, Horace Walker and Jakob Anderegg. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The east peak (3,882 m) was climbed by Oswald Heer, and P. and M. Flury, with guides Johann Madutz and Gian Marchet Colani (the 'King of the Bernina') on 12 August 1835.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>All three peaks were first traversed by Wachler, Wallner, George, Hans Gross and Christian Gross on 22 July 1868. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has gained some prominence from the film The White Hell of Pitz Palu (1929), co-directed by mountain-film pioneer Arnold Fanck and Georg Wilhelm Pabst, and starring a young Leni Riefenstahl. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

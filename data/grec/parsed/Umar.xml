@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1762">
+	<TITLE>Umar</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">`Umar ibn al-Khattāb</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (in Arabic, عمر بن الخطاب) (c. 581 - November 3, 644), sometimes referred by Sunni Muslims as `Umar al-Farūq (Umar the Distinguisher (between Truth and Falsehood)), also known in English as Omar or Umar, was from the Banu Adi clan of the Quraysh tribe. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was a companion of the Prophet Muhammad and </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became the second Caliph (634 - 644) following the death of Abu Bakr, the first Caliph.</STRING>
+	</PARAGRAPH>
+</TEXT>

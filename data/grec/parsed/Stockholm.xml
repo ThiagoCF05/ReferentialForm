@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="1174">
+	<TITLE>Stockholm</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Stockholm</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([IPA: 'stɔkhɔlm]; UN/LOCODE: SE STO) is the capital of Sweden, and consequently the site of its Government and Parliament as well as the residence of the Swedish head of state, King Carl XVI Gustaf.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Stockholm</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been Sweden's political and economic center since the 13th century.</STRING>
+	</PARAGRAPH>
+</TEXT>

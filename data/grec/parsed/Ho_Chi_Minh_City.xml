@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1067">
+	<TITLE>Ho Chi Minh City</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ho Chi Minh City</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Vietnamese: Thành phố Hồ Chí Minh pronunciation) is the largest city in Vietnam and </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located near the Mekong River delta. Under the name Prey Nokor (Khmer: ), </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was the main port of Cambodia, before being conquered by the Vietnamese in the 16th century. Known as Saigon (pronunciation) until the end of the Vietnam War, </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was the capital of the French colony of Cochinchina, and later of the former state of South Vietnam from 1954 to 1975. In 1975, </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Saigon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was merged with the surrounding province of Gia āịnh and renamed Ho Chi Minh City (although Saigon is still frequently used). The city center is situated on the banks of the Saigon River, 60 km from the South China Sea.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="1004">
+	<TITLE>Auckland</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING>The Auckland Metropolitan Area, or Greater Auckland, in the North Island of New Zealand, is the largest urban area in New Zealand.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>With over 1.2 million people it has over a quarter of the country's population, and demographics trends still cause it to grow faster than the rest of New Zealand. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>It is a conurbation, made up of  </STRING>
+			<REFERENCE ID="1" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Auckland City</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (excluding the Hauraki Gulf islands), North Shore City, and the urban parts of Waitakere and Manukau cities, along with Papakura District and some nearby urban parts of Rodney and Franklin Districts.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>In Māori it bears the traditional name Tāmaki Makau Rau or the transcribed version of Auckland, Ākarana. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Auckland</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies between the Hauraki Gulf of the Pacific Ocean to the east, the low Hunua Ranges to the south-east, the Manukau Harbour to the south-west, and the Waitakere Ranges and smaller ranges to the west and north-west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The central part of the urban area occupies a narrow isthmus between the Manukau Harbour on the Tasman Sea and the Waitemata Harbour on the Pacific Ocean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="66" PARAGRAPH-RECENCY="65" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the few cities in the world to have harbours on two separate bodies of water. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

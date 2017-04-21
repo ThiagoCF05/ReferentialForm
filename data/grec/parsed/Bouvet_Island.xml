@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1228">
+	<TITLE>Bouvet Island</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bouvet Island</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Norwegian: Bouvetøya) is an uninhabited sub-antarctic volcanic island in the South Atlantic Ocean, south-southwest of the Cape of Good Hope (South Africa). </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a dependent area of Norway and </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is not subject to the Antarctic Treaty, as </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is north of the latitude below which claims are suspended.</STRING>
+	</PARAGRAPH>
+</TEXT>

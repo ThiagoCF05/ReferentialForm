@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<TEXT ID="1274">
+	<TITLE>Gibraltar</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gibraltar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a UK overseas territory located near the southernmost tip of the Iberian Peninsula, overlooking the Strait of Gibraltar.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The territory</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shares a land border with Spain to the north.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gibraltar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has historically been an important base for the British Armed Forces and  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the site of a British naval base. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The name of  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the territory</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is derived from the original Arabic name Jabal Ţāriq (جبل طارق), meaning &quot;mountain of Tariq&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>It refers to the Berber Umayyad general Tariq ibn-Ziyad, who led the Moorish invasion of Iberia in 711.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Earlier,  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was known as Mons Calpe, one of the Pillars of Hercules.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Today,  </STRING>
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gibraltar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known colloquially as &quot;Gib&quot; or &quot;the Rock&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The sovereignty of  </STRING>
+			<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gibraltar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a major issue of contention in Anglo-Spanish relations.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Spain requests the return of sovereignty, ceded by Spain in perpetuity in 1713.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Any transfer has been consistently and totally rejected by almost all Gibraltarians. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

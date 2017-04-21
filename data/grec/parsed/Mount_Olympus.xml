@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TEXT ID="504">
+	<TITLE>Mount Olympus</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Olympus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Greek: Όλυμπος]; also transliterated as Mount Ólympos, and on modern maps, Óros Ólimbos) is the highest mountain in Greece at 2,917 meters high (9,570 feet). Since </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> base is located at sea level, </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the highest mountains in Europe, in real absolute altitude from base to top. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is situated at 40°05'N,22°21'E, in mainland Greece. </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located about 100 km away from Thessaloniki, Greece's second largest city.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Olympus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is noted for </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> very rich flora with several endemic species. The highest peak on </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Olympus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is Mitikas at 2,917 meters high (9,570 feet), which in Greek means &quot;nose&quot; (an alternative transliterated spelling of this name is &quot;Mytikas&quot;). Mitikas is the highest peak in Greece, the second highest being Skolio (2912 m). Any climb to </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Olympus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> starts from the town of Litochoro, which took the name City of Gods because of its location on the roots of </STRING>
+		<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Mount Olympus is a popular mountain name. Apart from </STRING>
+		<REFERENCE ID="11" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Greek Olympus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, there was a mountain of the same name in ancient Phrygia and also currently one in Cyprus, one in Utah, one in Washington, on Mars, and many others.</STRING>
+	</PARAGRAPH>
+</TEXT>

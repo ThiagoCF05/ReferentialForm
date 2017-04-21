@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TEXT ID="1177">
+	<TITLE>Taipei</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Taipei City</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Simplified Chinese: 印北市, Traditional Chinese: 臺北市 or 印北市, Hanyu Pinyin: Táiběi Shì, Tongyong Pinyin: Táiběi Shìh]; Taiwanese: Tâi-pak-chhī) is the de facto capital city of the Republic of China on Taiwan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="32" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Republic of China's center of politics, commercial, mass media, education, and pop culture, and today also  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="51" PARAGRAPH-RECENCY="18" SEMCAT="city" SENTENCE-POSITION="19" SENTENCE-RECENCY="18" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is widely considered to be one of the &quot;Gamma world cities&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The City of Taipei</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, Taipei County surrounding it, and nearby Keelung City form Taipei metropolitan area but are administered under different local government bodies.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Taipei City</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a special municipality administered directly under the ROC central government, while Taipei County and Keelung City are administered as part of Taiwan Province.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Therefore, although Taipei is used to refer the whole metropolitan area, Taipei City specifically means the city proper only. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>According to the census data collected in July 2006, the total population in  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="14" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Taipei City</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (excluding Taipei County) is 2,625,757.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The major industries in  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="10" SEMCAT="city" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> include electrical and electronic equipment, textiles, metals, ship-building, and motorcycles. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TEXT ID="1060">
+	<TITLE>Geneva</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Geneva</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (pronunciation /[IPA: dʒənivə]/; French: Genève /[IPA: ʒənɛv]/, German: Genf /[IPA: gɛnf]/, Italian: Ginevra) is the second most populous city in Switzerland (after Zürich), and </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the most populous city of Romandy (the French-speaking part of Switzerland). </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is situated where Lake Geneva (French Lac Léman) flows into the Rhône River, and </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the capital of the Canton of Geneva. The population within the city limits is 185,526 (2004) and that of the metropolitan area — which extends into France and Vaud — is about 700,000. </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Geneva</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is widely regarded as a global city, mainly due to the presence of numerous international organizations, including the European headquarters of the United Nations. A 2006 survey found </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Geneva</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> to have the second highest quality of living in the world (again, after Zürich).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>See Names of European cities in different languages for a list of the name of </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in other languages.</STRING>
+	</PARAGRAPH>
+</TEXT>

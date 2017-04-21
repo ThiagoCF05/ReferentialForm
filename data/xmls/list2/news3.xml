@@ -1,0 +1,586 @@
+<?xml version="1.0" ?>
+<TEXT GENRE="news" ID="13" TOPIC-ANIMACY="animate">
+	<TITLE>PUTIN TAKES ON 64 QUESTIONS IN A NEWS CONFERENCE</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ENTROPY="0.0" ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">President Vladimir V. Putin</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Outin</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Vladimir Vladimirovich Putin</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Vladimir Vladimirovich Putin</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">PUTIN</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Vladimir Vladimirovich Putin</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Vladamir Putin</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> on Tuesday defended Russia's handling of natural gas disputes with Ukraine and Georgia,  </STRING>
+			<REFERENCE ENTROPY="0.387498545144" ID="2" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="14" SENTENCE-POSITION="15" SENTENCE-RECENCY="14" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="other">and</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="other">and</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="other">when he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> boasted of a new strategic weapon and  </STRING>
+			<REFERENCE ENTROPY="0.436748087853" ID="3" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="8" SENTENCE-POSITION="23" SENTENCE-RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the Russian President</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="other">has</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="other">also</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> defended the country's contribution to the Group of 8 in response to suggestions from some critics at home and abroad that  </STRING>
+			<REFERENCE ENTROPY="0.15218358217" ID="4" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="22" SENTENCE-POSITION="45" SENTENCE-RECENCY="22" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="other">Russia's</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">Russia's</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="other">certain</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="other">its</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Putin's</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> policies have disqualified it from the club of elite democratic nations. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>&quot;Everybody wants Russia to join the club and take an active part in its work because nobody wants the G-8 to turn into a gathering of fat cats,&quot;  </STRING>
+			<REFERENCE ENTROPY="0.430676558073" ID="5" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="29" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Putin</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Putin</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> said. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ENTROPY="0.333010602693" ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Putin</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">PUTIN</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Putin</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> spoke at a news conference in the Kremlin that has become a near-annual affair and, as before, a telling window on the issues dominating debate here.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ENTROPY="0.440422673356" ID="7" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="27" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">President Putin</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Mr. Putin</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="description">The Prime Minister</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">He</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> answered 64 questions over three and a half hours with frequently salty language, a striking command of detail and only a hint of the temper that has flashed in previous public appearances. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ENTROPY="0.722131332897" ID="8" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Putin's</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="other">The</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="other">The</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="description">The former prime minster's</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="other">The</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Putin's</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">The</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">The</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Putin's</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="other">The</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">once</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Putin's</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Putin's</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Putin's</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="other">The</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="other">The</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="demonstrative">This</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="other">Russia's</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> new year began with a dispute over gas supplies to Ukraine that included a brief shutoff of gas that, because of Ukraine's pipelines, was soon felt across Europe, provoking some of the harshest foreign criticism the Russian government has faced.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>On Tuesday,  </STRING>
+			<REFERENCE ENTROPY="0.4281055101" ID="9" PARAGRAPH-POSITION="44" PARAGRAPH-RECENCY="43" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Putin</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Mr. Putin</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Putin</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> tried to counter that by saying Russia had no intention of using gas or oil as an energy weapon. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<REFERENCE ENTROPY="0.492401166361" ID="10" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Putin</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="description">The Prime Minister</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Putin</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> appeared poised and confident, speaking about a new warhead that  </STRING>
+			<REFERENCE ENTROPY="0.123344455733" ID="11" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="11" SENTENCE-POSITION="12" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="other">hePutin</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="other">Russia</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> said could evade missile defense systems like that being built by the United States, but at the same time diplomatic.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<REFERENCE ENTROPY="0.364072831749" ID="12" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="21" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">He</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> criticized the United States as the obstacle to Russia's membership in the World Trade Organization, but  </STRING>
+			<REFERENCE ENTROPY="0.321967196775" ID="13" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="17" SENTENCE-POSITION="18" SENTENCE-RECENCY="17" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> said Bush personally supported it.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.3">
+			<REFERENCE ENTROPY="0.427564684787" ID="14" PARAGRAPH-POSITION="56" PARAGRAPH-RECENCY="6" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Vladimir Putin</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="other">abd</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="other">Putin also</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> expressed regret over accusations that four British diplomats were spies, but  </STRING>
+			<REFERENCE ENTROPY="0.311317951372" ID="15" PARAGRAPH-POSITION="68" PARAGRAPH-RECENCY="12" SENTENCE-POSITION="13" SENTENCE-RECENCY="12" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">also</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> promised it would not disrupt relations. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING>At the same time,  </STRING>
+			<REFERENCE ENTROPY="0.51991705919" ID="16" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the President</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">hr</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Putin</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> defended close relations with Uzbekistan and Belarus, two countries that have faced international opprobrium.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.2">
+			<REFERENCE ENTROPY="0.254819595786" ID="17" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="15" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">hr</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="other">He also</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">He</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> dismissed criticism of Russia's embrace of Uzbekistan's president, Islam A. Karimov, in the wake of the killings of hundreds of people during an uprising in Andijan last May, saying, &quot;We know what happened in Andijan better than you.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<STRING>&quot;We do not need any revolutions there,&quot;  </STRING>
+			<REFERENCE ENTROPY="0.420349213391" ID="18" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Putin</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Putin</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> added. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

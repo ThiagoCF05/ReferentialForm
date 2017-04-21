@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TEXT ID="457">
+	<TITLE>Mount Kenya</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Kenya</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain in Kenya, and the second highest in Africa (after Mount Kilimanjaro).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The highest peaks of  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are Batian (5,199 m - 17,058 ft), Nelion (5,188 m - 17,022 ft) and Lenana (4,985 m - 16,355 ft).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Kenya</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in central Kenya, just south of the equator, around 150 km (95 miles) north-northeast of Nairobi.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The area around  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is protected in the Mount Kenya National Park, which is a designated UNESCO World Heritage Site.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The National Park is around 620 km² (240 square miles), and receives up to 15,000 visitors every year. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="697">
+	<TITLE>Ruby Dome</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ruby Dome</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, the highest peak of the Ruby Mountains and Elko County, is located in the northeast portion of the state of Nevada in the western United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="27" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> rises from a base elevation of about 6000 feet to a height of 11,387 feet (3470 m, the NAVD88 elevation is about 5 feet higher).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="54" PARAGRAPH-RECENCY="26" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 40°37.3'N and 115°28.5'W, about 21 miles southeast of the community of Elko. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

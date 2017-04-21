@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1363">
+	<TITLE>Saint Vincent and the Grenadines</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Saint Vincent and the Grenadines</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an independent sovereign state in the Lesser Antilles chain of the Caribbean Sea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="15" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> 389-km² territory consists of the main island of Saint Vincent and the northern two-thirds of the Grenadines.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="34" PARAGRAPH-RECENCY="18" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a British colonial history and now part of the Commonwealth of Nations and CARICOM.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="16" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> capital is at Kingstown on Saint Vincent. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

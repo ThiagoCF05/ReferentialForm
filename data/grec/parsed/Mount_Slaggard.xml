@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="546">
+	<TITLE>Mount Slaggard</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Slaggard</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the tenth highest peak in Canada and </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in Kluane National Park and Reserve.</STRING>
+	</PARAGRAPH>
+</TEXT>

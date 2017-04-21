@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<TEXT ID="941">
+	<TITLE>London</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">London</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (pronounced [IPA: [ˈlʌndən]]) is the capital city of England and the United Kingdom. An important settlement for around two millennia, </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">London</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is today one of the world's most important business and financial centres, and </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> involvement in politics, culture, education, entertainment, media, fashion, sport and the arts all contribute to </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> status as one of the key global cities.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">London</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the most populous city in the European Union. </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> population is very cosmopolitan, drawing from a diverse range of peoples, cultures and religions, speaking over 300 different languages. Residents of </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">London</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are referred to as Londoners.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">London</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an international transport hub, with five international airports and a large port. </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> serves as the largest aviation hub in the world, and </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> principal airport, Heathrow, carries more international passengers than any other.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">London</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a major tourist destination - counting iconic landmarks such as the Houses of Parliament, Tower Bridge, the Tower of London, Westminster Abbey, Buckingham Palace and the London Eye amongst </STRING>
+		<REFERENCE ID="12" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> many attractions, along with famous institutions such as the British Museum and the National Gallery.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>Samuel Johnson remarked that &quot;When a man is tired of London, he is tired of life&quot;.</STRING>
+	</PARAGRAPH>
+</TEXT>

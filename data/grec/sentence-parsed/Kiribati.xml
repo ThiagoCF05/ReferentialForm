@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="954">
+	<TITLE>Kiribati</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kiribati</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Kiribati, is an island nation located in the central tropical Pacific Ocean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The country's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> 33 atolls are scattered over 1,351 square miles (3,500 km²) near the equator.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name is pronounced [IPA: ['kiribas]] and is a Kiribati language rendering of &quot;Gilberts&quot;, the English name for the main group of islands: the former Gilbert Islands.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>In Gilbertese there is no letter 's', the sound being represented by 'ti'.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>That is why the Pacific Island known as Christmas Island is known in the language of  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kiribati</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as Kiritimati Island.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>This island should not be confused with the Christmas Island in the Indian Ocean, which is administered by Australia. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

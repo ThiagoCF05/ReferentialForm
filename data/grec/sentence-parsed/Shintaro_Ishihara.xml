@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TEXT ID="1735">
+	<TITLE>Shintaro Ishihara</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Shintaro Ishihara</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (石原 慎太郎, Ishihara Shintarō), born September 30, 1932 is the governor of Tokyo, Japan, and one of Japan's most widely known nationalist and populist politicians.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Before entering politics,  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was famous as an author. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

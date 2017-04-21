@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<TEXT ID="1401">
+	<TITLE>Tuvalu</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tuvalu</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, formerly known as the Ellice Islands, is a Polynesian island nation located in the Pacific Ocean midway between Hawaii and Australia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> nearest neighbours are Kiribati, Samoa and Fiji.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Comprising 4 reef islands and 5 true atolls, with a total land area of just 26 square kilometers (10 sq mi),  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="52" PARAGRAPH-RECENCY="29" SEMCAT="country" SENTENCE-POSITION="22" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the second-least populated independent country in the world, Vatican City being the smallest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="67" PARAGRAPH-RECENCY="15" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the smallest member by population of the United Nations. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The first inhabitants of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tuvalu</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> were Polynesian people.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="4" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> came under Britain's sphere of influence in the late 19th century.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="12" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Ellice Islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> were administered by Britain as part of a protectorate from 1892 to 1916 and as part of the Gilbert and Ellice Islands Colony from 1916 to 1974.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>In 1974 the Ellice Islanders voted for separate British dependency status as Tuvalu, separating from the Gilbert Islands which became Kiribati upon independence.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="72" PARAGRAPH-RECENCY="51" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tuvalu</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became fully independent in 1978. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Due to their low elevation, the islands that make up  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this nation</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are threatened by any future sea level rise.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The population may evacuate during the next decades to New Zealand, Niue or the Fijian island of Kioa. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

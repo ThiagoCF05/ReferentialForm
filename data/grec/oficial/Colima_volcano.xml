@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<TEXT ID="99">
+	<TITLE>Colima (volcano)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Colima's Volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the most active volcano in Mexico, and  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has erupted more than 40 times since 1576. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Despite  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="2" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name, only a fraction of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="8" SENTENCE-RECENCY="6" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> surface area is contained within the state of Colima; the majority of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="13" SEMCAT="mountain" SENTENCE-POSITION="21" SENTENCE-RECENCY="13" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> surface area lies just over the border in the neighboring state of Jalisco, toward the western end of the Eje Volcánico Transversal mountain range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="46" PARAGRAPH-RECENCY="25" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is about west of Mexico City and south of Guadalajara, Jalisco. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>There are actually two peaks in the volcano complex: Nevado de Colima (4330 metres), which is older and inactive, lies about 5 kilometres north of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="26" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the younger and very active 3860 metre Volcán de Colima</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (also called Volcán de Fuego de Colima).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Since 1869-1878, a parasitic set of domes, collectively known as El Volcancito, have formed on the northeast flank of the main cone of  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="57" PARAGRAPH-RECENCY="31" SEMCAT="mountain" SENTENCE-POSITION="24" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Colima's volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> . </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1356">
+	<TITLE>Republic of the Congo</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Republic of the Congo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, also known as Congo-Brazzaville (locally, &quot;Congo-Brazza&quot;) and Congo, is a former French colony of western-central Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> borders are Gabon, Cameroon, Central African Republic, Democratic Republic of the Congo, Angola and the Gulf of Guinea. Upon independence in 1960, the former French region of Middle Congo became the Republic of the Congo. A quarter century of Marxism was abandoned in 1990 and a democratically elected government installed in 1992. A brief civil war in 1997 restored former Marxist President Denis Sassou-Nguesso.</STRING>
+	</PARAGRAPH>
+</TEXT>

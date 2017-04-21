@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<TEXT ID="1380">
+	<TITLE>Spain</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Spain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Kingdom of Spain ([Spanish: Reino de España], short form: España), is a country located in Southern Europe, with two small exclaves in North Africa (both bordering Morocco).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Spain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a democracy  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is organized as a parliamentary monarchy.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a developed country with the ninth-largest economy in the world.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the largest of the three sovereign nations that make up the Iberian Peninsula--the others are Portugal and the microstate of Andorra. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>To the west and to the south of Galicia,  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Spain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders Portugal.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>To the south,  </STRING>
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders Gibraltar (a British overseas territory) and, through  </STRING>
+			<REFERENCE ID="8" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> cities in North Africa (Ceuta and Melilla), Morocco.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>To the northeast, along the Pyrenees mountain range,  </STRING>
+			<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders France and the tiny principality of Andorra.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<REFERENCE ID="10" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also includes the Balearic Islands in the Mediterranean Sea, the Canary Islands in the Atlantic Ocean and a number of uninhabited islands on the Mediterranean side of the strait of Gibraltar, known as [Spanish: Plazas de soberanía], such as the Chafarine islands, the isle of Alborán, the &quot;rocks&quot; ([Spanish: peñones]) of Vélez and Alhucemas, and the tiny Isla Perejil.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>In the northeast along the Pyrenees, a small exclave town called Llívia in Catalonia is surrounded by French territory. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The term Spain (España in Spanish) is derived from the Roman name for the region: Hispania. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

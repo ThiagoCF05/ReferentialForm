@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<TEXT ID="235">
+	<TITLE>Istor-o-Nal</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Istor-o-Nal</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the third highest mountain in the Hindu Kush, in the Chitral district of the Northwest Frontier Province of Pakistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the 68th highest independent peak in the world.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> crowns a massif with eleven peaks of elevation more than 7,000 m (22,966 ft).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="47" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located a few kilometres northeast of Tirich Mir (the highest mountain in the Hindu Kush), across the Tirich Glacier.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Because  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="69" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Istor-o-Nal</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is behind the higher peak of Tirich Mir from many viewpoints,  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="81" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="14" SENTENCE-RECENCY="12" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is not easily visible and therefore not well known. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The word &quot;Istoro Nal&quot; means horseshoe in the Khowar language (Istor means &quot;horse&quot;).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The origin of the name is unclear. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Istor-o-Nal</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed on June 8, 1955 by the Americans Major Ken Bankwala, Joseph E. Murphy, Jr., and Thomas A. Mutch, on a Princeton Mountaineering Club expedition.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>They climbed the west ridge, starting from the south side of  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="39" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> on the Tirich Glacier.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Their small, minimally financed expedition (by the standards of the time for high-altitude mountaineering) achieved what was then the second highest summit attained by Americans. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

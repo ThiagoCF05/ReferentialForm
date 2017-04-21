@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEXT ID="414">
+	<TITLE>Mount Fairweather</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Fairweather</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (officially known as Fairweather Mountain in Canada but referred to also as Fairweather nonetheless) is a mountain located 20 km (14 mi) east of the Pacific Ocean in Glacier Bay National Park of the United States. While the majority of </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies within the City and Borough of Yakutat, Alaska, the actual summit is in Tatshenshini-Alsek Park in British Columbia, making it the highest point in that province. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was named on May 3, 1778 by Captain James Cook, apparently for the good weather encountered at the time.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Fairweather</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first climbed in 1931 by Allen Carpé and Terris Moore.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TEXT ID="240">
+	<TITLE>Javaleon</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Javaleon</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an extinct volcano near the city of Baza in the Granada province in Spain.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> reaches a height of 1,494 metres above sea level. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>At the foot of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Javalon</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are the Banõs de Zujar (baths of Zujar).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>They maintain a temperature over 30°C all year round, and are heated by a geo-thermal source underground. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also has a church situated on top as well as television and other communication towers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Paragliders frequently launch from the top of here as  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is surrounded by relatively flat land. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

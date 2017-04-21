@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="772">
+	<TITLE>Mont Pelvoux</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mont Pelvoux</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (3,946 m) is a mountain in the Massif des Écrins in the French Alps.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>For many years </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mont Pelvoux</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was believed to be the highest mountain in the region since the higher Barre des Écrins cannot be seen from the Durance valley.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The highest point on </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is Pointe Puiseux. There are three subpeaks: * Pointe Durand (3,932 m)* Petit Pelvoux (3,753 m)* Trois Dents du Pelvoux (3,682 m)</STRING>
+	</PARAGRAPH>
+</TEXT>

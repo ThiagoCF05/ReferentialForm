@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="1838">
+	<TITLE>Rio Grande</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rio Grande</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in the United States and as the Río Bravo (or, more formally, the Río Bravo del Norte) in Mexico,  </STRING>
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, 1,885 mi (3,034 km) long, is the fourth longest river in the United States. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

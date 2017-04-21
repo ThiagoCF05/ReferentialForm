@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<TEXT ID="613">
+	<TITLE>Newberry Volcano</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Newberry Volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> 7,985 ft (2,434 m) high is a large shield volcano located 40 miles (60 km) east of the Cascade Volcanic Belt, the Cascade Range and about 20 miles (30 km) southeast of Bend, Oregon.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="35" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is not a typical shield volcano in that, in addition to erupting basaltic lavas,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="51" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="16" SENTENCE-RECENCY="15" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also has erupted andesitic and even rhyolitic lava. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is 20 miles (30 km) in diameter,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has an approximate volume of 80 mile³ (330 km³), and  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="20" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> possesses a large oval-shaped caldera four by five miles in diameter, called the Newberry Caldera.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Within the caldera there are two lakes (Paulina Lake and East Lake) many pyroclastic cones, lava flows, and obsidian domes. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>A deep gash in the northern caldera wall, dubbed The Fissure, is the end of a 29 mile (47 km) long series of fractures called the Northwest Rift Zone.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Approximately 6,100 years ago, fissure basalt flows erupted from the rift and covered part of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="16" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Newberry's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> northwest flank. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

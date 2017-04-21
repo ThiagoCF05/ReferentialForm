@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TEXT ID="248">
+	<TITLE>K6 (mountain)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">K6</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, or Baltistan Peak, is a notable peak of the Masherbrum Mountains, a subrange of the Karakoram mountain range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Despite being much lower than the nearby Eight-thousanders and high 7000m peaks such as Masherbrum,  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has huge, steep faces, and great relief above the nearby valleys, making  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> an impressive peak. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

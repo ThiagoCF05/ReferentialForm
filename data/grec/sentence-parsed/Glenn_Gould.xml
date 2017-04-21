@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEXT ID="1543">
+	<TITLE>Glenn Gould</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Glenn Herbert Gould</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (September 25, 1932 - October 4, 1982) was a celebrated Canadian pianist, noted especially for  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> recordings of Johann Sebastian Bach's keyboard music.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> gave up live performance in 1964, dedicating  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">himself</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> to the recording studio for the rest of  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> career. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

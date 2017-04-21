@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="712">
+	<TITLE>Saraghrar</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Saraghrar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the fourth highest independent peak in the Hindu Kush.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The entire Saraghrar massif</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a huge, irregular stretched plateau at elevation around 7,000 m (22,966 ft), lying above vertical granite and ice faces, which protect  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="35" PARAGRAPH-RECENCY="23" SEMCAT="mountain" SENTENCE-POSITION="24" SENTENCE-RECENCY="23" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> all around.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="3" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> distinct summits are poorly identified, and information gathered from expeditions that have visited the area is often misleading.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The main summits are: NE summit (7349m), NW summit (7300m), SW summit (7148m), S summit (7307m) and SE summit (7208m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>To date (2005), the NW summit is the only unclimbed peak of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="89" PARAGRAPH-RECENCY="51" SEMCAT="mountain" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the massif</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

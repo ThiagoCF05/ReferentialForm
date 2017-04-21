@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="1375">
+	<TITLE>Solomon Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Solomon Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a nation in Melanesia, east of Papua New Guinea, consisting of nearly one thousand islands. Together </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">they</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> cover a land mass of 28,400 square kilometres (10,965 sq mi). The capital is Honiara, located on the island of Guadalcanal.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Solomon Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> have been inhabited by Melanesian people for at least 30,000 years. The United Kingdom established a protectorate over </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Solomon Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in the 1890s. Some of the most bitter fighting of World War II occurred on </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">these islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. Self-government was achieved in 1976 and independence two years later. </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> remains a Commonwealth Realm.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Since 1997 ethnic violence, government misconduct and crime have undermined stability and civil society. In June 2003 an Australian-led multinational force, the Regional Assistance Mission to the Solomon Islands (RAMSI), arrived to restore peace and disarm ethnic militias.</STRING>
+	</PARAGRAPH>
+</TEXT>

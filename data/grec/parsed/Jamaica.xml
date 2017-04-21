@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1294">
+	<TITLE>Jamaica</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Jamaica</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an island nation of the Greater Antilles, 240 kilometres (150 mi) in length and as much as 85 kilometres (50 mi) in width situated in the Caribbean Sea. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 635 kilometres (391 mi) east of the Central American mainland, 150 kilometres (93 mi) south of Cuba, and 180 kilometres (112 mi) west of the island of Hispaniola, on which Haiti and the Dominican Republic are situated. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> indigenous Arawakan-speaking Taíno inhabitants named </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the island</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> Xaymaca, meaning either the &quot;Land of Springs,&quot; or the &quot;Land of Wood and Water.&quot; Formerly a Spanish possession known as Santiago, then the British West Indies Crown colony of Jamaica. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the third most populous Anglophone country in the Americas, after the United States and Canada.</STRING>
+	</PARAGRAPH>
+</TEXT>

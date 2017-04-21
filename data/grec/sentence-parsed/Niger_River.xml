@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1828">
+	<TITLE>Niger River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Niger River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the principal river of western Africa, extending over 2500 miles (about 4000 km).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> runs in a crescent through Guinea, Mali, Niger, on the border with Benin and then through Nigeria, discharging through a massive delta, known as the Oil Rivers, into the Gulf of Guinea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Niger</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the third longest river in Africa, exceeded only by the Nile and the Congo River (also known as the Zaïre River).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> main tributary is the Benue River. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TEXT ID="722">
+	<TITLE>Čvrsnica</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Čvrsnica</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is mountain in the Dinarides of Bosnia and Herzegovina, located in northern Herzegovina, most of </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the Herzegovina-Neretva Canton municipalities of East Mostar and Jablanica while the smaller part of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, around 10% is located in the municipality to Posušje. The highest peak is 2228 metres.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Čvrsnica</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is surrounded by the river Neretva from the east (20 km), its tributaries Doljanka (18 km) from the north and Drežanka (19.8 km) from the south, the Dugo Polje field (12 km) and Vran mountain from west. </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> consists of several plateaus -- Plas and Muharnica on north, Mala Čvrsnica on south. There are more than ten summits above 2000 m (Plocno 2228 m, Veliki Jelinak 2179 m, Veliki Vilinac 2118 m, etc.), vertical cliffs (Pesti brdo, Mezica stijene, Strmenica ...). </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also includes lakes of Blidinje, Crepulja and Crvenjak. The Diva Grabovica canyon (6.2 km) goes into </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Bio-life is characteristic of </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> three climate areas: conifers above 1200 m, plateau with grass and junipers; numerous endemic species (like Munika Pine). </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cvrsnica</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is well known as a home of chamois.</STRING>
+	</PARAGRAPH>
+</TEXT>

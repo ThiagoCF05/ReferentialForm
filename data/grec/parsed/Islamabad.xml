@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1071">
+	<TITLE>Islamabad</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Islamabad</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Urdu: اسلام آباد, abode of Islam), is the capital city of Pakistan, and </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the Potohar Plateau in the northwest of the country. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located within the Islamabad Capital Territory, though the area has historically been a part of the crossroads of the Punjab region and the North-West Frontier Province (the Margalla pass being a historic gateway to the North-West Frontier Province, and the Potwar Plateau historically a part of the Punjab). </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Islamabad</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located at .</STRING>
+	</PARAGRAPH>
+</TEXT>

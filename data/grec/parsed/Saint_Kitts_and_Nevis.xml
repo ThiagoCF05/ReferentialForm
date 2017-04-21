@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TEXT ID="1361">
+	<TITLE>Saint Kitts and Nevis</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Saint Kitts and Nevis</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Federation of Saint Christopher and Nevis (or the Federation of Saint Kitts and Nevis), located in the Leeward Islands, is a unitary island nation in the Caribbean and the smallest nation in the Americas in both area and population. The capital city and government for </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the federated state</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is mainly on the larger island of Saint Kitts (formerly named Saint Christopher). The smaller state of Nevis (formerly named: Nuestra Señora de las Nieves) lies about 3 km southeast of Saint Kitts. Historically the British dependency of Anguilla was also a part of this union, which was then known collectively as Saint Christopher-Nevis-Anguilla.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Although </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Saint Kitts and Nevis</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are geographically within the Leeward Islands, </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">they</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are relatively close to a cluster of several other islands. To the north-northwest lie the islands of Saint Eustatius, Saba, Saint Barthélemy, and Saint Martin. To the northeast are Antigua and Barbuda, and to the south-east is Montserrat.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Both the names Saint Christopher and Saint Kitts are given in the Constitution of </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Saint Christopher and Nevis</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Saint Kitts and Nevis</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the smallest (in population) member of the United Nations in the American continent. Owing to the United Nations 'one state, one vote' system, </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> vote has the same weight as countries such as Brazil and Mexico, which are roughly 3,000 times more populous and India which has millions more people.</STRING>
+	</PARAGRAPH>
+</TEXT>

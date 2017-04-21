@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TEXT ID="778">
+	<TITLE>Monte Pissis</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte Pissis</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an extinct volcano in La Rioja Province, Argentina. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the third highest in the Western Hemisphere, and </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located about 550 km north of Aconcagua.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Due to </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> location in the Atacama Desert, </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has very dry conditions with snow only remaining on the peak during winter. </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is very high and remote, however the ascent is but a hike, albeit a long one.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>In 1994 it was claimed by Argentine authorities that an advanced GPS survey had determined that the elevation of </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte Pissis</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was 6,882 m, and higher than Ojos del Salado, but SRTM data and several modern GPS surveys have proved that this widely reproduced and repeated claim is incorrect.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>In 2007, a Chilean-European expedition performed a precise survey on both Ojos del Salado and </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte Pissis</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, using more accurate instruments. It has provisionally found the former to be 6,891 m and </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the latter</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> 6,793 m.</STRING>
+	</PARAGRAPH>
+</TEXT>

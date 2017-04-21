@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="970">
+	<TITLE>John Logie Baird</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">John Logie Baird</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (August 13 1888 - June 14 1946) was a Scottish engineer,  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is best known as the inventor of the first working electromechanical television system. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,920 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0" GENDER="male" ID="1" MENTION-ID="1" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Dr. Lawrence H. Summers</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Larry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Lawrence Summers</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Lawrence Harry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Larry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">lawernce henery summers</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Larry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Lawrence Summers</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Lawrence Henry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Lawrence Henry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Lawrence Summers</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> resigned </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="4" GENDER="unknown" MENTION-ID="2" NUMBER="singular" TYPE="name"> Tuesday </REFERENCE>
+			<STRING> as </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="5" GENDER="male" MENTION-ID="3" NUMBER="singular" TYPE="description">
+				<STRING> president of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="4" NUMBER="unknown" TYPE="name"> Harvard University </REFERENCE>
+			</REFERENCE>
+			<STRING> after </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="6" GENDER="unknown" MENTION-ID="5" NUMBER="plural">
+				<STRING> a relatively brief and turbulent tenure of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="7" GENDER="unknown" MENTION-ID="6" NUMBER="singular" TYPE="name"> five years </REFERENCE>
+			</REFERENCE>
+			<STRING>, nudged by </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="8" GENDER="neutral" MENTION-ID="7" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="8" NUMBER="unknown" TYPE="name"> Harvard's </REFERENCE>
+				<STRING> governing corporation </STRING>
+			</REFERENCE>
+			<STRING> and facing </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="9" GENDER="neutral" MENTION-ID="9" NUMBER="singular" TYPE="description">
+				<STRING> a vote of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="10" GENDER="unknown" MENTION-ID="10" NUMBER="singular" TYPE="description"> no confidence </REFERENCE>
+			</REFERENCE>
+			<STRING> from </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="11" GENDER="neutral" MENTION-ID="11" NUMBER="unknown" TYPE="name"> the influential Faculty of Arts and Sciences </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="14" GENDER="neutral" MENTION-ID="12" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="15" GENDER="neutral" MENTION-ID="13" NUMBER="singular" TYPE="description">
+					<STRING> The announcement by </STRING>
+					<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.403674" GENDER="male" ID="2" MENTION-ID="14" NUMBER="singular" PARAGRAPH-POSITION="4" RECENCY="0" SYNCAT="np-obj">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="name">Summers</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="82" TYPE="name">Summers</REFEX>
+							<REFEX PARTICIPANT-ID="90" TYPE="name">Summers</REFEX>
+							<REFEX PARTICIPANT-ID="93" TYPE="name">Summers</REFEX>
+							<REFEX PARTICIPANT-ID="96" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+							<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="102" TYPE="pronoun">him</REFEX>
+							<REFEX PARTICIPANT-ID="105" TYPE="name">Summers</REFEX>
+							<REFEX PARTICIPANT-ID="108" TYPE="name">Mr. Summers</REFEX>
+							<REFEX PARTICIPANT-ID="111" TYPE="name">Summers</REFEX>
+							<REFEX PARTICIPANT-ID="114" TYPE="name">larry</REFEX>
+							<REFEX PARTICIPANT-ID="117" TYPE="pronoun">him</REFEX>
+							<REFEX PARTICIPANT-ID="123" TYPE="name">Summers</REFEX>
+							<REFEX PARTICIPANT-ID="126" TYPE="name">Summers</REFEX>
+							<REFEX PARTICIPANT-ID="129" TYPE="pronoun">him</REFEX>
+							<REFEX PARTICIPANT-ID="132" TYPE="name">Summers</REFEX>
+							<REFEX PARTICIPANT-ID="135" TYPE="name">Summers</REFEX>
+							<REFEX PARTICIPANT-ID="138" TYPE="name">Summers</REFEX>
+							<REFEX PARTICIPANT-ID="148" TYPE="pronoun">him</REFEX>
+							<REFEX PARTICIPANT-ID="151" TYPE="name">President Summers</REFEX>
+							<REFEX PARTICIPANT-ID="154" TYPE="name">Summer</REFEX>
+							<REFEX PARTICIPANT-ID="157" TYPE="name">Summers</REFEX>
+							<REFEX PARTICIPANT-ID="160" TYPE="name">Summers</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="16" GENDER="unknown" MENTION-ID="15" NUMBER="plural">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="17" GENDER="male" MENTION-ID="16" NUMBER="singular" TYPE="description"> an economist </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="18" GENDER="male" MENTION-ID="17" NUMBER="singular" TYPE="description">
+						<STRING> a former secretary of </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="19" GENDER="neutral" MENTION-ID="18" NUMBER="unknown" TYPE="name">
+							<STRING> the </STRING>
+							<REFERENCE ANIMACY="inanimate" ENTITY-ID="13" GENDER="neutral" MENTION-ID="19" NUMBER="unknown" TYPE="name"> Treasury </REFERENCE>
+						</REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, disappointed </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="20" GENDER="unknown" MENTION-ID="20" NUMBER="plural" TYPE="description"> many students </REFERENCE>
+			<STRING> on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="21" GENDER="neutral" MENTION-ID="21" NUMBER="singular" TYPE="description"> the campus </REFERENCE>
+			<STRING> and raised </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="22" GENDER="unknown" MENTION-ID="22" NUMBER="plural" TYPE="description"> questions </REFERENCE>
+			<STRING> about </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="23" GENDER="unknown" MENTION-ID="23" NUMBER="plural" TYPE="description"> future leaders' </REFERENCE>
+			<STRING> ability to govern </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="24" GENDER="neutral" MENTION-ID="24" NUMBER="unknown" TYPE="name">
+				<STRING> Harvard with </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="25" GENDER="unknown" MENTION-ID="25" NUMBER="plural">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="15" GENDER="unknown" MENTION-ID="26" NUMBER="singular" TYPE="pronoun"> its </REFERENCE>
+					<STRING> vocal and independent-minded faculty </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING> But </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="30" GENDER="unknown" MENTION-ID="27" NUMBER="plural">
+				<STRING> advisers and confidants of </STRING>
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.189281" GENDER="male" ID="3" MENTION-ID="28" NUMBER="singular" PARAGRAPH-POSITION="6" RECENCY="0" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Summers</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="82" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="90" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="93" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="96" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+						<REFEX PARTICIPANT-ID="99" TYPE="name">Larry</REFEX>
+						<REFEX PARTICIPANT-ID="102" TYPE="pronoun">him</REFEX>
+						<REFEX PARTICIPANT-ID="105" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="108" TYPE="name">Mr. Summers</REFEX>
+						<REFEX PARTICIPANT-ID="111" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="114" TYPE="name">larry</REFEX>
+						<REFEX PARTICIPANT-ID="117" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="123" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="126" TYPE="name">Larry</REFEX>
+						<REFEX PARTICIPANT-ID="129" TYPE="pronoun">him</REFEX>
+						<REFEX PARTICIPANT-ID="132" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="135" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="138" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="148" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="151" TYPE="name">Larry</REFEX>
+						<REFEX PARTICIPANT-ID="154" TYPE="name">summers</REFEX>
+						<REFEX PARTICIPANT-ID="157" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="160" TYPE="name">Summers</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> said </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.128114" GENDER="male" ID="4" MENTION-ID="29" NUMBER="singular" PARAGRAPH-POSITION="8" RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="other">he had</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">larry</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">that</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> privately concluded </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="32" GENDER="unknown" MENTION-ID="30" NUMBER="singular" TYPE="name"> a week </REFERENCE>
+			<STRING> ago that </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.118951" GENDER="male" ID="5" MENTION-ID="31" NUMBER="singular" PARAGRAPH-POSITION="15" RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the President</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="other">he felt he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> should step down, after </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="34" GENDER="unknown" MENTION-ID="32" NUMBER="plural" TYPE="description">
+				<STRING> members of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="8" GENDER="neutral" MENTION-ID="33" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="34" NUMBER="unknown" TYPE="name"> Harvard's </REFERENCE>
+					<STRING> governing corporation </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="36" GENDER="unknown" MENTION-ID="35" NUMBER="plural" TYPE="description"> friends </REFERENCE>
+			<STRING>-- particularly from </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="37" GENDER="neutral" MENTION-ID="36" NUMBER="singular" TYPE="description">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="29" GENDER="male" MENTION-ID="37" NUMBER="singular" TYPE="name"> Clinton </REFERENCE>
+				<STRING> administration </STRING>
+			</REFERENCE>
+			<STRING>-- made </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="37" GENDER="neutral" MENTION-ID="38" NUMBER="singular" TYPE="pronoun"> it </REFERENCE>
+			<STRING> clear that </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="39" GENDER="neutral" MENTION-ID="39" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.254411" GENDER="male" ID="6" MENTION-ID="40" NUMBER="singular" PARAGRAPH-POSITION="38" RECENCY="23" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">his</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="82" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="99" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="102" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="111" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="114" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="117" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="126" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="129" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="132" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="135" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="138" TYPE="name">Summers'</REFEX>
+						<REFEX PARTICIPANT-ID="148" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="151" TYPE="demonstrative">this</REFEX>
+						<REFEX PARTICIPANT-ID="154" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="160" TYPE="pronoun">his</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> presidency </STRING>
+			</REFERENCE>
+			<STRING> was lost. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.427831" GENDER="male" ID="7" MENTION-ID="41" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Summers</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Lawrence Summers</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="other">As president</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Larry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="other">As Harvard's President</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="other">As president</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="description">President Emeritus</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">lawrence hery summers</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Lawrence</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="other">At Harvard</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="other">Incidentally</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="other">Recently</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Summers</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.705775" GENDER="male" ID="8" MENTION-ID="42" NUMBER="singular" PARAGRAPH-POSITION="2" RECENCY="1" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">president</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="description">an economist</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="other">had</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Summer</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="other">has</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">who</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> earned </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="44" GENDER="unknown" MENTION-ID="43" NUMBER="singular" TYPE="description">
+				<STRING> a base salary of $ 563,000 in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="45" GENDER="unknown" MENTION-ID="44" NUMBER="singular" TYPE="name">
+					<STRING> the </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="42" GENDER="unknown" MENTION-ID="45" NUMBER="singular" TYPE="name"> 2004-5 </REFERENCE>
+					<STRING> academic year </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.289542" GENDER="male" ID="9" MENTION-ID="46" NUMBER="singular" PARAGRAPH-POSITION="15" RECENCY="13" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="other">would have</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">had</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">actually</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="other">also</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> received </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="46" GENDER="unknown" MENTION-ID="47" NUMBER="singular" TYPE="description"> a 3 percent raise </REFERENCE>
+			<STRING> last July, is to leave office  </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="48" GENDER="unknown" MENTION-ID="48" NUMBER="singular" TYPE="name"> June 30 </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="52" GENDER="male" MENTION-ID="49" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="49" GENDER="male" MENTION-ID="50" NUMBER="singular" TYPE="name"> Derek C. Bok </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="50" GENDER="unknown" MENTION-ID="51" NUMBER="singular" TYPE="name"> 75 </REFERENCE>
+				<STRING>, who was </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="5" GENDER="male" MENTION-ID="52" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="53" NUMBER="unknown" TYPE="name"> Harvard's </REFERENCE>
+					<STRING> president </STRING>
+				</REFERENCE>
+				<STRING> from </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="54" GENDER="unknown" MENTION-ID="54" NUMBER="singular" TYPE="name"> 1971 to 1991 </REFERENCE>
+			</REFERENCE>
+			<STRING>, will serve as interim president until </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="55" GENDER="male" MENTION-ID="55" NUMBER="singular" TYPE="description"> a permanent successor </REFERENCE>
+			<STRING> is found. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING> Hailed in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="58" GENDER="unknown" MENTION-ID="56" NUMBER="singular" TYPE="name">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0" GENDER="male" ID="10" MENTION-ID="57" NUMBER="singular" PARAGRAPH-POSITION="3" RECENCY="0" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">his</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="82" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="99" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="102" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="111" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="114" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="117" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="126" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="132" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="135" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="138" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="148" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="151" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="154" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="160" TYPE="pronoun">his</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> first days </STRING>
+			</REFERENCE>
+			<STRING> as </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="3" GENDER="male" MENTION-ID="58" NUMBER="singular" TYPE="description"> a once-in-a-century leader </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.114889" GENDER="male" ID="11" MENTION-ID="59" NUMBER="singular" PARAGRAPH-POSITION="10" RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Summers</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Larry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">larry</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">summers</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Mr. Summers</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="62" GENDER="unknown" MENTION-ID="60" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="57" GENDER="unknown" MENTION-ID="61" NUMBER="singular" TYPE="name"> 51 </REFERENCE>
+				<STRING>, arrived with </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="63" GENDER="unknown" MENTION-ID="62" NUMBER="plural" TYPE="description"> plans </REFERENCE>
+				<STRING> to expand </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="21" GENDER="neutral" MENTION-ID="63" NUMBER="singular" TYPE="description"> the campus </REFERENCE>
+			</REFERENCE>
+			<STRING>, put new focus on undergraduate education and integrate </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="65" GENDER="unknown" MENTION-ID="64" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="65" NUMBER="singular" TYPE="description"> the university's </REFERENCE>
+				<STRING> schools </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING> But </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.247482" GENDER="male" ID="12" MENTION-ID="66" NUMBER="singular" PARAGRAPH-POSITION="31" RECENCY="21" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">larry</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> eventually alienated </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="68" GENDER="unknown" MENTION-ID="67" NUMBER="plural" TYPE="description"> professors </REFERENCE>
+			<STRING> with </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="69" GENDER="neutral" MENTION-ID="68" NUMBER="singular" TYPE="description"> a personal style </REFERENCE>
+			<STRING> that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="70" GENDER="unknown" MENTION-ID="69" NUMBER="unknown" TYPE="description"> many </REFERENCE>
+			<STRING> saw as </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="71" GENDER="unknown" MENTION-ID="70" NUMBER="plural"> bullying and arrogant </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="73" GENDER="neutral" MENTION-ID="71" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="74" GENDER="neutral" MENTION-ID="72" NUMBER="singular" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.395488" GENDER="male" ID="13" MENTION-ID="73" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">His</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="82" TYPE="name">Summers</REFEX>
+							<REFEX PARTICIPANT-ID="90" TYPE="name">Summers'</REFEX>
+							<REFEX PARTICIPANT-ID="93" TYPE="pronoun">His</REFEX>
+							<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="99" TYPE="name">Larry</REFEX>
+							<REFEX PARTICIPANT-ID="102" TYPE="pronoun">His</REFEX>
+							<REFEX PARTICIPANT-ID="105" TYPE="pronoun">His</REFEX>
+							<REFEX PARTICIPANT-ID="108" TYPE="name">Mr. Summers's</REFEX>
+							<REFEX PARTICIPANT-ID="111" TYPE="pronoun">His</REFEX>
+							<REFEX PARTICIPANT-ID="114" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="117" TYPE="pronoun">His</REFEX>
+							<REFEX PARTICIPANT-ID="123" TYPE="pronoun">His</REFEX>
+							<REFEX PARTICIPANT-ID="126" TYPE="pronoun">His</REFEX>
+							<REFEX PARTICIPANT-ID="129" TYPE="other">The</REFEX>
+							<REFEX PARTICIPANT-ID="132" TYPE="pronoun">His</REFEX>
+							<REFEX PARTICIPANT-ID="135" TYPE="pronoun">His</REFEX>
+							<REFEX PARTICIPANT-ID="138" TYPE="name">Summers</REFEX>
+							<REFEX PARTICIPANT-ID="148" TYPE="pronoun">His</REFEX>
+							<REFEX PARTICIPANT-ID="151" TYPE="pronoun">His</REFEX>
+							<REFEX PARTICIPANT-ID="154" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="157" TYPE="name">Summers'</REFEX>
+							<REFEX PARTICIPANT-ID="160" TYPE="name">Summers's</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> desire to change </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="76" GENDER="neutral" MENTION-ID="74" NUMBER="singular" TYPE="description">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="75" NUMBER="unknown" TYPE="name"> Harvard's </REFERENCE>
+						<STRING> culture </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING>, which </STRING>
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.128114" GENDER="male" ID="14" MENTION-ID="76" NUMBER="singular" PARAGRAPH-POSITION="8" RECENCY="7" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">he</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="82" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="99" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="105" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="111" TYPE="other">many</REFEX>
+						<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="126" TYPE="other">many</REFEX>
+						<REFEX PARTICIPANT-ID="129" TYPE="other">was</REFEX>
+						<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="135" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> saw as complacent </STRING>
+			</REFERENCE>
+			<STRING>, was accompanied by </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="78" GENDER="unknown" MENTION-ID="77" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="79" GENDER="unknown" MENTION-ID="78" NUMBER="plural" TYPE="description">
+					<STRING> slights to </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="80" GENDER="neutral" MENTION-ID="79" NUMBER="singular" TYPE="description"> some faculty </REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="81" GENDER="unknown" MENTION-ID="80" NUMBER="plural" TYPE="description">
+					<STRING> missteps like </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="82" GENDER="unknown" MENTION-ID="81" NUMBER="singular" TYPE="description">
+						<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="49" ENTROPY="0" GENDER="male" ID="15" MENTION-ID="82" NUMBER="singular" PARAGRAPH-POSITION="22" RECENCY="14" SYNCAT="subj-det">
+							<ORIGINAL-REFEX>
+								<REFEX TYPE="pronoun">his</REFEX>
+							</ORIGINAL-REFEX>
+							<PARTICIPANTS-REFEX>
+								<REFEX PARTICIPANT-ID="82" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="99" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="102" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="111" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="114" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="117" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="126" TYPE="other">an unfortunate</REFEX>
+								<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="132" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="135" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="138" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="148" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="151" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="154" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="160" TYPE="pronoun">his</REFEX>
+							</PARTICIPANTS-REFEX>
+						</TARGET-REFERENCE>
+						<STRING> statement </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> last year that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="85" GENDER="unknown" MENTION-ID="83" NUMBER="plural" TYPE="description"> women </REFERENCE>
+			<STRING> might lack </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="86" GENDER="unknown" MENTION-ID="84" NUMBER="singular" TYPE="description">
+				<STRING> an intrinsic aptitude for </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="87" GENDER="unknown" MENTION-ID="85" NUMBER="plural"> math and science </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<STRING> And </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="88" GENDER="unknown" MENTION-ID="86" NUMBER="unknown" TYPE="description">
+				<STRING> some of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="89" GENDER="unknown" MENTION-ID="87" NUMBER="plural" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.408907" GENDER="male" ID="16" MENTION-ID="88" NUMBER="singular" PARAGRAPH-POSITION="4" RECENCY="0" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">his</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="82" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="90" TYPE="name">Summers'</REFEX>
+							<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="99" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="102" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="105" TYPE="name">Summer's</REFEX>
+							<REFEX PARTICIPANT-ID="108" TYPE="name">Summers's</REFEX>
+							<REFEX PARTICIPANT-ID="111" TYPE="name">Summers'</REFEX>
+							<REFEX PARTICIPANT-ID="114" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="117" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="126" TYPE="other">his many</REFEX>
+							<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="132" TYPE="name">Summers'</REFEX>
+							<REFEX PARTICIPANT-ID="135" TYPE="name">Summers'</REFEX>
+							<REFEX PARTICIPANT-ID="138" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="148" TYPE="name">Summer's</REFEX>
+							<REFEX PARTICIPANT-ID="151" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="154" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="160" TYPE="pronoun">his</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> major decisions </STRING>
+				</REFERENCE>
+				<STRING>-- including overhauling </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="91" GENDER="neutral" MENTION-ID="89" NUMBER="singular" TYPE="description"> the undergraduate curriculum </REFERENCE>
+				<STRING>, appointing </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="92" GENDER="unknown" MENTION-ID="90" NUMBER="plural" TYPE="description"> deans </REFERENCE>
+				<STRING> and mapping out </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="93" GENDER="neutral" MENTION-ID="91" NUMBER="singular" TYPE="description"> a new campus </REFERENCE>
+				<STRING>-- </STRING>
+			</REFERENCE>
+			<STRING> were hugely divisive at </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="94" GENDER="neutral" MENTION-ID="92" NUMBER="singular" TYPE="description"> the 370-year-old university </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="8">
+		<SENTENCE ID="8.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="95" GENDER="unknown" MENTION-ID="93" NUMBER="plural" TYPE="description"> Several prominent donors </REFERENCE>
+			<STRING> said </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="95" GENDER="unknown" MENTION-ID="94" NUMBER="plural" TYPE="pronoun"> they </REFERENCE>
+			<STRING> were aghast at </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="97" GENDER="unknown" MENTION-ID="95" NUMBER="singular" TYPE="name">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.395488" GENDER="male" ID="17" MENTION-ID="96" NUMBER="singular" PARAGRAPH-POSITION="9" RECENCY="0" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Summers'</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="82" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="99" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="102" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="105" TYPE="name">Summer's</REFEX>
+						<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="111" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="114" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="117" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="126" TYPE="name">Summers'</REFEX>
+						<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="132" TYPE="name">Summers'</REFEX>
+						<REFEX PARTICIPANT-ID="135" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="138" TYPE="name">Summers</REFEX>
+						<REFEX PARTICIPANT-ID="148" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="151" TYPE="other">his actions</REFEX>
+						<REFEX PARTICIPANT-ID="154" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="157" TYPE="name">Summers'</REFEX>
+						<REFEX PARTICIPANT-ID="160" TYPE="pronoun">him</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> fall </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="9">
+		<SENTENCE ID="9.1">
+			<STRING>`` How can anyone govern </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="99" GENDER="neutral" MENTION-ID="97" NUMBER="singular" TYPE="description"> a university </REFERENCE>
+			<STRING> where </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="100" GENDER="neutral" MENTION-ID="98" NUMBER="singular" TYPE="description">
+				<STRING> a fraction of </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="101" GENDER="unknown" MENTION-ID="99" NUMBER="plural" TYPE="description"> faculty members </REFERENCE>
+			</REFERENCE>
+			<STRING> can force </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="102" GENDER="male" MENTION-ID="100" NUMBER="singular" TYPE="description"> a president </REFERENCE>
+			<STRING> out?'' </STRING>
+		</SENTENCE>
+		<SENTENCE ID="9.2">
+			<STRING> said </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="106" GENDER="male" MENTION-ID="101" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="103" GENDER="male" MENTION-ID="102" NUMBER="singular" TYPE="name"> Joseph O'Donnell </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="103" GENDER="male" MENTION-ID="103" NUMBER="singular" TYPE="description">
+					<STRING> a </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="104" GENDER="neutral" MENTION-ID="104" NUMBER="singular" TYPE="name"> Boston </REFERENCE>
+					<STRING> business executive who is </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="108" GENDER="male" MENTION-ID="105" NUMBER="singular" TYPE="description">
+						<STRING> a former member of </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="109" GENDER="neutral" MENTION-ID="106" NUMBER="unknown" TYPE="name">
+							<REFERENCE ANIMACY="inanimate" ENTITY-ID="105" GENDER="neutral" MENTION-ID="107" NUMBER="unknown" TYPE="name"> Harvard's Board of Overseers </REFERENCE>
+							<STRING> and </STRING>
+							<REFERENCE ANIMACY="animate" ENTITY-ID="111" GENDER="male" MENTION-ID="108" NUMBER="singular" TYPE="description"> a prominent donor </REFERENCE>
+						</REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="10">
+		<SENTENCE ID="10.1">
+			<STRING> But </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="112" GENDER="unknown" MENTION-ID="109" NUMBER="unknown" TYPE="description">
+				<STRING> several of </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="113" GENDER="unknown" MENTION-ID="110" NUMBER="plural" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.525877" GENDER="male" ID="18" MENTION-ID="111" NUMBER="singular" PARAGRAPH-POSITION="4" RECENCY="0" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="name">Summers'</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="82" TYPE="name">Summer's</REFEX>
+							<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="99" TYPE="description">Harvard's</REFEX>
+							<REFEX PARTICIPANT-ID="102" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="105" TYPE="name">Summer's</REFEX>
+							<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="111" TYPE="other">Harvard's</REFEX>
+							<REFEX PARTICIPANT-ID="114" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="117" TYPE="name">Summer's</REFEX>
+							<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="126" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="132" TYPE="name">Summers'</REFEX>
+							<REFEX PARTICIPANT-ID="135" TYPE="name">Summers'</REFEX>
+							<REFEX PARTICIPANT-ID="138" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="148" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="151" TYPE="other">the other</REFEX>
+							<REFEX PARTICIPANT-ID="154" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="160" TYPE="name">Summers's</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> faculty critics </STRING>
+				</REFERENCE>
+				<STRING>-- </STRING>
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.25482" GENDER="male" ID="19" MENTION-ID="112" NUMBER="singular" PARAGRAPH-POSITION="8" RECENCY="4" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">who</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="82" TYPE="pronoun">who</REFEX>
+						<REFEX PARTICIPANT-ID="90" TYPE="pronoun">who</REFEX>
+						<REFEX PARTICIPANT-ID="93" TYPE="pronoun">who</REFEX>
+						<REFEX PARTICIPANT-ID="96" TYPE="other">they</REFEX>
+						<REFEX PARTICIPANT-ID="99" TYPE="other">professors</REFEX>
+						<REFEX PARTICIPANT-ID="102" TYPE="other">They</REFEX>
+						<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="108" TYPE="pronoun">who</REFEX>
+						<REFEX PARTICIPANT-ID="111" TYPE="pronoun">who</REFEX>
+						<REFEX PARTICIPANT-ID="114" TYPE="pronoun">who</REFEX>
+						<REFEX PARTICIPANT-ID="117" TYPE="other">they</REFEX>
+						<REFEX PARTICIPANT-ID="123" TYPE="pronoun">which</REFEX>
+						<REFEX PARTICIPANT-ID="126" TYPE="other">several</REFEX>
+						<REFEX PARTICIPANT-ID="129" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="132" TYPE="other">(remove are)</REFEX>
+						<REFEX PARTICIPANT-ID="135" TYPE="other">many</REFEX>
+						<REFEX PARTICIPANT-ID="138" TYPE="pronoun">who</REFEX>
+						<REFEX PARTICIPANT-ID="148" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="151" TYPE="other">who are</REFEX>
+						<REFEX PARTICIPANT-ID="154" TYPE="pronoun">who</REFEX>
+						<REFEX PARTICIPANT-ID="157" TYPE="pronoun">who</REFEX>
+						<REFEX PARTICIPANT-ID="160" TYPE="pronoun">who</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> are predominantly in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="115" GENDER="unknown" MENTION-ID="113" NUMBER="plural">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="116" GENDER="unknown" MENTION-ID="114" NUMBER="plural" TYPE="description"> the humanities </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="117" GENDER="unknown" MENTION-ID="115" NUMBER="plural" TYPE="description"> social sciences </REFERENCE>
+				</REFERENCE>
+				<STRING>, but extended across </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="116" NUMBER="singular" TYPE="description"> the university </REFERENCE>
+				<STRING>-- </STRING>
+			</REFERENCE>
+			<STRING> said </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="3" ENTROPY="0.453477" GENDER="male" ID="20" MENTION-ID="117" NUMBER="singular" PARAGRAPH-POSITION="24" RECENCY="16" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the president</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> made </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="120" GENDER="neutral" MENTION-ID="118" NUMBER="singular" TYPE="description"> the right decision </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="10.2">
+			<STRING>`` </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="122" GENDER="male" MENTION-ID="119" NUMBER="singular" TYPE="description"> A strong leader </REFERENCE>
+			<STRING> is not </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="123" GENDER="unknown" MENTION-ID="120" NUMBER="plural">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="122" GENDER="male" MENTION-ID="121" NUMBER="singular" TYPE="description">
+					<STRING> just someone who can name </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="125" GENDER="unknown" MENTION-ID="122" NUMBER="singular" TYPE="description"> a goal </REFERENCE>
+					<STRING> or force </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="126" GENDER="neutral" MENTION-ID="123" NUMBER="singular" TYPE="description"> a change </REFERENCE>
+				</REFERENCE>
+				<STRING>,'' said </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="127" GENDER="male" MENTION-ID="124" NUMBER="singular" TYPE="name">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="121" GENDER="male" MENTION-ID="125" NUMBER="singular" TYPE="name"> Mary C. Waters </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="128" GENDER="male" MENTION-ID="126" NUMBER="singular" TYPE="description"> a sociology professor </REFERENCE>
+				</REFERENCE>
+				<STRING>,`` but </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="129" GENDER="male" MENTION-ID="127" NUMBER="singular" TYPE="description">
+					<STRING> someone who can bring out </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="130" GENDER="unknown" MENTION-ID="128" NUMBER="unknown" TYPE="description">
+						<STRING> the best in </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="131" GENDER="unknown" MENTION-ID="129" NUMBER="plural" TYPE="description"> people </REFERENCE>
+					</REFERENCE>
+					<STRING> and find </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="132" GENDER="unknown" MENTION-ID="130" NUMBER="plural" TYPE="description"> ways </REFERENCE>
+					<STRING> to encourage teamwork </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>.'' </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

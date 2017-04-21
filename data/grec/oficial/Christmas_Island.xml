@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<TEXT ID="1240">
+	<TITLE>Christmas Island</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Territory of Christmas Island</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a small, non self-governing Territory of Australia located in the Indian Ocean, 2,360 km (1,466 miles) northwest of Perth in Western Australia and 500 km (310 miles) south of Jakarta, Indonesia. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> maintains about 1,600 residents who live in a number of towns on the northern tip of the island: Flying Fish Cove (The Settlement), Silver City, Kampong, Poon Saan, and Drumsite. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a unique natural topography and  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="7" SEMCAT="country" SENTENCE-POSITION="8" SENTENCE-RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is of immense interest to scientists and naturalists due to the number of species of endemic flora and fauna which have evolved in isolation and undisturbed by human habitation. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>While there has been mining activity on  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the island</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> for many years, 65 percent of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="7" SEMCAT="country" SENTENCE-POSITION="15" SENTENCE-RECENCY="7" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> 135 square kilometres (52.1 sq.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>mi) are now National Park and there are large areas of pristine and ancient rainforest. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="1551">
+	<TITLE>Hans Christian Andersen</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hans Christian Andersen</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> [IPA: [ˈhænˈs ˈkʰʁæsd̥jæn ˈanɔsn̩]] or simply HC Andersen [IPA: [ho̞ se ˈanɔsn̩]], (April 2 1805 – August 4 1875) was a Danish author and poet most famous for  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> fairy tales. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

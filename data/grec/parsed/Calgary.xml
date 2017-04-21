@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<TEXT ID="1034">
+	<TITLE>Calgary</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Calgary</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the largest city in the province of Alberta, Canada. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is in the south of the province, in a region of foothills and high plains, approximately 80 km east of the front ranges of the Canadian Rockies. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Calgary</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the third largest civic municipality, by population, in Canada. As of April 2006, </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Calgary's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> population was 991,759. The estimated metropolitan population (CMA) was 1,060,300 in 2005 (see Calgary Region), making Greater Calgary the fifth largest Census Metropolitan Area in the country. </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located within the relatively densely populated &quot;Calgary-Edmonton Corridor&quot;. </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the largest Canadian metropolitan area between Toronto and Vancouver.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>A resident of </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Calgary</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is known as a Calgarian.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Calgary</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is well-known as a destination for winter sports and ecotourism with a number of major mountain resorts near </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and metropolitan area. </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Calgary's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> economy is mostly centred on the petroleum industry (see Canadian Oil Patch), however agriculture, tourism, and the high-tech industries also contribute to </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the city's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> fast economic growth. </STRING>
+		<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Calgary</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also holds many major annual festivals, including the Calgary Stampede, the Folk Music Festival, the Lilac Festival, One World Festival (GlobalFest), and the second largest Caribbean festival in the country (Carifest). In 1988, </STRING>
+		<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Calgary</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became the first Canadian city to host The Olympic Winter Games.</STRING>
+	</PARAGRAPH>
+</TEXT>

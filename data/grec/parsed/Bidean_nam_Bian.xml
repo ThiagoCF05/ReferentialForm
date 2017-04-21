@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="43">
+	<TITLE>Bidean nam Bian</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bidean nam Bian</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, lying to the south of Glen Coe, Highland, Scotland, is the highest point in the historic county of Argyllshire. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a complex mountain, with many ridges and subsidiary peaks, one of which, Stob Coire Sgreamhach, is classified as a separate Munro.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The most noticeable features of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bidean nam Bian</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are the famous Three Sisters of Glen Coe, three peaks (in reality simply the steep ends of ridges) that face north into the Glen. Two of the sisters, Gearr Aonach (Short Ridge) and Aonach Dubh (Black Ridge) converge at Stob Coire nan Lochan, a 1,115 m subsidiary peak of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bidean nam Bian</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> that lies about 1 km to the northeast of the actual summit. The final, most easterly sister, Beinn Fhada, joins the Bidean nam Bian massif at the summit of Stob Coire Sgreamhach.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Beinn Fhada is separated from Gearr Aonach by a glen known as Coire Gabhail. This translates to Glen of Capture, however the glen is more normally known as the Hidden or Lost Valley. Either name may be considered appropriate since it is believed that in former times the valley was used by members of Clan Macdonald to hide stolen cattle. The glen is ideal for this purpose since it is blocked by a glacial landslip, and from Glen Coe appears as a narrow gorge. In fact, once past the landslip the floor of the glen is wide and flat – ideal for cattle. The path from Glen Coe through the gorge into Coire Gabhail is a popular short walk (around 4 km in total), though it is rough in places.</STRING>
+	</PARAGRAPH>
+</TEXT>

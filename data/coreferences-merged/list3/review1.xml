@@ -1,0 +1,531 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+	<SENTENCE ID="1">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="1" mentiontype="PROPER" number="SINGULAR"> Michael Crichton </REFERENCE>
+		<STRING> has written </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="UNKNOWN" mentionid="2" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="3" mentiontype="NOMINAL" number="SINGULAR"> some really fun </REFERENCE>
+			<STRING>, engaging, and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="4" gender="UNKNOWN" mentionid="4" mentiontype="NOMINAL" number="PLURAL"> interesting stories </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<STRING> Unfortunately, </STRING>
+		<TARGET-REFERENCE ENTROPY="0" ID="1" PARAGRAPH-POSITION="13" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="5" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="name">Airframe</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="88" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="91" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="97" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="100" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="109" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="112" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="115" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="118" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="124" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="136" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="142" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="149" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="152" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="155" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="158" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="161" TYPE="name">Airframe</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> is n't </STRING>
+		<REFERENCE animacy="INANIMATE" entity="6" gender="UNKNOWN" mentionid="6" mentiontype="PROPER" number="SINGULAR"> one of those </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="7" mentiontype="PRONOMINAL" number="SINGULAR"> He </REFERENCE>
+		<STRING> 's also written </STRING>
+		<REFERENCE animacy="INANIMATE" entity="8" gender="UNKNOWN" mentionid="8" mentiontype="NOMINAL" number="PLURAL"> some really bad stories </REFERENCE>
+		<STRING>, and </STRING>
+		<TARGET-REFERENCE ENTROPY="0.632272" ID="2" PARAGRAPH-POSITION="26" RECENCY="13" SYNCAT="np-subj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="9" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="91" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="97" TYPE="other">Jurassic Park</REFEX>
+				<REFEX PARTICIPANT-ID="100" TYPE="other">Jurassic Park</REFEX>
+				<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="109" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="112" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="115" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="124" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="136" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="149" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="155" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="158" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="161" TYPE="other">Jurassic Park</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> is n't </STRING>
+		<REFERENCE animacy="INANIMATE" entity="10" gender="UNKNOWN" mentionid="10" mentiontype="PROPER" number="SINGULAR"> one of those either </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+	<SENTENCE ID="4">
+		<TARGET-REFERENCE ENTROPY="0.397053" ID="3" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="12" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="name">Airframe</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="88" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="91" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="97" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="100" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="109" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="112" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="115" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="118" TYPE="name">The novel Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="124" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="136" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="142" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="149" TYPE="description">The story</REFEX>
+				<REFEX PARTICIPANT-ID="152" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="155" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="158" TYPE="description">The work</REFEX>
+				<REFEX PARTICIPANT-ID="161" TYPE="pronoun">It</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> follows </STRING>
+		<REFERENCE animacy="INANIMATE" entity="13" gender="NEUTRAL" mentionid="13" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the usual </STRING>
+			<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="11" mentiontype="PROPER" number="SINGULAR"> Crichton </REFERENCE>
+			<STRING> pattern of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="14" gender="NEUTRAL" mentionid="14" mentiontype="NOMINAL" number="SINGULAR"> a suspense story </REFERENCE>
+			<STRING> whose plot revolves around </STRING>
+			<REFERENCE animacy="INANIMATE" entity="15" gender="NEUTRAL" mentionid="15" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a piece of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="16" mentiontype="LIST" number="PLURAL"> science, medicine, or technology </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<STRING> In </STRING>
+		<REFERENCE animacy="INANIMATE" entity="17" gender="NEUTRAL" mentionid="17" mentiontype="NOMINAL" number="SINGULAR"> this case </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="17" gender="NEUTRAL" mentionid="18" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> 's </STRING>
+		<REFERENCE animacy="INANIMATE" entity="17" gender="NEUTRAL" mentionid="19" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the building of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> airplanes that takes </STRING>
+				<REFERENCE animacy="INANIMATE" entity="21" gender="NEUTRAL" mentionid="21" mentiontype="NOMINAL" number="SINGULAR"> center stage </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="ANIMATE" entity="22" gender="UNKNOWN" mentionid="22" mentiontype="PRONOMINAL" number="PLURAL"> We </REFERENCE>
+		<STRING> have </STRING>
+		<REFERENCE animacy="ANIMATE" entity="23" gender="FEMALE" mentionid="23" mentiontype="NOMINAL" number="SINGULAR"> the plucky heroine </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="24" gender="MALE" mentionid="24" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> an executive at </STRING>
+			<REFERENCE animacy="INANIMATE" entity="25" gender="NEUTRAL" mentionid="25" mentiontype="NOMINAL" number="SINGULAR"> the aircraft company </REFERENCE>
+		</REFERENCE>
+		<STRING> determined to find </STRING>
+		<REFERENCE animacy="INANIMATE" entity="26" gender="NEUTRAL" mentionid="26" mentiontype="NOMINAL" number="SINGULAR"> the truth </REFERENCE>
+		<STRING> behind </STRING>
+		<REFERENCE animacy="INANIMATE" entity="27" gender="UNKNOWN" mentionid="27" mentiontype="NOMINAL" number="SINGULAR"> an accident </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<REFERENCE animacy="ANIMATE" entity="22" gender="UNKNOWN" mentionid="28" mentiontype="PRONOMINAL" number="PLURAL"> We </REFERENCE>
+		<STRING> have </STRING>
+		<REFERENCE animacy="ANIMATE" entity="29" gender="UNKNOWN" mentionid="29" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="30" gender="UNKNOWN" mentionid="30" mentiontype="NOMINAL" number="PLURAL"> some bad guys </REFERENCE>
+			<STRING>, including </STRING>
+			<REFERENCE animacy="ANIMATE" entity="31" gender="UNKNOWN" mentionid="31" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="32" gender="UNKNOWN" mentionid="32" mentiontype="NOMINAL" number="PLURAL"> union goons </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="ANIMATE" entity="33" gender="MALE" mentionid="33" mentiontype="NOMINAL" number="SINGULAR"> a shameless TV reporter </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<REFERENCE animacy="ANIMATE" entity="22" gender="UNKNOWN" mentionid="34" mentiontype="PRONOMINAL" number="PLURAL"> We </REFERENCE>
+		<STRING> learn </STRING>
+		<REFERENCE animacy="INANIMATE" entity="35" gender="UNKNOWN" mentionid="35" mentiontype="NOMINAL" number="SINGULAR"> a bunch of stuff </REFERENCE>
+		<STRING> about </STRING>
+		<REFERENCE animacy="INANIMATE" entity="36" gender="UNKNOWN" mentionid="36" mentiontype="LIST" number="PLURAL">
+			<STRING> the politics and engineering of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="37" mentiontype="NOMINAL" number="PLURAL"> airplanes </REFERENCE>
+		</REFERENCE>
+		<STRING>, and eventually, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="22" gender="UNKNOWN" mentionid="38" mentiontype="PRONOMINAL" number="PLURAL"> we </REFERENCE>
+		<STRING> learn what happened on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="39" gender="NEUTRAL" mentionid="39" mentiontype="NOMINAL" number="SINGULAR"> that ill-fated flight </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<REFERENCE animacy="INANIMATE" entity="40" gender="NEUTRAL" mentionid="40" mentiontype="NOMINAL" number="SINGULAR"> The only problem </REFERENCE>
+		<STRING> is, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="22" gender="UNKNOWN" mentionid="41" mentiontype="PRONOMINAL" number="PLURAL"> we </REFERENCE>
+		<STRING> do n't really care. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+	<SENTENCE ID="10">
+		<REFERENCE animacy="INANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> The trouble with </STRING>
+			<TARGET-REFERENCE ENTROPY="0.740752" ID="4" PARAGRAPH-POSITION="4" RECENCY="0" SYNCAT="np-obj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="43" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Airframe</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="description">the plot</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="demonstrative">this novel</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="demonstrative">this novel</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="description">the story</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="description">the novel</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="demonstrative">this</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+		</REFERENCE>
+		<STRING> is that </STRING>
+		<REFERENCE animacy="INANIMATE" entity="44" gender="UNKNOWN" mentionid="44" mentiontype="NOMINAL" number="PLURAL"> the stakes </REFERENCE>
+		<STRING> are too small. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<STRING> In`` </STRING>
+		<REFERENCE animacy="INANIMATE" entity="45" gender="UNKNOWN" mentionid="45" mentiontype="PROPER" number="SINGULAR"> The Andromeda Strain </REFERENCE>
+		<STRING>,'' </STRING>
+		<REFERENCE animacy="INANIMATE" entity="46" gender="UNKNOWN" mentionid="46" mentiontype="NOMINAL" number="SINGULAR"> the fate of humanity </REFERENCE>
+		<STRING> rested on finding </STRING>
+		<REFERENCE animacy="INANIMATE" entity="47" gender="NEUTRAL" mentionid="47" mentiontype="NOMINAL" number="SINGULAR"> the answer </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<STRING> In </STRING>
+		<TARGET-REFERENCE ENTROPY="0.321967" ID="5" PARAGRAPH-POSITION="26" RECENCY="22" SYNCAT="np-obj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="48" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="name">Airframe</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="88" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="91" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="97" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="100" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="109" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="112" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="115" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="118" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="124" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="136" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="149" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="155" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="158" TYPE="description">the book</REFEX>
+				<REFEX PARTICIPANT-ID="161" TYPE="name">Airframe</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="49" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> 's </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="50" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> an order for </STRING>
+			<REFERENCE animacy="INANIMATE" entity="51" gender="UNKNOWN" mentionid="51" mentiontype="NOMINAL" number="PLURAL"> new planes </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="13">
+		<STRING> In </STRING>
+		<REFERENCE animacy="INANIMATE" entity="52" gender="UNKNOWN" mentionid="52" mentiontype="NOMINAL" number="PLURAL"> the most suspenseful moments of`` Jurassic Park </REFERENCE>
+		<STRING>,'' </STRING>
+		<REFERENCE animacy="ANIMATE" entity="53" gender="UNKNOWN" mentionid="53" mentiontype="PRONOMINAL" number="PLURAL"> we </REFERENCE>
+		<STRING> wonder how </STRING>
+		<REFERENCE animacy="ANIMATE" entity="54" gender="UNKNOWN" mentionid="54" mentiontype="NOMINAL" number="PLURAL"> the humans </REFERENCE>
+		<STRING> will escape </STRING>
+		<REFERENCE animacy="INANIMATE" entity="55" gender="UNKNOWN" mentionid="55" mentiontype="NOMINAL" number="PLURAL"> the dinosaurs </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="14">
+		<STRING> At </STRING>
+		<REFERENCE animacy="INANIMATE" entity="57" gender="NEUTRAL" mentionid="57" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the climax of </STRING>
+			<TARGET-REFERENCE ENTROPY="0.666098" ID="6" PARAGRAPH-POSITION="54" RECENCY="28" SYNCAT="np-obj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="56" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Airframe</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="description">the novel</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">the last chapter</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="description">the story</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">our novel in question</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="demonstrative">this novel</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="demonstrative">this tale</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Aiframe</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="demonstrative">this novel</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="description">the novel</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="description">the novel</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="demonstrative">this</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="53" gender="UNKNOWN" mentionid="58" mentiontype="PRONOMINAL" number="PLURAL"> we </REFERENCE>
+		<STRING> wonder whether </STRING>
+		<REFERENCE animacy="ANIMATE" entity="33" gender="MALE" mentionid="59" mentiontype="NOMINAL" number="SINGULAR"> the TV reporter </REFERENCE>
+		<STRING> will escape being airsick. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="15">
+		<STRING> -LRB- As </STRING>
+		<REFERENCE animacy="ANIMATE" entity="60" gender="MALE" mentionid="60" mentiontype="PROPER" number="SINGULAR"> Dave Barry </REFERENCE>
+		<STRING> would say, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="61" gender="UNKNOWN" mentionid="61" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> am not making </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="62" gender="NEUTRAL" mentionid="62" mentiontype="NOMINAL" number="UNKNOWN"> this </REFERENCE>
+		<STRING> up! -RRB- </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+	<SENTENCE ID="16">
+		<STRING> If </STRING>
+		<REFERENCE animacy="ANIMATE" entity="64" gender="UNKNOWN" mentionid="64" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> like </STRING>
+		<REFERENCE animacy="INANIMATE" entity="65" gender="NEUTRAL" mentionid="65" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the </STRING>
+			<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="63" mentiontype="PROPER" number="SINGULAR"> Crichton </REFERENCE>
+			<STRING> style </STRING>
+		</REFERENCE>
+		<STRING> and </STRING>
+		<REFERENCE animacy="ANIMATE" entity="66" gender="UNKNOWN" mentionid="66" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> borrow </STRING>
+		<TARGET-REFERENCE ENTROPY="0.719116" ID="7" PARAGRAPH-POSITION="10" RECENCY="0" SYNCAT="np-obj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="67" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="description">the book</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="88" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="91" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="97" TYPE="other">novels</REFEX>
+				<REFEX PARTICIPANT-ID="100" TYPE="other">books</REFEX>
+				<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="109" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="112" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="115" TYPE="demonstrative">this book</REFEX>
+				<REFEX PARTICIPANT-ID="118" TYPE="description">the book</REFEX>
+				<REFEX PARTICIPANT-ID="124" TYPE="description">the book</REFEX>
+				<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="136" TYPE="other">books</REFEX>
+				<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="149" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="155" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="158" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="161" TYPE="other">books</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> from </STRING>
+		<REFERENCE animacy="INANIMATE" entity="68" gender="NEUTRAL" mentionid="68" mentiontype="NOMINAL" number="SINGULAR"> the library </REFERENCE>
+		<STRING>, go ahead and read </STRING>
+		<TARGET-REFERENCE ENTROPY="0.310918" ID="8" PARAGRAPH-POSITION="18" RECENCY="8" SYNCAT="np-obj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="69" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="85" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="91" TYPE="other">the</REFEX>
+				<REFEX PARTICIPANT-ID="97" TYPE="other">The Andromeda Strain</REFEX>
+				<REFEX PARTICIPANT-ID="100" TYPE="other">Jurassic</REFEX>
+				<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="109" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="112" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="115" TYPE="other">while on a long car ride.</REFEX>
+				<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="133" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="136" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="142" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="149" TYPE="name">airframe</REFEX>
+				<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="155" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="158" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="161" TYPE="other">Jurassic</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> -- </STRING>
+		<TARGET-REFERENCE ENTROPY="0.390015" ID="9" PARAGRAPH-POSITION="20" RECENCY="2" SYNCAT="np-subj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="70" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="85" TYPE="other">at the very least it</REFEX>
+				<REFEX PARTICIPANT-ID="88" TYPE="other">as it</REFEX>
+				<REFEX PARTICIPANT-ID="91" TYPE="description">novel</REFEX>
+				<REFEX PARTICIPANT-ID="97" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="100" TYPE="other">Park</REFEX>
+				<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="109" TYPE="other">though it</REFEX>
+				<REFEX PARTICIPANT-ID="112" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="115" TYPE="demonstrative">This</REFEX>
+				<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="133" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="136" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="149" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="155" TYPE="description">the book</REFEX>
+				<REFEX PARTICIPANT-ID="158" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="161" TYPE="other">Park</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> ought to hold </STRING>
+		<REFERENCE animacy="INANIMATE" entity="71" gender="NEUTRAL" mentionid="71" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="72" gender="UNKNOWN" mentionid="72" mentiontype="PRONOMINAL" number="UNKNOWN"> your </REFERENCE>
+			<STRING> interest </STRING>
+		</REFERENCE>
+		<STRING> for </STRING>
+		<REFERENCE animacy="ANIMATE" entity="73" gender="UNKNOWN" mentionid="73" mentiontype="PROPER" number="SINGULAR">
+			<STRING> a couple of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="74" gender="UNKNOWN" mentionid="74" mentiontype="PROPER" number="SINGULAR"> hours </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="17">
+		<STRING> Otherwise, save </STRING>
+		<REFERENCE animacy="INANIMATE" entity="75" gender="UNKNOWN" mentionid="75" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="76" gender="UNKNOWN" mentionid="76" mentiontype="PRONOMINAL" number="UNKNOWN"> your </REFERENCE>
+			<STRING> time and money </STRING>
+		</REFERENCE>
+		<STRING> for </STRING>
+		<REFERENCE animacy="INANIMATE" entity="77" gender="UNKNOWN" mentionid="77" mentiontype="PROPER" number="SINGULAR"> one of his better books </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+	<SENTENCE ID="18">
+		<STRING> -LSB- By </STRING>
+		<REFERENCE animacy="INANIMATE" entity="78" gender="NEUTRAL" mentionid="78" mentiontype="NOMINAL" number="SINGULAR"> the way </REFERENCE>
+		<STRING>, </STRING>
+		<TARGET-REFERENCE ENTROPY="0.498198" ID="10" PARAGRAPH-POSITION="4" RECENCY="0" SYNCAT="np-subj" animacy="UNKNOWN" entity="5" gender="NEUTRAL" mentionid="79" number="UNKNOWN">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="demonstrative">this</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="88" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="91" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="97" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="100" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="109" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="112" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="115" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="118" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="136" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="142" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="149" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="155" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="158" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="161" TYPE="demonstrative">this</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> is n't </STRING>
+		<REFERENCE animacy="INANIMATE" entity="62" gender="NEUTRAL" mentionid="80" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="81" gender="UNKNOWN" mentionid="81" mentiontype="NOMINAL" number="PLURAL"> a children's </REFERENCE>
+			<STRING> book by any stretch of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="82" gender="NEUTRAL" mentionid="82" mentiontype="NOMINAL" number="SINGULAR"> the imagination </REFERENCE>
+		</REFERENCE>
+		<STRING>! </STRING>
+	</SENTENCE>
+	<SENTENCE ID="19">
+		<REFERENCE animacy="ANIMATE" entity="61" gender="UNKNOWN" mentionid="83" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> 'm not sure why </STRING>
+		<TARGET-REFERENCE ENTROPY="0.254411" ID="11" PARAGRAPH-POSITION="19" RECENCY="15" SYNCAT="np-subj" animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="84" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="85" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="91" TYPE="pronoun">it's</REFEX>
+				<REFEX PARTICIPANT-ID="97" TYPE="other">such a story</REFEX>
+				<REFEX PARTICIPANT-ID="100" TYPE="pronoun">it's</REFEX>
+				<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="109" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="112" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="115" TYPE="name">Airframe</REFEX>
+				<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it's</REFEX>
+				<REFEX PARTICIPANT-ID="133" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="136" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="149" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="155" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="158" TYPE="description">the book</REFEX>
+				<REFEX PARTICIPANT-ID="161" TYPE="pronoun">it's</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> is in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="85" gender="NEUTRAL" mentionid="85" mentiontype="NOMINAL" number="SINGULAR"> this category </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

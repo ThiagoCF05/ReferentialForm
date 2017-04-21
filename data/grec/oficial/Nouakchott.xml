@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1128">
+	<TITLE>Nouakchott</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nouakchott</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Arabic: نواكشوط or انواكشوط [alleged translation from berberic &quot;The place of the winds&quot;] Nawākšūṭ) is the capital and by far the largest city of Mauritania, and  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="27" SEMCAT="city" SENTENCE-POSITION="28" SENTENCE-RECENCY="27" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Sahara's largest city if one excludes marginal cases like Cairo (in the Nile River Delta) and the cities north of the Atlas Mountains on Africa's northern coast.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="57" PARAGRAPH-RECENCY="29" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the administrative and economic centre of Mauritania. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

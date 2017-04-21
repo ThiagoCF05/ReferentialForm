@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="577">
+	<TITLE>Mount Victoria, Papua New Guinea</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Victoria</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest point in the Owen Stanley Ranges in Central Province, Papua New Guinea at 4,072 metres.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies approximately 75km north-north-west of Port Moresby and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can be seen on a clear day from the city. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

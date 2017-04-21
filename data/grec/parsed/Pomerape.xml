@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="668">
+	<TITLE>Pomerape</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pomerape</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a stratovolcano lying on the border of Chile and Bolivia. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of the Nevados de Payachata complex of volcanoes together with Parinacota Volcano to the south. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is of Pleistocene age.</STRING>
+	</PARAGRAPH>
+</TEXT>

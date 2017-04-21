@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="961">
+	<TITLE>Andrei Sakharov</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Andrei Dmitrievich Sakharov</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Russian: Андре́й Дми́триевич Са́харов]) (May 21 1921 - December 14 1989) was an eminent Soviet nuclear physicist, dissident and human rights activist.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="23" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sakharov</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was an advocate of civil liberties and reforms in the Soviet Union. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

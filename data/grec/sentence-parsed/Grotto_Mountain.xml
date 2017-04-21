@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEXT ID="192">
+	<TITLE>Grotto Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Grotto Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain located in the Bow River valley, across from Canmore, Alberta, Canada. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>There are two main scrambling routes:* Northwest Variation - from the ACC clubhouse, ascends the northwest side of  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> on a good hiking trail.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>At tree line, the trail narrows to the false summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>From there, it is a gradual ascent to the summit with brief stints of scrambling but mostly hiking.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>* Direct route.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>Ascends directly under the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<STRING>Shorter but more arduous. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

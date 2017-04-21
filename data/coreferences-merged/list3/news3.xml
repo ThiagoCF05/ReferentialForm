@@ -1,0 +1,1408 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1">
+			<TARGET-REFERENCE ENTROPY="0" ID="1" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="1" number="UNKNOWN">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">SunCom Wireless</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">SunCom Wireless Holdings, Inc.</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">SunCom Wireless Holdings</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">SunCom Wireless Holdings, Inc.</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">SunCom Wireless</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc.</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">SunCom Wireless Holdings</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">SunCom Wireless Holdings, Inc.</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">SunCom Wireless Holdings, Inc.</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">SunCom Wireless Holdings, Inc.</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">SunCom Wireless Holdings, Inc.</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom Wireless Holdings, Inc.</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom Wireless Holdings, Inc.</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">SunCom Wireless</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">SunCom</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, promoted for </STRING>
+			<REFERENCE animacy="INANIMATE" entity="4" gender="UNKNOWN" mentionid="4" mentiontype="PROPER" number="SINGULAR"> the past year </REFERENCE>
+			<STRING> by </STRING>
+			<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="5" mentiontype="PROPER" number="SINGULAR">
+				<STRING> the ubiquitous </STRING>
+				<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="2" mentiontype="PROPER" number="SINGULAR"> Harry Connick Jr. </REFERENCE>
+			</REFERENCE>
+			<STRING>, has gone incognito to pitch </STRING>
+			<REFERENCE animacy="INANIMATE" entity="6" gender="NEUTRAL" mentionid="6" mentiontype="NOMINAL" number="UNKNOWN">
+				<TARGET-REFERENCE ENTROPY="0.123344" ID="2" PARAGRAPH-POSITION="18" RECENCY="17" SYNCAT="subj-det" animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="7" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="description">the carrier's</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="pronoun">their</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> newest </STRING>
+			</REFERENCE>
+			<STRING> calling plan. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2">
+			<TARGET-REFERENCE ENTROPY="0.421208" ID="3" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="7" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">The wireless company</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="description">The carrier</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="description">The fading wireless company</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="other">Since</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">They</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">SunCOM</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="other">Since</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="description">The carrier</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="other">Plans</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> that lost </STRING>
+			<REFERENCE animacy="ANIMATE" entity="11" gender="UNKNOWN" mentionid="11" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="8" gender="UNKNOWN" mentionid="8" mentiontype="PROPER" number="SINGULAR"> 60,000 </REFERENCE>
+				<STRING> customers in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="9" gender="NEUTRAL" mentionid="9" mentiontype="PROPER" number="SINGULAR"> North Carolina </REFERENCE>
+			</REFERENCE>
+			<STRING> last year introduced </STRING>
+			<REFERENCE animacy="INANIMATE" entity="13" gender="NEUTRAL" mentionid="13" mentiontype="NOMINAL" number="SINGULAR"> the new plan </REFERENCE>
+			<STRING> Tuesday with </STRING>
+			<REFERENCE animacy="INANIMATE" entity="15" gender="NEUTRAL" mentionid="15" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> advertising that deliberately omitted </STRING>
+				<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="16" mentiontype="NOMINAL" number="SINGULAR">
+					<TARGET-REFERENCE ENTROPY="0.321967" ID="4" PARAGRAPH-POSITION="21" RECENCY="20" SYNCAT="subj-det" animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="17" number="SINGULAR">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="description">the company's</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="85" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="88" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="91" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="97" TYPE="description">the company</REFEX>
+							<REFEX PARTICIPANT-ID="100" TYPE="pronoun">their</REFEX>
+							<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+							<REFEX PARTICIPANT-ID="112" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="115" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="118" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="124" TYPE="pronoun">their</REFEX>
+							<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom's</REFEX>
+							<REFEX PARTICIPANT-ID="136" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="140" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="142" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="149" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="155" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="158" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="161" TYPE="pronoun">their</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> name </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3">
+			<TARGET-REFERENCE ENTROPY="0.491468" ID="5" PARAGRAPH-POSITION="23" RECENCY="2" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="18" number="UNKNOWN">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">SunCom</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">SunCom Wireless Holdings</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">SunCom Wireless Holdings, Inc.</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">SunCom Wireless Holdings</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="description">The carrier</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">SunCom</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> has been running </STRING>
+			<REFERENCE animacy="INANIMATE" entity="23" gender="UNKNOWN" mentionid="23" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="19" gender="UNKNOWN" mentionid="19" mentiontype="PROPER" number="SINGULAR"> 14 </REFERENCE>
+				<STRING> billboards in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="24" gender="UNKNOWN" mentionid="24" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="PROPER" number="SINGULAR"> Raleigh </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE animacy="INANIMATE" entity="21" gender="MALE" mentionid="21" mentiontype="PROPER" number="SINGULAR"> Durham </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> since </STRING>
+			<REFERENCE animacy="INANIMATE" entity="25" gender="UNKNOWN" mentionid="25" mentiontype="PROPER" number="SINGULAR">
+				<STRING> last week that pose </STRING>
+				<REFERENCE animacy="INANIMATE" entity="26" gender="NEUTRAL" mentionid="26" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the question:`` Who will </STRING>
+					<REFERENCE animacy="ANIMATE" entity="11" gender="UNKNOWN" mentionid="27" mentiontype="PRONOMINAL" number="UNKNOWN">
+						<STRING> your </STRING>
+						<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="22" mentiontype="PROPER" number="SINGULAR"> 10 </REFERENCE>
+					</REFERENCE>
+					<STRING> be?'' </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</SENTENCE>
+		<SENTENCE ID="4">
+			<REFERENCE animacy="INANIMATE" entity="29" gender="UNKNOWN" mentionid="29" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="28" gender="UNKNOWN" mentionid="28" mentiontype="PROPER" number="SINGULAR"> Six </REFERENCE>
+				<STRING> area television stations </STRING>
+			</REFERENCE>
+			<STRING> have run </STRING>
+			<REFERENCE animacy="INANIMATE" entity="30" gender="UNKNOWN" mentionid="30" mentiontype="NOMINAL" number="PLURAL"> similar ads </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="5">
+			<STRING> On </STRING>
+			<REFERENCE animacy="INANIMATE" entity="14" gender="UNKNOWN" mentionid="32" mentiontype="PROPER" number="SINGULAR"> Tuesday </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="33" gender="UNKNOWN" mentionid="33" mentiontype="NOMINAL" number="SINGULAR">
+				<TARGET-REFERENCE ENTROPY="0.615641" ID="6" PARAGRAPH-POSITION="3" RECENCY="0" SYNCAT="subj-det" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="31" number="UNKNOWN">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">the SunCom</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="description">the company's</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="name">SunCom Wireless Holdings</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="name">SunCom's</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom's</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="description">the company</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom's</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="name">Suncom</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="name">the SunCom</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="other">the</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> name </STRING>
+			</REFERENCE>
+			<STRING> was plastered on </STRING>
+			<REFERENCE animacy="INANIMATE" entity="23" gender="UNKNOWN" mentionid="34" mentiontype="NOMINAL" number="PLURAL"> the billboards </REFERENCE>
+			<STRING> to clear up </STRING>
+			<REFERENCE animacy="INANIMATE" entity="35" gender="NEUTRAL" mentionid="35" mentiontype="NOMINAL" number="SINGULAR"> the mystery </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="6">
+			<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="38" mentiontype="PROPER" number="SINGULAR"> The`` 10'' </REFERENCE>
+			<STRING> refers to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="13" gender="NEUTRAL" mentionid="39" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="13" gender="NEUTRAL" mentionid="40" mentiontype="NOMINAL" number="SINGULAR"> the new plan </REFERENCE>
+				<STRING>, which allows </STRING>
+				<REFERENCE animacy="ANIMATE" entity="11" gender="UNKNOWN" mentionid="41" mentiontype="NOMINAL" number="PLURAL"> customers </REFERENCE>
+				<STRING> unlimited calling to </STRING>
+				<REFERENCE animacy="ANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="NOMINAL" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="36" mentiontype="PROPER" number="SINGULAR"> 10 </REFERENCE>
+					<STRING> people outside </STRING>
+					<REFERENCE animacy="INANIMATE" entity="43" gender="NEUTRAL" mentionid="43" mentiontype="NOMINAL" number="SINGULAR">
+						<TARGET-REFERENCE ENTROPY="0.471554" ID="7" PARAGRAPH-POSITION="31" RECENCY="28" SYNCAT="np-obj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="37" number="UNKNOWN">
+							<ORIGINAL-REFEX>
+								<REFEX TYPE="name">the SunCom</REFEX>
+							</ORIGINAL-REFEX>
+							<PARTICIPANTS-REFEX>
+								<REFEX PARTICIPANT-ID="85" TYPE="name">Suncom's</REFEX>
+								<REFEX PARTICIPANT-ID="88" TYPE="pronoun">their</REFEX>
+								<REFEX PARTICIPANT-ID="91" TYPE="pronoun">Their</REFEX>
+								<REFEX PARTICIPANT-ID="97" TYPE="other">of your</REFEX>
+								<REFEX PARTICIPANT-ID="100" TYPE="other">said</REFEX>
+								<REFEX PARTICIPANT-ID="106" TYPE="name">the  SunCom Wireless</REFEX>
+								<REFEX PARTICIPANT-ID="109" TYPE="description">the carrier's</REFEX>
+								<REFEX PARTICIPANT-ID="112" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="115" TYPE="pronoun">their</REFEX>
+								<REFEX PARTICIPANT-ID="118" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="124" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="133" TYPE="pronoun">it's</REFEX>
+								<REFEX PARTICIPANT-ID="136" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom's</REFEX>
+								<REFEX PARTICIPANT-ID="142" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="149" TYPE="other">of their</REFEX>
+								<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="155" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="158" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="161" TYPE="pronoun">their</REFEX>
+							</PARTICIPANTS-REFEX>
+						</TARGET-REFERENCE>
+						<STRING> network </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="7">
+			<STRING> Typically, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="44" gender="UNKNOWN" mentionid="44" mentiontype="NOMINAL" number="PLURAL"> such out-of-network calls </REFERENCE>
+			<STRING> use up calling </STRING>
+			<REFERENCE animacy="INANIMATE" entity="45" gender="NEUTRAL" mentionid="45" mentiontype="NOMINAL" number="SINGULAR"> time </REFERENCE>
+			<STRING> or cost </STRING>
+			<REFERENCE animacy="INANIMATE" entity="46" gender="UNKNOWN" mentionid="46" mentiontype="NOMINAL" number="UNKNOWN"> more </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="8">
+			<REFERENCE animacy="INANIMATE" entity="48" gender="UNKNOWN" mentionid="48" mentiontype="NOMINAL" number="PLURAL">
+				<TARGET-REFERENCE ENTROPY="0.659147" ID="8" PARAGRAPH-POSITION="44" RECENCY="13" SYNCAT="subj-det" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="47" number="UNKNOWN">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">SunCom's</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="description">The carrier's</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">Their</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom's</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="name">SunCom's</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="other">Several</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom's</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="description">The carrier's</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="other">The</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> new TV ads </STRING>
+			</REFERENCE>
+			<STRING> are airing today. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="9">
+			<REFERENCE animacy="INANIMATE" entity="51" gender="UNKNOWN" mentionid="51" mentiontype="LIST" number="PLURAL"> The new plan and ad campaign </REFERENCE>
+			<STRING> take place against </STRING>
+			<REFERENCE animacy="INANIMATE" entity="52" gender="NEUTRAL" mentionid="52" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> an increasingly bleak financial situation for </STRING>
+				<REFERENCE animacy="INANIMATE" entity="53" gender="UNKNOWN" mentionid="53" mentiontype="PROPER" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="54" gender="UNKNOWN" mentionid="54" mentiontype="PROPER" number="SINGULAR">
+						<STRING> the </STRING>
+						<REFERENCE animacy="INANIMATE" entity="49" gender="NEUTRAL" mentionid="49" mentiontype="PROPER" number="SINGULAR"> Berwyn </REFERENCE>
+						<STRING>, </STRING>
+						<REFERENCE animacy="INANIMATE" entity="50" gender="UNKNOWN" mentionid="50" mentiontype="PROPER" number="SINGULAR"> Pa. </REFERENCE>
+					</REFERENCE>
+					<STRING>, company </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="10">
+			<TARGET-REFERENCE ENTROPY="0.310918" ID="9" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="55" number="UNKNOWN">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">SunCom</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">SunCom Wireless Holdings</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">SunCom Wireless</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">SunCom Wireless Holdings</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="pronoun">They</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">SunCom</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> ran into </STRING>
+			<REFERENCE animacy="INANIMATE" entity="59" gender="UNKNOWN" mentionid="59" mentiontype="NOMINAL" number="PLURAL"> technical problems </REFERENCE>
+			<STRING> last year when </STRING>
+			<TARGET-REFERENCE ENTROPY="0.245053" ID="10" PARAGRAPH-POSITION="9" RECENCY="8" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="61" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="description">the company</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">they</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> tried to switch </STRING>
+			<REFERENCE animacy="ANIMATE" entity="62" gender="UNKNOWN" mentionid="62" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> more than 211,000 </STRING>
+				<REFERENCE animacy="INANIMATE" entity="57" gender="NEUTRAL" mentionid="57" mentiontype="PROPER" number="UNKNOWN"> AT&amp;T Wireless </REFERENCE>
+				<STRING> customers in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="9" gender="NEUTRAL" mentionid="58" mentiontype="PROPER" number="SINGULAR"> North Carolina </REFERENCE>
+			</REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="43" gender="NEUTRAL" mentionid="63" mentiontype="NOMINAL" number="SINGULAR">
+				<TARGET-REFERENCE ENTROPY="0.243982" ID="11" PARAGRAPH-POSITION="23" RECENCY="14" SYNCAT="subj-det" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="61" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="other">a 4G</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="other">a different wireless</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="other">another</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="name">Sucom</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="name">the SunCom</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="other">a different</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="pronoun">it's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> network </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="11">
+			<TARGET-REFERENCE ENTROPY="0.525098" ID="12" PARAGRAPH-POSITION="25" RECENCY="2" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="65" mentiontype="PROPER" number="UNKNOWN">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">SunCom</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="description">The carrier</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">SunCom WIreless</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">They</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">They</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">They</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">SunCom Wireless Holdings, Inc.</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom's</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">They</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> acquired </STRING>
+			<REFERENCE animacy="ANIMATE" entity="62" gender="UNKNOWN" mentionid="67" mentiontype="PRONOMINAL" number="PLURAL"> them </REFERENCE>
+			<STRING> as </STRING>
+			<REFERENCE animacy="INANIMATE" entity="68" gender="NEUTRAL" mentionid="68" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> part of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="69" gender="NEUTRAL" mentionid="69" mentiontype="NOMINAL" number="SINGULAR"> a customer swap </REFERENCE>
+			</REFERENCE>
+			<STRING> with </STRING>
+			<REFERENCE animacy="INANIMATE" entity="66" gender="NEUTRAL" mentionid="66" mentiontype="PROPER" number="UNKNOWN"> Cingular Wireless </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="12">
+			<TARGET-REFERENCE ENTROPY="0.544346" ID="13" PARAGRAPH-POSITION="37" RECENCY="12" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="70" mentiontype="PROPER" number="UNKNOWN">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">SunCom</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="other">However, the company</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">They</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">SunCom Wireless Holdings</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">Yet they</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">SunCom Wireless</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">They</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">Unfortunately they</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom's</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">They</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> could transfer </STRING>
+			<REFERENCE animacy="INANIMATE" entity="71" gender="UNKNOWN" mentionid="71" mentiontype="PROPER" number="SINGULAR">
+				<STRING> only 150,000 of </STRING>
+				<REFERENCE animacy="ANIMATE" entity="11" gender="UNKNOWN" mentionid="72" mentiontype="NOMINAL" number="PLURAL"> the customers </REFERENCE>
+			</REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="73" gender="UNKNOWN" mentionid="73" mentiontype="LIST" number="PLURAL">
+				<TARGET-REFERENCE ENTROPY="0.2341" ID="14" PARAGRAPH-POSITION="46" RECENCY="9" SYNCAT="subj-det" animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="74" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="other">their own</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="other">the other</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="pronoun">theit</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="name">SunCom's</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="other">the new</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="pronoun">their</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> network and billing system </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="13">
+			<REFERENCE animacy="ANIMATE" entity="75" gender="UNKNOWN" mentionid="75" mentiontype="NOMINAL" number="PLURAL"> Thousands of customers </REFERENCE>
+			<STRING> complained of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="76" gender="UNKNOWN" mentionid="76" mentiontype="NOMINAL" number="PLURAL"> dead phones </REFERENCE>
+			<STRING>, lost </STRING>
+			<REFERENCE animacy="INANIMATE" entity="77" gender="UNKNOWN" mentionid="77" mentiontype="LIST" number="PLURAL">
+				<STRING> e-mail, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="78" gender="UNKNOWN" mentionid="78" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="79" gender="UNKNOWN" mentionid="79" mentiontype="NOMINAL" number="PLURAL"> billing inaccuracies </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE animacy="INANIMATE" entity="80" gender="UNKNOWN" mentionid="80" mentiontype="NOMINAL" number="PLURAL"> other headaches </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="14">
+			<TARGET-REFERENCE ENTROPY="0.345864" ID="15" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="81" number="UNKNOWN">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">SunCom</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="other">Harry Connick Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">SunCom Wireless Holdings</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">The company's PR representative</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">SunCom Wireless</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">SunCom Wireless Holdings</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">SunCom Wireless Holdings, Inc.</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom's</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">SunCom</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> says </STRING>
+			<TARGET-REFERENCE ENTROPY="0.275722" ID="16" PARAGRAPH-POSITION="3" RECENCY="2" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="82" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">that SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="other">that it</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">that it</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="description">the company</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is now gaining </STRING>
+			<REFERENCE animacy="ANIMATE" entity="11" gender="UNKNOWN" mentionid="83" mentiontype="NOMINAL" number="PLURAL"> customers </REFERENCE>
+			<STRING> faster than </STRING>
+			<TARGET-REFERENCE ENTROPY="0" ID="17" PARAGRAPH-POSITION="10" RECENCY="7" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="84" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it's</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="other">it is</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="other">others are</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">they are</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="other">they're</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="other">it is</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="other">they are</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="other">it is</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">they are</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="other">it is</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="other">they are</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="other">it is</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="other">it is</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="other">it is</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="other">then they are</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="other">it is</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="other">they are</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="other">is</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> 's losing </STRING>
+			<REFERENCE animacy="ANIMATE" entity="11" gender="UNKNOWN" mentionid="85" mentiontype="PRONOMINAL" number="PLURAL"> them </REFERENCE>
+			<STRING>, but </STRING>
+			<REFERENCE animacy="INANIMATE" entity="86" gender="NEUTRAL" mentionid="86" mentiontype="NOMINAL" number="SINGULAR">
+				<TARGET-REFERENCE ENTROPY="0.189281" ID="18" PARAGRAPH-POSITION="14" RECENCY="4" SYNCAT="subj-det" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="87" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="description">the company's</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="other">such extreme</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="other">the new</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="other">low</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="other">such</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="other">the fast</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="name">SunCom</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="pronoun">their</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> growth </STRING>
+			</REFERENCE>
+			<STRING> belies </STRING>
+			<REFERENCE animacy="INANIMATE" entity="88" gender="UNKNOWN" mentionid="88" mentiontype="NOMINAL" number="PLURAL"> underlying troubles </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="15">
+			<REFERENCE animacy="INANIMATE" entity="90" gender="UNKNOWN" mentionid="90" mentiontype="PROPER" number="SINGULAR"> Last month </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ENTROPY="0.453477" ID="19" PARAGRAPH-POSITION="21" RECENCY="7" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="89" number="UNKNOWN">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">SunCom</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="other">company representatives</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="description">the carrier</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">business analysts</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">SunCom Wireless</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom's</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Sucom corportation</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">SunCom</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> said </STRING>
+			<TARGET-REFERENCE ENTROPY="0" ID="20" PARAGRAPH-POSITION="23" RECENCY="2" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="91" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">SunCom's quarterly report</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="other">that they</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">that they</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="other">that they</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> would report </STRING>
+			<REFERENCE animacy="INANIMATE" entity="92" gender="UNKNOWN" mentionid="92" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> lower-than-expected revenues per </STRING>
+				<REFERENCE animacy="ANIMATE" entity="93" gender="UNKNOWN" mentionid="93" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> subscriber, </STRING>
+					<REFERENCE animacy="INANIMATE" entity="94" gender="UNKNOWN" mentionid="94" mentiontype="NOMINAL" number="PLURAL"> higher-than-expected expenses </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> to acquire and retain </STRING>
+			<REFERENCE animacy="ANIMATE" entity="95" gender="UNKNOWN" mentionid="95" mentiontype="NOMINAL" number="PLURAL"> subscribers </REFERENCE>
+			<STRING>, and increased </STRING>
+			<REFERENCE animacy="INANIMATE" entity="96" gender="UNKNOWN" mentionid="96" mentiontype="NOMINAL" number="PLURAL"> bad debt expenses </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="97" gender="NEUTRAL" mentionid="97" mentiontype="PROPER" number="SINGULAR">
+				<STRING> the fourth quarter of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="98" gender="UNKNOWN" mentionid="98" mentiontype="PROPER" number="SINGULAR"> 2005 </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="16">
+			<TARGET-REFERENCE ENTROPY="0.502788" ID="21" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="99" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">The company</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">They</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">They</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">They</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">SunCom Wireless</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">SunCom Wireless Holdings</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">SunCom Wireless Holdings, Inc.</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="other">A spokesperson</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">SunCom</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> also said </STRING>
+			<TARGET-REFERENCE ENTROPY="0.209077" ID="22" PARAGRAPH-POSITION="4" RECENCY="3" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="100" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="other">that they</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> would delay reporting </STRING>
+			<REFERENCE animacy="INANIMATE" entity="101" gender="UNKNOWN" mentionid="101" mentiontype="NOMINAL" number="PLURAL">
+				<TARGET-REFERENCE ENTROPY="0.225054" ID="23" PARAGRAPH-POSITION="8" RECENCY="4" SYNCAT="subj-det" animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="102" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="name">Suncom</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="other">of their</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="other">all</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="pronoun">iits</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="other">all their</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="name">SunCom</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="pronoun">their</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> annual earnings </STRING>
+			</REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="103" gender="NEUTRAL" mentionid="103" mentiontype="PROPER" number="SINGULAR"> March </REFERENCE>
+			<STRING> by </STRING>
+			<REFERENCE animacy="INANIMATE" entity="104" gender="UNKNOWN" mentionid="104" mentiontype="PROPER" number="SINGULAR"> two weeks </REFERENCE>
+			<STRING> to give auditors </STRING>
+			<REFERENCE animacy="INANIMATE" entity="106" gender="NEUTRAL" mentionid="106" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> more time to complete </STRING>
+				<REFERENCE animacy="INANIMATE" entity="107" gender="NEUTRAL" mentionid="107" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="ANIMATE" entity="105" gender="UNKNOWN" mentionid="108" mentiontype="PRONOMINAL" number="PLURAL"> their </REFERENCE>
+					<STRING> work </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="17">
+			<STRING> And </STRING>
+			<TARGET-REFERENCE ENTROPY="0.383514" ID="24" PARAGRAPH-POSITION="26" RECENCY="18" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="109" number="UNKNOWN">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">SunCom</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="other">representatives</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="other">Wireless</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">the CEO</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">Its</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">they also</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="other">the spokesperson</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="other">officals</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="other">spokespeople</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">they</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> said </STRING>
+			<REFERENCE animacy="INANIMATE" entity="52" gender="NEUTRAL" mentionid="110" mentiontype="NOMINAL" number="SINGULAR">
+				<TARGET-REFERENCE ENTROPY="0.189281" ID="25" PARAGRAPH-POSITION="28" RECENCY="2" SYNCAT="subj-det" animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="111" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="other">that the</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="pronoun">the</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="name">Suncoms</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="other">the</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> situation </STRING>
+			</REFERENCE>
+			<STRING> has become so unstable </STRING>
+			<TARGET-REFERENCE ENTROPY="0.25482" ID="26" PARAGRAPH-POSITION="34" RECENCY="6" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="112" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="other">that it</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="other">that it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="other">that they</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">that they</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">thay</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="other">that it</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="other">that they</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">they</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> would stop providing </STRING>
+			<REFERENCE animacy="INANIMATE" entity="113" gender="UNKNOWN" mentionid="113" mentiontype="NOMINAL" number="PLURAL"> earnings projections </REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE animacy="ANIMATE" entity="114" gender="UNKNOWN" mentionid="114" mentiontype="NOMINAL" number="PLURAL"> Wall Street analysts </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="8">
+		<SENTENCE ID="18">
+			<STRING>`` </STRING>
+			<REFERENCE animacy="ANIMATE" entity="114" gender="UNKNOWN" mentionid="116" mentiontype="PRONOMINAL" number="PLURAL"> They </REFERENCE>
+			<STRING> need relief from </STRING>
+			<REFERENCE animacy="ANIMATE" entity="117" gender="UNKNOWN" mentionid="117" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="114" gender="UNKNOWN" mentionid="118" mentiontype="PRONOMINAL" number="PLURAL"> their </REFERENCE>
+				<STRING> debt holders </STRING>
+			</REFERENCE>
+			<STRING>, or </STRING>
+			<REFERENCE animacy="INANIMATE" entity="119" gender="NEUTRAL" mentionid="119" mentiontype="NOMINAL" number="SINGULAR"> else the company </REFERENCE>
+			<STRING> risks </STRING>
+			<REFERENCE animacy="INANIMATE" entity="120" gender="NEUTRAL" mentionid="120" mentiontype="NOMINAL" number="SINGULAR"> filing for bankruptcy </REFERENCE>
+			<STRING>,'' said analyst </STRING>
+			<REFERENCE animacy="ANIMATE" entity="121" gender="MALE" mentionid="121" mentiontype="PROPER" number="SINGULAR">
+				<STRING> Michael Nelson of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="122" gender="NEUTRAL" mentionid="122" mentiontype="PROPER" number="UNKNOWN">
+					<STRING> the Stanford Group in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="115" gender="NEUTRAL" mentionid="115" mentiontype="PROPER" number="SINGULAR"> Houston </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="19">
+			<STRING>`` </STRING>
+			<REFERENCE animacy="ANIMATE" entity="121" gender="UNKNOWN" mentionid="123" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+			<STRING> would certainly say </STRING>
+			<REFERENCE animacy="ANIMATE" entity="114" gender="UNKNOWN" mentionid="124" mentiontype="PRONOMINAL" number="PLURAL"> they </REFERENCE>
+			<STRING> 're in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="125" gender="NEUTRAL" mentionid="125" mentiontype="NOMINAL" number="SINGULAR"> a crisis </REFERENCE>
+			<STRING> right now.'' </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="9">
+		<SENTENCE ID="20">
+			<STRING> During </STRING>
+			<REFERENCE animacy="INANIMATE" entity="128" gender="NEUTRAL" mentionid="128" mentiontype="PROPER" number="SINGULAR"> the third quarter </REFERENCE>
+			<STRING> last year, 3.8 percent of </STRING>
+			<REFERENCE animacy="ANIMATE" entity="130" gender="UNKNOWN" mentionid="130" mentiontype="NOMINAL" number="PLURAL">
+				<TARGET-REFERENCE ENTROPY="0.426833" ID="27" PARAGRAPH-POSITION="10" RECENCY="0" SYNCAT="subj-det" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="126" number="UNKNOWN">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">SunCom's</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="name">Suncom</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="name">SunCom's original</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="name">SunCom Wireless</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="other">American</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="name">SunCom's</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom's</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="other">all</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="name">SunCom</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="name">SunCom's</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="name">SunCom</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> customers </STRING>
+			</REFERENCE>
+			<STRING> defected, followed by 2.7 percent in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="131" gender="NEUTRAL" mentionid="131" mentiontype="PROPER" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="97" gender="NEUTRAL" mentionid="132" mentiontype="PROPER" number="SINGULAR"> the fourth quarter </REFERENCE>
+				<STRING>, which compares to </STRING>
+				<REFERENCE animacy="INANIMATE" entity="133" gender="NEUTRAL" mentionid="133" mentiontype="NOMINAL" number="SINGULAR"> an industry average defection rate of 2.1 percent </REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="121" gender="MALE" mentionid="127" mentiontype="PROPER" number="SINGULAR"> Nelson </REFERENCE>
+			<STRING> said. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="10">
+		<SENTENCE ID="21">
+			<TARGET-REFERENCE ENTROPY="0.51239" ID="28" PARAGRAPH-POSITION="34" RECENCY="24" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="134" number="UNKNOWN">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">SunCom</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">SUnCom</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">The marketing and retention division of the c</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">SunCom Wireless</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">SunCom Wireless Holdings</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">SunCom Wireless Holdings, Inc.</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="description">The carrier</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is spending about $ 450 per customer on </STRING>
+			<REFERENCE animacy="INANIMATE" entity="136" gender="UNKNOWN" mentionid="136" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="137" gender="UNKNOWN" mentionid="137" mentiontype="NOMINAL" number="PLURAL"> promotions </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="138" gender="UNKNOWN" mentionid="138" mentiontype="NOMINAL" number="PLURAL"> other costs </REFERENCE>
+			</REFERENCE>
+			<STRING> to acquire </STRING>
+			<REFERENCE animacy="ANIMATE" entity="139" gender="UNKNOWN" mentionid="139" mentiontype="NOMINAL" number="PLURAL"> new customers </REFERENCE>
+			<STRING>, compared to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="140" gender="NEUTRAL" mentionid="140" mentiontype="NOMINAL" number="SINGULAR"> an estimated industry average of about $ 310 per customer </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="121" gender="MALE" mentionid="135" mentiontype="PROPER" number="SINGULAR"> Nelson </REFERENCE>
+			<STRING> said. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="22">
+			<TARGET-REFERENCE ENTROPY="0.483268" ID="29" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="141" number="UNKNOWN">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">SunCom</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="description">The carrier</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">Overall SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">SunCom Wireless</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">It currently</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Sucom</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="description">The company</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="name">Suncom</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">SunCom</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> has </STRING>
+			<REFERENCE animacy="ANIMATE" entity="147" gender="UNKNOWN" mentionid="147" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="142" gender="UNKNOWN" mentionid="142" mentiontype="PROPER" number="SINGULAR"> 965,822 </REFERENCE>
+				<STRING> customers in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="148" gender="UNKNOWN" mentionid="148" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="9" gender="NEUTRAL" mentionid="149" mentiontype="PROPER" number="SINGULAR">
+						<STRING> the </STRING>
+						<REFERENCE animacy="INANIMATE" entity="9" gender="NEUTRAL" mentionid="143" mentiontype="PROPER" number="SINGULAR"> Carolinas </REFERENCE>
+					</REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="INANIMATE" entity="144" gender="NEUTRAL" mentionid="144" mentiontype="PROPER" number="SINGULAR"> Tennessee </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="INANIMATE" entity="145" gender="NEUTRAL" mentionid="145" mentiontype="PROPER" number="SINGULAR"> Georgia </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="INANIMATE" entity="146" gender="MALE" mentionid="146" mentiontype="PROPER" number="SINGULAR"> Puerto Rico </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE animacy="INANIMATE" entity="150" gender="NEUTRAL" mentionid="150" mentiontype="PROPER" number="SINGULAR"> the Virgin Islands </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="11">
+		<SENTENCE ID="23">
+			<REFERENCE animacy="INANIMATE" entity="152" gender="NEUTRAL" mentionid="152" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="153" gender="NEUTRAL" mentionid="153" mentiontype="NOMINAL" number="SINGULAR"> 
+					<TARGET-REFERENCE ENTROPY="0.418166" ID="30" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="subj-det" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="141" number="SINGULAR">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="description">The company's</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="85" TYPE="pronoun">Its</REFEX>
+							<REFEX PARTICIPANT-ID="88" TYPE="other">The</REFEX>
+							<REFEX PARTICIPANT-ID="91" TYPE="pronoun">Their</REFEX>
+							<REFEX PARTICIPANT-ID="97" TYPE="other">The bold</REFEX>
+							<REFEX PARTICIPANT-ID="100" TYPE="name">SunCom</REFEX>
+							<REFEX PARTICIPANT-ID="106" TYPE="pronoun">Their</REFEX>
+							<REFEX PARTICIPANT-ID="109" TYPE="pronoun">Thier</REFEX>
+							<REFEX PARTICIPANT-ID="112" TYPE="pronoun">Their</REFEX>
+							<REFEX PARTICIPANT-ID="115" TYPE="other">The</REFEX>
+							<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+							<REFEX PARTICIPANT-ID="124" TYPE="name">Suncom's</REFEX>
+							<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom's</REFEX>
+							<REFEX PARTICIPANT-ID="136" TYPE="pronoun">Its</REFEX>
+							<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom's</REFEX>
+							<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom's</REFEX>
+							<REFEX PARTICIPANT-ID="149" TYPE="other">A</REFEX>
+							<REFEX PARTICIPANT-ID="152" TYPE="pronoun">Its</REFEX>
+							<REFEX PARTICIPANT-ID="155" TYPE="name">SunCom's</REFEX>
+							<REFEX PARTICIPANT-ID="158" TYPE="pronoun">Their</REFEX>
+							<REFEX PARTICIPANT-ID="161" TYPE="other">The</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> new calling plan </STRING>
+				</REFERENCE>
+				<STRING>, Mobile-to-Anyone </STRING>
+			</REFERENCE>
+			<STRING>, costs $ 10 </STRING>
+			<REFERENCE animacy="INANIMATE" entity="154" gender="UNKNOWN" mentionid="154" mentiontype="PROPER" number="SINGULAR">
+				<STRING> a month for </STRING>
+				<REFERENCE animacy="ANIMATE" entity="155" gender="UNKNOWN" mentionid="155" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="ANIMATE" entity="156" gender="UNKNOWN" mentionid="156" mentiontype="NOMINAL" number="PLURAL">
+						<STRING> customers on </STRING>
+						<REFERENCE animacy="INANIMATE" entity="157" gender="NEUTRAL" mentionid="157" mentiontype="NOMINAL" number="SINGULAR">
+							<TARGET-REFERENCE ENTROPY="0.152184" ID="31" PARAGRAPH-POSITION="13" RECENCY="12" SYNCAT="subj-det" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="151" number="UNKNOWN">
+								<ORIGINAL-REFEX>
+									<REFEX TYPE="name">SunCom's</REFEX>
+								</ORIGINAL-REFEX>
+								<PARTICIPANTS-REFEX>
+									<REFEX PARTICIPANT-ID="85" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="88" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="91" TYPE="other">the</REFEX>
+									<REFEX PARTICIPANT-ID="97" TYPE="other">the basic</REFEX>
+									<REFEX PARTICIPANT-ID="100" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="106" TYPE="pronoun">their</REFEX>
+									<REFEX PARTICIPANT-ID="109" TYPE="description">the southeastren</REFEX>
+									<REFEX PARTICIPANT-ID="112" TYPE="other">the</REFEX>
+									<REFEX PARTICIPANT-ID="115" TYPE="pronoun">their</REFEX>
+									<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+									<REFEX PARTICIPANT-ID="124" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="133" TYPE="pronoun">their</REFEX>
+									<REFEX PARTICIPANT-ID="136" TYPE="other">a</REFEX>
+									<REFEX PARTICIPANT-ID="140" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="142" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="149" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="155" TYPE="pronoun">its</REFEX>
+									<REFEX PARTICIPANT-ID="158" TYPE="other">the</REFEX>
+									<REFEX PARTICIPANT-ID="161" TYPE="pronoun">it's</REFEX>
+								</PARTICIPANTS-REFEX>
+							</TARGET-REFERENCE>
+							<STRING> regional plan </STRING>
+						</REFERENCE>
+					</REFERENCE>
+					<STRING> and $ 15 </STRING>
+					<REFERENCE animacy="INANIMATE" entity="158" gender="UNKNOWN" mentionid="158" mentiontype="PROPER" number="SINGULAR"> a month </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> for </STRING>
+			<REFERENCE animacy="INANIMATE" entity="159" gender="UNKNOWN" mentionid="159" mentiontype="NOMINAL" number="UNKNOWN">
+				<STRING> national calling </STRING>
+				<REFERENCE animacy="ANIMATE" entity="156" gender="UNKNOWN" mentionid="160" mentiontype="NOMINAL" number="PLURAL"> plan customers </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="24">
+			<TARGET-REFERENCE ENTROPY="0.594024" ID="32" PARAGRAPH-POSITION="25" RECENCY="12" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="165" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="other">The plan</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">SunCom Wireless Holdings</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">Mobile-to-Anyone</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">SunCom Wireless</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="demonstrative">This</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="other">Mobile to anyone</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">SunCom</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> gives subscribers </STRING>
+			<REFERENCE animacy="INANIMATE" entity="167" gender="NEUTRAL" mentionid="167" mentiontype="NOMINAL" number="UNKNOWN">
+				<STRING> unlimited calling to </STRING>
+				<REFERENCE animacy="ANIMATE" entity="168" gender="UNKNOWN" mentionid="168" mentiontype="NOMINAL" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="161" mentiontype="PROPER" number="SINGULAR"> 10 </REFERENCE>
+					<STRING> people who have service with </STRING>
+					<REFERENCE animacy="INANIMATE" entity="66" gender="UNKNOWN" mentionid="169" mentiontype="LIST" number="PLURAL">
+						<REFERENCE animacy="INANIMATE" entity="66" gender="NEUTRAL" mentionid="162" mentiontype="PROPER" number="UNKNOWN"> Cingular Wireless </REFERENCE>
+						<STRING>, </STRING>
+						<REFERENCE animacy="INANIMATE" entity="163" gender="NEUTRAL" mentionid="163" mentiontype="PROPER" number="UNKNOWN"> BellSouth </REFERENCE>
+						<STRING>, </STRING>
+						<REFERENCE animacy="INANIMATE" entity="164" gender="NEUTRAL" mentionid="164" mentiontype="PROPER" number="UNKNOWN"> Vonage </REFERENCE>
+						<STRING> or </STRING>
+						<REFERENCE animacy="INANIMATE" entity="170" gender="UNKNOWN" mentionid="170" mentiontype="NOMINAL" number="PLURAL"> other networks </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="12">
+		<SENTENCE ID="25">
+			<REFERENCE animacy="INANIMATE" entity="171" gender="NEUTRAL" mentionid="171" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> The rationale behind </STRING>
+				<REFERENCE animacy="INANIMATE" entity="172" gender="UNKNOWN" mentionid="172" mentiontype="NOMINAL" number="PLURAL"> the brandless ads </REFERENCE>
+			</REFERENCE>
+			<STRING> is to build </STRING>
+			<REFERENCE animacy="INANIMATE" entity="173" gender="UNKNOWN" mentionid="173" mentiontype="LIST" number="PLURAL"> curiosity and suspense </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="26">
+			<REFERENCE animacy="INANIMATE" entity="171" gender="NEUTRAL" mentionid="174" mentiontype="PRONOMINAL" number="SINGULAR"> It </REFERENCE>
+			<STRING> 's </STRING>
+			<REFERENCE animacy="INANIMATE" entity="171" gender="NEUTRAL" mentionid="175" mentiontype="NOMINAL" number="SINGULAR"> form of interactive advertising </REFERENCE>
+			<STRING>, to get </STRING>
+			<REFERENCE animacy="ANIMATE" entity="176" gender="NEUTRAL" mentionid="176" mentiontype="NOMINAL" number="UNKNOWN">
+				<STRING> the public engaged in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="177" gender="NEUTRAL" mentionid="177" mentiontype="NOMINAL" number="SINGULAR"> a guessing game </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="27">
+			<STRING> But </STRING>
+			<REFERENCE animacy="INANIMATE" entity="171" gender="NEUTRAL" mentionid="180" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+			<STRING> 's </STRING>
+			<REFERENCE animacy="INANIMATE" entity="181" gender="UNKNOWN" mentionid="181" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="182" gender="MALE" mentionid="182" mentiontype="NOMINAL" number="SINGULAR"> anyone's </REFERENCE>
+				<STRING> guess whether </STRING>
+				<REFERENCE animacy="INANIMATE" entity="183" gender="UNKNOWN" mentionid="183" mentiontype="NOMINAL" number="PLURAL"> such ads </REFERENCE>
+				<STRING> succeed or get tuned out </STRING>
+			</REFERENCE>
+			<STRING>, said </STRING>
+			<REFERENCE animacy="ANIMATE" entity="184" gender="MALE" mentionid="184" mentiontype="PROPER" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="178" gender="MALE" mentionid="178" mentiontype="PROPER" number="SINGULAR"> Bob Lauterborn </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="178" gender="MALE" mentionid="185" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> a professor of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="186" gender="NEUTRAL" mentionid="186" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> advertising at </STRING>
+						<REFERENCE animacy="INANIMATE" entity="179" gender="MALE" mentionid="179" mentiontype="PROPER" number="UNKNOWN"> UNC-Chapel Hill </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="28">
+			<REFERENCE animacy="ANIMATE" entity="178" gender="UNKNOWN" mentionid="187" mentiontype="PROPER" number="SINGULAR"> Lauterborn </REFERENCE>
+			<STRING> has n't seen </STRING>
+			<REFERENCE animacy="INANIMATE" entity="48" gender="UNKNOWN" mentionid="189" mentiontype="NOMINAL" number="PLURAL">
+				<TARGET-REFERENCE ENTROPY="0.544293" ID="33" PARAGRAPH-POSITION="52" RECENCY="0" SYNCAT="subj-det" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="188" number="UNKNOWN">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">the SunCom</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="demonstrative">these</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="name">Suncom</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="other">many of the</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="name">SunCom Wireless</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="name">SunCom Wireless Holdings, Inc</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="name">SunCom's</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="other">any SunCom</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="name">SunCom's</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="name">SunCom's</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="name">SunCom</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="name">SunCom's</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="pronoun">their</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> ads </STRING>
+			</REFERENCE>
+			<STRING>, but </STRING>
+			<REFERENCE animacy="ANIMATE" entity="178" gender="MALE" mentionid="190" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+			<STRING> says </STRING>
+			<REFERENCE animacy="INANIMATE" entity="191" gender="NEUTRAL" mentionid="191" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="176" gender="UNKNOWN" mentionid="192" mentiontype="PRONOMINAL" number="PLURAL"> their </REFERENCE>
+				<STRING> effectiveness </STRING>
+			</REFERENCE>
+			<STRING> is dubious. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="13">
+		<SENTENCE ID="29">
+			<STRING>`` There 's </STRING>
+			<REFERENCE animacy="INANIMATE" entity="194" gender="NEUTRAL" mentionid="194" mentiontype="NOMINAL" number="SINGULAR"> this dopey assumption </REFERENCE>
+			<STRING> that </STRING>
+			<REFERENCE animacy="ANIMATE" entity="168" gender="UNKNOWN" mentionid="195" mentiontype="NOMINAL" number="PLURAL"> people </REFERENCE>
+			<STRING> are watching </STRING>
+			<REFERENCE animacy="INANIMATE" entity="51" gender="NEUTRAL" mentionid="196" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="197" gender="UNKNOWN" mentionid="197" mentiontype="PRONOMINAL" number="UNKNOWN"> your </REFERENCE>
+				<STRING> campaign </STRING>
+			</REFERENCE>
+			<STRING> and eagerly awaiting </STRING>
+			<REFERENCE animacy="INANIMATE" entity="198" gender="NEUTRAL" mentionid="198" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="197" gender="UNKNOWN" mentionid="199" mentiontype="PRONOMINAL" number="UNKNOWN"> your </REFERENCE>
+				<STRING> next ad </STRING>
+			</REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="200" gender="NEUTRAL" mentionid="200" mentiontype="NOMINAL" number="SINGULAR"> the series </REFERENCE>
+			<STRING>,'' </STRING>
+			<REFERENCE animacy="ANIMATE" entity="178" gender="UNKNOWN" mentionid="193" mentiontype="PROPER" number="SINGULAR"> Lauterborn </REFERENCE>
+			<STRING> said. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="30">
+			<STRING>`` C'mon, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="168" gender="UNKNOWN" mentionid="201" mentiontype="NOMINAL" number="PLURAL"> people </REFERENCE>
+			<STRING> are too busy. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="31">
+			<STRING> In </STRING>
+			<REFERENCE animacy="INANIMATE" entity="202" gender="NEUTRAL" mentionid="202" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="203" gender="NEUTRAL" mentionid="203" mentiontype="PROPER" number="SINGULAR"> today's </REFERENCE>
+				<STRING> world </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="168" gender="UNKNOWN" mentionid="204" mentiontype="NOMINAL" number="PLURAL"> people </REFERENCE>
+			<STRING> are not breathlessly waiting for </STRING>
+			<REFERENCE animacy="INANIMATE" entity="205" gender="NEUTRAL" mentionid="205" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="197" gender="UNKNOWN" mentionid="206" mentiontype="PRONOMINAL" number="UNKNOWN"> your </REFERENCE>
+				<STRING> bloody ad </STRING>
+			</REFERENCE>
+			<STRING>.'' </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

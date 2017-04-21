@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TEXT ID="352">
+	<TITLE>Mount Baker (Uganda)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Baker</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies in the Ruwenzori Mountains National Park in Uganda, Africa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Together with Mount Stanley and Mount Speke,  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms a triangle enclosing the upper Bujuku Valley.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The nearest peak is Mount Stanley which is 2.26 km to the west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The mountains lie within an area called 'The Mountains of the Moon'. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Like all peaks in the Ruwenzori Range,  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Baker</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has multiple jagged peaks.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The highest is Edward Peak. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>When the Duke of the Abruzzi climbed  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this summit</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, he ascended all of the other mountains in this range. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is named after Sir Samuel Baker who was an early explorer to the region though he did not ascend  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

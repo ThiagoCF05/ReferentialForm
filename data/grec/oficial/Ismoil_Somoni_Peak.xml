@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TEXT ID="234">
+	<TITLE>Ismoil Somoni Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ismoil Somoni Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Tajik: Қуллаи Исмоили Сомонӣ, Qullai Ismoili Somonī, Russian: пик имени Исмаила Самани) is the highest mountain in Tajikistan and in the former Soviet Union, named after Ismoil Somoni, the ancestor of the Samanid dynasty. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>When the existence of a peak in the Soviet Pamir Mountains higher than Independence Peak was first established in 1928,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="21" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was tentatively identified with Garmo Peak; but as the result of the work of further Soviet expeditions, it became clear by 1932 that they were not the same, and in 1933  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="53" PARAGRAPH-RECENCY="32" SEMCAT="mountain" SENTENCE-POSITION="53" SENTENCE-RECENCY="32" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the new peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, from the Akademiya Nauk Range, was named Stalin Peak (Pik Stalina, пик Ста́лина), after Joseph Stalin. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>In 1962, the name was changed to Communism Peak (Tajik: Пики Коммунизм, Russian: Pik Kommunizma, пик Коммуни́зма), and in 1998 to  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="22" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> current name. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The first ascent was made in 1933 by the Soviet mountaineer Yevgeniy Abalakov. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>There are glaciers on  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ismoil Somoni Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

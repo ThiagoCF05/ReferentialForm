@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<TEXT ID="1330">
+	<TITLE>Netherlands</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Netherlands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Tutch: Nederland] ([IPA: ˈne:dərlɑnt]) is the European part of the Kingdom of the Netherlands (Dutch: Koninkrijk der Nederlanden), which is formed by  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Netherlands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, the Netherlands Antilles, and Aruba.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Netherlands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a constitutional monarchy, located in northwestern Europe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is bordered by the North Sea to the north and west, Belgium to the south, and Germany to the east.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The current borders were established in 1839. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Netherlands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is often referred to by the name Holland.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>This is not terminologically precise, since the provinces of North and South Holland in the western Netherlands are only two of the country's twelve provinces (for more on this and other naming issues see Netherlands (terminology)).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also sometimes known as the Low Countries, which is the meaning of the original Dutch title Nederlanden.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The Dutch title has now changed to Nederland, the Low Country, but this version has not been adopted in the English language. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Netherlands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a densely populated and geographically low-lying country ( </STRING>
+			<REFERENCE ID="8" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name literally means &quot;low countries&quot; or &quot;low lands&quot;) and  </STRING>
+			<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>  is popularly known for  </STRING>
+			<REFERENCE ID="10" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> windmills, cheese, clogs (wooden shoes), dikes, tulips, bicycles and social tolerance.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="11" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> policies are liberal toward drugs, prostitution, same-sex marriage, abortion and euthanasia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ID="12" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is host to the International Criminal Tribunal for the Former Yugoslavia, the International Court of Justice and the International Criminal Court at The Hague. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

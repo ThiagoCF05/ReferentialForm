@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="103">
+	<TITLE>Corazón</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Corazón</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Spanish: heart), is a dormant, eroded volcano of Ecuador.</STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is situated about 30 km southwest of Quito in the western slopes of the Andes.</STRING>
+	</PARAGRAPH>
+</TEXT>

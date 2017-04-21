@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<TEXT ID="1323">
+	<TITLE>Mongolia</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mongolia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Mongolian: Монгол Улс) is the largest fully landlocked country typically classified as being a part of East Asia, though </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is sometimes considered as being a part of Central Asia instead. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is bordered by Russia to the north and the People's Republic of China to the south. </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> capital and largest city is Ulaanbaatar.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mongolia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was the center of the Mongol Empire in the thirteenth century and </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was later ruled by China during the Manchu Qing Dynasty from the end of the seventeenth century until 1911, when an independent government was formed with Russian assistance. Following the end of the Cold War, and after the fall of communism in </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mongolia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in 1990, </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mongolia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> adopted a new, democratic constitution which was ratified in 1992. This officially marked the birth of </STRING>
+		<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mongolia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> as a democratic country, making </STRING>
+		<REFERENCE ID="10" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> one of the world's youngest democracies.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>At 1,564,116 square kilometres, </STRING>
+		<REFERENCE ID="11" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mongolia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the nineteenth largest country in the world. However, </STRING>
+		<REFERENCE ID="12" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> contains very little arable land as much of </STRING>
+		<REFERENCE ID="13" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> area is covered by arid and unproductive steppes with mountains to the north and west and the Gobi Desert to the south. Approximately 30 percent of </STRING>
+		<REFERENCE ID="14" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> 2.8 million people are nomadic or semi-nomadic. The predominant religion in </STRING>
+		<REFERENCE ID="15" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mongolia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is Tibetan Buddhism, and the majority of </STRING>
+		<REFERENCE ID="16" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the state's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> citizens are of the Mongol ethnicity, though Kazakhs and Tuvans also live in the country, especially in the west. About one-third of the population lives in Ulaanbaatar.</STRING>
+	</PARAGRAPH>
+</TEXT>

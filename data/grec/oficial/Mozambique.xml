@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT ID="1326">
+	<TITLE>Mozambique</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mozambique</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Mozambique (Portuguese: Moçambique or República de Moçambique, pron.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>[IPA: rɛ.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>'pu.βli.kɐ dɨ mu.sɐ̃.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>'βi.k(ɨ)]), is a country in southeastern Africa bordering to the Indian Ocean in the east, Tanzania in the north, Malawi and Zambia in the northwest, Zimbabwe in the west and Swaziland and South Africa in the southwest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="56" PARAGRAPH-RECENCY="55" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a member of the Community of Portuguese Language Countries and the Commonwealth of Nations. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

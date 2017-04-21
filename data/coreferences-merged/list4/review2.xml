@@ -1,0 +1,716 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+	<SENTENCE ID="1">
+		<TARGET-REFERENCE ENTROPY="0" ID="1" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="1" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="description">The Haunted Mansion</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="name">Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="name">Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="name">The Haunted Mansion (2003)</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="name">The Haunted Mansion</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> was </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="2" mentiontype="NOMINAL" number="SINGULAR"> a fun Disney movie </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<STRING> Because </STRING>
+		<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="3" mentiontype="PROPER" number="UNKNOWN"> Disney </REFERENCE>
+		<STRING> produced </STRING>
+		<TARGET-REFERENCE ENTROPY="0.585947" ID="2" PARAGRAPH-POSITION="10" RECENCY="9" SYNCAT="np-obj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="4" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="demonstrative">this film</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="name">Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="description">the film</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">this movie</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="5" gender="UNKNOWN" mentionid="5" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> would n't expect </STRING>
+		<TARGET-REFERENCE ENTROPY="0.264595" ID="3" PARAGRAPH-POSITION="14" RECENCY="4" SYNCAT="np-obj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="6" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="description">the film</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="demonstrative">this movie</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="other">for it</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> to be scary, but to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="7" gender="UNKNOWN" mentionid="7" mentiontype="NOMINAL" number="SINGULAR"> the contrary </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="8" gender="FEMALE" mentionid="8" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="9" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+			<STRING> wife </STRING>
+		</REFERENCE>
+		<STRING> screamed </STRING>
+		<REFERENCE animacy="INANIMATE" entity="10" gender="UNKNOWN" mentionid="10" mentiontype="NOMINAL" number="PLURAL"> several times </REFERENCE>
+		<STRING> and grabbed </STRING>
+		<REFERENCE animacy="INANIMATE" entity="11" gender="UNKNOWN" mentionid="11" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="12" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+			<STRING> arm </STRING>
+		</REFERENCE>
+		<STRING> for protection. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="14" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> was on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="15" gender="UNKNOWN" mentionid="15" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="16" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+			<STRING> honeymoon in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="13" gender="NEUTRAL" mentionid="13" mentiontype="PROPER" number="SINGULAR"> Lake Tahoe </REFERENCE>
+		</REFERENCE>
+		<STRING> when </STRING>
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="17" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> went to see </STRING>
+		<TARGET-REFERENCE ENTROPY="0.785481" ID="4" PARAGRAPH-POSITION="46" RECENCY="32" SYNCAT="np-obj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="18" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="demonstrative">this movie</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="name">Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="description">the film</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="description">the film</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="name">Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="description">the film</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="description">the film</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="demonstrative">this movie</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="description">the movie</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<REFERENCE animacy="ANIMATE" entity="19" gender="FEMALE" mentionid="19" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="20" mentiontype="PRONOMINAL" number="SINGULAR"> My </REFERENCE>
+			<STRING> new wife </STRING>
+		</REFERENCE>
+		<STRING> thought </STRING>
+		<TARGET-REFERENCE ENTROPY="0.440333" ID="5" PARAGRAPH-POSITION="51" RECENCY="5" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="67" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="description">the film</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="other">that it</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="name">Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="other">that it</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> would be </STRING>
+		<REFERENCE animacy="INANIMATE" entity="21" gender="NEUTRAL" mentionid="21" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> fun to see so </STRING>
+			<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="22" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+			<STRING> agreed to see </STRING>
+			<TARGET-REFERENCE ENTROPY="0.329125" ID="6" PARAGRAPH-POSITION="62" RECENCY="11" SYNCAT="np-obj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="23" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="description">the film</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="description">the film</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="description">the flick</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="other">at the theatre</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> with </STRING>
+			<REFERENCE animacy="ANIMATE" entity="19" gender="FEMALE" mentionid="24" mentiontype="PRONOMINAL" number="SINGULAR"> her </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="26" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> was thinking that </STRING>
+		<TARGET-REFERENCE ENTROPY="0.646132" ID="7" PARAGRAPH-POSITION="69" RECENCY="7" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="23" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="other">the acting</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="description">the film</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">this movie</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="name">Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING>  would be lame as </STRING>
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="27" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> thought </STRING>
+		<REFERENCE animacy="ANIMATE" entity="25" gender="MALE" mentionid="25" mentiontype="PROPER" number="SINGULAR"> Eddie Murphy </REFERENCE>
+		<STRING> did </STRING>
+		<REFERENCE animacy="INANIMATE" entity="28" gender="NEUTRAL" mentionid="28" mentiontype="NOMINAL" number="SINGULAR"> a bad job </REFERENCE>
+		<STRING> on </STRING>
+		<REFERENCE animacy="ANIMATE" entity="29" gender="MALE" mentionid="29" mentiontype="PROPER" number="SINGULAR"> Dr. Doolittle </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="30" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> was shocked to find that </STRING>
+		<REFERENCE animacy="INANIMATE" entity="31" gender="NEUTRAL" mentionid="31" mentiontype="PROPER" number="SINGULAR">
+			<TARGET-REFERENCE ENTROPY="0.646015" ID="8" PARAGRAPH-POSITION="91" RECENCY="22" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="32" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the movie</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">it wasn't</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="description">the film</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">alas</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="description">the film</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="other">however</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="description">the film</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">to my surprise</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="other">to the contrary</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">false</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="other">contrary to my expections</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="demonstrative">this film</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="demonstrative">this movie</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="other">for a children's movie</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="other">it was good</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="33" mentiontype="PROPER" number="SINGULAR"> Haunted Mansion </REFERENCE>
+		</REFERENCE>
+		<STRING>, was actually acted out and directed very well. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<REFERENCE animacy="INANIMATE" entity="34" gender="UNKNOWN" mentionid="34" mentiontype="NOMINAL" number="PLURAL"> The scary scenes </REFERENCE>
+		<STRING> mostly were </STRING>
+		<REFERENCE animacy="INANIMATE" entity="35" gender="UNKNOWN" mentionid="35" mentiontype="NOMINAL" number="UNKNOWN"> a little </REFERENCE>
+		<STRING> scary and </STRING>
+		<REFERENCE animacy="INANIMATE" entity="36" gender="UNKNOWN" mentionid="36" mentiontype="NOMINAL" number="PLURAL"> the funny scenes </REFERENCE>
+		<STRING> were funny enough to be laughed at. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="37" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> ca n't remember any part of </STRING>
+		<TARGET-REFERENCE ENTROPY="0.736792" ID="9" PARAGRAPH-POSITION="127" RECENCY="36" SYNCAT="np-obj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="38" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="description">the movie</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="name">Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="other">watching the movie</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="description">the picture</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="description">a film</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">this movie</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="description">the film</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="name">The Haunted Mansion</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> where </STRING>
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="39" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> wanted to look down at </STRING>
+		<REFERENCE animacy="INANIMATE" entity="40" gender="NEUTRAL" mentionid="40" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="41" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+			<STRING> watch </STRING>
+		</REFERENCE>
+		<STRING> and see how much longer </STRING>
+		<REFERENCE animacy="ANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="PRONOMINAL" number="PLURAL"> we </REFERENCE>
+		<STRING> had before </STRING>
+		<REFERENCE animacy="ANIMATE" entity="42" gender="UNKNOWN" mentionid="43" mentiontype="PRONOMINAL" number="PLURAL"> we </REFERENCE>
+		<STRING> could leave... and </STRING>
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="44" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> 'm </STRING>
+		<REFERENCE animacy="INANIMATE" entity="45" gender="UNKNOWN" mentionid="45" mentiontype="NOMINAL" number="SINGULAR"> a stubborn goat </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<TARGET-REFERENCE ENTROPY="0.670749" ID="10" PARAGRAPH-POSITION="152" RECENCY="25" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="47" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="description">The film</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="demonstrative">This film</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="demonstrative">This movie</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">Thismovie</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="demonstrative">Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="pronoun">It</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="pronoun">It</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> would be wonderful for </STRING>
+		<REFERENCE animacy="ANIMATE" entity="48" gender="UNKNOWN" mentionid="48" mentiontype="NOMINAL" number="PLURAL"> children of any age </REFERENCE>
+		<STRING> as long as </STRING>
+		<REFERENCE animacy="ANIMATE" entity="49" gender="UNKNOWN" mentionid="49" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> children under </STRING>
+			<REFERENCE animacy="INANIMATE" entity="46" gender="UNKNOWN" mentionid="46" mentiontype="PROPER" number="SINGULAR"> 8 </REFERENCE>
+		</REFERENCE>
+		<STRING> had </STRING>
+		<REFERENCE animacy="INANIMATE" entity="50" gender="NEUTRAL" mentionid="50" mentiontype="NOMINAL" number="SINGULAR"> an adult close </REFERENCE>
+		<STRING> by for </STRING>
+		<REFERENCE animacy="INANIMATE" entity="51" gender="UNKNOWN" mentionid="51" mentiontype="NOMINAL" number="PLURAL"> those scary moments </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<STRING> There are very many </STRING>
+		<REFERENCE animacy="INANIMATE" entity="52" gender="UNKNOWN" mentionid="52" mentiontype="NOMINAL" number="UNKNOWN"> wonderful </REFERENCE>
+		<STRING> treats film-wise -LRB- </STRING>
+		<REFERENCE animacy="INANIMATE" entity="53" gender="UNKNOWN" mentionid="53" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="54" gender="UNKNOWN" mentionid="54" mentiontype="NOMINAL" number="PLURAL"> effects </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="55" gender="UNKNOWN" mentionid="55" mentiontype="NOMINAL" number="PLURAL"> sounds </REFERENCE>
+		</REFERENCE>
+		<STRING> -RRB-. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="56" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> am </STRING>
+		<REFERENCE animacy="INANIMATE" entity="57" gender="UNKNOWN" mentionid="57" mentiontype="PROPER" number="SINGULAR">
+			<STRING> one who analyzes </STRING>
+			<REFERENCE animacy="INANIMATE" entity="58" gender="UNKNOWN" mentionid="58" mentiontype="NOMINAL" number="PLURAL"> films </REFERENCE>
+			<STRING> enough to predict </STRING>
+			<REFERENCE animacy="INANIMATE" entity="59" gender="NEUTRAL" mentionid="59" mentiontype="NOMINAL" number="SINGULAR"> the next action taken </REFERENCE>
+		</REFERENCE>
+		<STRING>, but </STRING>
+		<TARGET-REFERENCE ENTROPY="0.814436" ID="11" PARAGRAPH-POSITION="200" RECENCY="48" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="60" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="demonstrative">this film</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="other">it still</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="demonstrative">this movie</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="demonstrative">this picture</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">this movie</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="name">Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="name">The Haunted Mansion</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> gave </STRING>
+		<REFERENCE animacy="INANIMATE" entity="61" gender="UNKNOWN" mentionid="61" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> a few surprises -LRB- </STRING>
+			<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="62" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+			<STRING> will be creating </STRING>
+			<REFERENCE animacy="INANIMATE" entity="58" gender="UNKNOWN" mentionid="63" mentiontype="NOMINAL" number="PLURAL"> films </REFERENCE>
+			<STRING> as </STRING>
+			<REFERENCE animacy="ANIMATE" entity="64" gender="MALE" mentionid="64" mentiontype="NOMINAL" number="SINGULAR"> a computer animator </REFERENCE>
+			<STRING>, thus </STRING>
+			<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="65" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+			<STRING> analyze -RRB- </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="66" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> found </STRING>
+		<TARGET-REFERENCE ENTROPY="0.139004" ID="12" PARAGRAPH-POSITION="219" RECENCY="19" SYNCAT="np-obj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="67" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="other">them</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="name">Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="other">it very</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> interesting that </STRING>
+		<REFERENCE animacy="INANIMATE" entity="68" gender="NEUTRAL" mentionid="68" mentiontype="NOMINAL" number="SINGULAR"> the story </REFERENCE>
+		<STRING> was told well and </STRING>
+		<TARGET-REFERENCE ENTROPY="0.25482" ID="13" PARAGRAPH-POSITION="228" RECENCY="9" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="69" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="description">the plot</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="other">that the film</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="other">that it</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="other">overall</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="description">the film</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="other">had</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="other">that it</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> corresponded enough with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="70" gender="UNKNOWN" mentionid="70" mentiontype="NOMINAL" number="SINGULAR"> the ride </REFERENCE>
+		<STRING> to have </STRING>
+		<REFERENCE animacy="INANIMATE" entity="71" gender="UNKNOWN" mentionid="71" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="72" gender="UNKNOWN" mentionid="72" mentiontype="NOMINAL" number="SINGULAR"> a familiar tone </REFERENCE>
+			<STRING>, but </STRING>
+		</REFERENCE>
+		<REFERENCE ENTROPY="0.557925" ID="14" PARAGRAPH-POSITION="240" RECENCY="12" SYNCAT="np-subj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="69" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="empty">-</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="other">it also</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it also</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="other">also</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="other">still</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="other">it also</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="other">still</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="other">still</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="other">also</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="demonstrative">Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="other">it also</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="other">at the same time</REFEX>
+			</PARTICIPANTS-REFEX>
+		</REFERENCE>
+		<STRING> had enough originality that </STRING>
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="73" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> did not feel as though </STRING>
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="74" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> was on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="70" gender="UNKNOWN" mentionid="75" mentiontype="NOMINAL" number="SINGULAR"> the ride </REFERENCE>
+		<STRING>... </STRING>
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="76" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> have </STRING>
+		<REFERENCE animacy="ANIMATE" entity="77" gender="UNKNOWN" mentionid="77" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> ridden hundreds of times before -LRB- being </STRING>
+			<REFERENCE animacy="ANIMATE" entity="78" gender="UNKNOWN" mentionid="78" mentiontype="NOMINAL" number="SINGULAR"> a former mouse employee </REFERENCE>
+			<STRING> -RRB- </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="13">
+		<REFERENCE animacy="INANIMATE" entity="79" gender="UNKNOWN" mentionid="79" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> The beginning of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="68" gender="NEUTRAL" mentionid="80" mentiontype="NOMINAL" number="SINGULAR"> the story </REFERENCE>
+		</REFERENCE>
+		<STRING> took </STRING>
+		<REFERENCE animacy="INANIMATE" entity="81" gender="UNKNOWN" mentionid="81" mentiontype="NOMINAL" number="SINGULAR"> a while </REFERENCE>
+		<STRING> to run and made me </STRING>
+		<REFERENCE animacy="INANIMATE" entity="35" gender="UNKNOWN" mentionid="83" mentiontype="NOMINAL" number="UNKNOWN"> a little </REFERENCE>
+		<STRING> anxious to get on with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="84" gender="NEUTRAL" mentionid="84" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the rest of </STRING>
+			<TARGET-REFERENCE ENTROPY="0.411052" ID="15" PARAGRAPH-POSITION="290" RECENCY="50" SYNCAT="np-obj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="85" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the film</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">the background</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="description">the film</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="description">the story</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="description">the story</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="other">of it</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">plot</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="description">the film</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="description">the plot</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="description">the movie</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+		</REFERENCE>
+		<STRING> so </STRING>
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="86" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> could see how </STRING>
+		<TARGET-REFERENCE ENTROPY="0.592301" ID="16" PARAGRAPH-POSITION="296" RECENCY="6" SYNCAT="np-obj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="87" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="description">the movie</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="description">the tale</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="other">overall</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="other">it all</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="description">the story</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="other">the scenary</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="other">well it</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> would relate to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="70" gender="UNKNOWN" mentionid="88" mentiontype="NOMINAL" number="SINGULAR"> the ride </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="14">
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="90" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> would suggest </STRING>
+		<REFERENCE animacy="INANIMATE" entity="91" gender="UNKNOWN" mentionid="91" mentiontype="LIST" number="PLURAL">
+			<TARGET-REFERENCE ENTROPY="0.738308" ID="17" PARAGRAPH-POSITION="305" RECENCY="9" SYNCAT="np-obj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="92" mentiontype="NOMINAL" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this movie</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Haunted mansion</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">The Haunted Mansion</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">The Haunted Mansion</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">The Haunted Mansion</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="description">the movie</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="demonstrative">this movie</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">The Haunted Mansion</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">The Haunted Manison</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">The Haunted Mansion</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">The Haunted Mansion</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="demonstrative">this film</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="demonstrative">this movie</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">The Haunted Mansion</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> as </STRING>
+			<REFERENCE animacy="INANIMATE" entity="93" gender="NEUTRAL" mentionid="93" mentiontype="NOMINAL" number="SINGULAR"> a date movie </REFERENCE>
+			<STRING> or </STRING>
+			<REFERENCE animacy="INANIMATE" entity="94" gender="UNKNOWN" mentionid="94" mentiontype="LIST" number="PLURAL">
+				<STRING> a`` </STRING>
+				<REFERENCE animacy="ANIMATE" entity="95" gender="UNKNOWN" mentionid="95" mentiontype="LIST" number="PLURAL"> friends or family </REFERENCE>
+				<STRING>'' gathering movie </STRING>
+			</REFERENCE>
+			<STRING>... and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="96" gender="NEUTRAL" mentionid="96" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a fun </STRING>
+				<REFERENCE animacy="INANIMATE" entity="89" gender="UNKNOWN" mentionid="89" mentiontype="PROPER" number="SINGULAR"> one </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> to watch in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="97" gender="NEUTRAL" mentionid="97" mentiontype="NOMINAL" number="SINGULAR"> a theater setting </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="15">
+		<STRING> As for </STRING>
+		<REFERENCE animacy="INANIMATE" entity="98" gender="NEUTRAL" mentionid="98" mentiontype="NOMINAL" number="SINGULAR"> home viewing </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="99" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> would suggest </STRING>
+		<TARGET-REFERENCE ENTROPY="0.74858" ID="18" PARAGRAPH-POSITION="333" RECENCY="28" SYNCAT="np-obj" animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="100" number="SINGULAR">
+			<ORIGINAL-REFEX>
+				<REFEX TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+			<PARTICIPANTS-REFEX>
+				<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="89" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="104" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="107" TYPE="demonstrative">this</REFEX>
+				<REFEX PARTICIPANT-ID="110" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="113" TYPE="name">The Haunted Mansion</REFEX>
+				<REFEX PARTICIPANT-ID="119" TYPE="other">blu-ray</REFEX>
+				<REFEX PARTICIPANT-ID="122" TYPE="other">watching it</REFEX>
+				<REFEX PARTICIPANT-ID="125" TYPE="demonstrative">that</REFEX>
+				<REFEX PARTICIPANT-ID="131" TYPE="description">the movie</REFEX>
+				<REFEX PARTICIPANT-ID="141" TYPE="other">watching this in BlueRay</REFEX>
+				<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="145" TYPE="other">it only</REFEX>
+				<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+				<REFEX PARTICIPANT-ID="163" TYPE="other">surround sound</REFEX>
+				<REFEX PARTICIPANT-ID="164" TYPE="other">the soundtrack</REFEX>
+			</PARTICIPANTS-REFEX>
+		</TARGET-REFERENCE>
+		<STRING> if </STRING>
+		<REFERENCE animacy="ANIMATE" entity="101" gender="UNKNOWN" mentionid="101" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> have </STRING>
+		<REFERENCE animacy="INANIMATE" entity="102" gender="UNKNOWN" mentionid="102" mentiontype="NOMINAL" number="SINGULAR"> a good bass backing </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="16">
+		<STRING> Wonderful job, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="3" gender="NEUTRAL" mentionid="103" mentiontype="PROPER" number="SINGULAR"> Disney </REFERENCE>
+	</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

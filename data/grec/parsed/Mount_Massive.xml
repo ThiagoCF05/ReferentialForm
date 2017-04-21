@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TEXT ID="481">
+	<TITLE>Mount Massive</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Massive</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (14,421 feet) is a fourteener in the Sawatch Range of the US State of Colorado. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the second highest peak in Colorado, edging out the third highest, Mount Harvard, by one foot, and lower than Mount Elbert by 19 feet. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the third highest peak in the contiguous United States. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in Lake County, approximately 10 mi (16 km) west-southwest of Leadville and 18 mi (28 km) east of Aspen. </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies in the Mount Massive Wilderness, part of the San Isabel National Forest.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Massive</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first surveyed and climbed in 1873 during the Hayden Survey of the American West; survey member Henry Gannett is credited with the first ascent.</STRING>
+	</PARAGRAPH>
+</TEXT>

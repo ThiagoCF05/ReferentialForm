@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="601">
+	<TITLE>Namcha Barwa</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Namcha Barwa</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (officially: Namjagbarwa; Tibetan in Wylie transliteration: gnam lcags 'bar ba; Chinese: 南迦巴瓦峰, Pinyin: Nánjiābāwǎ Fēng) is a mountain in the Tibetan Himalaya. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> forms the eastern anchor of the Himalayan chain, and </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the easternmost mountain in the world over 7600m.</STRING>
+	</PARAGRAPH>
+</TEXT>

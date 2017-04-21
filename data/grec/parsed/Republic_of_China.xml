@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<TEXT ID="1353">
+	<TITLE>Republic of China</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Republic of China</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (</STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">R.O.C.</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>; [Traditional Chinese: 中華民國, Simplified Chinese: 中华民国, Hanyu Pinyin: Zhōnghuá Mínguó, Wade-Giles: Chung-hua Min-kuo, Tongyong Pinyin: Jhonghuá Mínguó]) is a state in East Asia. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was formerly the national government of all China. However, </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lost control of the mainland to the People's Republic of China (PRC) as a result of the Chinese Civil War in 1949, and since then </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> administration has been restricted to the island groups of Taiwan (Formosa), the Pescadores, Kinmen, and Matsu. Over subsequent decades, </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Republic of China</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been commonly referred to as &quot;Taiwan&quot;, and since the late 1970's the name &quot;China&quot; has been increasingly used to refer to the People's Republic of China. For political reasons, </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Republic of China</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is commonly referred to as &quot;Chinese Taipei&quot; in international organizations.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The ROC</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was established in 1912, replacing the last Chinese dynasty (the Qing) and ending over 2,000 years of imperial rule in China. </STRING>
+		<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is thus the oldest surviving republic in East Asia. The rule of </STRING>
+		<REFERENCE ID="10" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Republic of China</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in Mainland China was scarred by warlordism, Japanese invasion as a predecessor to World War II, and civil war. Major fighting in the civil war ended in 1950 with the Communist Party of China (CPC) in control of most of Mainland China, and </STRING>
+		<REFERENCE ID="11" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the ROC</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in control of Taiwan and several offshore islands (Kinmen, Penghu, and Matsu). The CPC proclaimed a new state, the People's Republic of China (PRC) in Beijing in 1949. </STRING>
+		<REFERENCE ID="12" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Republic of China</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> on Taiwan continued to regard </STRING>
+		<REFERENCE ID="13" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">itself</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> as the sole and legitimate government of all of China. This was a claim recognized by most states until the late 1970s.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Starting in 1928, </STRING>
+		<REFERENCE ID="14" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Republic of China</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was ruled by the Kuomintang (KMT) as an authoritarian dictatorship. In the 1950s and 1960s, the KMT took steps to reform the economy by reducing corruption and reforming land policies which coincided with a period of great economic growth despite the constant threat of war and civil unrest. The political climate changed in the 1980s and 1990s as the government actively pursued a transition to a democratic system, beginning with the first direct presidential election in 1996 and culminating in the 2000 election of President Chen Shui-bian, the first non-KMT president elected.</STRING>
+	</PARAGRAPH>
+</TEXT>

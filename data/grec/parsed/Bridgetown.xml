@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="1026">
+	<TITLE>Bridgetown</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bridgetown</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, population 96,578 (2006) metropolitan area 110,000 (2000), is the capital and largest city of the nation of Barbados. Formerly, the Town of Saint Michael the Greater Bridgetown area is located within the parish of Saint Michael.</STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Bridgetown port</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located at 13°7'N,59°37'W, on the southwestern coast of the island along Carlisle Bay. Parts of the Greater Bridgetown area lies along the borders of the neighbouring parishes Christ Church and St. James.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The present day site of </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was established by the British in 1628 following their settlement at James Town. </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bridgetown</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a major West Indies tourist destination, and </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> acts as an important financial, informatics and convention centre in the Caribbean region.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Each January, </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bridgetown</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> hosts the Barbados Jazz Festival.</STRING>
+	</PARAGRAPH>
+</TEXT>

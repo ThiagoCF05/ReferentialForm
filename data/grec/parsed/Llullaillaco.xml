@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TEXT ID="293">
+	<TITLE>Llullaillaco</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Llullaillaco</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a stratovolcano at the border of Argentina (Salta Province) and Chile. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies in the Puna de Atacama, a region of very high volcanic peaks on a high plateau within the Atacama Desert, one of the driest places in the world. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Llullaillaco</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the second highest active volcano in the world, surpassed only by Ojos del Salado. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the fifth highest volcano in the world, and </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the seventh highest mountain of the Western Hemisphere.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Llullaillaco</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> follows the typical Puna de Atacama volcano pattern: </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is surrounded by large debris fields, and </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is perpetually capped by snow and small glaciers despite the extremely dry conditions of the region.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name comes from Aymara &quot;murky water&quot;: llulla= dirty and yacu= water. Other sources propose it to have originated from Quechua Lullac= lie, Yacu= water: &quot;lying (or treacherous) water&quot;.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>It has been confirmed that Incas climbed </STRING>
+		<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Llullaillaco</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in the pre-Colombian period. Artifacts on the summit constitute the highest evidence of human presence worldwide before the late nineteenth century. Also, the huáqueros may have also reached </STRING>
+		<REFERENCE ID="11" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> summit and those of other mountains in the region during their searches.</STRING>
+	</PARAGRAPH>
+</TEXT>

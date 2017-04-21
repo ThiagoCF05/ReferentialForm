@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="672">
+	<TITLE>Puncak Trikora</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Puncak Trikora</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, formerly Mt Wilhelmina, is a mountain in the Papua province of Indonesia and  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is part of the Jayawijaya Mountains in the Maoke Mountains.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the second highest mountain on the island of New Guinea at 4,750 m (15,580 feet) behind Puncak Jaya (the Carstensz Pyramid) at 4,884 m (16,023 feet). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

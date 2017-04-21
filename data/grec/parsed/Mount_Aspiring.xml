@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TEXT ID="347">
+	<TITLE>Mount Aspiring</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Aspiring</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is New Zealand's highest mountain outside the Mount Cook region.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Set within the South Island's Mount Aspiring National Park, </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a height of 3,033 metres. Māori named </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> Tititea, which translates as Glistening Peak. Named in December 1857 by the Chief Surveyor for the Otago Province, John Turnbull Thompson. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies at the junction of three major glacial systems — the Bonar Glacier, which drains into the Waipara River, and the Volta and Therma Glaciers, which both drain into the Waitoto River. The Waipara is a tributary of the Arawhata River, and both the Arawhata and Waitoto Rivers flow out to the west coast in between Haast and Jackson Bay.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is usually accessed via the West Matukituki Valley, which is reached by a 50-kilometre road from Wanaka to a trailhead at Raspberry Flat. From here a network of huts provide staging points for climbers. The first is Mt Aspiring Hut, which is 8 kilometres (or approximately two hours' walk) from the trailhead.</STRING>
+	</PARAGRAPH>
+</TEXT>

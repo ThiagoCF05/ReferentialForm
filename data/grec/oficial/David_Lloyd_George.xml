@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="1493">
+	<TITLE>David Lloyd George</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">David Lloyd George</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, 1st Earl Lloyd George of Dwyfor, OM, PC (17 January 1863 - 26 March 1945) was a British statesman  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="20" SEMCAT="person" SENTENCE-POSITION="21" SENTENCE-RECENCY="20" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> guided Britain and the Commonwealth of Nations through World War I and the postwar settlement as the Liberal Party Prime Minister, 1916-1922. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

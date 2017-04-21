@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<TEXT ID="1808">
+	<TITLE>Finlay River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Finlay River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a 402 km long river in north-central British Columbia flowing north and then south from Thutade Lake in the Omineca Mountains to Williston Lake, the impounded waters of the Peace River formed by the completion of the W.A.C.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Bennett Dam in 1968.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Prior to this,  </STRING>
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Finlay</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> joined with the Parsnip River to form the Peace. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Finlay</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> drains an area of 43,000 square kilometres and  </STRING>
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> discharges at a mean rate of 600 cubic metres per second.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Major tributaries of  </STRING>
+			<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Finlay</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> include the Ospika, Ingenika, Warneford, Fox, Toodoggone, and Firesteel Rivers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Located in a remote part of the province, there are no population centres along  </STRING>
+			<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, however, there is a small First Nations community, Fort Ware, located at the junction of  </STRING>
+			<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Finlay</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and Warneford. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="8" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Finlay River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is named for the explorer John Finlay, who travelled a short way up  </STRING>
+			<REFERENCE ID="9" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in 1797.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The first European to journey  </STRING>
+			<REFERENCE ID="10" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> length to  </STRING>
+			<REFERENCE ID="11" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> source was the fur trader and explorer Samuel Black in 1824. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

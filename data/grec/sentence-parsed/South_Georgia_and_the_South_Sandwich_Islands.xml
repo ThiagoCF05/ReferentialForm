@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEXT ID="1378">
+	<TITLE>South Georgia and the South Sandwich Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">South Georgia and the South Sandwich Islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (SGSSI) is an overseas territory of the United Kingdom in the southern Atlantic Ocean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The territory</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was formed in 1985; previously  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was governed as part of the Falkland Islands Dependencies.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a remote and inhospitable collection of islands, consisting of South Georgia - which measures approximately 100 miles by 18 miles and is by far the largest island in the territory - and a group of smaller islands known as the South Sandwich Islands.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>There is no native population on any of  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, and the only inhabitants are the British Government Officer, scientists and support staff from the British Antarctic Survey who maintain scientific bases at Bird Island and the capital, King Edward Point, and museum staff at nearby Grytviken. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The British sovereignty of South Georgia dates from 1775, and that of the South Sandwich Islands from 1908.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>British arrangements for the government of South Georgia were first established under the 1843 British Letters Patent, with permanent local British administration and resident Magistrate since 1909 exercising effective possession, enforcement of British law, and regulation of all economic, scientific and other activities in the territory. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Argentina claimed South Georgia in 1927 and the South Sandwich Islands in 1938.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>From 1905 the Argentine Meteorological Office cooperated in maintaining the meteorological observatory at Grytviken under the British lease requirements of the whaling station until these changed in 1949.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Argentina maintained a naval station on the South Sandwich Islands from 1976 until 1982 when it was closed by the United Kingdom, and briefly occupied South Georgia in 1982.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>The Argentine claim of  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">SGSSI</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> contributed to the 1982 Falklands War and has remained unresolved until today. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

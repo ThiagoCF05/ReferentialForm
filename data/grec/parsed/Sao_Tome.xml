@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<TEXT ID="1164">
+	<TITLE>São Tomé</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">São Tomé</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (population 53,300 in 2003) is the capital city of São Tomé and Príncipe and </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is by far the nation's largest town. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was founded by Portugal in 1485 and </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is centred on a sixteenth century cathedral. Another early building is Fort São Sebastião, built in 1575 and now the São Tomé National Museum. In 1599, </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> as well as the islands were taken by the Dutch for two days and again in 1641 for a year. </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was the then colony's capital until 1753 and </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been the national capital continuously since 1852. </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name is Portuguese for &quot;Saint Thomas.&quot; </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">São Tomé</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located at 0°20' North, 6°44' East (0.333, 6.7333). .</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Features of </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the town</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> include the Presidential Palace, the Fisherman's Church, and a cinema. </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also home to two markets, a radio station, a hospital, and an international airport. </STRING>
+		<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">São Tomé</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also serves as the center of the island's road and bus networks. </STRING>
+		<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The town</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is well known for the Tchiloli play.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Important as a port, </STRING>
+		<REFERENCE ID="14" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">São Tomé</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies on Ana Chaves Bay in the north east of São Tomé Island. Cabras Island lies in the bay.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="15" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">São Tomé</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located northeast of Trindade, southeast of Guadalupe and northwest of Santana. </STRING>
+		<REFERENCE ID="16" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is linked to these towns by various roadways, but especially by the highway encircling the entire island of São Tomé.</STRING>
+	</PARAGRAPH>
+</TEXT>

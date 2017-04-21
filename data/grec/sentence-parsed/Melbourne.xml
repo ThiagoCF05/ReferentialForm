@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<TEXT ID="1114">
+	<TITLE>Melbourne</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Melbourne</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (pronounced either [IPA: /ˈmel.bən/] or [IPA: /ˈmæl.bən/]) is the second most populous city in Australia, with a metropolitan area population of approximately 3.7 million (2006 estimate).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Located in the country's south-east,  </STRING>
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Melbourne</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the state capital of Victoria and  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is home to over 70% of all Victorians. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Founded by free-settlers in 1835, 47 years after the first European settlement of Australia,  </STRING>
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Melbourne</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was transformed from a small pastoral settlement into a growing metropolis by the Victorian gold rush in the 1850s.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>By 1865,  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">&quot;Marvellous Melbourne&quot;</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was Australia's most populous and important city.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> served as the temporary national capital from the Federation of Australia until the construction of Canberra in 1927. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Today,  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Melbourne</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a major centre of commerce, industry and cultural activity.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Often referred to as both the &quot;cultural capital of Australia&quot; and the &quot;sporting capital of Australia&quot;,  </STRING>
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a rich history and  </STRING>
+			<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is home to many of Australia's major annual sporting and cultural events. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

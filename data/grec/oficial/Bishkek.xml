@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<TEXT ID="1019">
+	<TITLE>Bishkek</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bishkek</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Бишкек) is the capital of Kyrgyzstan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="7" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a population of approximately 900,000 (2005).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Originally founded in 1878 as the Russian fortress of Pishpek (Пишпек), between 1926 and 1991  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="23" SEMCAT="city" SENTENCE-POSITION="16" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was known as Frunze (Фрунзе), after the Bolshevik military leader Mikhail Frunze.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>In Kyrgyz, a Bishkek is a churn used to make fermented mare's milk (kumis), the Kyrgyz national drink. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bishkek</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, at 42°52'N,74°34'E, is situated at about 800 m altitude just off the northern fringe of the Ala-Too range, an extension of the Tien Shan mountain range, which rises up to 4,800 m and provides a spectacular backdrop to  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="39" SEMCAT="city" SENTENCE-POSITION="40" SENTENCE-RECENCY="39" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>North of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="43" PARAGRAPH-RECENCY="3" SEMCAT="city" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, a fertile and gently undulating steppe extends far north into neighboring Kazakhstan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The Chui river drains most of the area.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="64" PARAGRAPH-RECENCY="21" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bishkek</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is connected to the Turkestan-Siberia Railway by a spur. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bishkek</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a city of wide boulevards and marble-faced public buildings combined with numerous Soviet-style apartment blocks surrounding interior courtyards and, especially outside the city center, thousands of smaller, often privately built houses.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="9" PARAGRAPH-POSITION="34" PARAGRAPH-RECENCY="33" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is laid out on a grid pattern, with most streets flanked on both sides by narrow irrigation channels that water the innumerable trees which provide shade in the hot summers. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

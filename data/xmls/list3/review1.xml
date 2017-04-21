@@ -1,0 +1,378 @@
+<?xml version="1.0" ?>
+<TEXT GENRE="review" ID="24" TOPIC-ANIMACY="inanimate">
+	<TITLE>Product Review #1</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING>Michael Crichton has written some really fun, engaging, and interesting stories.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Unfortunately,  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="1" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Airframe</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Airframe</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> isn't one of those.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>He's also written some really bad stories, and  </STRING>
+			<REFERENCE ENTROPY="0.632272284786" ID="2" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="13" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">Jurassic Park</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="other">Jurassic Park</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="other">Jurassic Park</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> isn't one of those either.   </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ENTROPY="0.397052818697" ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Airframe</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">The novel Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="description">The story</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="description">The work</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> follows the usual Crichton pattern of a suspense story whose plot revolves around a piece of science, medicine, or technology.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>In this case, it's the building of airplanes that takes center stage.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>We have the plucky heroine, an executive at the aircraft company determined to find the truth behind an accident.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>We have some bad guys, including union goons and a shameless TV reporter.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>We learn a bunch of stuff about the politics and engineering of airplanes, and eventually, we learn what happened on that ill-fated flight.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<STRING>The only problem is, we don't really care.   </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The trouble with  </STRING>
+			<REFERENCE ENTROPY="0.740752092112" ID="4" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Airframe</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="description">the plot</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="demonstrative">this novel</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="demonstrative">this novel</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="description">the story</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="description">the novel</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="demonstrative">this</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> is that the stakes are too small.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>In &quot;The Andromeda Strain,&quot; the fate of humanity rested on finding the answer.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>In  </STRING>
+			<REFERENCE ENTROPY="0.321967196775" ID="5" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="22" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Airframe</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Airframe</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>, it's an order for new planes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>In the most suspenseful moments of &quot;Jurassic Park,&quot; we wonder how the humans will escape the dinosaurs.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING>At the climax of  </STRING>
+			<REFERENCE ENTROPY="0.666097980725" ID="6" PARAGRAPH-POSITION="54" PARAGRAPH-RECENCY="28" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Airframe</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="description">the novel</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">the last chapter</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="description">the story</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">our novel in question</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="demonstrative">this novel</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="demonstrative">this tale</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Aiframe</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="demonstrative">this novel</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="description">the novel</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="description">the novel</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="demonstrative">this</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>, we wonder whether the TV reporter will escape being airsick.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.6">
+			<STRING>(As Dave Barry would say, I am not making this up!)</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>If you like the Crichton style and you borrow  </STRING>
+			<REFERENCE ENTROPY="0.719116462512" ID="7" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the book</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">novels</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="other">books</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="demonstrative">this book</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="other">books</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="other">books</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> from the library, go ahead and read  </STRING>
+			<REFERENCE ENTROPY="0.310917507083" ID="8" PARAGRAPH-POSITION="18" PARAGRAPH-RECENCY="8" SENTENCE-POSITION="18" SENTENCE-RECENCY="8" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">The Andromeda Strain</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="other">Jurassic</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">while on a long car ride.</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">airframe</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="other">Jurassic</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> --  </STRING>
+			<REFERENCE ENTROPY="0.390015204903" ID="9" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="2" SENTENCE-POSITION="20" SENTENCE-RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="other">at the very least it</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="other">as it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="description">novel</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="other">Park</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="other">though it</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="demonstrative">This</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="other">Park</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> ought to hold your interest for a couple of hours.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Otherwise, save your time and money for one of his better books.   </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>[By the way,  </STRING>
+			<REFERENCE ENTROPY="0.498197877873" ID="10" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="demonstrative">this</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> isn't a children's book by any stretch of the imagination!</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>I'm not sure why  </STRING>
+			<REFERENCE ENTROPY="0.254410944052" ID="11" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="15" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">such a story</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Airframe</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="description">the book</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">it's</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> is in this category.  </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

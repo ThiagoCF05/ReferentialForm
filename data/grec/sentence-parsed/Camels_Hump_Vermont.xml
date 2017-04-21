@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="63">
+	<TITLE>Camel's Hump (Vermont)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Camel's Hump</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Vermont's third highest mountain and highest undeveloped peak, and because of  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> distinctive profile, perhaps the state's most recognized mountain.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Part of the Green Mountain range,  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the oldest mountains on earth.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>With  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> neighbor to the north, Mount Mansfield,  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders the notch that the antecedent Winooski River has carved through this area over eons.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The hiking trails on  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Camel's Hump</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> were among the first cut in the Long Trail system, and  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Camel's Hump</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> remains a popular summit for through- and day-hiking. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

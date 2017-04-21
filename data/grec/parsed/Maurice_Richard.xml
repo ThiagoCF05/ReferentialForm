@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1651">
+	<TITLE>Maurice Richard</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Joseph-Henri-Maurice &quot;Rocket&quot; Richard</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> PC, CC, OQ (born August 4, 1921 in Laval, Quebec, Canada, died May 27, 2000 in Montreal, Quebec) was a professional ice hockey player, and </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> played for the Montreal Canadiens from 1942 to 1960. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The &quot;Rocket&quot;</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was the most prolific goal-scorer of </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> era, achieving the fabled feat of 50 goals in 50 games. </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lived most of </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> life in Ahuntsic, Montréal.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TEXT ID="292">
+	<TITLE>Little Bear Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Little Bear Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, or simply Little Bear, is one of the fourteeners of the US state of Colorado.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies at the southern end of the Sangre de Cristo Range, which is the northern section of the Sangre de Cristo Mountains.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="23" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Little Bear</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is just southwest of Blanca Peak, one of the highest and most topographically prominent of the Colorado fourteeners.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>While  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="60" PARAGRAPH-RECENCY="20" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="yes" HEAD="nominal" TYPE="pronoun">Little Bear itself</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has little more than the minimum 300 feet of prominence to qualify as a separate peak,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="77" PARAGRAPH-RECENCY="17" SEMCAT="mountain" SENTENCE-POSITION="19" SENTENCE-RECENCY="17" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is notable for being one of the most technically difficult and dangerous of the fourteeners to climb;  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="95" PARAGRAPH-RECENCY="18" SEMCAT="mountain" SENTENCE-POSITION="37" SENTENCE-RECENCY="18" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> standard route is known for being exposed to rockfall.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The connecting ridge to Blanca Peak is one of the most challenging outings of its type in the state. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Little Bear</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located within the Rio Grande National Forest, and  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is on the border between Alamosa County and Costilla County. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

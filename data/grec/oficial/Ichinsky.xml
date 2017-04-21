@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TEXT ID="226">
+	<TITLE>Ichinsky</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ichinsky</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a large stratovolcano located in the central part of Kamchatka Peninsula, Russia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is by far the highest peak of the Sredinny Range, the central range of the peninsula.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="17" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ichinsky</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also among the largest volcanoes in Kamchatka, with a volume of about 450 cubic kilometres (110 cu mi). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is capped by a 3 x 5 km (2 x 3 mile) summit caldera, within which rise two lava domes which are the highest peaks.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The entire summit area is covered by a substantial ice cap, and several large glaciers descend the flanks of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="46" PARAGRAPH-RECENCY="45" SEMCAT="mountain" SENTENCE-POSITION="20" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the cone</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>There is ongoing fumarolic activity within the caldera. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>A dozen more dacite and rhyodacite lava domes are found on the flanks of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="15" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> below the caldera rim.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Basaltic and dacitic lava flows extand form the lower flanks, some as long as 10–15 km (6–9 miles). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

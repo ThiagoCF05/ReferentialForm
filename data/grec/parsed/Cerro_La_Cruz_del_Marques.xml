@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="729">
+	<TITLE>Cerro La Cruz del Marqués</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cerro de la Cruz del Marqués</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a peak of the Mountain range called Ajusco, located at the outskirts of Mexico City specifically at the coordinates N19 12 27.2 W99 15 29.4 - </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the actual highpoint of the Ajusco.</STRING>
+	</PARAGRAPH>
+</TEXT>

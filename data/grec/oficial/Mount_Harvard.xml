@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<TEXT ID="430">
+	<TITLE>Mount Harvard</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Harvard</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a fourteener in the U.S. state of Colorado.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the third highest mountain in Colorado, and also the fourth highest mountain in the Contiguous United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Collegiate Peaks, part of the central Sawatch Range of Chaffee County, approximately 10 miles (16 km) northwest of the town of Buena Vista.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The Harvard Crimson, flagship newspaper of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="64" PARAGRAPH-RECENCY="34" SEMCAT="mountain" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> namesake university, wrote that: </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>&quot;despite its height, climbing up Mt.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Harvard is hardly a death-defying experience.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>'It's an undistinguished lump on a fairly undistinguished range; it just happens to be very high,' says John C. Reed of the U.S. Geological Survey in Denver.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Reed, who has climbed the mountain once, describes it only as 'a long walk' of about three or four miles.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>Nor is the view from the mountain especially scenic, compared with Colorado's other 54 mountains above 14,000 feet.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<STRING>'In terms of being spectacular, Mt.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.7">
+			<STRING>Harvard would not be really high on the list,' Reed says.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

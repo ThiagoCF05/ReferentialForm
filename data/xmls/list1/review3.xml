@@ -1,0 +1,264 @@
+<?xml version="1.0" ?>
+<TEXT GENRE="review" ID="7" TOPIC-ANIMACY="inanimate">
+	<TITLE>Product Review #3</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING>If you're looking to buy a really nice and an honestly good 5.8GHz system with some very nice features, then seriously consider  </STRING>
+			<REFERENCE ENTROPY="0.289541617829" ID="1" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="23" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this one</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Panasonic's 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="description">phone by Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">the 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="description">a phone system developed by Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">a phone by Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Panasonic</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> if you don't mind the price.   </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Bought  </STRING>
+			<REFERENCE ENTROPY="0.828533383498" ID="2" PARAGRAPH-POSITION="2" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the system</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">this phone</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">mine</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">from 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="demonstrative">this system</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="description">a phone system</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">a phone</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="other">one</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="demonstrative">this new phone system</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> a few weeks ago with 2 extra hand sets for a total of 4 hand sets.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Although our home is not big we do enjoy having the option of several hand sets.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>One feature which I really love is the built-in speaker phone in the hand sets.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Its one of those &quot;why didn't anyone think of this before&quot; options.   </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ENTROPY="0.648522709865" ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">This system</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="description">The phone</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="other">I</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="other">We</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="description">The new Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">The new phone</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> replaced another one that we bought at a local discount club, which was horrible and much hated from the moment it was connected.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Should have know better since the price was $60 for three a hand set system.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>A good example of you get what you pay for.   </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Before deciding on  </STRING>
+			<REFERENCE ENTROPY="0.706405996186" ID="4" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this system</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Panasonic's 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="other">which to buy</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="description">a phone system</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Panasonic,</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="description">a phone system</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">this phone</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">what and which to buy,</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Panasonic</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> I seriously was looking at the Seimens system and came 'oh-so-close' to buying it.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>But something told me to look a little further and then I found  </STRING>
+			<REFERENCE ENTROPY="0.638977222277" ID="5" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="28" SENTENCE-POSITION="14" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this system</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">this phone system</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="demonstrative">this one</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">a phone system by panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">the Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="demonstrative">this</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>The Seimens system looks really sleek but all the reviews are either neutral or negative, and in some cases very negative.   </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<REFERENCE ENTROPY="0.714483689558" ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">This</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="description">Panasonic's system</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">This phone system</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">The 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">My new phone system</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">The phone system</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Panasonic</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> gives me no interference what so ever with the wireless network in the house, which was a major gripe with the older 900 MHz system we had.   </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING>If your home is huge  </STRING>
+			<REFERENCE ENTROPY="0.584333189488" ID="7" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="demonstrative">this</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">than you</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="other">than you</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="other">you</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">you</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">than it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="description">the phone system</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">than you</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> will use up to eight hand sets.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.2">
+			<STRING>If you home requires more then you have enough money to install a professional system.   </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<STRING>So far I love  </STRING>
+			<REFERENCE ENTROPY="0.665903347891" ID="8" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the system</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="demonstrative">this system</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">this Panasonic system</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">The 5.8 GHz 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">the 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">my 4-Line Phone System</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="demonstrative">this new phone</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Panasonic</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">the system but</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Panasonic</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>, my wife on the other hand keeps saying &quot;its a guy thing&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="7.2">
+			<STRING>Absolutely. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1630">
+	<TITLE>Lawrence Lessig</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lawrence Lessig</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (born June 3, 1961 in South Dakota) is an American academic. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is currently professor of law at Stanford Law School and founder of its Center for Internet and Society. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is best known as a proponent of reduced legal restrictions on copyright, trademark and radio frequency spectrum, particularly in technology applications.</STRING>
+	</PARAGRAPH>
+</TEXT>

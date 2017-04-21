@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="933">
+	<TITLE>Zinalrothorn</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Zinalrothorn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (4,221 m) is a mountain in the Pennine Alps in Switzerland. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The first ascent was by Leslie Stephen and Florence Crauford Grove with guides Jakob Anderegg and Melchior Anderegg on 22 August 1864 via the north ridge (AD).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Stephen wrote later that it was 'the nastiest piece of climbing I have ever accomplished'.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>When  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was known locally as Moming. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The normal route, the south-east ridge, was first climbed by the combined parties of Clinton Thomas Dent with guide Alex­ander Burgener, and George Augustus Passingham, with guides Ferdinand Imseng and Franz Andermatten on 5 September 1872. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The first winter and ski ascent was by Marcel Kurz and T. Theytaz on 7 February 1914. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

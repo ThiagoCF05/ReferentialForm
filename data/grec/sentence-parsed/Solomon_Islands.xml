@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEXT ID="1375">
+	<TITLE>Solomon Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Solomon Islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a nation in Melanesia, east of Papua New Guinea, consisting of nearly one thousand islands.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Together  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">they</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> cover a land mass of 28,400 square kilometres (10,965 sq mi).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The capital is Honiara, located on the island of Guadalcanal. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Solomon Islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> have been inhabited by Melanesian people for at least 30,000 years.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The United Kingdom established a protectorate over  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Solomon Islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in the 1890s.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Some of the most bitter fighting of World War II occurred on  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">these islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Self-government was achieved in 1976 and independence two years later.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> remains a Commonwealth Realm. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Since 1997 ethnic violence, government misconduct and crime have undermined stability and civil society.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>In June 2003 an Australian-led multinational force, the Regional Assistance Mission to the Solomon Islands (RAMSI), arrived to restore peace and disarm ethnic militias. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

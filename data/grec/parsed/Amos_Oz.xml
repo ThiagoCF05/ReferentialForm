@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1430">
+	<TITLE>Amos Oz</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Amos Oz</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Hebrew: עמוס עוז]; born May 4, 1939), birth name Amos Klausner, is an Israeli writer, novelist, and journalist. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also a professor of literature at Ben-Gurion University in Be'er Sheva. Since 1967, </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been a prominent advocate of a two-state solution to the Israeli-Palestinian conflict.</STRING>
+	</PARAGRAPH>
+</TEXT>

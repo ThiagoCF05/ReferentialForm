@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="724">
+	<TITLE>Baruntse</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Baruntse</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in eastern Nepal, crowned by four peaks and bounded on the south by the Hunku Glacier, on the east by the Barun Glacier, and on the northwest by the Imja Glacier.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed May 30 1954 via the south ridge by Colin Todd and Geoff Harrow of a New Zealand expedition. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

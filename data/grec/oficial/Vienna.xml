@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TEXT ID="1191">
+	<TITLE>Vienna</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vienna</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (German: Wien [IPA: [viːn]]) is the capital of Austria, and also one of the nine States of Austria.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="19" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vienna</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Austria's primate city; with a population of about 1.6 million (2.2 million within the metro area),  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="18" SEMCAT="city" SENTENCE-POSITION="19" SENTENCE-RECENCY="18" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vienna</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is by far the largest city in Austria as well as its cultural, economic and political centre.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="56" PARAGRAPH-RECENCY="18" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vienna</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies in the south-eastern corner of Central Europe and  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="66" PARAGRAPH-RECENCY="10" SEMCAT="city" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is close to the Czech Republic, Slovakia and Hungary. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vienna</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the seat of a number of United Nations offices and various international institutions and companies, including the United Nations Industrial Development Organization (UNIDO), the Organization of Petroleum Exporting Countries (OPEC), the International Atomic Energy Agency (IAEA), the Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) and the Organization for Security and Co-operation in Europe (OSCE).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Furthermore, the 1980 Diplomatic Conference was held in  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="67" PARAGRAPH-RECENCY="66" SEMCAT="city" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vienna</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> that led to the adoption of the United Nations Convention of Contracts for the International Sale of Goods.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Additionally,  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="87" PARAGRAPH-RECENCY="20" SEMCAT="city" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vienna</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the seat of the United Nations Commission on International Trade Law's secretariat (UNCITRAL). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

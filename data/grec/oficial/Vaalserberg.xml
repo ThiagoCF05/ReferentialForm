@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="910">
+	<TITLE>Vaalserberg</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Vaalserberg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (&quot;Mount Vaals&quot;) is a mountain of 322.7 metres (1,059 ft) in height, the highest point in the Netherlands.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the province of Limburg, at the southeasternmost edge of the country in the municipality of Vaals, near the eponymous town, some three kilometres west of Aachen. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

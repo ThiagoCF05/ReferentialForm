@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TEXT ID="315">
+	<TITLE>Matterhorn</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Matterhorn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (German) or Cervino (Italian), (French: Mont Cervin or Le Cervin) is perhaps the most familiar mountain in the European Alps.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>On the border between Switzerland and Italy,  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> towers over the Swiss village of Zermatt and the Italian village Breuil-Cervinia in the Val Tournanche.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> derives  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name from the German words Matte, meaning meadow, and Horn, which means peak. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Matterhorn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has four faces, facing the four compass points, the north face overlooking the Zmutt Valley, the south face Breuil-Cervinia, the east and west faces looking towards the Gornergrat and the Dent d'Hérens, respectively, with the north and south faces meeting to form a short east-west summit ridge.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The faces are steep, and only small patches of snow and ice cling to them; regular avalanches send the snow down to accumulate on the glaciers at the base of each face.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The Hörnli ridge of the northeast (in the center of the view from Zermatt) is the usual climbing route. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

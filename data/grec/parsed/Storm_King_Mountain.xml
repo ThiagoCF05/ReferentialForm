@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="857">
+	<TITLE>Storm King Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Storm King Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is along the west bank of the Hudson River south of Cornwall-on-Hudson, New York. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> distinctive curved ridge is the most prominent aspect of the view south down Newburgh Bay, from Newburgh, Beacon and the Newburgh-Beacon Bridge. Together with Breakneck Ridge on the opposite bank of the river </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> forms &quot;Wey-Gat&quot; or Wind Gate, the picturesque northern gateway to the Hudson Highlands. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> can also be seen by southbound travelers on nearby sections of the New York State Thruway. This view was popular with early artists of the Hudson River School, and helped give them their name.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>While thought of as the highest in the area, </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> summit reaching approximately 1,340 feet (408 m) above sea level, the eastern summit unofficially known as Butter Hill is actually higher, at 1,380 feet (421 m) in elevation.</STRING>
+	</PARAGRAPH>
+</TEXT>

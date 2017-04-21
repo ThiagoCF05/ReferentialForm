@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TEXT ID="985">
+	<TITLE>Saskatchewan River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Saskatchewan River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a major river in Canada, approximately 550 km (340 mi) long, flowing roughly eastward across Saskatchewan and Manitoba to drain into Lake Winnipeg.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Through  </STRING>
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> tributaries the North Saskatchewan and South Saskatchewan,  </STRING>
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> watershed encompasses much of the prairie regions of central Canada, stretching westward to the Rocky Mountains in Alberta and into northern Montana in the United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> reaches approximates 1,939 km (1204 and a half miles) to  </STRING>
+			<REFERENCE ID="5" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> furthest headwaters on the Bow River, a tributary of the South Saskatchewan in Alberta. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

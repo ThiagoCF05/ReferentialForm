@@ -1,0 +1,375 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="ANIMATE" entity="4" gender="FEMALE" mentionid="4" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="1" gender="FEMALE" mentionid="1" mentiontype="PROPER" number="SINGULAR"> Phyllis Huffman </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="5" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a veteran casting director </STRING>
+				<REFERENCE animacy="INANIMATE" entity="6" gender="NEUTRAL" mentionid="6" mentiontype="NOMINAL" number="SINGULAR"> whose long collaboration </REFERENCE>
+				<STRING> with filmmaker </STRING>
+				<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="2" mentiontype="PROPER" number="SINGULAR"> Clint Eastwood </REFERENCE>
+				<STRING> included work on </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="7" gender="UNKNOWN" mentionid="7" mentiontype="LIST" number="PLURAL">
+					<STRING>`` Unforgiven'' and`` </STRING>
+					<REFERENCE animacy="ANIMATE" entity="8" gender="UNKNOWN" mentionid="8" mentiontype="PROPER" number="SINGULAR"> Million Dollar Baby </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>,'' </STRING>
+			<REFERENCE animacy="INANIMATE" entity="9" gender="UNKNOWN" mentionid="9" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="10" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+				<STRING> two films that won Best </STRING>
+				<REFERENCE animacy="INANIMATE" entity="12" gender="UNKNOWN" mentionid="12" mentiontype="PROPER" number="SINGULAR"> Picture Oscars </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, died </STRING>
+		<REFERENCE animacy="INANIMATE" entity="13" gender="UNKNOWN" mentionid="13" mentiontype="PROPER" number="SINGULAR"> Thursday </REFERENCE>
+		<STRING> in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="14" gender="NEUTRAL" mentionid="14" mentiontype="PROPER" number="SINGULAR">
+			<STRING> New York City after </STRING>
+			<REFERENCE animacy="INANIMATE" entity="15" gender="UNKNOWN" mentionid="15" mentiontype="NOMINAL" number="SINGULAR"> a brief illness </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="FEMALE" mentionid="17" mentiontype="PRONOMINAL" number="SINGULAR"> She </REFERENCE>
+		<STRING> was </STRING>
+		<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="16" mentiontype="PROPER" number="SINGULAR"> 61 </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<STRING> In </STRING>
+		<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="NOMINAL" number="SINGULAR"> a statement </REFERENCE>
+		<STRING> Friday, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="18" mentiontype="PROPER" number="SINGULAR"> Eastwood </REFERENCE>
+		<STRING> called </STRING>
+		<REFERENCE animacy="ANIMATE" entity="22" gender="MALE" mentionid="22" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="22" gender="MALE" mentionid="19" mentiontype="PROPER" number="SINGULAR"> Huffman </REFERENCE>
+			<STRING>,`` </STRING>
+			<REFERENCE animacy="ANIMATE" entity="22" gender="MALE" mentionid="23" mentiontype="NOMINAL" number="SINGULAR"> a visionary casting director </REFERENCE>
+		</REFERENCE>
+		<STRING> with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="24" gender="NEUTRAL" mentionid="24" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a true sense of what makes </STRING>
+			<REFERENCE animacy="INANIMATE" entity="25" gender="UNKNOWN" mentionid="25" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> an actor right for </STRING>
+				<REFERENCE animacy="INANIMATE" entity="26" gender="UNKNOWN" mentionid="26" mentiontype="NOMINAL" number="SINGULAR"> the role </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>.'' </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<STRING>`` </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="29" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> completely trusted </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="FEMALE" mentionid="27" mentiontype="PROPER" number="SINGULAR"> Phyllis </REFERENCE>
+		<STRING> with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="30" gender="UNKNOWN" mentionid="30" mentiontype="NOMINAL" number="PLURAL"> the casting duties </REFERENCE>
+		<STRING> on all </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="31" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+		<STRING> movies,'' </STRING>
+		<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="28" mentiontype="PROPER" number="SINGULAR"> Eastwood </REFERENCE>
+		<STRING> said. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<STRING>`` </STRING>
+		<REFERENCE animacy="INANIMATE" entity="34" gender="NEUTRAL" mentionid="34" mentiontype="NOMINAL" number="SINGULAR"> The industry </REFERENCE>
+		<STRING> has lost </STRING>
+		<REFERENCE animacy="ANIMATE" entity="35" gender="MALE" mentionid="35" mentiontype="NOMINAL" number="UNKNOWN"> a true professional </REFERENCE>
+		<STRING> and all of us at </STRING>
+		<REFERENCE animacy="INANIMATE" entity="32" gender="UNKNOWN" mentionid="32" mentiontype="PROPER" number="UNKNOWN"> Malpaso </REFERENCE>
+		<STRING> -LRB- </STRING>
+		<REFERENCE animacy="INANIMATE" entity="36" gender="NEUTRAL" mentionid="36" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="33" gender="MALE" mentionid="33" mentiontype="PROPER" number="SINGULAR"> Eastwood's </REFERENCE>
+			<STRING> production company </STRING>
+		</REFERENCE>
+		<STRING> -RRB- have lost </STRING>
+		<REFERENCE animacy="ANIMATE" entity="37" gender="MALE" mentionid="37" mentiontype="NOMINAL" number="SINGULAR"> a loved family member </REFERENCE>
+		<STRING>.'' </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<STRING> Born in </STRING>
+		<REFERENCE animacy="ANIMATE" entity="43" gender="MALE" mentionid="43" mentiontype="PROPER" number="SINGULAR">
+			<STRING> the </STRING>
+			<REFERENCE animacy="INANIMATE" entity="38" gender="UNKNOWN" mentionid="38" mentiontype="PROPER" number="SINGULAR"> Bronx </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="39" gender="UNKNOWN" mentionid="39" mentiontype="PROPER" number="SINGULAR"> N.Y. </REFERENCE>
+			<STRING>, Huffman </STRING>
+		</REFERENCE>
+		<STRING> graduated from </STRING>
+		<REFERENCE animacy="INANIMATE" entity="40" gender="NEUTRAL" mentionid="40" mentiontype="PROPER" number="UNKNOWN"> Webster University </REFERENCE>
+		<STRING> in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="41" gender="MALE" mentionid="41" mentiontype="PROPER" number="SINGULAR"> St. Louis </REFERENCE>
+		<STRING> and- worked for </STRING>
+		<REFERENCE animacy="INANIMATE" entity="44" gender="NEUTRAL" mentionid="44" mentiontype="NOMINAL" number="SINGULAR"> a time </REFERENCE>
+		<STRING> as </STRING>
+		<REFERENCE animacy="ANIMATE" entity="45" gender="MALE" mentionid="45" mentiontype="NOMINAL" number="SINGULAR"> a flight attendant </REFERENCE>
+		<STRING> on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="PROPER" number="UNKNOWN"> TWA </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<STRING> After moving to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="48" gender="UNKNOWN" mentionid="48" mentiontype="PROPER" number="SINGULAR">
+			<STRING> Los Angeles with </STRING>
+			<REFERENCE animacy="ANIMATE" entity="22" gender="MALE" mentionid="49" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="22" gender="MALE" mentionid="50" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="ANIMATE" entity="1" gender="FEMALE" mentionid="51" mentiontype="PRONOMINAL" number="SINGULAR"> her </REFERENCE>
+					<STRING> husband </STRING>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="22" gender="MALE" mentionid="52" mentiontype="PROPER" number="SINGULAR">
+					<STRING> actor </STRING>
+					<REFERENCE animacy="ANIMATE" entity="22" gender="MALE" mentionid="46" mentiontype="PROPER" number="SINGULAR"> David Huffman </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="53" gender="UNKNOWN" mentionid="53" mentiontype="PROPER" number="SINGULAR"> the mid-1970s </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="FEMALE" mentionid="54" mentiontype="PRONOMINAL" number="SINGULAR"> she </REFERENCE>
+		<STRING> started </STRING>
+		<REFERENCE animacy="INANIMATE" entity="55" gender="UNKNOWN" mentionid="55" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="1" gender="FEMALE" mentionid="56" mentiontype="PRONOMINAL" number="SINGULAR"> her </REFERENCE>
+			<STRING> career </STRING>
+		</REFERENCE>
+		<STRING> as </STRING>
+		<REFERENCE animacy="ANIMATE" entity="57" gender="MALE" mentionid="57" mentiontype="NOMINAL" number="SINGULAR"> a casting director </REFERENCE>
+		<STRING> at </STRING>
+		<REFERENCE animacy="INANIMATE" entity="47" gender="NEUTRAL" mentionid="47" mentiontype="PROPER" number="UNKNOWN"> MTM </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="FEMALE" mentionid="60" mentiontype="PRONOMINAL" number="SINGULAR"> She </REFERENCE>
+		<STRING> moved on to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="58" gender="NEUTRAL" mentionid="58" mentiontype="PROPER" number="UNKNOWN"> Paramount </REFERENCE>
+		<STRING>, where </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="FEMALE" mentionid="61" mentiontype="PRONOMINAL" number="SINGULAR"> she </REFERENCE>
+		<STRING> worked for </STRING>
+		<REFERENCE animacy="ANIMATE" entity="62" gender="MALE" mentionid="62" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> noted casting director </STRING>
+			<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="59" mentiontype="PROPER" number="SINGULAR"> Marion Dougherty </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<STRING> When </STRING>
+		<REFERENCE animacy="ANIMATE" entity="59" gender="MALE" mentionid="63" mentiontype="PROPER" number="SINGULAR"> Dougherty </REFERENCE>
+		<STRING> went to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="64" gender="UNKNOWN" mentionid="64" mentiontype="PROPER" number="UNKNOWN"> Warner Bros. </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="22" gender="MALE" mentionid="65" mentiontype="PROPER" number="SINGULAR"> Huffman </REFERENCE>
+		<STRING> went with </STRING>
+		<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="66" mentiontype="PRONOMINAL" number="SINGULAR"> her </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<REFERENCE animacy="INANIMATE" entity="58" gender="NEUTRAL" mentionid="68" mentiontype="PRONOMINAL" number="SINGULAR"> It </REFERENCE>
+		<STRING> was there that </STRING>
+		<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="69" mentiontype="PRONOMINAL" number="SINGULAR"> she </REFERENCE>
+		<STRING> began working with </STRING>
+		<REFERENCE animacy="ANIMATE" entity="33" gender="MALE" mentionid="67" mentiontype="PROPER" number="SINGULAR"> Eastwood </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<REFERENCE animacy="INANIMATE" entity="71" gender="NEUTRAL" mentionid="71" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> The </STRING>
+			<REFERENCE animacy="INANIMATE" entity="70" gender="NEUTRAL" mentionid="70" mentiontype="PROPER" number="SINGULAR"> first </REFERENCE>
+			<STRING> film </STRING>
+			<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="72" mentiontype="PRONOMINAL" number="SINGULAR"> she </REFERENCE>
+			<STRING> cast for </STRING>
+			<REFERENCE animacy="ANIMATE" entity="33" gender="MALE" mentionid="73" mentiontype="PRONOMINAL" number="SINGULAR"> him </REFERENCE>
+		</REFERENCE>
+		<STRING> was </STRING>
+		<REFERENCE animacy="ANIMATE" entity="74" gender="MALE" mentionid="74" mentiontype="PROPER" number="SINGULAR">
+			<STRING>`` Honkytonk Man'' in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="75" gender="UNKNOWN" mentionid="75" mentiontype="PROPER" number="SINGULAR"> 1982 </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<REFERENCE animacy="INANIMATE" entity="78" gender="UNKNOWN" mentionid="78" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> Other films </STRING>
+			<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="79" mentiontype="PRONOMINAL" number="SINGULAR"> she </REFERENCE>
+			<STRING> cast for </STRING>
+			<REFERENCE animacy="ANIMATE" entity="33" gender="MALE" mentionid="76" mentiontype="PROPER" number="SINGULAR"> Eastwood </REFERENCE>
+			<STRING> included`` </STRING>
+			<REFERENCE animacy="INANIMATE" entity="80" gender="NEUTRAL" mentionid="80" mentiontype="PROPER" number="SINGULAR"> Mystic River </REFERENCE>
+			<STRING>,'' </STRING>
+			<REFERENCE animacy="INANIMATE" entity="81" gender="UNKNOWN" mentionid="81" mentiontype="LIST" number="PLURAL">
+				<STRING>`` </STRING>
+				<REFERENCE animacy="INANIMATE" entity="82" gender="UNKNOWN" mentionid="82" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Midnight in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="83" gender="NEUTRAL" mentionid="83" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> the Garden of </STRING>
+						<REFERENCE animacy="INANIMATE" entity="84" gender="UNKNOWN" mentionid="84" mentiontype="LIST" number="PLURAL"> Good and Evil </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING>,''`` </STRING>
+				<REFERENCE animacy="INANIMATE" entity="85" gender="NEUTRAL" mentionid="85" mentiontype="PROPER" number="SINGULAR"> A Perfect World </REFERENCE>
+				<STRING>,'' and`` </STRING>
+				<REFERENCE animacy="INANIMATE" entity="77" gender="NEUTRAL" mentionid="77" mentiontype="PROPER" number="UNKNOWN"> Space Cowboys </REFERENCE>
+			</REFERENCE>
+			<STRING>.'' </STRING>
+		</REFERENCE>
+	</SENTENCE>
+	<SENTENCE ID="13">
+		<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="87" mentiontype="PRONOMINAL" number="SINGULAR"> She </REFERENCE>
+		<STRING> eventually became </STRING>
+		<REFERENCE animacy="INANIMATE" entity="88" gender="MALE" mentionid="88" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> head of casting for </STRING>
+			<REFERENCE animacy="INANIMATE" entity="89" gender="NEUTRAL" mentionid="89" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="64" gender="MALE" mentionid="86" mentiontype="PROPER" number="UNKNOWN"> Warner's </REFERENCE>
+				<STRING> television division </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="14">
+		<STRING> In television, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="91" mentiontype="PRONOMINAL" number="SINGULAR"> she </REFERENCE>
+		<STRING> cast the pilot of the hit series </STRING>
+		<REFERENCE animacy="INANIMATE" entity="94" gender="MALE" mentionid="94" mentiontype="PROPER" number="SINGULAR">
+			<STRING>`` </STRING>
+			<REFERENCE animacy="INANIMATE" entity="95" gender="MALE" mentionid="95" mentiontype="PROPER" number="SINGULAR"> Murphy Brown </REFERENCE>
+			<STRING>,'' which starred </STRING>
+			<REFERENCE animacy="ANIMATE" entity="90" gender="FEMALE" mentionid="90" mentiontype="PROPER" number="SINGULAR"> Candice Bergen </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="15">
+		<REFERENCE animacy="INANIMATE" entity="97" gender="UNKNOWN" mentionid="97" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="98" mentiontype="PRONOMINAL" number="SINGULAR"> Her </REFERENCE>
+			<STRING> life in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="96" gender="NEUTRAL" mentionid="96" mentiontype="PROPER" number="SINGULAR"> Southern California </REFERENCE>
+		</REFERENCE>
+		<STRING> was marred by tragedy, however. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="16">
+		<STRING> In </STRING>
+		<REFERENCE animacy="INANIMATE" entity="101" gender="UNKNOWN" mentionid="101" mentiontype="PROPER" number="SINGULAR"> February 1985 </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="22" gender="MALE" mentionid="102" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="22" gender="MALE" mentionid="103" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="104" mentiontype="PRONOMINAL" number="SINGULAR"> her </REFERENCE>
+				<STRING> husband </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="105" gender="UNKNOWN" mentionid="105" mentiontype="PROPER" number="SINGULAR">
+				<STRING> then </STRING>
+				<REFERENCE animacy="INANIMATE" entity="99" gender="UNKNOWN" mentionid="99" mentiontype="PROPER" number="SINGULAR"> 40 </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, was stabbed to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="106" gender="UNKNOWN" mentionid="106" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> death in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="107" gender="UNKNOWN" mentionid="107" mentiontype="PROPER" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="100" gender="MALE" mentionid="100" mentiontype="PROPER" number="SINGULAR"> San Diego's </REFERENCE>
+				<STRING> Balboa Park </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> while trying to chase down </STRING>
+		<REFERENCE animacy="ANIMATE" entity="108" gender="MALE" mentionid="108" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a suspect in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="109" gender="UNKNOWN" mentionid="109" mentiontype="NOMINAL" number="SINGULAR"> a mobile home burglary </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="17">
+		<REFERENCE animacy="ANIMATE" entity="110" gender="MALE" mentionid="110" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="111" gender="MALE" mentionid="111" mentiontype="NOMINAL" number="SINGULAR"> The assailant </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="111" gender="MALE" mentionid="112" mentiontype="PROPER" number="SINGULAR">
+				<STRING> a 16-year-old Mexican </STRING>
+				<REFERENCE animacy="INANIMATE" entity="113" gender="UNKNOWN" mentionid="113" mentiontype="NOMINAL" number="UNKNOWN"> national </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, was arrested and eventually sentenced to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="114" gender="UNKNOWN" mentionid="114" mentiontype="PROPER" number="SINGULAR"> 26 years </REFERENCE>
+		<STRING> to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="115" gender="UNKNOWN" mentionid="115" mentiontype="NOMINAL" number="SINGULAR"> life in prison </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="18">
+		<REFERENCE animacy="ANIMATE" entity="22" gender="MALE" mentionid="118" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="22" gender="MALE" mentionid="116" mentiontype="PROPER" number="SINGULAR"> Huffman </REFERENCE>
+			<STRING>, who spoke at </STRING>
+			<REFERENCE animacy="INANIMATE" entity="119" gender="NEUTRAL" mentionid="119" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the sentencing phase of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="120" gender="UNKNOWN" mentionid="120" mentiontype="NOMINAL" number="SINGULAR"> the trial </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, soon moved back to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="39" gender="MALE" mentionid="117" mentiontype="PROPER" number="SINGULAR"> New York </REFERENCE>
+		<STRING> and restarted </STRING>
+		<REFERENCE animacy="INANIMATE" entity="97" gender="UNKNOWN" mentionid="121" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="122" mentiontype="PRONOMINAL" number="SINGULAR"> her </REFERENCE>
+			<STRING> life </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="19">
+		<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="126" mentiontype="PRONOMINAL" number="SINGULAR"> She </REFERENCE>
+		<STRING> formed </STRING>
+		<REFERENCE animacy="INANIMATE" entity="127" gender="UNKNOWN" mentionid="127" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="128" mentiontype="PRONOMINAL" number="SINGULAR"> her </REFERENCE>
+			<STRING> own independent casting </STRING>
+		</REFERENCE>
+		<STRING> company and- continued to work for </STRING>
+		<REFERENCE animacy="INANIMATE" entity="64" gender="UNKNOWN" mentionid="129" mentiontype="PROPER" number="UNKNOWN">
+			<REFERENCE animacy="INANIMATE" entity="64" gender="UNKNOWN" mentionid="123" mentiontype="PROPER" number="UNKNOWN"> Warner Bros. </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="130" gender="MALE" mentionid="130" mentiontype="PROPER" number="UNKNOWN">
+				<STRING> Hallmark Hall of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="131" gender="UNKNOWN" mentionid="131" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="132" gender="UNKNOWN" mentionid="132" mentiontype="LIST" number="PLURAL">
+						<STRING> Fame and </STRING>
+						<REFERENCE animacy="ANIMATE" entity="33" gender="MALE" mentionid="125" mentiontype="PROPER" number="SINGULAR"> Eastwood's </REFERENCE>
+					</REFERENCE>
+					<STRING> Malpaso Productions </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="20">
+		<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="134" mentiontype="PRONOMINAL" number="SINGULAR"> She </REFERENCE>
+		<STRING> also remarried and- is survived by </STRING>
+		<REFERENCE animacy="ANIMATE" entity="135" gender="UNKNOWN" mentionid="135" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="136" mentiontype="PRONOMINAL" number="SINGULAR"> her </REFERENCE>
+			<STRING> husband Jules del Vecchio; </STRING>
+			<REFERENCE animacy="ANIMATE" entity="137" gender="UNKNOWN" mentionid="137" mentiontype="LIST" number="PLURAL">
+				<STRING> sons </STRING>
+				<REFERENCE animacy="ANIMATE" entity="133" gender="MALE" mentionid="133" mentiontype="PROPER" number="SINGULAR"> Mathew </REFERENCE>
+				<STRING> and Philip Huffman </STRING>
+			</REFERENCE>
+			<STRING>; </STRING>
+			<REFERENCE animacy="ANIMATE" entity="138" gender="MALE" mentionid="138" mentiontype="PROPER" number="SINGULAR"> step-son Matthew del Vecchio </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="21">
+		<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="142" mentiontype="PRONOMINAL" number="SINGULAR"> She </REFERENCE>
+		<STRING> is also survived by </STRING>
+		<REFERENCE animacy="ANIMATE" entity="143" gender="UNKNOWN" mentionid="143" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="144" gender="UNKNOWN" mentionid="144" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="145" gender="FEMALE" mentionid="145" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="ANIMATE" entity="59" gender="FEMALE" mentionid="146" mentiontype="PRONOMINAL" number="SINGULAR"> her </REFERENCE>
+					<STRING> mother </STRING>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="139" gender="FEMALE" mentionid="139" mentiontype="PROPER" number="SINGULAR"> Grace Grennan </REFERENCE>
+				<STRING>; </STRING>
+				<REFERENCE animacy="ANIMATE" entity="147" gender="UNKNOWN" mentionid="147" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="ANIMATE" entity="148" gender="MALE" mentionid="148" mentiontype="NOMINAL" number="SINGULAR"> a brother </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="ANIMATE" entity="140" gender="MALE" mentionid="140" mentiontype="PROPER" number="SINGULAR"> Chris Grennan </REFERENCE>
+					<STRING> and sister </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="141" gender="FEMALE" mentionid="141" mentiontype="PROPER" number="SINGULAR"> Christine Stiller </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+</TEXT>

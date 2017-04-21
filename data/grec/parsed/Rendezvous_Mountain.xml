@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="687">
+	<TITLE>Rendezvous Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rendezvous Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a large mountain massif located in the southern Teton Range. The west and northern flanks of </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are in Grand Teton National Park, Wyoming, while much of the remainder of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the massif</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is in Bridger-Teton National Forest. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain massif</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> extends for a distance of 5 miles (8 km) between Granite Canyon to the north and Phillips Canyon to the south. Though there are numerous summits above 10,000 feet (3,048 m), the one that is most commonly visited is the North Peak, where the Jackson Hole Mountain Resort aerial tram provides access to the summit for skiers in the winter and sightseerings and hikers in the summer. The descent from the summit of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rendezvous Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> back to Teton Village is steep, with an altitude loss of 4,135 feet (1,260 m) in only a little more than 6 miles (9.6 km).</STRING>
+	</PARAGRAPH>
+</TEXT>

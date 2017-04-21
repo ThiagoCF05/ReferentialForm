@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="615">
+	<TITLE>Ngadi Chuli</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ngadi Chuli</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (also known as Peak 29, Dakura, Dakum, or Dunapurna) is a high peak in the Mansiri Himal (or Manaslu Himal), also known as the Gurkha Massif, in Nepal. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is flanked by Manaslu to the north and Himalchuli to the south.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Despite </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> top 20 height, </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ngadi Chuli</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has only been climbed once or twice. The probable first ascent occurred in 1970. Hiroshi Watanabe and Sherpa Lhaksa Tsering, members of a Japanese expedition, climbed the east ridge and face. They left their camp V, at about 7500 metres, for a summit attack. Very near the top they were out of sight for about two hours. After reappearing, they suffered a fatal fall down an ice wall. A later Japanese expedition recovered their bodies, but all film had been exposed and no conclusive evidence could be found that they had reached the summit. In order to achieve a confirmed ascent of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, the Japanese organized three more expeditions, but these all failed.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The first confirmed ascent, and as of 2005 the last attempt on </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, was in 1979 by the Polish climbers Ryszard Gajewski and Maciej Pawlikowski via the West buttress.</STRING>
+	</PARAGRAPH>
+</TEXT>

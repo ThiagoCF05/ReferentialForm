@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TEXT ID="157">
+	<TITLE>Flattop Mountain (Anchorage, Alaska)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Flattop Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a 3,510-foot (1,070 m) mountain in the U.S. state of Alaska, located in Chugach State Park just east of Anchorage.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the most climbed mountain in the state. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is usually reached by driving to the Glen Alps trailhead and following a well-maintained 1.5-mile (2.4-km) trail, with an elevation gain of 1280 feet (390 m) from the parking lot to the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Since  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="35" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the most accessible mountain to Anchorage,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="44" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Flattop</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a very popular location for hiking, climbing, berry picking, parasailing, and backcountry skiing.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Campouts are held on the summit at the summer and winter solstices. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Flattop</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known for  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="4" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> panoramic views of Anchorage and the surrounding area, including Denali, Mount Foraker, and Mount Spurr. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

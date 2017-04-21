@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="373">
+	<TITLE>Mount Buller (Victoria)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Buller</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain in the Australian Alps.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The summit of </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Buller</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> can be reached by vehicle via the village coupled with a 500m short walk. It is also possible to climb </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> from Delatite river level you can follow the Klingsporn walking track. The Klingsporn track was the bridle trail in days gone by when stockmen would take their cattle up high for the summer months. The walk begins at Merimbah and is a 8km walk on a well defined track.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>An adventurous twist on this walk is to walk to the aptly named &quot;Thank Christ Corner&quot; on Shoulder spur and go off track along shoulder spur to Mclaughlin's spur to the summit. Mclaughlins spur offers good views to the summit fire tower and the rocky outcrops that must be traversed.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>At the summit there is a stone distance dial and a fire tower that is manned during the summer months.</STRING>
+	</PARAGRAPH>
+</TEXT>

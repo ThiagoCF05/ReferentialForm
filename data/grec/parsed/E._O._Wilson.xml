@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1498">
+	<TITLE>E. O. Wilson</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Edward Osborne Wilson</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (b. June 10, 1929 in Birmingham, Alabama USA) is a distinguished biologist (Myrmecology, a branch of entomology), researcher (sociobiology, biodiversity) and theorist (consilience, biophilia), a naturalist (conservationism), and a prominent man of letters. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Wilson</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is known for </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> remarkably prolific career as a scientist, </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> advocacy for environmentalism, and </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> scientific humanist ideas concerned with religious, moral, and ethical matters. </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is currently the Pellegrino Research Professor in Entomology for the Department of Organismic and Evolutionary Biology at Harvard University.</STRING>
+	</PARAGRAPH>
+</TEXT>

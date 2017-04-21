@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TEXT ID="502">
+	<TITLE>Mount Nyamuragira</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Nyamuragira</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an active volcano in the Virunga Mountains of the Democratic Republic of the Congo, situated about 25 km north of Lake Kivu. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been described as Africa's most active volcano and  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has erupted over 30 times since 1880.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>As well as eruptions from the summit, there have been numerous eruptions from the flanks of  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, creating new smaller volcanoes that have lasted only for a short time (e.g.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Murara from late 1976 to 1977). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is responsible for a large portion of the sulfur dioxide released into the atmosphere by volcanoes. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Extensive lava flows can be seen on satellite photographs going 25 km south-west to Lake Kivu, about 22 km north-west and 35 km north-north-east.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nyamuragira</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is only 13 km north-north-west of Nyiragongo, the volcano which caused extensive damage to the city of Goma in its 2002 eruption. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

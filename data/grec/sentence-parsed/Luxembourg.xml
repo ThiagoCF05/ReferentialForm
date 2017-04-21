@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TEXT ID="1308">
+	<TITLE>Luxembourg</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Grand Duchy of Luxembourg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (, [French: Grand-Duché de Luxembourg], [German: Großherzogtum Luxemburg]) is a small landlocked country in western Europe, bordered by Belgium, France, and Germany.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luxembourg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a population of under half a million people in an area of about 2,600 square kilometres (1,000 sq mi). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luxembourg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a parliamentary representative democracy with a constitutional monarchy, ruled by a Grand Duke.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the world's only sovereign Grand Duchy.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luxembourg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a founding member of the European Union, NATO, the United Nations, Benelux, and the Western European Union, reflecting the political consensus in favour of economic, political, and military integration.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Luxembourg City, the capital and largest city, is the seat of several institutions and agencies of the European Union. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luxembourg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies on the cultural divide between Romance Europe and Germanic Europe, borrowing customs from each of the distinct traditions.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>While French and Luxembourgish are the predominant languages in daily life and on the streets,  </STRING>
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luxembourg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> remains a trilingual country; French, German, and Luxembourgish are official languages.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Although a secular state,  </STRING>
+			<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luxembourg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a predominantly Roman Catholic country. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

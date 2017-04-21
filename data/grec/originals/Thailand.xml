@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "reg08-grec.dtd">
+<TEXT ID="957">
+<TITLE>Thailand</TITLE>
+
+<PARAGRAPH>
+<REF ID="957.1" SEMCAT="country" SYNCAT="np-subj">
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">The Kingdom of Thailand</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Thailand</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Thailand itself</REFEX>
+<REFEX REG08-TYPE="empty">_</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="nominative">it</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="pronoun" CASE="nominative">it itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">that</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">that itself</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">the Kingdom of Thailand</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">the Kingdom of Thailand itself</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="no" HEAD="nominal" CASE="plain">the country</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="yes" HEAD="nominal" CASE="plain">the country itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">which</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">which itself</REFEX>
+</ALT-REFEX>
+</REF>
+ is a country in Southeast Asia, bordering Laos and Cambodia to the east, the Gulf of Thailand and Malaysia to the south, and the Andaman Sea and Myanmar to the west. 
+<REF ID="957.2" SEMCAT="country" SYNCAT="subj-det">
+<REFEX REG08-TYPE="common" EMPHATIC="no" HEAD="nominal" CASE="genitive">The country's</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="genitive">Thailand's</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="genitive">its</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="genitive">the Kingdom of Thailand's</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="no" HEAD="nominal" CASE="genitive">the country's</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="genitive">whose</REFEX>
+</ALT-REFEX>
+</REF>
+ official name was Siam ([Thai: สยาม]; IPA: [IPA: [saˈjaːm]], ), until May 11, 1949. The word Thai (ไทย) means "freedom" in the Thai language and is also the name of the majority ethnic group.</PARAGRAPH>
+</TEXT>

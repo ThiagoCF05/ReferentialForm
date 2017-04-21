@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1360">
+	<TITLE>Saint-Pierre and Miquelon</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Saint-Pierre and Miquelon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (French Saint-Pierre et Miquelon) 46°47'N,56°12'W is a French overseas community consisting of several small islands off the eastern coast of Canada near Newfoundland. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the only remnant of the former colonial territory of New France.</STRING>
+	</PARAGRAPH>
+</TEXT>

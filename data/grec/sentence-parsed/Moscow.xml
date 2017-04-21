@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<TEXT ID="1119">
+	<TITLE>Moscow</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Moscow</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Russian: Москва́], Moskva, IPA: [mʌsk'va]) is the capital of Russia and the country's principal political, economic, financial, educational, and transportation center, located on the Moskva River in the Central Federal District, located in the European part of Russia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The city's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> population of 10.4 million permanent inhabitants within the city boundaries constitutes about 7% of the total Russian population.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Likewise,  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the most populous city in Europe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Historically,  </STRING>
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> position was central in the Russian homeland.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the capital of the former Soviet Union and Muscovite Russia, the pre-Imperial Russian state.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the site of the famous Kremlin, which now serves as the ceremonial residence of the President. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Moscow's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> architecture and performing arts culture are world-renowned.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Moscow</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also well known as the site of Saint Basil's Cathedral, with its elegant onion domes, as well as the Cathedral of Christ the Savior.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The Patriarch of Moscow, whose residence is the Danilov Monastery, serves as the head of the Russian Orthodox Church.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Moscow</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also remains a major economic center and  </STRING>
+			<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is home to a large number of billionaires;  </STRING>
+			<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is perennially considered one of the most expensive cities for expatriate employees in the world.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is home to many scientific and educational institutions, as well as numerous sport facilities.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> possesses a complex transport system that includes the world's busiest metro system, which is famous for its architecture.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.7">
+			<REFERENCE ID="14" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Moscow</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also became the host of the 1980 Summer Olympics. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

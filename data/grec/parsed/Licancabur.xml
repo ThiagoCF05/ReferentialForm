@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEXT ID="289">
+	<TITLE>Licancabur</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Licancabur</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a highly symmetrical stratovolcano on the southernmost part of the border between Chile and Bolivia. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located just southwest of Laguna Verde in Bolivia and northwest of Juriques volcano. The summit crater is about 400 m wide and contains a 70 by 90 m crater lake which is ice-covered most of the year. This is one of the highest lakes in the world, and despite air temperatures which can drop to -30 °C, it contains planktonic fauna.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Licancabur's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> most recent volcanic activity produced extensive lava flows which extend 6 km down the northwest and southwest flanks, with older lava flows reaching 15 km and pyroclastic flow deposits as far as 12 km from the peak. Extensive Inca ruins are located at the summit, providing proof of pre-Columbian ascents as well as evidence for a lack of major eruptions over the past 500–1,000 years.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Licancabur</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a Cunza word that the indigenous people of this area used to refer to themselves as well as to </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

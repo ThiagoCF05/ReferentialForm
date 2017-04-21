@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TEXT ID="1018">
+	<TITLE>Berne</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bern</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> [IPA: [bɐːn]] (German Bern [IPA: [b̥ɛrn]], French Berne [IPA: [bɛʀn]], Italian Berna [IPA: [ˈbɛrna]], Romansh Berna [IPA: [ˈbɛrnə]], Bernese German Bärn [IPA: [b̥æːrn]]), is the &quot;Bundesstadt&quot; (administrative capital) of Switzerland and, with 140,000 people,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="35" SEMCAT="city" SENTENCE-POSITION="36" SENTENCE-RECENCY="35" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the fourth most populous Swiss city (after Zürich, Geneva and Basel). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Most of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Bern's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> residents speak German, or more specifically, Bernese German, which is a high-Alemannic dialect.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The Canton of Bern has a French-speaking part.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Very few people still speak the Matteänglisch, a secret language used in the former workers' quarter Matte, but several words have found their way in the Bernese German. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bern</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also functions as the capital of the Canton of Bern, the second most populous of Switzerland's cantons. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Illustrious Bernese include the reformer Albrecht von Haller, the poet Albert Bitzius and the painters Hans Fries, Ferdinand Hodler and Paul Klee.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>The German-born physicist Albert Einstein worked out his theory of relativity while employed as a clerk at the Bern patent office.A culturally important person was Mani Matter, a songwriter performing in Bernese German. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

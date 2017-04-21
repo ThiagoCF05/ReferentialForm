@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1270">
+	<TITLE>French Polynesia</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">French Polynesia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (French: Polynésie française, Tahitian: Pōrīnetia Farāni) is a French &quot;overseas collectivity&quot; (French: collectivité d'outre-mer, or COM) with the particular designation of &quot;overseas country&quot; (French: pays d'outre-mer, or POM) in the southern Pacific Ocean. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is made up of several groups of Polynesian islands, the most famous island being Tahiti in the Society Islands group, which is also the most populous island, and the seat of the capital of the territory (Papeete). Although not an integral part of </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> territory, Clipperton Island is administered from </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">French Polynesia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

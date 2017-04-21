@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="76">
+	<TITLE>Cerro de la Muerte</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cerro de la Muerte</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the second highest peak in Costa Rica. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name means &quot;Mountain of Death&quot;, since in the past crossing the mountains from the Valle Central meant a three or four day journey, on foot or on horseback, and many ill-prepared travelers succumbed to the cold and rain. However, </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is now easily accessible since the Pan-American Highway runs close by.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The drivable track from the highway leads to the summit, with its cluster of telecommunications aerials. At this altitude, overnight temperatures can dip close to freezing, but the sun soon raises the temperatures in the morning, with a high risk of sunburn in the thin clear air.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">This mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is in Talamanca range, which extends from eastern Costa Rica into neighbouring western Panama. This range was a volcanic island in the geological past, and its separation from other mountain ranges means that it has developed many endemic species of animals and plants, often with affinities to Andean forms.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>The higher areas are páramo habitat, with stunted shrubs, dwarf bamboo, and tree ferns, and smaller plants like blueberry, gooseberry and lady's slipper. Below this zone, the natural vegetation is oak forest with bamboo understory, an excellent place to see the charismatic Resplendent Quetzal.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>Nearly fifty percent of the bird species recorded from </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cerro de la Muerte</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are endemic to the Talamanca range. These include Fiery-throated Hummingbird, Timberline Wren, Sooty Robin, Black-billed Nightingale-Thrush, Peg-billed Finch and Volcano Junco.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TEXT ID="482">
+	<TITLE>Mount Maunganui</TITLE>
+	<PARAGRAPH ID="1">
+		<STRING>Mount Maunganui is a suburb of the city of Tauranga, Bay of Plenty, New Zealand, located on a peninsula to the north of the city, and north west of fellow suburb Papamoa. It is also the name of </STRING>
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the extinct volcanic cone which rises above the town</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (</STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is now officially known by </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> Māori name Mauao). </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is colloquially known in New Zealand simply as The Mount. The town itself is located on top of a sand bar that connects </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mauao</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> to the mainland, a geographical formation known as a tombolo. Because of this formation, the residents of Mount Maunganui are lucky enough to have both a harbour beach (Pilot Bay) and an ocean beach to take advantage of, within a short distance (At the base of </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mauao</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, the distance between the harbour and ocean side is a couple of blocks).</STRING>
+	</PARAGRAPH>
+</TEXT>

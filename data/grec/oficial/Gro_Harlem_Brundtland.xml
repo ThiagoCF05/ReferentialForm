@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1548">
+	<TITLE>Gro Harlem Brundtland</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gro Harlem Brundtland</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> [IPA: gro hɑɭɛm brʉntlɑnd] (born April 20, 1939) is a Norwegian politician, diplomat, and physician, and an international leader in sustainable development and public health.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="27" PARAGRAPH-RECENCY="26" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a former Prime Minister of Norway, and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="9" SEMCAT="person" SENTENCE-POSITION="10" SENTENCE-RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has served as the Director General of the World Health Organization. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

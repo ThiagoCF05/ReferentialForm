@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TEXT ID="1399">
+	<TITLE>Turkmenistan</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Turkmenistan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (also known as Turkmenia) is a country in Central Asia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The name Turkmenistan is derived from Persian, meaning &quot;land of the Turkmen&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Before 1991,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="25" SEMCAT="country" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a constituent republic of the Soviet Union, called the Turkmen Soviet Socialist Republic.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="15" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is bordered by Afghanistan to the southeast, Iran to the southwest, Uzbekistan to the northeast, Kazakhstan to the northwest, and the Caspian Sea to the west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Although  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="69" PARAGRAPH-RECENCY="28" SEMCAT="country" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is wealthy in natural resources in certain areas, most of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="80" PARAGRAPH-RECENCY="11" SEMCAT="country" SENTENCE-POSITION="13" SENTENCE-RECENCY="11" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is covered by the Karakum (Black Sands) Desert.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="89" PARAGRAPH-RECENCY="9" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Turkmenistan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a single-party system ruled by President for Life Saparmurat Niyazov. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

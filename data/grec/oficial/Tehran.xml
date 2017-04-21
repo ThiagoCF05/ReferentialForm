@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<TEXT ID="1182">
+	<TITLE>Tehran</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tehran</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([IPA: tʰehˈɾɒn]; Persian: تهران, also transliterated as Teheran or Tehrān), population (as of 2005) 7,314,000 (metropolitan: 12,151,000), and a land area of 658 square kilometers, is the capital city of Iran (Persia) and the center of Tehran Province.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="39" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tehran</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at . </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>More than half of the country's industry is based there.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Industries include the manufacturing of automobiles, electronics and electrical equipment, military weaponry, textiles, sugar, cement, and chemical products.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also a leading center for the sale of carpets and furniture.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>There is an oil refinery nearby. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tehran</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a sprawling city at the foot of the Alborz mountain range with an immense network of highways unparalleled in western Asia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="23" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also the hub of the country's railway network.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="34" PARAGRAPH-RECENCY="10" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has numerous large museums, art centers, palace complexes and cultural centers. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>In addition to Persians, there is a large population of Azeris in  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tehran</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> , as well as other ethnicities including Armenian, Assyrian, Kurdish and Jewish communities.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>majority of  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="15" SEMCAT="city" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Tehran's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> residents speak Persian.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<REFERENCE ID="9" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="4" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is dotted with mosques, and there are a number of churches and synagogues. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

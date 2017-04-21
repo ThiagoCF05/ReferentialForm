@@ -1,0 +1,278 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<STRING> Twice in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="4" gender="UNKNOWN" mentionid="4" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="5" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+			<STRING> five years of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="6" gender="UNKNOWN" mentionid="6" mentiontype="LIST" number="PLURAL">
+				<STRING> starvation and brutality in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="7" gender="UNKNOWN" mentionid="7" mentiontype="NOMINAL" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="1" mentiontype="PROPER" number="SINGULAR"> four </REFERENCE>
+					<STRING> Nazi concentration camps </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="3" gender="MALE" mentionid="3" mentiontype="PROPER" number="SINGULAR"> Lou Dunst </REFERENCE>
+		<STRING> was herded along with </STRING>
+		<REFERENCE animacy="ANIMATE" entity="8" gender="UNKNOWN" mentionid="8" mentiontype="NOMINAL" number="PLURAL"> other prisoners </REFERENCE>
+		<STRING> into </STRING>
+		<REFERENCE animacy="INANIMATE" entity="9" gender="NEUTRAL" mentionid="9" mentiontype="NOMINAL" number="SINGULAR"> a gas chamber </REFERENCE>
+		<STRING> to be killed. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<STRING> Once there was </STRING>
+		<REFERENCE animacy="INANIMATE" entity="10" gender="UNKNOWN" mentionid="10" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="11" gender="UNKNOWN" mentionid="11" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a malfunction in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="12" gender="UNKNOWN" mentionid="12" mentiontype="NOMINAL" number="PLURAL"> the gas jets </REFERENCE>
+			</REFERENCE>
+			<STRING>, and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="13" gender="NEUTRAL" mentionid="13" mentiontype="NOMINAL" number="SINGULAR"> the other time </REFERENCE>
+		</REFERENCE>
+		<STRING> a guard decided that </STRING>
+		<REFERENCE animacy="ANIMATE" entity="14" gender="MALE" mentionid="15" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING> did not want to waste precious coal so </STRING>
+		<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="16" mentiontype="NOMINAL" number="SINGULAR"> the execution </REFERENCE>
+		<STRING> was called off. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="ANIMATE" entity="21" gender="UNKNOWN" mentionid="21" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> More dead than alive, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="3" gender="FEMALE" mentionid="17" mentiontype="PROPER" number="SINGULAR"> Dunst </REFERENCE>
+			<STRING> and other prisoners at </STRING>
+			<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="22" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the </STRING>
+				<REFERENCE animacy="INANIMATE" entity="18" gender="UNKNOWN" mentionid="18" mentiontype="PROPER" number="SINGULAR"> Ebensee </REFERENCE>
+				<STRING> camp in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="19" gender="NEUTRAL" mentionid="19" mentiontype="PROPER" number="SINGULAR"> Austria </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> were rescued by </STRING>
+		<REFERENCE animacy="INANIMATE" entity="23" gender="NEUTRAL" mentionid="23" mentiontype="PROPER" number="UNKNOWN"> the U.S. Army </REFERENCE>
+		<STRING> in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="24" gender="UNKNOWN" mentionid="24" mentiontype="PROPER" number="SINGULAR">
+			<STRING> the final days of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="20" gender="NEUTRAL" mentionid="20" mentiontype="PROPER" number="SINGULAR"> World War II </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<STRING> Once </STRING>
+		<REFERENCE animacy="ANIMATE" entity="3" gender="MALE" mentionid="27" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING> regained </STRING>
+		<REFERENCE animacy="INANIMATE" entity="28" gender="NEUTRAL" mentionid="28" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="3" gender="MALE" mentionid="29" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+			<STRING> health </STRING>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="3" gender="MALE" mentionid="30" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING> moved to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="25" gender="NEUTRAL" mentionid="25" mentiontype="PROPER" number="SINGULAR"> Italy </REFERENCE>
+		<STRING> and in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="31" gender="UNKNOWN" mentionid="31" mentiontype="PROPER" number="SINGULAR"> 1951 </REFERENCE>
+		<STRING> to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="26" gender="MALE" mentionid="26" mentiontype="PROPER" number="SINGULAR"> San Diego </REFERENCE>
+		<STRING> where </STRING>
+		<REFERENCE animacy="ANIMATE" entity="3" gender="MALE" mentionid="32" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING> became </STRING>
+		<REFERENCE animacy="ANIMATE" entity="33" gender="UNKNOWN" mentionid="33" mentiontype="LIST" number="PLURAL"> a successful merchant and real estate investor </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<STRING> On </STRING>
+		<REFERENCE animacy="INANIMATE" entity="35" gender="UNKNOWN" mentionid="35" mentiontype="PROPER" number="SINGULAR"> Sunday </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="3" gender="FEMALE" mentionid="34" mentiontype="PROPER" number="SINGULAR"> Dunst </REFERENCE>
+		<STRING> was honored for </STRING>
+		<REFERENCE animacy="INANIMATE" entity="36" gender="NEUTRAL" mentionid="36" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="3" gender="MALE" mentionid="37" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+			<STRING> work in ensuring that modern youth learn </STRING>
+			<REFERENCE animacy="INANIMATE" entity="38" gender="NEUTRAL" mentionid="38" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the story of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="39" gender="NEUTRAL" mentionid="39" mentiontype="PROPER" number="SINGULAR"> the Holocaust </REFERENCE>
+			</REFERENCE>
+			<STRING> and understand </STRING>
+			<REFERENCE animacy="INANIMATE" entity="40" gender="NEUTRAL" mentionid="40" mentiontype="NOMINAL" number="UNKNOWN"> the underlying moral </REFERENCE>
+			<STRING> about </STRING>
+			<REFERENCE animacy="INANIMATE" entity="41" gender="NEUTRAL" mentionid="41" mentiontype="NOMINAL" number="SINGULAR"> the destructiveness of intolerance </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<STRING> As </STRING>
+		<REFERENCE animacy="INANIMATE" entity="46" gender="NEUTRAL" mentionid="46" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> part of </STRING>
+			<REFERENCE animacy="ANIMATE" entity="47" gender="NEUTRAL" mentionid="47" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="3" gender="MALE" mentionid="48" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+				<STRING> 80th birthday party </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="3" gender="FEMALE" mentionid="43" mentiontype="PROPER" number="SINGULAR"> Dunst </REFERENCE>
+		<STRING> was praised by </STRING>
+		<REFERENCE animacy="ANIMATE" entity="49" gender="UNKNOWN" mentionid="49" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="50" gender="UNKNOWN" mentionid="50" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> several </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="44" gender="NEUTRAL" mentionid="44" mentiontype="PROPER" number="SINGULAR"> Jewish </REFERENCE>
+				<STRING> organizations </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="51" gender="MALE" mentionid="51" mentiontype="PROPER" number="SINGULAR">
+				<STRING> Mayor </STRING>
+				<REFERENCE animacy="ANIMATE" entity="45" gender="MALE" mentionid="45" mentiontype="PROPER" number="SINGULAR"> Jerry Sanders </REFERENCE>
+			</REFERENCE>
+			<STRING>, and </STRING>
+			<REFERENCE animacy="ANIMATE" entity="52" gender="MALE" mentionid="52" mentiontype="PROPER" number="SINGULAR"> filmmaker Steven Spielberg </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<REFERENCE animacy="ANIMATE" entity="3" gender="FEMALE" mentionid="53" mentiontype="PROPER" number="SINGULAR"> Dunst </REFERENCE>
+		<STRING> has been interviewed in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="55" gender="NEUTRAL" mentionid="55" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="52" gender="MALE" mentionid="54" mentiontype="PROPER" number="SINGULAR"> Spielberg's </REFERENCE>
+			<STRING> effort to record </STRING>
+			<REFERENCE animacy="INANIMATE" entity="56" gender="UNKNOWN" mentionid="56" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> the personal stories of </STRING>
+				<REFERENCE animacy="ANIMATE" entity="57" gender="UNKNOWN" mentionid="57" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="ANIMATE" entity="58" gender="UNKNOWN" mentionid="58" mentiontype="NOMINAL" number="PLURAL"> survivors </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE animacy="ANIMATE" entity="59" gender="UNKNOWN" mentionid="59" mentiontype="NOMINAL" number="PLURAL"> other witnesses </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<STRING> In </STRING>
+		<REFERENCE animacy="INANIMATE" entity="65" gender="NEUTRAL" mentionid="65" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the emotional highpoint of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="66" gender="UNKNOWN" mentionid="66" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="67" gender="UNKNOWN" mentionid="67" mentiontype="PROPER" number="SINGULAR"> the day </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="3" gender="FEMALE" mentionid="60" mentiontype="PROPER" number="SINGULAR"> Dunst </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="ANIMATE" entity="68" gender="MALE" mentionid="68" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="ANIMATE" entity="3" gender="MALE" mentionid="69" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+					<STRING> brother </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> Irving, who was also captive at </STRING>
+		<REFERENCE animacy="INANIMATE" entity="18" gender="UNKNOWN" mentionid="62" mentiontype="PROPER" number="SINGULAR"> Ebensee </REFERENCE>
+		<STRING>, met </STRING>
+		<REFERENCE animacy="ANIMATE" entity="71" gender="MALE" mentionid="71" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="63" gender="MALE" mentionid="63" mentiontype="PROPER" number="SINGULAR"> Robert Persinger </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="63" gender="MALE" mentionid="72" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the </STRING>
+				<REFERENCE animacy="INANIMATE" entity="23" gender="NEUTRAL" mentionid="64" mentiontype="PROPER" number="UNKNOWN"> Army </REFERENCE>
+				<STRING> staff sergeant who led </STRING>
+				<REFERENCE animacy="INANIMATE" entity="73" gender="NEUTRAL" mentionid="73" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the platoon that liberated </STRING>
+					<REFERENCE animacy="INANIMATE" entity="74" gender="UNKNOWN" mentionid="74" mentiontype="PROPER" number="SINGULAR">
+						<STRING> Ebensee on </STRING>
+						<REFERENCE animacy="INANIMATE" entity="75" gender="MALE" mentionid="75" mentiontype="PROPER" number="SINGULAR"> May 6, 1945 </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<REFERENCE animacy="INANIMATE" entity="76" gender="UNKNOWN" mentionid="76" mentiontype="PROPER" number="SINGULAR"> The three </REFERENCE>
+		<STRING> had not since </STRING>
+		<REFERENCE animacy="INANIMATE" entity="77" gender="UNKNOWN" mentionid="77" mentiontype="NOMINAL" number="UNKNOWN">
+			<STRING> each other since </STRING>
+			<REFERENCE animacy="INANIMATE" entity="67" gender="UNKNOWN" mentionid="78" mentiontype="PROPER" number="SINGULAR"> that day </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<REFERENCE animacy="INANIMATE" entity="81" gender="NEUTRAL" mentionid="81" mentiontype="NOMINAL" number="SINGULAR"> The reunion </REFERENCE>
+		<STRING> was arranged by </STRING>
+		<REFERENCE animacy="ANIMATE" entity="82" gender="FEMALE" mentionid="82" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="83" gender="FEMALE" mentionid="83" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="3" gender="FEMALE" mentionid="79" mentiontype="PROPER" number="SINGULAR"> Dunst's </REFERENCE>
+				<STRING> wife </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="83" gender="FEMALE" mentionid="80" mentiontype="PROPER" number="SINGULAR"> Estelle </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<STRING>`` Thank </STRING>
+		<REFERENCE animacy="ANIMATE" entity="86" gender="UNKNOWN" mentionid="86" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> for saving </STRING>
+		<REFERENCE animacy="INANIMATE" entity="87" gender="UNKNOWN" mentionid="87" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="88" gender="UNKNOWN" mentionid="88" mentiontype="PRONOMINAL" number="PLURAL"> our </REFERENCE>
+			<STRING> lives </STRING>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="89" gender="MALE" mentionid="89" mentiontype="PROPER" number="SINGULAR"> God </REFERENCE>
+		<STRING> bless </STRING>
+		<REFERENCE animacy="ANIMATE" entity="86" gender="UNKNOWN" mentionid="90" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING>,'' </STRING>
+		<REFERENCE animacy="ANIMATE" entity="3" gender="FEMALE" mentionid="84" mentiontype="PROPER" number="SINGULAR"> Dunst </REFERENCE>
+		<STRING> said as </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="91" gender="UNKNOWN" mentionid="91" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="86" gender="MALE" mentionid="92" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="ANIMATE" entity="63" gender="UNKNOWN" mentionid="85" mentiontype="PROPER" number="SINGULAR"> Persinger </REFERENCE>
+		</REFERENCE>
+		<STRING> embraced, with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="93" gender="UNKNOWN" mentionid="93" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> tears in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="94" gender="UNKNOWN" mentionid="94" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="91" gender="UNKNOWN" mentionid="95" mentiontype="PRONOMINAL" number="PLURAL"> their </REFERENCE>
+				<STRING> eyes </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<REFERENCE animacy="ANIMATE" entity="63" gender="UNKNOWN" mentionid="101" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="63" gender="UNKNOWN" mentionid="102" mentiontype="PROPER" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="63" gender="UNKNOWN" mentionid="96" mentiontype="PROPER" number="SINGULAR"> Persinger </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="97" gender="UNKNOWN" mentionid="97" mentiontype="PROPER" number="SINGULAR"> 82 </REFERENCE>
+			</REFERENCE>
+			<STRING>, of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="103" gender="NEUTRAL" mentionid="103" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the </STRING>
+				<REFERENCE animacy="INANIMATE" entity="98" gender="NEUTRAL" mentionid="98" mentiontype="PROPER" number="SINGULAR"> Rockford </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="99" gender="UNKNOWN" mentionid="99" mentiontype="PROPER" number="SINGULAR"> Ill. </REFERENCE>
+				<STRING>, area </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> said even </STRING>
+		<REFERENCE animacy="ANIMATE" entity="104" gender="UNKNOWN" mentionid="104" mentiontype="NOMINAL" number="PLURAL"> hardened combat veterans </REFERENCE>
+		<STRING> were shocked by </STRING>
+		<REFERENCE animacy="INANIMATE" entity="105" gender="UNKNOWN" mentionid="105" mentiontype="LIST" number="PLURAL">
+			<STRING> the stench and horror </STRING>
+			<REFERENCE animacy="ANIMATE" entity="104" gender="UNKNOWN" mentionid="106" mentiontype="PRONOMINAL" number="PLURAL"> they </REFERENCE>
+			<STRING> encountered at </STRING>
+			<REFERENCE animacy="INANIMATE" entity="107" gender="UNKNOWN" mentionid="107" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="108" mentiontype="NOMINAL" number="SINGULAR"> the camp </REFERENCE>
+				<STRING>, where </STRING>
+				<REFERENCE animacy="ANIMATE" entity="109" gender="UNKNOWN" mentionid="109" mentiontype="NOMINAL" number="PLURAL">
+					<REFERENCE animacy="ANIMATE" entity="110" gender="UNKNOWN" mentionid="110" mentiontype="NOMINAL" number="PLURAL">
+						<STRING> about </STRING>
+						<REFERENCE animacy="INANIMATE" entity="100" gender="UNKNOWN" mentionid="100" mentiontype="PROPER" number="SINGULAR"> 20,000 </REFERENCE>
+						<STRING> prisoners </STRING>
+					</REFERENCE>
+					<STRING>, many of </STRING>
+					<REFERENCE animacy="ANIMATE" entity="110" gender="UNKNOWN" mentionid="111" mentiontype="PRONOMINAL" number="PLURAL"> them </REFERENCE>
+					<STRING> used as </STRING>
+					<REFERENCE animacy="INANIMATE" entity="112" gender="NEUTRAL" mentionid="112" mentiontype="NOMINAL" number="SINGULAR"> slave labor </REFERENCE>
+				</REFERENCE>
+				<STRING>, were housed in filth </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+</TEXT>

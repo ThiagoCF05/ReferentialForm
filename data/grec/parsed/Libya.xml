@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<TEXT ID="1305">
+	<TITLE>Libya</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Libya</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Arabic: ليبيا], [Arabic-Latin transliteration: Lībiyā]; Amazigh: ), officially the Great Socialist People's Libyan Arab Jamahiriya ([Arabic: الجماهيرية العربية الليبية الشعبية الإشتراكية العظمى], [Arabic-Latin transliteration: Al-Jamāhīriyyah al-Arabiyyah al-Lībiyyah aš-Šabiyyah al-Ištirākiyyah al-Uthmā]), is a country in North Africa. Bordering the Mediterranean Sea to the north, </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Libya</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies between Egypt to the east, Sudan to the southeast, Chad and Niger to the south, and Algeria and Tunisia to the west. With an area of almost 1.8 million square kilometres (700,000 sq mi), 90% of which is desert, </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Libya</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the fourth largest country in Africa by area, and the 17th largest in the world. The capital, Tripoli, is home to 1.7 million of </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Libya's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> 5.7 million people. The three traditional parts of </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are Tripolitania, the Fezzan and Cyrenaica.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The name &quot;Libya&quot; is derived from the Egyptian term &quot;Libu&quot;, which refers to one of the the tribes Berber peoples living west of the Nile. In Greek this became &quot;Libya&quot;, although in ancient Greece the term had a broader meaning, encompassing all of North Africa west of Egypt, and sometimes referring to the entire continent of Africa.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Libya</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has one of the highest Gross Domestic Products per person in Africa, largely because of </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> great oil reserves.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is led by Colonel Muammar al-Gaddafi, whose foreign policy has often brought him into conflict with the West.</STRING>
+	</PARAGRAPH>
+</TEXT>

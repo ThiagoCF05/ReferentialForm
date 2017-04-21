@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TEXT ID="1276">
+	<TITLE>Greenland</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Greenland</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Greenlandic: Kalaallit Nunaat, meaning &quot;Land of the Kalaallit (Greenlanders)&quot;; Danish: Grønland, meaning &quot;Greenland&quot;) is a self-governed Danish territory.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Though geographically and ethnically an Arctic island nation associated with the continent of North America, politically and historically  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Greenland</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is closely tied to Europe. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

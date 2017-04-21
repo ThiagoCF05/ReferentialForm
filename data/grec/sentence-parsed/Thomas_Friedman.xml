@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TEXT ID="979">
+	<TITLE>Thomas Friedman</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Thomas Loren Friedman</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, OBE (born July 20, 1953) is an American journalist, columnist, author and three-time winner of the Pulitzer Prize, currently working as an op-ed contributor for The New York Times.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> columns, concentrating mainly on foreign affairs, appear on Wednesdays and Fridays.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Friedman</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known for supporting a compromise peace between Israel and the Palestinians, modernization of the Arab world, environmental issues and globalization, while sometimes remarking on their potential pitfalls to the United States economy and society.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> books address various aspects of international politics and major shifts in the future world order, from a centrist, liberal perspective on the American political spectrum.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Friedman</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the recipient of the 2004 Overseas Press Club Award for lifetime achievement and  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been named Order of the British Empire by Queen Elizabeth II. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

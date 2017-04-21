@@ -1,0 +1,302 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="1" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> have had </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="2" mentiontype="NOMINAL" number="SINGULAR"> this phone </REFERENCE>
+		<STRING> for about </STRING>
+		<REFERENCE animacy="INANIMATE" entity="3" gender="UNKNOWN" mentionid="3" mentiontype="PROPER" number="SINGULAR"> a month </REFERENCE>
+		<STRING> now. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<STRING> So far </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="4" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> has been </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="5" mentiontype="NOMINAL" number="SINGULAR"> a great quality piece of equipment </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="6" mentiontype="PRONOMINAL" number="SINGULAR"> It </REFERENCE>
+		<STRING> sounds good,- has long range,- includes </STRING>
+		<REFERENCE animacy="INANIMATE" entity="7" gender="UNKNOWN" mentionid="7" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> tons of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="8" gender="UNKNOWN" mentionid="8" mentiontype="NOMINAL" number="PLURAL"> features </REFERENCE>
+		</REFERENCE>
+		<STRING> and- is </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="9" gender="NEUTRAL" mentionid="9" mentiontype="NOMINAL" number="UNKNOWN"> Wi-Fi </REFERENCE>
+		<STRING> friendly. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<STRING> First </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="11" mentiontype="NOMINAL" number="SINGULAR"> the phone </REFERENCE>
+		<STRING> sounds great. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<REFERENCE animacy="INANIMATE" entity="10" gender="NEUTRAL" mentionid="12" mentiontype="PRONOMINAL" number="SINGULAR"> It </REFERENCE>
+		<STRING> is crisp and clear, even at </STRING>
+		<REFERENCE animacy="INANIMATE" entity="13" gender="UNKNOWN" mentionid="13" mentiontype="NOMINAL" number="PLURAL"> long distances </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="INANIMATE" entity="10" gender="NEUTRAL" mentionid="14" mentiontype="PRONOMINAL" number="SINGULAR"> It </REFERENCE>
+		<STRING> has speakerphone both on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="15" gender="UNKNOWN" mentionid="15" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="16" mentiontype="NOMINAL" number="SINGULAR"> the handset </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="17" gender="NEUTRAL" mentionid="17" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the base station which is clear for </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="18" gender="UNKNOWN" mentionid="18" mentiontype="LIST" number="PLURAL">
+					<STRING> both </STRING>
+					<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="19" mentiontype="PRONOMINAL" number="SINGULAR"> myself </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE animacy="ANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="NOMINAL" number="PLURAL"> the people </REFERENCE>
+				</REFERENCE>
+				<STRING> I talk to </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="22" mentiontype="NOMINAL" number="SINGULAR"> The handset </REFERENCE>
+		<STRING> has </STRING>
+		<REFERENCE animacy="INANIMATE" entity="23" gender="NEUTRAL" mentionid="23" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a` booster' feature that </STRING>
+			<REFERENCE animacy="ANIMATE" entity="24" gender="UNKNOWN" mentionid="24" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+			<STRING> can flip on when </STRING>
+			<REFERENCE animacy="ANIMATE" entity="25" gender="UNKNOWN" mentionid="25" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+			<STRING> start going out of range </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="26" mentiontype="PRONOMINAL" number="SINGULAR"> It </REFERENCE>
+		<STRING> uses </STRING>
+		<REFERENCE animacy="INANIMATE" entity="27" gender="NEUTRAL" mentionid="27" mentiontype="NOMINAL" number="SINGULAR"> more battery power </REFERENCE>
+		<STRING>, but helps to keep </STRING>
+		<REFERENCE animacy="INANIMATE" entity="28" gender="NEUTRAL" mentionid="28" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="29" gender="UNKNOWN" mentionid="29" mentiontype="PRONOMINAL" number="UNKNOWN"> your </REFERENCE>
+			<STRING> signal strong when far away </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<REFERENCE animacy="INANIMATE" entity="31" gender="NEUTRAL" mentionid="31" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> The main reason </STRING>
+			<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="32" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+			<STRING> avoided </STRING>
+			<REFERENCE animacy="INANIMATE" entity="33" gender="UNKNOWN" mentionid="33" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="30" gender="UNKNOWN" mentionid="30" mentiontype="PROPER" number="SINGULAR"> 2.4 </REFERENCE>
+				<STRING> GHZ phones </STRING>
+			</REFERENCE>
+			<STRING> for so long </STRING>
+		</REFERENCE>
+		<STRING> was </STRING>
+		<REFERENCE animacy="INANIMATE" entity="31" gender="NEUTRAL" mentionid="34" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the interference with </STRING>
+			<REFERENCE animacy="INANIMATE" entity="35" gender="NEUTRAL" mentionid="35" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="36" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+				<STRING> Wi-Fi network </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<STRING> There have been </STRING>
+		<REFERENCE animacy="INANIMATE" entity="38" gender="UNKNOWN" mentionid="38" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> numerous stories where </STRING>
+			<REFERENCE animacy="ANIMATE" entity="20" gender="UNKNOWN" mentionid="39" mentiontype="NOMINAL" number="PLURAL"> people </REFERENCE>
+			<STRING> have invested </STRING>
+			<REFERENCE animacy="ANIMATE" entity="40" gender="UNKNOWN" mentionid="40" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a couple </STRING>
+				<REFERENCE animacy="INANIMATE" entity="37" gender="UNKNOWN" mentionid="37" mentiontype="PROPER" number="SINGULAR"> hundred </REFERENCE>
+			</REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="41" gender="NEUTRAL" mentionid="41" mentiontype="NOMINAL" number="SINGULAR"> a nice phone </REFERENCE>
+			<STRING> and then have to return </STRING>
+			<REFERENCE animacy="INANIMATE" entity="37" gender="NEUTRAL" mentionid="42" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+			<STRING> or throw </STRING>
+			<REFERENCE animacy="INANIMATE" entity="37" gender="NEUTRAL" mentionid="43" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+			<STRING> away because </STRING>
+			<REFERENCE animacy="INANIMATE" entity="37" gender="NEUTRAL" mentionid="44" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+			<STRING> shuts down </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="9" gender="NEUTRAL" mentionid="45" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="20" gender="UNKNOWN" mentionid="46" mentiontype="PRONOMINAL" number="PLURAL"> their </REFERENCE>
+				<STRING> Wi-Fi </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="47" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> got </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="48" mentiontype="NOMINAL" number="SINGULAR"> this phone </REFERENCE>
+		<STRING> from </STRING>
+		<REFERENCE animacy="ANIMATE" entity="49" gender="UNKNOWN" mentionid="49" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="50" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+			<STRING> parents </STRING>
+		</REFERENCE>
+		<STRING> as </STRING>
+		<REFERENCE animacy="INANIMATE" entity="51" gender="NEUTRAL" mentionid="51" mentiontype="NOMINAL" number="SINGULAR"> a gift </REFERENCE>
+		<STRING> and tried </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="52" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> out right next to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="53" gender="NEUTRAL" mentionid="53" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="54" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+			<STRING> wireless Powerbook </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="55" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> was able to talk on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="56" gender="UNKNOWN" mentionid="56" mentiontype="LIST" number="PLURAL">
+			<STRING> the phone and surf </STRING>
+			<REFERENCE animacy="INANIMATE" entity="57" gender="NEUTRAL" mentionid="57" mentiontype="NOMINAL" number="SINGULAR"> the net </REFERENCE>
+		</REFERENCE>
+		<STRING> with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="58" gender="UNKNOWN" mentionid="58" mentiontype="NOMINAL" number="PLURAL"> no problems </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="13">
+		<REFERENCE animacy="INANIMATE" entity="53" gender="NEUTRAL" mentionid="59" mentiontype="NOMINAL" number="SINGULAR"> The powerbook </REFERENCE>
+		<STRING> still maintained full signal. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="14">
+		<REFERENCE animacy="INANIMATE" entity="60" gender="NEUTRAL" mentionid="60" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> This phone </STRING>
+			<REFERENCE animacy="INANIMATE" entity="61" gender="UNKNOWN" mentionid="61" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> also </STRING>
+				<REFERENCE animacy="INANIMATE" entity="62" gender="UNKNOWN" mentionid="62" mentiontype="NOMINAL" number="PLURAL">
+					<STRING> sports </STRING>
+					<REFERENCE animacy="INANIMATE" entity="63" gender="NEUTRAL" mentionid="63" mentiontype="NOMINAL" number="SINGULAR"> a lot </REFERENCE>
+					<STRING> of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="8" gender="UNKNOWN" mentionid="64" mentiontype="NOMINAL" number="PLURAL"> features </REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="65" gender="UNKNOWN" mentionid="65" mentiontype="NOMINAL" number="UNKNOWN">
+					<STRING> maybe too many for </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="66" gender="UNKNOWN" mentionid="66" mentiontype="NOMINAL" number="UNKNOWN"> some </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</REFERENCE>
+	</SENTENCE>
+	<SENTENCE ID="15">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="67" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> am </STRING>
+		<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="68" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a gadget geek so </STRING>
+			<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="69" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+			<STRING> am enjoying </STRING>
+			<REFERENCE animacy="INANIMATE" entity="60" gender="NEUTRAL" mentionid="70" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="16">
+		<REFERENCE animacy="INANIMATE" entity="72" gender="NEUTRAL" mentionid="72" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="73" mentiontype="PRONOMINAL" number="SINGULAR"> My </REFERENCE>
+			<STRING> favorite feature </STRING>
+		</REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="74" gender="UNKNOWN" mentionid="74" mentiontype="LIST" number="PLURAL">
+			<STRING> the </STRING>
+			<REFERENCE animacy="INANIMATE" entity="71" gender="UNKNOWN" mentionid="71" mentiontype="PROPER" number="SINGULAR"> 3 </REFERENCE>
+			<STRING> mailboxes -LRB- so </STRING>
+			<REFERENCE animacy="ANIMATE" entity="75" gender="UNKNOWN" mentionid="75" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="76" gender="MALE" mentionid="76" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="77" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+					<STRING> roommate </STRING>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="78" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+			</REFERENCE>
+			<STRING> can have </STRING>
+			<REFERENCE animacy="INANIMATE" entity="79" gender="UNKNOWN" mentionid="79" mentiontype="NOMINAL" number="PLURAL"> separate boxes </REFERENCE>
+			<STRING> -RRB- </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="17">
+		<REFERENCE animacy="ANIMATE" entity="80" gender="UNKNOWN" mentionid="80" mentiontype="PRONOMINAL" number="UNKNOWN"> You </REFERENCE>
+		<STRING> can also transfer </STRING>
+		<REFERENCE animacy="ANIMATE" entity="81" gender="MALE" mentionid="81" mentiontype="NOMINAL" number="SINGULAR"> a caller </REFERENCE>
+		<STRING> to voicemail instead of taking </STRING>
+		<REFERENCE animacy="INANIMATE" entity="82" gender="UNKNOWN" mentionid="82" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a message for </STRING>
+			<REFERENCE animacy="ANIMATE" entity="83" gender="MALE" mentionid="83" mentiontype="NOMINAL" number="SINGULAR"> the other person </REFERENCE>
+		</REFERENCE>
+		<STRING>! </STRING>
+	</SENTENCE>
+	<SENTENCE ID="18">
+		<REFERENCE animacy="INANIMATE" entity="84" gender="UNKNOWN" mentionid="84" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> No more pads of paper next to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="85" mentiontype="NOMINAL" number="SINGULAR"> the phone </REFERENCE>
+			<STRING>. </STRING>
+		</REFERENCE>
+	</SENTENCE>
+	<SENTENCE ID="19">
+		<REFERENCE animacy="INANIMATE" entity="86" gender="MALE" mentionid="86" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> The major con to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="87" mentiontype="NOMINAL" number="SINGULAR"> this phone </REFERENCE>
+		</REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="88" gender="NEUTRAL" mentionid="88" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the total dependency on </STRING>
+			<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="89" mentiontype="NOMINAL" number="SINGULAR"> the handset </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="20">
+		<STRING> There is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="90" gender="UNKNOWN" mentionid="90" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> no intuitive LCD on </STRING>
+			<REFERENCE animacy="INANIMATE" entity="17" gender="NEUTRAL" mentionid="91" mentiontype="NOMINAL" number="SINGULAR"> the base station </REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="92" gender="UNKNOWN" mentionid="92" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> just a number readout for </STRING>
+			<REFERENCE animacy="INANIMATE" entity="93" gender="UNKNOWN" mentionid="93" mentiontype="NOMINAL" number="PLURAL"> the messages </REFERENCE>
+		</REFERENCE>
+		<STRING> received. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="21">
+		<REFERENCE animacy="ANIMATE" entity="94" gender="UNKNOWN" mentionid="94" mentiontype="PRONOMINAL" number="UNKNOWN"> You </REFERENCE>
+		<STRING> have to have </STRING>
+		<REFERENCE animacy="INANIMATE" entity="95" gender="NEUTRAL" mentionid="95" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the handset to do all programming and adjustments to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="96" gender="UNKNOWN" mentionid="96" mentiontype="NOMINAL" number="PLURAL"> the phones features </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="22">
+		<STRING> If it </STRING>
+		<REFERENCE animacy="INANIMATE" entity="98" gender="NEUTRAL" mentionid="98" mentiontype="NOMINAL" number="UNKNOWN"> isnt charged </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="99" gender="UNKNOWN" mentionid="99" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="100" gender="UNKNOWN" mentionid="100" mentiontype="PRONOMINAL" number="UNKNOWN"> your </REFERENCE>
+			<STRING> out of luck </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="23">
+		<REFERENCE animacy="INANIMATE" entity="101" gender="NEUTRAL" mentionid="101" mentiontype="NOMINAL" number="SINGULAR"> The address book </REFERENCE>
+		<STRING> is also hard to get to, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="102" gender="UNKNOWN" mentionid="102" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> have to click </STRING>
+		<REFERENCE animacy="INANIMATE" entity="103" gender="UNKNOWN" mentionid="103" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="104" gender="UNKNOWN" mentionid="104" mentiontype="NOMINAL" number="SINGULAR"> the down arrow </REFERENCE>
+			<STRING>, then side arrow </STRING>
+		</REFERENCE>
+		<STRING>, and then scroll through </STRING>
+		<REFERENCE animacy="INANIMATE" entity="105" gender="UNKNOWN" mentionid="105" mentiontype="NOMINAL" number="PLURAL"> the names </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="24">
+		<STRING> It should be </STRING>
+		<REFERENCE animacy="INANIMATE" entity="106" gender="MALE" mentionid="106" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a single button click to get to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="101" gender="NEUTRAL" mentionid="107" mentiontype="NOMINAL" number="SINGULAR"> the address book </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+</TEXT>

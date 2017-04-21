@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1842">
+	<TITLE>Selenga</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Selenga</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> or Selenge (Russian: Селенга́) is a river in Mongolia and Russia. </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> rises in the Khangay mountains under the name of Ider, and </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> flows into Lake Baikal. </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> length is 1024 km. </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Selenga</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the headwater of the Yenisei-Angara River.</STRING>
+	</PARAGRAPH>
+</TEXT>

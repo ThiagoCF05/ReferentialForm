@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="949">
+	<TITLE>Cyprus</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cyprus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Greek: Κρπρος, Kýpros]; [Turkish: Kıbrıs]), officially the Republic of Cyprus ([Greek: Κυπριακή Δημοκρατία, Kypriakí Dhimokratía]; [Turkish: Kıbrıs Cumhuriyeti]), is a Eurasian island nation in the eastern part of the Mediterranean Sea south of the Anatolian peninsula (Asia Minor) or modern-day Turkey. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the third largest island in the Mediterranean Sea. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Republic of Cyprus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is divided into six districts : Lefkosia (the capital), Ammochostos, Keryneia, Larnaka, Lemesos, and Pafos. A former British colony, </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Republic of Cyprus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> gained independence in 1960 while the United Kingdom retained two Sovereign Base Areas. The north of </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the island</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been under Turkish military occupation since 1974 when a large-scale Turkish invasion took place, in response to an Athens engineered coup aimed uniting </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the island</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> with Greece and resulting in the displacement of thousands of Greek and Turkish Cypriots from the north and south respectively. This led to the subsequent establishment of a separatist regime to govern the occupied area which currently styles itself the Turkish Republic of Northern Cyprus. It is separated from the south by the United Nations-controlled Green Line and is only recognized by Turkey. </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Republic of Cyprus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been a member state of the European Union since 1 May 2004.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TEXT ID="574">
+	<TITLE>Mount Vancouver</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Vancouver</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the eighth highest mountain in Canada and  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in Kluane National Park and Reserve on the Canada-US border.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Vancouver</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has three summits: north, middle and south with middle being the lowest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The south summit borders Canada and the United States and is known as Good Neighbor Peak.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>While conventional wisdom indicates that the north summit is the highest, discrepancies in topographic maps of the area muddle the question.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Older Canadian maps indicate that north is the highest but newer US maps based on GPS, show the south summit higher.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>However, the US maps do not show the north summit. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named by W. H. Dall in 1874 after George Vancouver, who explored the southeast coast of Alaska from 1792 to 1794. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

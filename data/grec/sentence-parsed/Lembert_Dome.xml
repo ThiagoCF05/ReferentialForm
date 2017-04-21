@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TEXT ID="282">
+	<TITLE>Lembert Dome</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lembert Dome</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a granite dome in Yosemite National Park, California, USA.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lembert Dome</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> soars 800 feet (240 m) above Tuolumne Meadows and the Tuolumne River and  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can be hiked starting at the Tioga Road in the heart of Tuolumne Meadows, 8 miles west of the Tioga Pass Entrance to Yosemite National Park. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lembert Dome</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named after John Baptist Lembert, a homesteader in Tuolumne Meadows . </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Rock climbers can scale the face from the parking lot just off the Tioga Road, but hikers can simply walk up the back side or take the challenging steeper trek up the face starting from just east of the parking lot.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Triumphant climbers have sometimes been disappointed to see children and infants at the top, with their families on a hike. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

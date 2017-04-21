@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="394">
+	<TITLE>Mount Dampier</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Dampier</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Rakiroa in Māori) is New Zealand's third highest mountain, rising to 3,440 m (11,286 ft).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Southern Alps, between Mount Hicks and Aoraki/Mount Cook.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is often traversed by climbers on route to the North ridge of Mount Cook. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

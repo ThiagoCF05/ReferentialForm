@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TEXT ID="6">
+	<TITLE>Aguja Saint Exupery</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Aguja Saint Exupery</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain spear ('aguja') located near the Cerro Chaltén in the Los Glaciares National Park in Patagonia, Argentina. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is named in memory of Antoine de Saint Exupéry, the French writer and aviator who was director of the Aeroposta Argentina Company and pioneered postal flights in the Patagonia region between 1929 and 1931. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Aguja Saint Exupery</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> might not be as impressive as  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="7" SEMCAT="mountain" SENTENCE-POSITION="8" SENTENCE-RECENCY="7" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> taller neighbors Cerro Chaltén and the striking Cerro Torre, but due to the length of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="24" SENTENCE-RECENCY="16" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> climbing routes and the extreme weather conditions of the southern Andes,  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="36" SENTENCE-RECENCY="12" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shares the same big wall reputation as most Patagonian peaks.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="47" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Aguja Saint Exupery</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed in February 23, 1968 by Silvia Metzeltin, Gino Buscaini, Lino Condot, Walter Romano &amp; Silvano Sinigo, an Italian team of climbers who opened a route on  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="77" PARAGRAPH-RECENCY="30" SEMCAT="mountain" SENTENCE-POSITION="31" SENTENCE-RECENCY="30" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> East Pillar. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

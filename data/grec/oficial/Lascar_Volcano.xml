@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TEXT ID="278">
+	<TITLE>Lascar Volcano</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lascar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the most active volcano of the northern Chilean Andes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies east of the Salar de Atacama and immediately west of Aguas Calientes volcano.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Other volcanoes in the area include the Acamarachi and Chiliques, all of which form a spectacular backdrop for Laguna Lejía. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The andesitic-to-dacitic stratovolcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> contains six overlapping summit craters.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Prominent lava flows descend  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> NW flanks.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The largest eruption of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="18" PARAGRAPH-RECENCY="7" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lascar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> took place about 26,500 years ago, and following the eruption of the Tumbres scoria flow about 9000 years ago, activity shifted back to the eastern edifice, where three overlapping craters were formed.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Frequent small-to-moderate explosive eruptions have been recorded from  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="59" PARAGRAPH-RECENCY="41" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lascar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in historical time since the mid-19th century, along with periodic larger eruptions that produced ashfall hundreds of kilometers away from  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="80" PARAGRAPH-RECENCY="21" SEMCAT="mountain" SENTENCE-POSITION="30" SENTENCE-RECENCY="21" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>The largest historical eruption of  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="86" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lascar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> took place in 1993, producing pyroclastic flows to 8.5 km NW of the summit and ashfall in Buenos Aires. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

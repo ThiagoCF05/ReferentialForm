@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="450">
+	<TITLE>Mount Karthala</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Karthala</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an active volcano and the highest point of the Comoros at 2361 m above sea level. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the southernmost and largest of the two shield volcanoes forming Grande Comore island, the largest island in the nation of Comoros. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Karthala volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is notoriously active, having erupted more than 20 times since the 19th century. Frequent eruptions have shaped </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano’s</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> 3 by 4 km summit caldera, but the island has largely escaped broad destruction. Eruptions on April 17, 2005, and May 29, 2006 have ended a period of quiet.</STRING>
+	</PARAGRAPH>
+</TEXT>

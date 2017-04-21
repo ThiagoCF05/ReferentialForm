@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="771">
+	<TITLE>Mont Maudit</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mont Maudit</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (4,465 m) is a mountain in the Mont Blanc massif in France and Italy. Until the end of the 18th century, Mont Blanc and its satellite peaks were collectively known in French as the Montagne Maudite.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The first ascent of </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mont Maudit</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was by a British party comprising Henry Seymour Hoare and the lawyer/diplomat William Edward Davidson with guides Johann Jaun and Johann von Bergen on 12 September 1878. The route they took was via the south ridge, during an ascent of Mont Blanc by the Corridor route.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The southern side of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is considerably steeper than the gentle snow slopes of the northern side and features the well-known south-east or Frontier ridge (also known as the Kuffner ridge, D). This route was first climbed by Moritz von Kuffner with guides Alex­ander Burgener and Josef Furrer from 2–4 July 1887. George Mallory, in a party led by R. L. G. Irving, made the third ascent of the route in 1911. Ascents of the ridge start from the hut on the Col du Trident and take at least seven to eight hours.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in served by the following huts:* Refuge des Cosmiques (3,613 m, guarded February–October)* Abri Simond Bivouac (beside the Refuge des Cosmiques and open in winter when the Refuge is closed)* Rifugio Torino (3,322 m/3,375 m, 2 huts: a lower and older one and an upper, newer hut, connected by a tunnel)* Bivacco Lucia e Piero Ghiglione (3,690 m, guarded 20 June–20 September, also known as the Trident hut)* Bivacco Alberico e Brogna (3,679 m, also known as the Bivouac de la Fourche)</STRING>
+	</PARAGRAPH>
+</TEXT>

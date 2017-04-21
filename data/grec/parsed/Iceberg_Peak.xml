@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="225">
+	<TITLE>Iceberg Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Iceberg Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain located on Vancouver Island, British Columbia. Within the boundaries of Strathcona Provincial Park, </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies at the south end of Rees Ridge. Mount Celeste lies at the north end of this ridge.</STRING>
+	</PARAGRAPH>
+</TEXT>

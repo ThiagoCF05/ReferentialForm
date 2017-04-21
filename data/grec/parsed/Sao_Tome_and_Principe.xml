@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1365">
+	<TITLE>São Tomé and Príncipe</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">São Tomé and Príncipe</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (English pronunciation [IPA: [saʊ̯ tʰəˈmeɪ̯ ənd ˈpʰɹɪnsɪpɪ]], Portuguese pronunciation /[IPA: sɐ̃w̃ tu.'mɛ i 'pɾı̃.sɨ.p(ɨ)]/), officially the Democratic Republic of São Tomé and Príncipe, is an island nation in the Gulf of Guinea, off the western equatorial coast of Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> consists of two islands: São Tomé and Príncipe, located about 140 kilometres apart and about 250 and 225 kilometres respectively, off of the northwestern coast of Gabon. Both islands are part of an extinct volcanic mountain range. São Tomé, the sizable southern island, is situated almost exactly on the equator. It is named after Saint Thomas by Portuguese explorers who discovered the island on his feast day.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">São Tomé and Príncipe</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the second smallest (in terms of population) African country (larger only than Seychelles). </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the smallest country in the world that is not a former US trusteeship, a former UK dependency, or a European microstate. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the smallest Portuguese-speaking country in the world.</STRING>
+	</PARAGRAPH>
+</TEXT>

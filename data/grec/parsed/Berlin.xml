@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<TEXT ID="1017">
+	<TITLE>Berlin</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Berlin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the capital city and one of the sixteen federal states of Germany. With a population of 3.4 million in </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> city limits, </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Berlin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the country's largest city, and the second most populous city in the European Union.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Berlin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an influential center in European politics, culture and science. </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> serves as an important hub of continental transportation and </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is home to renowned universities, research faculties, and museums. </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Berlin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an international tourist destination known for </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> festivals, contemporary architecture, nightlife, and avant-garde arts.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The rapidly evolving metropolis</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a center for the creative industries, and </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is recognized for </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> diverse range of convention venues, sport events, and media outlets. Being home to people from over 180 nations, </STRING>
+		<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Berlin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a magnet for individuals who are attracted by </STRING>
+		<REFERENCE ID="13" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> liberal lifestyle, urban eclecticism, and artistic freedom.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>First documented in the 13th century, </STRING>
+		<REFERENCE ID="14" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Berlin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became the capital of the Kingdom of Prussia in 1701 and of the German Empire in 1871. </STRING>
+		<REFERENCE ID="15" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> remained so during periods of the Weimar Republic and the Third Reich until 1945. After World War II, </STRING>
+		<REFERENCE ID="16" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was divided. East Berlin became the capital of the GDR (East Germany), while West Berlin remained a West German enclave surrounded by the Berlin Wall from 1961-1989. Following reunification in 1990, </STRING>
+		<REFERENCE ID="17" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> again became the capital of Germany.</STRING>
+	</PARAGRAPH>
+</TEXT>

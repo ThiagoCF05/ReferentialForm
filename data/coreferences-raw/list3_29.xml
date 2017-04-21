@@ -1,0 +1,311 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="INANIMATE" entity="4" gender="NEUTRAL" mentionid="4" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="1" mentiontype="PROPER" number="SINGULAR"> Indonesia </REFERENCE>
+			<STRING>, officially </STRING>
+			<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="5" mentiontype="PROPER" number="SINGULAR">
+				<STRING> the Republic of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="6" gender="NEUTRAL" mentionid="6" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Indonesia -LRB- </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="7" gender="MALE" mentionid="7" mentiontype="PROPER" number="SINGULAR">
+						<STRING> Indonesian: </STRING>
+						<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="8" mentiontype="PROPER" number="SINGULAR"> Republik Indonesia </REFERENCE>
+					</REFERENCE>
+					<STRING> -RRB- </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="9" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a nation of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="10" gender="UNKNOWN" mentionid="10" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="2" gender="UNKNOWN" mentionid="2" mentiontype="PROPER" number="SINGULAR"> 18,110 </REFERENCE>
+				<STRING> islands in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="11" gender="NEUTRAL" mentionid="11" mentiontype="PROPER" number="SINGULAR">
+					<STRING> the </STRING>
+					<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="3" mentiontype="PROPER" number="SINGULAR"> South East Asian Archipelago </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, making it </STRING>
+		<REFERENCE animacy="INANIMATE" entity="13" gender="NEUTRAL" mentionid="13" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="14" gender="NEUTRAL" mentionid="14" mentiontype="NOMINAL" number="SINGULAR"> the world's </REFERENCE>
+			<STRING> largest archipelagic state </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="16" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="17" mentiontype="PRONOMINAL" number="SINGULAR"> Its </REFERENCE>
+			<STRING> capital </STRING>
+		</REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="15" mentiontype="PROPER" number="SINGULAR"> Jakarta </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="18" mentiontype="PROPER" number="SINGULAR"> Indonesia </REFERENCE>
+		<STRING> is bordered by </STRING>
+		<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="22" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> the nations of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="23" gender="UNKNOWN" mentionid="23" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="19" gender="NEUTRAL" mentionid="19" mentiontype="PROPER" number="SINGULAR"> Papua New Guinea </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="PROPER" number="SINGULAR"> East Timor </REFERENCE>
+				<STRING>, and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="21" gender="NEUTRAL" mentionid="21" mentiontype="PROPER" number="SINGULAR"> Malaysia </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<STRING> With </STRING>
+		<REFERENCE animacy="INANIMATE" entity="26" gender="NEUTRAL" mentionid="26" mentiontype="NOMINAL" number="SINGULAR"> a population of over 200 million </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="26" gender="NEUTRAL" mentionid="27" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="28" gender="UNKNOWN" mentionid="28" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="26" gender="NEUTRAL" mentionid="29" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="14" gender="NEUTRAL" mentionid="30" mentiontype="NOMINAL" number="SINGULAR"> the world's </REFERENCE>
+				<STRING> fourth most populous country </STRING>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="31" gender="NEUTRAL" mentionid="31" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the most populous nation with </STRING>
+				<REFERENCE animacy="ANIMATE" entity="32" gender="NEUTRAL" mentionid="32" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> a majority of </STRING>
+					<REFERENCE animacy="ANIMATE" entity="25" gender="NEUTRAL" mentionid="25" mentiontype="PROPER" number="SINGULAR"> Muslims </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<REFERENCE animacy="INANIMATE" entity="34" gender="NEUTRAL" mentionid="34" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="35" gender="NEUTRAL" mentionid="35" mentiontype="PROPER" number="SINGULAR"> The Indonesian Archipelago </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="35" gender="UNKNOWN" mentionid="36" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> home of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="33" gender="UNKNOWN" mentionid="37" mentiontype="PROPER" number="SINGULAR"> the Spice </REFERENCE>
+				<STRING> Islands </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, has been </STRING>
+		<REFERENCE animacy="INANIMATE" entity="35" gender="NEUTRAL" mentionid="38" mentiontype="NOMINAL" number="SINGULAR"> an important trade destination </REFERENCE>
+		<STRING> since </STRING>
+		<REFERENCE animacy="ANIMATE" entity="39" gender="UNKNOWN" mentionid="39" mentiontype="NOMINAL" number="PLURAL"> early Chinese sailors </REFERENCE>
+		<STRING> began to find </STRING>
+		<REFERENCE animacy="INANIMATE" entity="40" gender="NEUTRAL" mentionid="40" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> profit in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="41" gender="NEUTRAL" mentionid="41" mentiontype="NOMINAL" number="SINGULAR"> the spice trade </REFERENCE>
+		</REFERENCE>
+		<STRING> during </STRING>
+		<REFERENCE animacy="INANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="NOMINAL" number="PLURAL"> ancient times </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="INANIMATE" entity="44" gender="UNKNOWN" mentionid="44" mentiontype="NOMINAL" number="UNKNOWN">
+			<STRING> Much of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="45" gender="NEUTRAL" mentionid="45" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="43" mentiontype="PROPER" number="SINGULAR"> Indonesia's </REFERENCE>
+				<STRING> history </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> has been influenced by </STRING>
+		<REFERENCE animacy="INANIMATE" entity="46" gender="UNKNOWN" mentionid="46" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> the many foreign powers that have been drawn to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="35" gender="NEUTRAL" mentionid="47" mentiontype="NOMINAL" number="SINGULAR"> the archipelago </REFERENCE>
+			<STRING> by </STRING>
+			<REFERENCE animacy="INANIMATE" entity="48" gender="NEUTRAL" mentionid="48" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="35" gender="UNKNOWN" mentionid="49" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+				<STRING> wealth of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="50" gender="UNKNOWN" mentionid="50" mentiontype="NOMINAL" number="PLURAL"> natural resources </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<REFERENCE animacy="UNKNOWN" entity="56" gender="NEUTRAL" mentionid="56" mentiontype="NOMINAL" number="UNKNOWN"> These </REFERENCE>
+		<STRING> have included </STRING>
+		<REFERENCE animacy="ANIMATE" entity="57" gender="UNKNOWN" mentionid="57" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="58" gender="UNKNOWN" mentionid="58" mentiontype="LIST" number="PLURAL">
+				<STRING> Classical </STRING>
+				<REFERENCE animacy="ANIMATE" entity="59" gender="UNKNOWN" mentionid="59" mentiontype="LIST" number="PLURAL">
+					<STRING> Hindus and </STRING>
+					<REFERENCE animacy="ANIMATE" entity="52" gender="NEUTRAL" mentionid="52" mentiontype="PROPER" number="SINGULAR"> Buddhists </REFERENCE>
+					<STRING> from </STRING>
+					<REFERENCE animacy="INANIMATE" entity="53" gender="NEUTRAL" mentionid="53" mentiontype="PROPER" number="SINGULAR"> India </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="58" gender="UNKNOWN" mentionid="60" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="54" gender="MALE" mentionid="54" mentiontype="PROPER" number="SINGULAR"> Muslim </REFERENCE>
+				<STRING> traders in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="61" gender="UNKNOWN" mentionid="61" mentiontype="NOMINAL" number="PLURAL"> medieval times </REFERENCE>
+			</REFERENCE>
+			<STRING>, and Europeans </STRING>
+		</REFERENCE>
+		<STRING> during </STRING>
+		<REFERENCE animacy="INANIMATE" entity="62" gender="UNKNOWN" mentionid="62" mentiontype="PROPER" number="SINGULAR">
+			<STRING> the Age of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="63" gender="NEUTRAL" mentionid="63" mentiontype="PROPER" number="SINGULAR">
+				<STRING> Exploration, who fought for </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="64" gender="UNKNOWN" mentionid="64" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> monopolization of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="41" gender="NEUTRAL" mentionid="65" mentiontype="NOMINAL" number="SINGULAR"> the spice trade </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="66" mentiontype="PROPER" number="SINGULAR"> Indonesia </REFERENCE>
+		<STRING> was colonized by </STRING>
+		<REFERENCE animacy="ANIMATE" entity="67" gender="NEUTRAL" mentionid="67" mentiontype="PROPER" number="SINGULAR">
+			<STRING> the Dutch for </STRING>
+			<REFERENCE animacy="INANIMATE" entity="68" gender="UNKNOWN" mentionid="68" mentiontype="PROPER" number="SINGULAR"> over three centuries </REFERENCE>
+		</REFERENCE>
+		<STRING>; however, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="31" gender="NEUTRAL" mentionid="69" mentiontype="NOMINAL" number="SINGULAR"> the nation </REFERENCE>
+		<STRING> declared </STRING>
+		<REFERENCE animacy="INANIMATE" entity="70" gender="NEUTRAL" mentionid="70" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="31" gender="UNKNOWN" mentionid="71" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+			<STRING> independence </STRING>
+		</REFERENCE>
+		<STRING> in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="72" gender="UNKNOWN" mentionid="72" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="73" gender="UNKNOWN" mentionid="73" mentiontype="PROPER" number="SINGULAR"> 1945 </REFERENCE>
+			<STRING>, which was internationally recognized </STRING>
+			<REFERENCE animacy="INANIMATE" entity="74" gender="UNKNOWN" mentionid="74" mentiontype="PROPER" number="SINGULAR"> four years </REFERENCE>
+			<STRING> later </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<STRING> Since </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="75" gender="UNKNOWN" mentionid="75" mentiontype="NOMINAL" number="UNKNOWN"> then </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="76" gender="NEUTRAL" mentionid="76" mentiontype="NOMINAL" number="SINGULAR"> the region </REFERENCE>
+		<STRING> has had </STRING>
+		<REFERENCE animacy="INANIMATE" entity="77" gender="NEUTRAL" mentionid="77" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="78" gender="NEUTRAL" mentionid="78" mentiontype="NOMINAL" number="SINGULAR"> a turbulent history </REFERENCE>
+			<STRING>, including political instability and corruption, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="79" gender="UNKNOWN" mentionid="79" mentiontype="NOMINAL" number="PLURAL"> periods of rapid economic growth </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="80" gender="UNKNOWN" mentionid="80" mentiontype="LIST" number="PLURAL">
+				<STRING> decline, environmental catastrophe, and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="81" gender="NEUTRAL" mentionid="81" mentiontype="NOMINAL" number="SINGULAR"> a recent democratization process </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="82" mentiontype="PROPER" number="SINGULAR"> Indonesia </REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="83" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a unitary state consisting of </STRING>
+			<REFERENCE animacy="ANIMATE" entity="84" gender="UNKNOWN" mentionid="84" mentiontype="LIST" number="PLURAL">
+				<STRING> numerous distinct ethnic, linguistic, and religious groups spread across </STRING>
+				<REFERENCE animacy="INANIMATE" entity="85" gender="UNKNOWN" mentionid="85" mentiontype="NOMINAL" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="86" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+					<STRING> numerous islands </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<REFERENCE animacy="INANIMATE" entity="89" gender="UNKNOWN" mentionid="89" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> The modern borders of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="87" mentiontype="PROPER" number="SINGULAR"> Indonesia </REFERENCE>
+		</REFERENCE>
+		<STRING> are based upon </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="90" gender="UNKNOWN" mentionid="90" mentiontype="NOMINAL" number="UNKNOWN">
+			<STRING> those of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="91" gender="NEUTRAL" mentionid="91" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the </STRING>
+				<REFERENCE animacy="INANIMATE" entity="88" gender="UNKNOWN" mentionid="88" mentiontype="PROPER" number="SINGULAR"> Dutch East Indies </REFERENCE>
+				<STRING> colony </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, rather than on any preconceived notion of unity. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<STRING> However, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="93" gender="NEUTRAL" mentionid="93" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a shared history of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="94" gender="UNKNOWN" mentionid="94" mentiontype="LIST" number="PLURAL">
+				<STRING> colonialism, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="95" gender="NEUTRAL" mentionid="95" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> rebellion against </STRING>
+					<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="96" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="97" gender="NEUTRAL" mentionid="97" mentiontype="NOMINAL" number="SINGULAR"> a national Indonesian language </REFERENCE>
+				<STRING>, and </STRING>
+				<REFERENCE animacy="ANIMATE" entity="98" gender="NEUTRAL" mentionid="98" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> a religious majority of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="99" gender="UNKNOWN" mentionid="99" mentiontype="NOMINAL" number="SINGULAR">
+						<REFERENCE animacy="UNKNOWN" entity="92" gender="UNKNOWN" mentionid="92" mentiontype="PROPER" number="SINGULAR"> Islam </REFERENCE>
+						<STRING> help </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> to define </STRING>
+		<REFERENCE animacy="INANIMATE" entity="100" gender="NEUTRAL" mentionid="100" mentiontype="PROPER" number="SINGULAR">
+			<STRING> Indonesia as </STRING>
+			<REFERENCE animacy="INANIMATE" entity="101" gender="NEUTRAL" mentionid="101" mentiontype="NOMINAL" number="SINGULAR"> a state </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="13">
+		<REFERENCE animacy="INANIMATE" entity="105" gender="UNKNOWN" mentionid="105" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="106" gender="UNKNOWN" mentionid="106" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="102" mentiontype="PROPER" number="SINGULAR"> Indonesia's </REFERENCE>
+				<STRING> national motto </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="106" gender="UNKNOWN" mentionid="107" mentiontype="NOMINAL" number="UNKNOWN">
+				<REFERENCE animacy="ANIMATE" entity="103" gender="UNKNOWN" mentionid="103" mentiontype="PROPER" number="SINGULAR"> Bhinneka </REFERENCE>
+				<STRING> tunggal ika -LRB- derived from </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="104" gender="UNKNOWN" mentionid="104" mentiontype="PROPER" number="SINGULAR"> Old Javanese </REFERENCE>
+				<STRING> for </STRING>
+				<REFERENCE animacy="INANIMATE" entity="108" gender="NEUTRAL" mentionid="108" mentiontype="NOMINAL" number="SINGULAR"> unity in diversity </REFERENCE>
+				<STRING> -RRB- </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, reflects </STRING>
+		<REFERENCE animacy="INANIMATE" entity="109" gender="UNKNOWN" mentionid="109" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="110" gender="NEUTRAL" mentionid="110" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the amalgamation of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="111" gender="UNKNOWN" mentionid="111" mentiontype="NOMINAL" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="26" gender="NEUTRAL" mentionid="112" mentiontype="NOMINAL" number="SINGULAR"> the country's </REFERENCE>
+					<STRING> myriad cultures </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="113" gender="UNKNOWN" mentionid="113" mentiontype="NOMINAL" number="PLURAL"> languages </REFERENCE>
+			<STRING>, and </STRING>
+			<REFERENCE animacy="ANIMATE" entity="84" gender="UNKNOWN" mentionid="114" mentiontype="NOMINAL" number="PLURAL"> ethnic groups </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="14">
+		<STRING> However, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="116" gender="UNKNOWN" mentionid="116" mentiontype="NOMINAL" number="PLURAL"> sectarian tensions </REFERENCE>
+		<STRING> have threatened political stability in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="117" gender="UNKNOWN" mentionid="117" mentiontype="NOMINAL" number="PLURAL"> some regions </REFERENCE>
+		<STRING>, leading to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="118" gender="UNKNOWN" mentionid="118" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="119" gender="UNKNOWN" mentionid="119" mentiontype="NOMINAL" number="PLURAL"> violent confrontations </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="120" gender="NEUTRAL" mentionid="120" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the secession of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="115" mentiontype="PROPER" number="SINGULAR"> East Timor </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+</TEXT>

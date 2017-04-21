@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TEXT ID="10">
+	<TITLE>Aiguille Verte</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Aiguille Verte</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (4,122 m) is a mountain in the Mont Blanc Massif in the French Alps. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed on 29 June 1865 by Edward Whymper, Christian Almer and Franz Biner, a fortnight before the fateful first ascent of the Matterhorn.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Whymper was unable to climb with his usual guide, Michel Croz, who had to wait for a client in Chamonix.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>As a result, Whymper hired the services of Christian Almer, who had been with Alfred Wills on the Wetterhorn in 1854.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Whymper describes the push for the summit: </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>At the top of the small gully [the eponymous Whymper couloir] we crossed over the intervening rocks into the large one.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>At last ice replaced snow, and we turned over to the rocks upon its left.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Charming rocks they were; granitic in texture, gritty, holding the nails well.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>At 9.45 we parted from them, and completed the ascent by a little ridge of snow which descended in the direction of the Aiguille du Moine.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING>At 10.15 we stood on the summit (13, 541 feet [sic]), and devoured our bread and cheese with a good appetite.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.6">
+			<STRING>E. Whymper, Scrambles amongst the Alps, 6th edition, London: John Murray, 1936, p. 284. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The second ascent was by Charles Hudson, E. S. Kennedy and Michel Croz via the Moine ridge. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

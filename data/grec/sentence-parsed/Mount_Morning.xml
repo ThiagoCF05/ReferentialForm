@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TEXT ID="493">
+	<TITLE>Mount Morning</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Morning</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a dome-shaped mountain standing WSW of Mount Discovery and east of Koettlitz Glacier in Victoria Land.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Discovered by the British National Antarctic Expedition (1901-04) which named  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> for the Morning, relief ship to the expedition. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

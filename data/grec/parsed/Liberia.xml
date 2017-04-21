@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1304">
+	<TITLE>Liberia</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Liberia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Republic of Liberia, is a country on the west coast of Africa, bordered by Sierra Leone, Guinea, and Côte d'Ivoire. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Liberia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, which means &quot;Land of the Free,&quot; was founded as an independent nation by free-born and formerly enslaved African Americans. Recently </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has witnessed two civil wars, the Liberian Civil War (1989-1996), and the Second Liberian Civil War (1999-2003), that have displaced hundreds of thousands and destroyed </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> economy.</STRING>
+	</PARAGRAPH>
+</TEXT>

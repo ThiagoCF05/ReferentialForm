@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEXT ID="1367">
+	<TITLE>Scattered islands in the Indian Ocean</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Scattered islands in the Indian Ocean</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (French: Îles Éparses or Îles éparses de l'océan indien) comprise four small coral islands and an atoll in the Indian Ocean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">They</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> have no permanent population.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Three of the islands, Glorieuses, Juan de Nova and Europa, as well as the Bassas da India atoll lie in the Mozambique Channel west of Madagascar, while the fourth island, Tromelin, is about 220 miles east of Madagascar.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Also in the Mozambique Channel is Banc du Geyser, not claimed by any nation until 1976 when it was annexed by Madagascar. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> have been classified as nature reserves.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">They</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> support meteorological stations, except Bassas da India.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The meteorological stations on the Glorioso Islands, Juan de Nova and Europa Island are automated.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The station on Tromelin island in particular provides warning of cyclones threatening Madagascar, Réunion or Mauritius.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>Each of  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, except Bassas da India has an airstrip of more than 1,000 metres.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<STRING>Mauritius, the Comoro Islands and Madagascar dispute France's sovereignty over  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.7">
+			<STRING>Mauritius claims Tromelin, the Comoro Islands claim the Glorioso Islands, and Madagascar the remaining islands. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

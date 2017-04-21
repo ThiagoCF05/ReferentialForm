@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TEXT ID="351">
+	<TITLE>Mount Baker</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Baker</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (elevation 10,778 feet, 3,285 m) is a glaciated andesitic stratovolcano in the Cascade Volcanic Arc and the Cascades of Washington State in the United States about due east of the city of Bellingham, Whatcom County. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also easily visible from much of Greater Victoria, Greater Vancouver and the Fraser Valley just across the Canadian border to the north, and especially from the communities of Mission and Abbotsford, both about 28 mi east of Vancouver, BC--as well as from some locations in Everett and even Seattle to the southwest. Local Native Americans call </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> &quot;Koma Kulshan,&quot; but the explorer George Vancouver named </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> for 3rd Lieutenant Joseph Baker of the HMS Discovery, who on April 30, 1792 became the first European to see </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>After Mount Rainier, </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Baker</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the most heavily glaciated of the Cascade volcanoes: the volume of snow and ice on </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Baker</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (0.43 cubic miles, 1.8 cubic kilometers) is greater than that of all the other Cascades volcanoes (except Rainier) combined. </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also one of the snowiest places in the world: in 1999, Mount Baker Ski Area, located on a subsidiary peak, set the world record for snowfall in a single season. (1,140 inches/95 feet/2,896 cm) .</STRING>
+	</PARAGRAPH>
+</TEXT>

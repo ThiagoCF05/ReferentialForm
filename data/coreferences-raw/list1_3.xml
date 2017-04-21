@@ -1,0 +1,252 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<STRING> After </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="MALE" mentionid="2" mentiontype="PROPER" number="SINGULAR">
+			<STRING> astounding Wall Street with </STRING>
+			<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="3" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="4" gender="UNKNOWN" mentionid="4" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+				<STRING> incredible growth </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="1" mentiontype="PROPER" number="UNKNOWN"> Google </REFERENCE>
+		<STRING> learned on Tuesday </STRING>
+		<REFERENCE animacy="INANIMATE" entity="6" gender="UNKNOWN" mentionid="6" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> the perils of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="7" gender="UNKNOWN" mentionid="7" mentiontype="NOMINAL" number="PLURAL"> high expectations </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<REFERENCE animacy="INANIMATE" entity="8" gender="NEUTRAL" mentionid="8" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> An earnings increase that fell shy of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="9" gender="UNKNOWN" mentionid="9" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="10" gender="UNKNOWN" mentionid="10" mentiontype="NOMINAL" number="PLURAL"> investors' </REFERENCE>
+				<STRING> hopes </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> sent </STRING>
+		<REFERENCE animacy="INANIMATE" entity="11" gender="UNKNOWN" mentionid="11" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="8" gender="UNKNOWN" mentionid="12" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+			<STRING> shares </STRING>
+		</REFERENCE>
+		<STRING> plummeting after </STRING>
+		<REFERENCE animacy="INANIMATE" entity="13" gender="NEUTRAL" mentionid="13" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the close of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="14" gender="NEUTRAL" mentionid="14" mentiontype="NOMINAL" number="SINGULAR"> the market </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="16" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="15" mentiontype="PROPER" number="UNKNOWN"> Google's </REFERENCE>
+			<STRING> stock </STRING>
+		</REFERENCE>
+		<STRING> fell almost 20 percent immediately after </STRING>
+		<REFERENCE animacy="INANIMATE" entity="17" gender="NEUTRAL" mentionid="17" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="18" gender="NEUTRAL" mentionid="18" mentiontype="NOMINAL" number="SINGULAR"> the announcement </REFERENCE>
+			<STRING>, made after </STRING>
+			<REFERENCE animacy="INANIMATE" entity="19" gender="NEUTRAL" mentionid="19" mentiontype="NOMINAL" number="SINGULAR"> the close of regular trading </REFERENCE>
+		</REFERENCE>
+		<STRING>, then recovered somewhat. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<STRING> By </STRING>
+		<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="PROPER" number="SINGULAR"> evening </REFERENCE>
+		<STRING> it was down about 12 percent from </STRING>
+		<REFERENCE animacy="INANIMATE" entity="22" gender="NEUTRAL" mentionid="22" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="5" gender="UNKNOWN" mentionid="23" mentiontype="PROPER" number="SINGULAR"> Tuesday's </REFERENCE>
+			<STRING> close </STRING>
+		</REFERENCE>
+		<STRING>, trading around $ 379. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<REFERENCE animacy="INANIMATE" entity="24" gender="UNKNOWN" mentionid="24" mentiontype="PROPER" number="SINGULAR"> Only three weeks </REFERENCE>
+		<STRING> ago, at </STRING>
+		<REFERENCE animacy="INANIMATE" entity="25" gender="MALE" mentionid="25" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="24" gender="UNKNOWN" mentionid="26" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+			<STRING> high-water mark </STRING>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="27" mentiontype="NOMINAL" number="SINGULAR"> the stock </REFERENCE>
+		<STRING> reached $ 475.11. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="INANIMATE" entity="24" gender="NEUTRAL" mentionid="28" mentiontype="PRONOMINAL" number="SINGULAR"> It </REFERENCE>
+		<STRING> has still been less than </STRING>
+		<REFERENCE animacy="INANIMATE" entity="29" gender="UNKNOWN" mentionid="29" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="30" gender="UNKNOWN" mentionid="30" mentiontype="PROPER" number="SINGULAR"> a year </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="31" gender="UNKNOWN" mentionid="31" mentiontype="NOMINAL" number="SINGULAR"> a half </REFERENCE>
+		</REFERENCE>
+		<STRING> since </STRING>
+		<REFERENCE animacy="INANIMATE" entity="32" gender="NEUTRAL" mentionid="32" mentiontype="NOMINAL" number="SINGULAR"> the company </REFERENCE>
+		<STRING> made </STRING>
+		<REFERENCE animacy="INANIMATE" entity="33" gender="NEUTRAL" mentionid="33" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="32" gender="UNKNOWN" mentionid="34" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+			<STRING> initial public offering </STRING>
+		</REFERENCE>
+		<STRING> at $ 85 </STRING>
+		<REFERENCE animacy="INANIMATE" entity="35" gender="NEUTRAL" mentionid="35" mentiontype="NOMINAL" number="SINGULAR"> a share </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<REFERENCE animacy="ANIMATE" entity="39" gender="MALE" mentionid="39" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="36" gender="MALE" mentionid="36" mentiontype="PROPER" number="SINGULAR"> Safa Rashtchy </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="36" gender="MALE" mentionid="40" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> an analyst with </STRING>
+				<REFERENCE animacy="INANIMATE" entity="37" gender="UNKNOWN" mentionid="37" mentiontype="LIST" number="PLURAL"> Piper Jaffray &amp; Co. </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, attributed </STRING>
+		<REFERENCE animacy="INANIMATE" entity="41" gender="NEUTRAL" mentionid="41" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="5" gender="UNKNOWN" mentionid="42" mentiontype="PROPER" number="SINGULAR"> Tuesday's </REFERENCE>
+			<STRING> decline </STRING>
+		</REFERENCE>
+		<STRING> to </STRING>
+		<REFERENCE animacy="ANIMATE" entity="43" gender="UNKNOWN" mentionid="43" mentiontype="NOMINAL" number="PLURAL">
+			<STRING>`` momentum investors'' who had been betting that </STRING>
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="38" mentiontype="PROPER" number="UNKNOWN"> Google </REFERENCE>
+			<STRING> would continue to surpass </STRING>
+			<REFERENCE animacy="INANIMATE" entity="44" gender="UNKNOWN" mentionid="44" mentiontype="NOMINAL" number="PLURAL"> published estimates </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<STRING>`` </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="45" gender="NEUTRAL" mentionid="45" mentiontype="NOMINAL" number="UNKNOWN"> This </REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="46" gender="UNKNOWN" mentionid="46" mentiontype="PROPER" number="SINGULAR"> one of the biggest momentum stocks there is </REFERENCE>
+		<STRING>,'' </STRING>
+		<REFERENCE animacy="ANIMATE" entity="36" gender="MALE" mentionid="47" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+		<STRING> said. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<STRING>`` </STRING>
+		<REFERENCE animacy="ANIMATE" entity="45" gender="UNKNOWN" mentionid="48" mentiontype="PRONOMINAL" number="PLURAL"> They </REFERENCE>
+		<STRING> said </STRING>
+		<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="49" mentiontype="NOMINAL" number="SINGULAR"> this stock </REFERENCE>
+		<STRING> should be growing even faster. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<STRING> And when </STRING>
+		<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="50" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> does n't, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="45" gender="UNKNOWN" mentionid="51" mentiontype="PRONOMINAL" number="PLURAL"> they </REFERENCE>
+		<STRING> just get out.'' </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<STRING> For any other company, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="52" gender="UNKNOWN" mentionid="52" mentiontype="NOMINAL" number="PLURAL"> the results </REFERENCE>
+		<STRING> announced </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="UNKNOWN" mentionid="53" mentiontype="PROPER" number="SINGULAR"> Tuesday </REFERENCE>
+		<STRING> would be impressive. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="54" mentiontype="PROPER" number="UNKNOWN"> Google </REFERENCE>
+		<STRING> said </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="55" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> earned $ 372 million in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="56" gender="NEUTRAL" mentionid="56" mentiontype="PROPER" number="SINGULAR">
+			<STRING> the fourth quarter of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="57" gender="UNKNOWN" mentionid="57" mentiontype="PROPER" number="SINGULAR"> last year </REFERENCE>
+		</REFERENCE>
+		<STRING>, up 82 percent from </STRING>
+		<REFERENCE animacy="INANIMATE" entity="57" gender="UNKNOWN" mentionid="58" mentiontype="PROPER" number="SINGULAR"> the year </REFERENCE>
+		<STRING> before. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="13">
+		<STRING> But </STRING>
+		<REFERENCE animacy="INANIMATE" entity="60" gender="NEUTRAL" mentionid="60" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the enormous valuation of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="59" mentiontype="PROPER" number="UNKNOWN"> Google </REFERENCE>
+		</REFERENCE>
+		<STRING> is based-- to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="61" gender="NEUTRAL" mentionid="61" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the extent </STRING>
+			<REFERENCE animacy="INANIMATE" entity="60" gender="NEUTRAL" mentionid="62" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+			<STRING> has any rational basis </STRING>
+		</REFERENCE>
+		<STRING>-- on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="63" gender="UNKNOWN" mentionid="63" mentiontype="NOMINAL" number="PLURAL"> predictions </REFERENCE>
+		<STRING> that </STRING>
+		<REFERENCE animacy="INANIMATE" entity="60" gender="NEUTRAL" mentionid="64" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> will continue to grow very rapidly, extending </STRING>
+		<REFERENCE animacy="INANIMATE" entity="65" gender="NEUTRAL" mentionid="65" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="60" gender="UNKNOWN" mentionid="66" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+			<STRING> success </STRING>
+		</REFERENCE>
+		<STRING> in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="67" gender="UNKNOWN" mentionid="67" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="68" gender="NEUTRAL" mentionid="68" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> Internet advertising to </STRING>
+				<REFERENCE animacy="INANIMATE" entity="69" gender="UNKNOWN" mentionid="69" mentiontype="NOMINAL" number="PLURAL"> other Internet services </REFERENCE>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="70" gender="UNKNOWN" mentionid="70" mentiontype="NOMINAL" number="PLURAL"> other forms of advertising </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="14">
+		<REFERENCE animacy="INANIMATE" entity="72" gender="UNKNOWN" mentionid="72" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> Signs of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="73" gender="NEUTRAL" mentionid="73" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> even a modest slowing in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="74" gender="NEUTRAL" mentionid="74" mentiontype="NOMINAL" number="SINGULAR"> that expansion </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, relative to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="75" gender="UNKNOWN" mentionid="75" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="10" gender="UNKNOWN" mentionid="76" mentiontype="NOMINAL" number="PLURAL"> investors' </REFERENCE>
+			<STRING> expectations </STRING>
+		</REFERENCE>
+		<STRING>, could have </STRING>
+		<REFERENCE animacy="INANIMATE" entity="77" gender="NEUTRAL" mentionid="77" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a large impact on </STRING>
+			<REFERENCE animacy="INANIMATE" entity="78" gender="UNKNOWN" mentionid="78" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="71" mentiontype="PROPER" number="UNKNOWN"> Google's </REFERENCE>
+				<STRING> share price </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="15">
+		<STRING> All told, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="79" gender="UNKNOWN" mentionid="79" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="73" gender="UNKNOWN" mentionid="80" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+			<STRING> quarterly earnings </STRING>
+		</REFERENCE>
+		<STRING> came to $ 1.22 per share. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="16">
+		<STRING> Excluding </STRING>
+		<REFERENCE animacy="INANIMATE" entity="82" gender="UNKNOWN" mentionid="82" mentiontype="NOMINAL" number="PLURAL"> some special items </REFERENCE>
+		<STRING>-- including $ 58 million in stock-based compensation, and </STRING>
+		<REFERENCE animacy="INANIMATE" entity="83" gender="UNKNOWN" mentionid="83" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a $ 90 million contribution to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="84" mentiontype="PROPER" number="UNKNOWN"> the Google Foundation </REFERENCE>
+		</REFERENCE>
+		<STRING>-- </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="81" mentiontype="PROPER" number="UNKNOWN"> Google </REFERENCE>
+		<STRING> earned $ 1.54 per share, far below the $ 1.76 per share that </STRING>
+		<REFERENCE animacy="ANIMATE" entity="85" gender="UNKNOWN" mentionid="85" mentiontype="NOMINAL" number="PLURAL"> analysts </REFERENCE>
+		<STRING> had expected. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="17">
+		<STRING> Even with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="87" gender="NEUTRAL" mentionid="87" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="5" gender="UNKNOWN" mentionid="88" mentiontype="PROPER" number="SINGULAR"> Tuesday's </REFERENCE>
+			<STRING> after-hours decline </STRING>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="89" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="86" mentiontype="PROPER" number="UNKNOWN"> Google's </REFERENCE>
+			<STRING> stock </STRING>
+		</REFERENCE>
+		<STRING> is worth about $ 112 billion, more than any other media company in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="90" gender="NEUTRAL" mentionid="90" mentiontype="NOMINAL" number="SINGULAR"> the world </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+</TEXT>

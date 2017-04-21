@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="1" mentiontype="PROPER" number="SINGULAR"> Michael Crichton </REFERENCE>
+		<STRING> has written </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="UNKNOWN" mentionid="2" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="3" mentiontype="NOMINAL" number="SINGULAR"> some really fun </REFERENCE>
+			<STRING>, engaging, and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="4" gender="UNKNOWN" mentionid="4" mentiontype="NOMINAL" number="PLURAL"> interesting stories </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<STRING> Unfortunately, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="5" mentiontype="PROPER" number="SINGULAR"> Airframe </REFERENCE>
+		<STRING> is n't </STRING>
+		<REFERENCE animacy="INANIMATE" entity="6" gender="UNKNOWN" mentionid="6" mentiontype="PROPER" number="SINGULAR"> one of those </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="7" mentiontype="PRONOMINAL" number="SINGULAR"> He </REFERENCE>
+		<STRING> 's also written </STRING>
+		<REFERENCE animacy="INANIMATE" entity="8" gender="UNKNOWN" mentionid="8" mentiontype="NOMINAL" number="PLURAL"> some really bad stories </REFERENCE>
+		<STRING>, and </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="9" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> is n't </STRING>
+		<REFERENCE animacy="INANIMATE" entity="10" gender="UNKNOWN" mentionid="10" mentiontype="PROPER" number="SINGULAR"> one of those either </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="12" mentiontype="PROPER" number="SINGULAR"> Airframe </REFERENCE>
+		<STRING> follows </STRING>
+		<REFERENCE animacy="INANIMATE" entity="13" gender="NEUTRAL" mentionid="13" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the usual </STRING>
+			<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="11" mentiontype="PROPER" number="SINGULAR"> Crichton </REFERENCE>
+			<STRING> pattern of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="14" gender="NEUTRAL" mentionid="14" mentiontype="NOMINAL" number="SINGULAR"> a suspense story </REFERENCE>
+			<STRING> whose plot revolves around </STRING>
+			<REFERENCE animacy="INANIMATE" entity="15" gender="NEUTRAL" mentionid="15" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a piece of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="16" mentiontype="LIST" number="PLURAL"> science, medicine, or technology </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<STRING> In </STRING>
+		<REFERENCE animacy="INANIMATE" entity="17" gender="NEUTRAL" mentionid="17" mentiontype="NOMINAL" number="SINGULAR"> this case </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="17" gender="NEUTRAL" mentionid="18" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> 's </STRING>
+		<REFERENCE animacy="INANIMATE" entity="17" gender="NEUTRAL" mentionid="19" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the building of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> airplanes that takes </STRING>
+				<REFERENCE animacy="INANIMATE" entity="21" gender="NEUTRAL" mentionid="21" mentiontype="NOMINAL" number="SINGULAR"> center stage </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="ANIMATE" entity="22" gender="UNKNOWN" mentionid="22" mentiontype="PRONOMINAL" number="PLURAL"> We </REFERENCE>
+		<STRING> have </STRING>
+		<REFERENCE animacy="ANIMATE" entity="23" gender="FEMALE" mentionid="23" mentiontype="NOMINAL" number="SINGULAR"> the plucky heroine </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="24" gender="MALE" mentionid="24" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> an executive at </STRING>
+			<REFERENCE animacy="INANIMATE" entity="25" gender="NEUTRAL" mentionid="25" mentiontype="NOMINAL" number="SINGULAR"> the aircraft company </REFERENCE>
+		</REFERENCE>
+		<STRING> determined to find </STRING>
+		<REFERENCE animacy="INANIMATE" entity="26" gender="NEUTRAL" mentionid="26" mentiontype="NOMINAL" number="SINGULAR"> the truth </REFERENCE>
+		<STRING> behind </STRING>
+		<REFERENCE animacy="INANIMATE" entity="27" gender="UNKNOWN" mentionid="27" mentiontype="NOMINAL" number="SINGULAR"> an accident </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<REFERENCE animacy="ANIMATE" entity="22" gender="UNKNOWN" mentionid="28" mentiontype="PRONOMINAL" number="PLURAL"> We </REFERENCE>
+		<STRING> have </STRING>
+		<REFERENCE animacy="ANIMATE" entity="29" gender="UNKNOWN" mentionid="29" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="30" gender="UNKNOWN" mentionid="30" mentiontype="NOMINAL" number="PLURAL"> some bad guys </REFERENCE>
+			<STRING>, including </STRING>
+			<REFERENCE animacy="ANIMATE" entity="31" gender="UNKNOWN" mentionid="31" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="32" gender="UNKNOWN" mentionid="32" mentiontype="NOMINAL" number="PLURAL"> union goons </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="ANIMATE" entity="33" gender="MALE" mentionid="33" mentiontype="NOMINAL" number="SINGULAR"> a shameless TV reporter </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<REFERENCE animacy="ANIMATE" entity="22" gender="UNKNOWN" mentionid="34" mentiontype="PRONOMINAL" number="PLURAL"> We </REFERENCE>
+		<STRING> learn </STRING>
+		<REFERENCE animacy="INANIMATE" entity="35" gender="UNKNOWN" mentionid="35" mentiontype="NOMINAL" number="SINGULAR"> a bunch of stuff </REFERENCE>
+		<STRING> about </STRING>
+		<REFERENCE animacy="INANIMATE" entity="36" gender="UNKNOWN" mentionid="36" mentiontype="LIST" number="PLURAL">
+			<STRING> the politics and engineering of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="37" mentiontype="NOMINAL" number="PLURAL"> airplanes </REFERENCE>
+		</REFERENCE>
+		<STRING>, and eventually, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="22" gender="UNKNOWN" mentionid="38" mentiontype="PRONOMINAL" number="PLURAL"> we </REFERENCE>
+		<STRING> learn what happened on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="39" gender="NEUTRAL" mentionid="39" mentiontype="NOMINAL" number="SINGULAR"> that ill-fated flight </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<REFERENCE animacy="INANIMATE" entity="40" gender="NEUTRAL" mentionid="40" mentiontype="NOMINAL" number="SINGULAR"> The only problem </REFERENCE>
+		<STRING> is, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="22" gender="UNKNOWN" mentionid="41" mentiontype="PRONOMINAL" number="PLURAL"> we </REFERENCE>
+		<STRING> do n't really care. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<REFERENCE animacy="INANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> The trouble with </STRING>
+			<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="43" mentiontype="PROPER" number="SINGULAR"> Airframe </REFERENCE>
+		</REFERENCE>
+		<STRING> is that </STRING>
+		<REFERENCE animacy="INANIMATE" entity="44" gender="UNKNOWN" mentionid="44" mentiontype="NOMINAL" number="PLURAL"> the stakes </REFERENCE>
+		<STRING> are too small. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<STRING> In`` </STRING>
+		<REFERENCE animacy="INANIMATE" entity="45" gender="UNKNOWN" mentionid="45" mentiontype="PROPER" number="SINGULAR"> The Andromeda Strain </REFERENCE>
+		<STRING>,'' </STRING>
+		<REFERENCE animacy="INANIMATE" entity="46" gender="UNKNOWN" mentionid="46" mentiontype="NOMINAL" number="SINGULAR"> the fate of humanity </REFERENCE>
+		<STRING> rested on finding </STRING>
+		<REFERENCE animacy="INANIMATE" entity="47" gender="NEUTRAL" mentionid="47" mentiontype="NOMINAL" number="SINGULAR"> the answer </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<STRING> In </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="48" mentiontype="PROPER" number="SINGULAR"> Airframe </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="49" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> 's </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="50" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> an order for </STRING>
+			<REFERENCE animacy="INANIMATE" entity="51" gender="UNKNOWN" mentionid="51" mentiontype="NOMINAL" number="PLURAL"> new planes </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="13">
+		<STRING> In </STRING>
+		<REFERENCE animacy="INANIMATE" entity="52" gender="UNKNOWN" mentionid="52" mentiontype="NOMINAL" number="PLURAL"> the most suspenseful moments of`` Jurassic Park </REFERENCE>
+		<STRING>,'' </STRING>
+		<REFERENCE animacy="ANIMATE" entity="53" gender="UNKNOWN" mentionid="53" mentiontype="PRONOMINAL" number="PLURAL"> we </REFERENCE>
+		<STRING> wonder how </STRING>
+		<REFERENCE animacy="ANIMATE" entity="54" gender="UNKNOWN" mentionid="54" mentiontype="NOMINAL" number="PLURAL"> the humans </REFERENCE>
+		<STRING> will escape </STRING>
+		<REFERENCE animacy="INANIMATE" entity="55" gender="UNKNOWN" mentionid="55" mentiontype="NOMINAL" number="PLURAL"> the dinosaurs </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="14">
+		<STRING> At </STRING>
+		<REFERENCE animacy="INANIMATE" entity="57" gender="NEUTRAL" mentionid="57" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the climax of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="56" mentiontype="PROPER" number="SINGULAR"> Airframe </REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="53" gender="UNKNOWN" mentionid="58" mentiontype="PRONOMINAL" number="PLURAL"> we </REFERENCE>
+		<STRING> wonder whether </STRING>
+		<REFERENCE animacy="ANIMATE" entity="33" gender="MALE" mentionid="59" mentiontype="NOMINAL" number="SINGULAR"> the TV reporter </REFERENCE>
+		<STRING> will escape being airsick. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="15">
+		<STRING> -LRB- As </STRING>
+		<REFERENCE animacy="ANIMATE" entity="60" gender="MALE" mentionid="60" mentiontype="PROPER" number="SINGULAR"> Dave Barry </REFERENCE>
+		<STRING> would say, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="61" gender="UNKNOWN" mentionid="61" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> am not making </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="62" gender="NEUTRAL" mentionid="62" mentiontype="NOMINAL" number="UNKNOWN"> this </REFERENCE>
+		<STRING> up! -RRB- </STRING>
+	</SENTENCE>
+	<SENTENCE ID="16">
+		<STRING> If </STRING>
+		<REFERENCE animacy="ANIMATE" entity="64" gender="UNKNOWN" mentionid="64" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> like </STRING>
+		<REFERENCE animacy="INANIMATE" entity="65" gender="NEUTRAL" mentionid="65" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the </STRING>
+			<REFERENCE animacy="ANIMATE" entity="1" gender="MALE" mentionid="63" mentiontype="PROPER" number="SINGULAR"> Crichton </REFERENCE>
+			<STRING> style </STRING>
+		</REFERENCE>
+		<STRING> and </STRING>
+		<REFERENCE animacy="ANIMATE" entity="66" gender="UNKNOWN" mentionid="66" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> borrow </STRING>
+		<REFERENCE animacy="INANIMATE" entity="62" gender="NEUTRAL" mentionid="67" mentiontype="NOMINAL" number="SINGULAR"> the book </REFERENCE>
+		<STRING> from </STRING>
+		<REFERENCE animacy="INANIMATE" entity="68" gender="NEUTRAL" mentionid="68" mentiontype="NOMINAL" number="SINGULAR"> the library </REFERENCE>
+		<STRING>, go ahead and read </STRING>
+		<REFERENCE animacy="INANIMATE" entity="65" gender="NEUTRAL" mentionid="69" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING>-- </STRING>
+		<REFERENCE animacy="INANIMATE" entity="65" gender="NEUTRAL" mentionid="70" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> ought to hold </STRING>
+		<REFERENCE animacy="INANIMATE" entity="71" gender="NEUTRAL" mentionid="71" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="72" gender="UNKNOWN" mentionid="72" mentiontype="PRONOMINAL" number="UNKNOWN"> your </REFERENCE>
+			<STRING> interest </STRING>
+		</REFERENCE>
+		<STRING> for </STRING>
+		<REFERENCE animacy="ANIMATE" entity="73" gender="UNKNOWN" mentionid="73" mentiontype="PROPER" number="SINGULAR">
+			<STRING> a couple of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="74" gender="UNKNOWN" mentionid="74" mentiontype="PROPER" number="SINGULAR"> hours </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="17">
+		<STRING> Otherwise, save </STRING>
+		<REFERENCE animacy="INANIMATE" entity="75" gender="UNKNOWN" mentionid="75" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="76" gender="UNKNOWN" mentionid="76" mentiontype="PRONOMINAL" number="UNKNOWN"> your </REFERENCE>
+			<STRING> time and money </STRING>
+		</REFERENCE>
+		<STRING> for </STRING>
+		<REFERENCE animacy="INANIMATE" entity="77" gender="UNKNOWN" mentionid="77" mentiontype="PROPER" number="SINGULAR"> one of his better books </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="18">
+		<STRING> -LSB- By </STRING>
+		<REFERENCE animacy="INANIMATE" entity="78" gender="NEUTRAL" mentionid="78" mentiontype="NOMINAL" number="SINGULAR"> the way </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="62" gender="NEUTRAL" mentionid="79" mentiontype="NOMINAL" number="UNKNOWN"> this </REFERENCE>
+		<STRING> is n't </STRING>
+		<REFERENCE animacy="INANIMATE" entity="62" gender="NEUTRAL" mentionid="80" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="81" gender="UNKNOWN" mentionid="81" mentiontype="NOMINAL" number="PLURAL"> a children's </REFERENCE>
+			<STRING> book by any stretch of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="82" gender="NEUTRAL" mentionid="82" mentiontype="NOMINAL" number="SINGULAR"> the imagination </REFERENCE>
+		</REFERENCE>
+		<STRING>! </STRING>
+	</SENTENCE>
+	<SENTENCE ID="19">
+		<REFERENCE animacy="ANIMATE" entity="61" gender="UNKNOWN" mentionid="83" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> 'm not sure why </STRING>
+		<REFERENCE animacy="INANIMATE" entity="78" gender="NEUTRAL" mentionid="84" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> is in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="85" gender="NEUTRAL" mentionid="85" mentiontype="NOMINAL" number="SINGULAR"> this category </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+</TEXT>

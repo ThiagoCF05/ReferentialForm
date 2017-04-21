@@ -1,0 +1,1047 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0" GENDER="neutral" ID="1" MENTION-ID="1" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">The Amazon River</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">The Amazon</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> or River Amazon -LRB- </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="6" GENDER="neutral" MENTION-ID="2" NUMBER="singular" TYPE="name">
+				<STRING> -LSB- Spanish: </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="7" GENDER="male" MENTION-ID="3" NUMBER="singular" TYPE="name"> Río Amazonas -RSB- </REFERENCE>
+			</REFERENCE>
+			<STRING>; </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="male" MENTION-ID="4" NUMBER="singular" TYPE="name">
+				<STRING> -LSB- Portuguese: </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="5" NUMBER="singular" TYPE="name"> Rio Amazonas </REFERENCE>
+			</REFERENCE>
+			<STRING> -RSB- -RRB- of </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="6" NUMBER="singular" TYPE="name"> South America </REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="9" GENDER="neutral" MENTION-ID="7" NUMBER="singular" TYPE="description"> the most voluminous river on earth </REFERENCE>
+			<STRING>, having </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="10" GENDER="neutral" MENTION-ID="8" NUMBER="singular" TYPE="description"> a greater total flow </REFERENCE>
+			<STRING> than </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="11" GENDER="unknown" MENTION-ID="9" NUMBER="plural" TYPE="description">
+				<STRING> the next </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="4" GENDER="unknown" MENTION-ID="10" NUMBER="singular" TYPE="name"> six </REFERENCE>
+				<STRING> largest rivers combined </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING> Accordingly, </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.654559" GENDER="neutral" ID="2" MENTION-ID="11" NUMBER="singular" PARAGRAPH-POSITION="34" RECENCY="33" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">the Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">this river</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">the Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="demonstrative">this mighty river</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is sometimes known as </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="12" NUMBER="singular" TYPE="name"> The River Sea </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.509016" GENDER="neutral" ID="3" MENTION-ID="13" NUMBER="unknown" PARAGRAPH-POSITION="42" RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">The Amazon</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is also generally regarded by </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="17" GENDER="unknown" MENTION-ID="14" NUMBER="plural" TYPE="description"> most geographic authorities </REFERENCE>
+			<STRING> as being </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="18" GENDER="neutral" MENTION-ID="15" NUMBER="singular" TYPE="description">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="14" GENDER="unknown" MENTION-ID="16" NUMBER="singular" TYPE="name"> second </REFERENCE>
+				<STRING> longest river on </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="19" GENDER="neutral" MENTION-ID="17" NUMBER="singular" TYPE="name"> Earth </REFERENCE>
+				<STRING> -LRB- </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="20" GENDER="male" MENTION-ID="18" NUMBER="unknown" TYPE="description">
+					<STRING> the longest being </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="21" GENDER="unknown" MENTION-ID="19" NUMBER="singular" TYPE="name">
+						<STRING> the Nile in </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="15" GENDER="neutral" MENTION-ID="20" NUMBER="singular" TYPE="name"> Africa </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING> -RRB- </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="24" GENDER="neutral" MENTION-ID="21" NUMBER="singular" TYPE="description">
+				<STRING> The drainage area of </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.654559" GENDER="neutral" ID="4" MENTION-ID="22" NUMBER="unknown" PARAGRAPH-POSITION="5" RECENCY="0" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">the Amazon</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="name">the Amazon</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">the Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">the Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="name">the Amazon</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Amazon</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="name">the Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="demonstrative">this river</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="name">Amazon</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="description">river</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="name">the Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="name">Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="demonstrative">this longest river</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="description">the river</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="22" GENDER="neutral" MENTION-ID="23" NUMBER="singular" TYPE="name"> Brazil </REFERENCE>
+				<STRING>, called </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="25" GENDER="neutral" MENTION-ID="24" NUMBER="singular" TYPE="name">
+					<STRING> the </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="23" GENDER="neutral" MENTION-ID="25" NUMBER="singular" TYPE="name"> Amazon Basin </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="24" GENDER="neutral" MENTION-ID="26" NUMBER="unknown" TYPE="description"> the largest of any river system </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING> If </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="23" GENDER="neutral" MENTION-ID="27" NUMBER="singular" TYPE="name"> the Basin </REFERENCE>
+			<STRING> were </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="23" GENDER="neutral" MENTION-ID="28" NUMBER="singular" TYPE="description"> an independent country </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="23" GENDER="neutral" MENTION-ID="29" NUMBER="singular" TYPE="pronoun"> it </REFERENCE>
+			<STRING> would be </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="23" GENDER="neutral" MENTION-ID="30" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="23" GENDER="neutral" MENTION-ID="31" NUMBER="singular" TYPE="description">
+					<STRING> the world's </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="28" GENDER="male" MENTION-ID="32" NUMBER="singular" TYPE="name"> seventh </REFERENCE>
+					<STRING> largest </STRING>
+				</REFERENCE>
+				<STRING>, having </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="37" GENDER="neutral" MENTION-ID="33" NUMBER="singular" TYPE="description">
+					<STRING> more than twice the area of </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="29" GENDER="neutral" MENTION-ID="34" NUMBER="singular" TYPE="name"> India </REFERENCE>
+					<STRING> -LRB- which actually does rank </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="28" GENDER="male" MENTION-ID="35" NUMBER="singular" TYPE="name"> seventh </REFERENCE>
+					<STRING> -RRB- </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="39" GENDER="neutral" MENTION-ID="36" NUMBER="singular" TYPE="description">
+				<STRING> The quantity of fresh water released by </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.523649" GENDER="neutral" ID="5" MENTION-ID="37" NUMBER="singular" PARAGRAPH-POSITION="8" RECENCY="0" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">the Amazon</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="name">the Amazon river</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="name">the Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="name">the Amazon</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">the Amazon</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Amazon</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="name">Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="name">Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="name">Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">the Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="name">the Amazon</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="name">Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="name">the amazon river</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="name">Amazon</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="name">the Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> to </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="41" GENDER="neutral" MENTION-ID="38" NUMBER="singular" TYPE="name"> the Atlantic Ocean </REFERENCE>
+			</REFERENCE>
+			<STRING> is enormous: </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="42" GENDER="unknown" MENTION-ID="39" NUMBER="singular" TYPE="name">
+				<STRING> up to </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="43" GENDER="unknown" MENTION-ID="40" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="38" GENDER="unknown" MENTION-ID="41" NUMBER="singular" TYPE="name"> 300,000 </REFERENCE>
+					<STRING> m </STRING>
+				</REFERENCE>
+				<STRING> ³ per </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="44" GENDER="unknown" MENTION-ID="42" NUMBER="singular" TYPE="name">
+					<STRING> second in </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="45" GENDER="unknown" MENTION-ID="43" NUMBER="singular" TYPE="description"> the rainy season </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING> Indeed, </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.577579" GENDER="neutral" ID="6" MENTION-ID="44" NUMBER="singular" PARAGRAPH-POSITION="26" RECENCY="18" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">the Amazon</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">the Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">this river</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">the river itself</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is responsible for </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="47" GENDER="unknown" MENTION-ID="45" NUMBER="singular" TYPE="name">
+				<STRING> a fifth of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="48" GENDER="neutral" MENTION-ID="46" NUMBER="singular" TYPE="description"> the total volume of fresh water </REFERENCE>
+			</REFERENCE>
+			<STRING> entering </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="49" GENDER="unknown" MENTION-ID="47" NUMBER="plural" TYPE="description"> the oceans </REFERENCE>
+			<STRING> worldwide. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="5" GENDER="neutral" MENTION-ID="48" NUMBER="singular" TYPE="pronoun"> It </REFERENCE>
+			<STRING> is said that offshore of </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="52" GENDER="unknown" MENTION-ID="49" NUMBER="singular" TYPE="description">
+				<STRING> the mouth of </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.835234" GENDER="neutral" ID="7" MENTION-ID="50" NUMBER="singular" PARAGRAPH-POSITION="52" RECENCY="26" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">the Amazon</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="name">the Amazon</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="name">Amazon's</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="name">the Amazon,</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="demonstrative">this river</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Amazon</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">this river</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="description">the river's</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="name">the Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="other">it is</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="name">Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="description">the river,</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="name">Amazon River's</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="name">the Amazon's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> potable water can be drawn from </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="54" GENDER="neutral" MENTION-ID="51" NUMBER="singular" TYPE="description">
+				<STRING> the ocean while still out of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="55" GENDER="unknown" MENTION-ID="52" NUMBER="singular" TYPE="description">
+					<STRING> sight of </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="56" GENDER="neutral" MENTION-ID="53" NUMBER="singular" TYPE="description"> the coastline </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, and </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="57" GENDER="neutral" MENTION-ID="54" NUMBER="singular" TYPE="description">
+				<STRING> the salinity of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="54" GENDER="neutral" MENTION-ID="55" NUMBER="singular" TYPE="description"> the ocean </REFERENCE>
+			</REFERENCE>
+			<STRING> is notably lower </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="59" GENDER="unknown" MENTION-ID="56" NUMBER="plural" TYPE="description">
+				<STRING> a </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="50" GENDER="unknown" MENTION-ID="57" NUMBER="singular" TYPE="name"> hundred </REFERENCE>
+				<STRING> miles out to sea </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="60" GENDER="neutral" MENTION-ID="58" NUMBER="singular" TYPE="description">
+				<STRING> This mixture of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="61" GENDER="unknown" MENTION-ID="59" NUMBER="plural">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="62" GENDER="neutral" MENTION-ID="60" NUMBER="unknown" TYPE="description"> fresh </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="63" GENDER="neutral" MENTION-ID="61" NUMBER="singular" TYPE="description"> salt water </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> is known as brackish water. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="64" GENDER="neutral" MENTION-ID="62" NUMBER="singular" TYPE="demonstrative"> This huge amount of water </REFERENCE>
+			<STRING> is responsible for </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="65" GENDER="neutral" MENTION-ID="63" NUMBER="singular" TYPE="description"> the fact </REFERENCE>
+			<STRING> that </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.586135" GENDER="neutral" ID="8" MENTION-ID="64" NUMBER="singular" PARAGRAPH-POSITION="12" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">the Amazon</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">the Amozon River</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">the Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">the Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="other">sky</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="other">Brazil</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">the amazon</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> has </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="67" GENDER="unknown" MENTION-ID="65" NUMBER="plural" TYPE="description">
+				<STRING> no clouds above </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="68" GENDER="neutral" MENTION-ID="66" NUMBER="singular" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.453494" GENDER="unknown" ID="9" MENTION-ID="67" NUMBER="singular" PARAGRAPH-POSITION="17" RECENCY="5" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">its</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="7" TYPE="other">he</REFEX>
+							<REFEX PARTICIPANT-ID="8" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="11" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="14" TYPE="description">the river</REFEX>
+							<REFEX PARTICIPANT-ID="25" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="27" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="35" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="39" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="43" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+							<REFEX PARTICIPANT-ID="47" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="48" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="54" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="57" TYPE="description">the river</REFEX>
+							<REFEX PARTICIPANT-ID="60" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="62" TYPE="description">the river</REFEX>
+							<REFEX PARTICIPANT-ID="63" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="66" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> channel near </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="52" GENDER="unknown" MENTION-ID="68" NUMBER="singular" TYPE="description">
+						<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.471554" GENDER="unknown" ID="10" MENTION-ID="69" NUMBER="singular" PARAGRAPH-POSITION="20" RECENCY="3" SYNCAT="subj-det">
+							<ORIGINAL-REFEX>
+								<REFEX TYPE="pronoun">its</REFEX>
+							</ORIGINAL-REFEX>
+							<PARTICIPANTS-REFEX>
+								<REFEX PARTICIPANT-ID="7" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="8" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="11" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="14" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="25" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="27" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="35" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="39" TYPE="name">Amazon River's</REFEX>
+								<REFEX PARTICIPANT-ID="43" TYPE="description">the river</REFEX>
+								<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+								<REFEX PARTICIPANT-ID="47" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="48" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it's</REFEX>
+								<REFEX PARTICIPANT-ID="50" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="54" TYPE="name">the Amazon's</REFEX>
+								<REFEX PARTICIPANT-ID="57" TYPE="name">Amazon River</REFEX>
+								<REFEX PARTICIPANT-ID="60" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="62" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="63" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="64" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="66" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+							</PARTICIPANTS-REFEX>
+						</TARGET-REFERENCE>
+						<STRING> mouth </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, as it is very easy to see in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="72" GENDER="neutral" MENTION-ID="70" NUMBER="singular" TYPE="description"> the satellite image </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="73" GENDER="neutral" MENTION-ID="71" NUMBER="singular" TYPE="description">
+				<STRING> The reason for </STRING>
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="74" GENDER="neutral" MENTION-ID="72" NUMBER="unknown" TYPE="demonstrative"> this </REFERENCE>
+			</REFERENCE>
+			<STRING> is that </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="75" GENDER="unknown" MENTION-ID="73" NUMBER="plural" TYPE="description"> satellite images </REFERENCE>
+			<STRING> are almost always taken during </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="76" GENDER="unknown" MENTION-ID="74" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="77" GENDER="unknown" MENTION-ID="75" NUMBER="singular" TYPE="name"> morning hours </REFERENCE>
+				<STRING>, when there are </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="78" GENDER="unknown" MENTION-ID="76" NUMBER="plural" TYPE="description"> fewer clouds </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="82" GENDER="neutral" MENTION-ID="77" NUMBER="singular" TYPE="description">
+				<STRING> This time of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="83" GENDER="unknown" MENTION-ID="78" NUMBER="singular" TYPE="name"> the day </REFERENCE>
+			</REFERENCE>
+			<STRING> is also when water is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="84" GENDER="unknown" MENTION-ID="79" NUMBER="unknown" TYPE="description"> colder </REFERENCE>
+			<STRING> and land is beginning to be </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="85" GENDER="neutral" MENTION-ID="80" NUMBER="unknown" TYPE="description"> much warmer </REFERENCE>
+			<STRING>: above </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="86" GENDER="unknown" MENTION-ID="81" NUMBER="plural">
+				<STRING> big rivers -LRB- </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="87" GENDER="unknown" MENTION-ID="82" NUMBER="plural">
+					<STRING> the </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="79" GENDER="neutral" MENTION-ID="83" NUMBER="singular" TYPE="name"> Orinoco </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="80" GENDER="unknown" MENTION-ID="84" NUMBER="singular" TYPE="name"> Caura </REFERENCE>
+					<STRING> rivers in </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="88" GENDER="unknown" MENTION-ID="85" NUMBER="plural">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="81" GENDER="neutral" MENTION-ID="86" NUMBER="singular" TYPE="name"> Venezuela </REFERENCE>
+						<STRING> and </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="89" GENDER="unknown" MENTION-ID="87" NUMBER="unknown" TYPE="description"> many more </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING> have </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="90" GENDER="neutral" MENTION-ID="88" NUMBER="unknown" TYPE="description"> the same characteristic </REFERENCE>
+				<STRING> -RRB- </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="91" GENDER="unknown" MENTION-ID="89" NUMBER="plural" TYPE="description"> cold waters </REFERENCE>
+			<STRING> create </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="92" GENDER="neutral" MENTION-ID="90" NUMBER="singular" TYPE="description">
+				<STRING> a high pressure air mass which make </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="86" GENDER="unknown" MENTION-ID="91" NUMBER="plural" TYPE="description"> rivers </REFERENCE>
+				<STRING> easy to see through </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="78" GENDER="unknown" MENTION-ID="92" NUMBER="plural" TYPE="description"> clouds </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.4">
+			<STRING> On </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="95" GENDER="unknown" MENTION-ID="93" NUMBER="singular" TYPE="description"> the contrary </REFERENCE>
+			<STRING>, during </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="96" GENDER="male" MENTION-ID="94" NUMBER="singular" TYPE="name"> afternoons </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="78" GENDER="unknown" MENTION-ID="95" NUMBER="plural" TYPE="description"> clouds </REFERENCE>
+			<STRING> cover most </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="98" GENDER="unknown" MENTION-ID="96" NUMBER="plural" TYPE="description"> river channels </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="103" ENTROPY="0.189281" GENDER="neutral" ID="11" MENTION-ID="97" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">The main river</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">The amazon</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> (</STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.747672" GENDER="neutral" ID="12" MENTION-ID="98" NUMBER="singular" PARAGRAPH-POSITION="3" RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="demonstrative">that</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">width</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="other">width</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">River Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="description">River</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">width</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">width</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">[Spanish: Río Amazonas]; [Portuguese: Rio Am</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">it span</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">river Amazon</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is usually </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="104" GENDER="unknown" MENTION-ID="99" NUMBER="plural" TYPE="description">
+				<STRING> between </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="99" GENDER="unknown" MENTION-ID="100" NUMBER="singular" TYPE="name"> one and six </REFERENCE>
+				<STRING> miles </STRING>
+			</REFERENCE>
+			<STRING> wide) is navigable for </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="105" GENDER="unknown" MENTION-ID="101" NUMBER="plural" TYPE="description"> large ocean steamers </REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="106" GENDER="neutral" MENTION-ID="102" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="100" GENDER="neutral" MENTION-ID="103" NUMBER="singular" TYPE="name"> Manaus </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="100" GENDER="unknown" MENTION-ID="104" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="101" GENDER="unknown" MENTION-ID="105" NUMBER="singular" TYPE="name"> 1,500 </REFERENCE>
+					<STRING> km </STRING>
+				</REFERENCE>
+				<STRING> -LRB- </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="108" GENDER="unknown" MENTION-ID="106" NUMBER="plural" TYPE="description">
+					<STRING> more than </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="102" GENDER="unknown" MENTION-ID="107" NUMBER="singular" TYPE="name"> 900 </REFERENCE>
+					<STRING> miles </STRING>
+				</REFERENCE>
+				<STRING> -RRB- </STRING>
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="100" GENDER="neutral" MENTION-ID="108" NUMBER="singular" TYPE="description">
+					<STRING> upriver from </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="52" GENDER="unknown" MENTION-ID="109" NUMBER="singular" TYPE="description"> the mouth </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="117" GENDER="unknown" MENTION-ID="110" NUMBER="plural" TYPE="description">
+				<STRING> Smaller ocean vessels of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="118" GENDER="unknown" MENTION-ID="111" NUMBER="plural">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="119" GENDER="unknown" MENTION-ID="112" NUMBER="plural" TYPE="description">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="111" GENDER="unknown" MENTION-ID="113" NUMBER="singular" TYPE="name"> 3,000 </REFERENCE>
+						<STRING> tons </STRING>
+					</REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="120" GENDER="unknown" MENTION-ID="114" NUMBER="singular" TYPE="description">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="112" GENDER="unknown" MENTION-ID="115" NUMBER="singular" TYPE="name"> 5.5 </REFERENCE>
+						<STRING> m -LRB- </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="121" GENDER="neutral" MENTION-ID="116" NUMBER="singular" TYPE="description">
+							<REFERENCE ANIMACY="inanimate" ENTITY-ID="113" GENDER="unknown" MENTION-ID="117" NUMBER="singular" TYPE="name"> 18 </REFERENCE>
+							<STRING> ft </STRING>
+						</REFERENCE>
+						<STRING> -RRB- draft </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> can reach as far as </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="122" GENDER="unknown" MENTION-ID="118" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="114" GENDER="unknown" MENTION-ID="119" NUMBER="singular" TYPE="name"> Iquitos </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="114" GENDER="unknown" MENTION-ID="120" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="115" GENDER="unknown" MENTION-ID="121" NUMBER="singular" TYPE="name"> 3,600 </REFERENCE>
+					<STRING> km -LRB- </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="124" GENDER="unknown" MENTION-ID="122" NUMBER="plural" TYPE="description">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="116" GENDER="unknown" MENTION-ID="123" NUMBER="singular" TYPE="name"> 2,250 </REFERENCE>
+						<STRING> miles </STRING>
+					</REFERENCE>
+					<STRING> -RRB- </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> from </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="124" NUMBER="singular" TYPE="description"> the sea </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.3">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="128" GENDER="unknown" MENTION-ID="125" NUMBER="plural" TYPE="description"> Smaller riverboats </REFERENCE>
+			<STRING> can reach </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="129" GENDER="unknown" MENTION-ID="126" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="126" GENDER="unknown" MENTION-ID="127" NUMBER="singular" TYPE="name"> 780 </REFERENCE>
+				<STRING> km -LRB- </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="130" GENDER="neutral" MENTION-ID="128" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="127" GENDER="unknown" MENTION-ID="129" NUMBER="singular" TYPE="name"> 486 </REFERENCE>
+					<STRING> mi </STRING>
+				</REFERENCE>
+				<STRING> -RRB- </STRING>
+			</REFERENCE>
+			<STRING> higher as far as </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="131" GENDER="unknown" MENTION-ID="130" NUMBER="singular" TYPE="name"> Achual Point </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING> Beyond </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="128" GENDER="neutral" MENTION-ID="131" NUMBER="unknown" TYPE="pronoun"> that </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="135" GENDER="unknown" MENTION-ID="132" NUMBER="plural" TYPE="description"> small boats </REFERENCE>
+			<STRING> frequently ascend to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="136" GENDER="unknown" MENTION-ID="133" NUMBER="singular" TYPE="name">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="132" GENDER="unknown" MENTION-ID="134" NUMBER="singular" TYPE="name"> Pongo de Manseriche </REFERENCE>
+			</REFERENCE>
+			<STRING>, just above </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="131" GENDER="unknown" MENTION-ID="135" NUMBER="singular" TYPE="name"> Achual Point </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.2">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.536927" GENDER="neutral" ID="13" MENTION-ID="136" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">The Amazon</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="other">The</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">The mighty Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> drains </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="141" GENDER="neutral" MENTION-ID="137" NUMBER="singular" TYPE="description">
+				<STRING> an area of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="142" GENDER="unknown" MENTION-ID="138" NUMBER="plural">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="143" GENDER="unknown" MENTION-ID="139" NUMBER="singular" TYPE="description">
+						<STRING> some </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="137" GENDER="unknown" MENTION-ID="140" NUMBER="singular" TYPE="name"> 6,915,000 </REFERENCE>
+						<STRING> km ² -LRB- </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="144" GENDER="unknown" MENTION-ID="141" NUMBER="singular" TYPE="description">
+							<REFERENCE ANIMACY="inanimate" ENTITY-ID="138" GENDER="unknown" MENTION-ID="142" NUMBER="singular" TYPE="name"> 2,722,000 </REFERENCE>
+							<STRING> mile ² </STRING>
+						</REFERENCE>
+						<STRING> -RRB- </STRING>
+					</REFERENCE>
+					<STRING>, or some 40 percent of </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="143" NUMBER="singular" TYPE="name"> South America </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.3">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.546068" GENDER="neutral" ID="14" MENTION-ID="144" NUMBER="singular" PARAGRAPH-POSITION="17" RECENCY="16" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="demonstrative">This river</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> gathers </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="91" GENDER="unknown" MENTION-ID="145" NUMBER="plural" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.349398" GENDER="unknown" ID="15" MENTION-ID="146" NUMBER="singular" PARAGRAPH-POSITION="19" RECENCY="2" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">lots of</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="other">all</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="other">most of its</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="other">most of the</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> waters </STRING>
+			</REFERENCE>
+			<STRING> from </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="150" GENDER="neutral" MENTION-ID="147" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="151" GENDER="unknown" MENTION-ID="148" NUMBER="plural" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="145" GENDER="unknown" MENTION-ID="149" NUMBER="singular" TYPE="name"> 5 </REFERENCE>
+					<STRING> degrees </STRING>
+				</REFERENCE>
+				<STRING> north latitude to </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="152" GENDER="neutral" MENTION-ID="150" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="153" GENDER="unknown" MENTION-ID="151" NUMBER="plural" TYPE="description">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="146" GENDER="unknown" MENTION-ID="152" NUMBER="singular" TYPE="name"> 20 </REFERENCE>
+						<STRING> degrees </STRING>
+					</REFERENCE>
+					<STRING> south latitude </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.4">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="160" GENDER="unknown" MENTION-ID="153" NUMBER="plural" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.638791" GENDER="unknown" ID="16" MENTION-ID="154" NUMBER="singular" PARAGRAPH-POSITION="31" RECENCY="12" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">Its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="description">The river's</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="description">The river's</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="name">Amazon's</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="name">Amazon River</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="name">The Amazon River's</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It's</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="pronoun">It's</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="description">The river's</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="other">Some of the</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="pronoun">It's</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> most remote sources </STRING>
+			</REFERENCE>
+			<STRING> are found on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="161" GENDER="neutral" MENTION-ID="155" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="162" GENDER="neutral" MENTION-ID="156" NUMBER="singular" TYPE="description">
+					<STRING> the </STRING>
+					<REFERENCE ANIMACY="unknown" ENTITY-ID="154" GENDER="unknown" MENTION-ID="157" NUMBER="singular" TYPE="name"> inter-Andean </REFERENCE>
+					<STRING> plateau </STRING>
+				</REFERENCE>
+				<STRING>, just </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="162" GENDER="unknown" MENTION-ID="158" NUMBER="singular" TYPE="description"> a short distance </REFERENCE>
+			</REFERENCE>
+			<STRING> from </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="164" GENDER="neutral" MENTION-ID="159" NUMBER="singular" TYPE="name"> the Pacific Ocean </REFERENCE>
+			<STRING>; and, after </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="165" GENDER="neutral" MENTION-ID="160" NUMBER="singular" TYPE="description">
+				<STRING> a course of about </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="166" GENDER="unknown" MENTION-ID="161" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="155" GENDER="unknown" MENTION-ID="162" NUMBER="singular" TYPE="name"> 6,400 </REFERENCE>
+					<STRING> km -LRB- </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="167" GENDER="unknown" MENTION-ID="163" NUMBER="plural" TYPE="description">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="156" GENDER="unknown" MENTION-ID="164" NUMBER="singular" TYPE="name"> 4,000 </REFERENCE>
+						<STRING> mi </STRING>
+					</REFERENCE>
+					<STRING> -RRB- through </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="168" GENDER="neutral" MENTION-ID="165" NUMBER="singular" TYPE="description">
+						<STRING> the interior of </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="157" GENDER="neutral" MENTION-ID="166" NUMBER="singular" TYPE="name"> Peru </REFERENCE>
+					</REFERENCE>
+					<STRING> and across </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="22" GENDER="neutral" MENTION-ID="167" NUMBER="singular" TYPE="name"> Brazil </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.548211" GENDER="neutral" ID="17" MENTION-ID="168" NUMBER="singular" PARAGRAPH-POSITION="67" RECENCY="36" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">the Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="other">before it</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="other">the water</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">when</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">the amazon</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">as it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">as it</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">the amazon river</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> enters </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="170" GENDER="neutral" MENTION-ID="169" NUMBER="singular" TYPE="name">
+				<STRING> the Atlantic Ocean at </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="171" GENDER="neutral" MENTION-ID="170" NUMBER="singular" TYPE="description"> the equator </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.440423" GENDER="neutral" ID="18" MENTION-ID="171" NUMBER="unknown" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">The Amazon</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="7" TYPE="pronoun">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="8" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="11" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="14" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="25" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">The Amazon</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">The Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Amazon River</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> has changed </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="173" GENDER="neutral" MENTION-ID="172" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0" GENDER="unknown" ID="19" MENTION-ID="173" NUMBER="singular" PARAGRAPH-POSITION="4" RECENCY="3" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="7" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="8" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="11" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="14" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="25" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="27" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="35" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="39" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="43" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="47" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="48" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="49" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="54" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="57" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="60" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="62" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="63" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="66" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> drainage </STRING>
+			</REFERENCE>
+			<STRING> several times, from westward in </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="176" GENDER="unknown" MENTION-ID="174" NUMBER="singular" TYPE="name">
+				<STRING> the early Cenozoic to </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="177" GENDER="unknown" MENTION-ID="175" NUMBER="singular" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.555404" GENDER="unknown" ID="20" MENTION-ID="176" NUMBER="singular" PARAGRAPH-POSITION="15" RECENCY="11" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">its</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="7" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="8" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="11" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="14" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="25" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="27" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="35" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="39" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="43" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="45" TYPE="name">the Amazon River</REFEX>
+							<REFEX PARTICIPANT-ID="47" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="48" TYPE="name">Amazon River</REFEX>
+							<REFEX PARTICIPANT-ID="49" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it's</REFEX>
+							<REFEX PARTICIPANT-ID="54" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="57" TYPE="other">now</REFEX>
+							<REFEX PARTICIPANT-ID="60" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="62" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="63" TYPE="other">now</REFEX>
+							<REFEX PARTICIPANT-ID="64" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="66" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="67" TYPE="name">the Amazon</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> present eastward locomotion following </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="179" GENDER="neutral" MENTION-ID="177" NUMBER="singular" TYPE="description">
+						<STRING> the uplift of </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="180" GENDER="unknown" MENTION-ID="178" NUMBER="singular" TYPE="name"> the Andes </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

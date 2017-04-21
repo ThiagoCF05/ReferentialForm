@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1783">
+	<TITLE>William Stephenson</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sir William Samuel Stephenson</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, CC , MC , DFC (January 23, 1897 - January 31, 1989) was a Canadian soldier, airman, businessman, inventor, spymaster, and the senior representative of British intelligence for the entire western hemisphere during World War II. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Stephenson</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is best-known by </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> wartime intelligence codename of Intrepid. Some consider </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> to be one of the real-life inspirations for James Bond.</STRING>
+	</PARAGRAPH>
+</TEXT>

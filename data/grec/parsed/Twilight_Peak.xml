@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="901">
+	<TITLE>Twilight Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Twilight Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain in the San Juan Mountains of western Colorado in the United States, south of Silverton. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Twilight peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is adjacent to the Needle Mountains (Colorado). The standard approach is via a trail from Molas Pass to the north. The trail leads to Crater Lake where the summit is accessible.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TEXT ID="573">
+	<TITLE>Mount Tyree</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Tyree</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the second highest mountain of Antarctica located 13 kilometres northwest of Vinson Massif (4,892 m), the highest peak on the continent.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Tyree</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was discovered in January 1958 during reconnaissance flights by the United States Navy VX-6 squadron, and mapped later that month by the Marie Byrd Land Traverse Party. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was named for Rear Admiral David M. Tyree, who was commander of the U.S. Naval Support Force in Antarctica, from April 14, 1959 to November 26, 1962.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The still-unclimbed south face is in height and the highest wall in Antarctic. The climbing season is November to January.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1103">
+	<TITLE>Lucknow</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lucknow</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> pronunciation (Hindi: लखनऊ; Urdu: لكهنو;[IAST: Lakhnau]) is the capital city of the state of Uttar Pradesh, India. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> had a population of 2,541,101 in 2006 . </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lucknow</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the administrative headquarters of Lucknow District and Lucknow Division.</STRING>
+	</PARAGRAPH>
+</TEXT>

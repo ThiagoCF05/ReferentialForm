@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="999">
+	<TITLE>Aşgabat</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Aşgabat</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Turkmen: Aşgabat]; [Persian: عشق آباد], UniPers: Ešq-âbâd; [Russian: Ашхаба́д] - Ashkhabád) also spelled as Ashgabat, Ashkabat, Ashkhabad, Ashgabad, is the capital city of Turkmenistan, a former Soviet republic.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="29" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Aşgabat</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a population of 695,300 (2001 census estimate) and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="10" SEMCAT="city" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is situated between the Kara Kum desert and the Kopet Dag mountain range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The name is believed to derive from the Persian Ashk-abad meaning &quot;the City of Arsaces&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Another explanation is that the name is a corruption of the Persian Eshq (Love) + abad (cultivated place or city), and hence loosely translates as &quot;The city built by/from love&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="99" PARAGRAPH-RECENCY="59" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Aşgabat</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a primarily Turkmen population, with minorities of ethnic Russians, Armenians, and Azeris. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

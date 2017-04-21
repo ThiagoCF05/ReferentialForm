@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TEXT ID="298">
+	<TITLE>Lugnaquilla</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lugnaquilla</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Irish: Log na Coille], meaning Hollow of the Wood) is the highest mountain in Leinster and the 13 highest Irish peak.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest peak in the Wicklow Mountains in eastern Ireland, and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="13" SEMCAT="mountain" SENTENCE-POSITION="14" SENTENCE-RECENCY="13" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of Ireland's fourteen mountains over 3,000 ft, with an elevation of 925 m (3,035 ft).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Views, on a clear day extend east across the Irish Sea to the hills of the Llŷn Peninsula and mountains of Snowdonia in Wales. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> proximity to the capital, Dublin, ensures that  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lugnaquilla</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a frequently climbed mountain.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The most popular approaches to  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">&quot;Lug&quot;</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, as  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="2" SEMCAT="mountain" SENTENCE-POSITION="8" SENTENCE-RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is affectionately known, are via Glenmalure and the Glen of Imaal.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="34" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lugnaquilla</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a bulky mountain, with a large plateau-type summit, bounded on two sides by steep glacial corries (the North and South Prisons). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

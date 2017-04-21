@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1568">
+	<TITLE>Isabella of Castile</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Isabella</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (April 22 1451 - November 26 1504) was Queen regnant of Castile and Leon. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> husband, Ferdinand II of Aragon, laid the foundation for the political unification of Spain under their grandson, Carlos I of Spain (Charles V, Holy Roman Emperor).</STRING>
+	</PARAGRAPH>
+</TEXT>

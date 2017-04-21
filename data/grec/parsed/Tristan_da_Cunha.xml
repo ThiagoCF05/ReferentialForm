@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1396">
+	<TITLE>Tristan da Cunha</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tristan da Cunha</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a group of remote islands in the south Atlantic Ocean, 2816 km (1750 miles) from South Africa and 3360 km (2088 miles) from South America. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a dependency of the British overseas territory of Saint Helena, 2161 km (1350 miles) to the north. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The territory</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> consists of the main island, Tristan da Cunha (98 km²), as well as several uninhabited islands: Inaccessible Island and the Nightingale Islands. Gough Island, situated 395 km south east of the main island, is also part of </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the territory</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The territory</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is considered one of the most remote human settlements in the world.</STRING>
+	</PARAGRAPH>
+</TEXT>

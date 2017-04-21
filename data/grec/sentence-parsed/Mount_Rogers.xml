@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<TEXT ID="521">
+	<TITLE>Mount Rogers</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Rogers</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest point in the state of Virginia, USA, with a summit elevation of 5,729 feet (1,746 metres) above mean sea level.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is in Grayson County, about 6.45 miles WSW of Troutdale, Virginia, within the Mount Rogers National Recreation Area. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The summit is most easily accessed from Grayson Highlands State Park using a well marked trail system.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>It is covered by trees and marked with a National Geodetic Survey triangulation station disk.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The Appalachian Trail passes right beneath the summit and thus the area is especially popular with hikers. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The Mount Rogers area contains a unique record of the geohistory of Virginia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>There is evidence from the rocks that volcanoes were part of the landscape, but not for about 200 million years.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Roughly 750 million years ago, rift-related (divergent) volcanoes erupted along the axis of what later became the Appalachians, and one remnant of that volcanic zone, with its volcanic rocks, still can be seen at  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Rogers</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Massive rhyolite lava flows erupted at  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> during the Precambrian rifting event.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Rogers</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also the only place in Virginia that preserves evidence of ancient glaciation. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

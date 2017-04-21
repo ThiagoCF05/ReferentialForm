@@ -1,0 +1,757 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1">
+			<REFERENCE animacy="ANIMATE" entity="1" gender="FEMALE" mentionid="1" mentiontype="PROPER" number="SINGULAR"> Nicole Kidman </REFERENCE>
+			<STRING> gave </STRING>
+			<TARGET-REFERENCE ENTROPY="0" ID="1" PARAGRAPH-POSITION="4" RECENCY="0" SYNCAT="np-obj" animacy="ANIMATE" entity="2" gender="MALE" mentionid="12" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">George Clooney</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="other">them</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">George</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">George</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">George Timothy Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">george clooney</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">George Timothy Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">George Clooney</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="3" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a hard time when </STRING>
+				<REFERENCE animacy="ANIMATE" entity="4" gender="UNKNOWN" mentionid="4" mentiontype="PRONOMINAL" number="PLURAL"> they </REFERENCE>
+				<STRING> teamed to prevent nuclear terrorism in </STRING>
+				<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="5" mentiontype="PROPER" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="6" gender="NEUTRAL" mentionid="6" mentiontype="NOMINAL" number="SINGULAR"> the 1997 action thriller </REFERENCE>
+					<STRING>`` The Peacekeeper </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>.'' </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2">
+			<STRING> But on </STRING>
+			<REFERENCE animacy="INANIMATE" entity="10" gender="UNKNOWN" mentionid="10" mentiontype="PROPER" number="SINGULAR"> Sunday </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="1" gender="FEMALE" mentionid="7" mentiontype="PROPER" number="SINGULAR"> Kidman </REFERENCE>
+			<STRING> gave </STRING>
+			<TARGET-REFERENCE ENTROPY="0.379551" ID="2" PARAGRAPH-POSITION="27" RECENCY="23" SYNCAT="np-obj" animacy="ANIMATE" entity="2" gender="MALE" mentionid="12" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Clooney</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">George</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="other">them</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">George</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">congratulations</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">george</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">him</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> </STRING>
+			<REFERENCE animacy="INANIMATE" entity="11" gender="MALE" mentionid="11" mentiontype="PROPER" number="SINGULAR">
+				<TARGET-REFERENCE ENTROPY="0.225054" ID="3" PARAGRAPH-POSITION="28" RECENCY="1" SYNCAT="subj-det" animacy="ANIMATE" entity="2" gender="MALE" mentionid="12" mentiontype="PRONOMINAL" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">his</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="82" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="93" TYPE="name">Clooney</REFEX>
+						<REFEX PARTICIPANT-ID="96" TYPE="other">their</REFEX>
+						<REFEX PARTICIPANT-ID="99" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="102" TYPE="name">Clooney</REFEX>
+						<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="111" TYPE="other">for Clooney winning his</REFEX>
+						<REFEX PARTICIPANT-ID="114" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="117" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="126" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="132" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="135" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="138" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="148" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="151" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="154" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="160" TYPE="pronoun">his</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> first Oscar </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="3">
+			<TARGET-REFERENCE ENTROPY="0.123344" ID="4" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="ANIMATE" entity="2" gender="MALE" mentionid="17" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">The actor</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">The actor</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="other">as</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">George Timothy Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">george cloone</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="other">He is</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">George</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Clooney,</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> formerly known as </STRING>
+			<REFERENCE animacy="ANIMATE" entity="13" gender="MALE" mentionid="13" mentiontype="PROPER" number="SINGULAR"> Batman </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="14" gender="MALE" mentionid="14" mentiontype="PROPER" number="SINGULAR"> Brad Pitt's </REFERENCE>
+			<STRING>`` Ocean's </STRING>
+			<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="LIST" number="PLURAL">
+				<STRING> Eleven'' </STRING>
+				<REFERENCE animacy="ANIMATE" entity="21" gender="UNKNOWN" mentionid="21" mentiontype="LIST" number="PLURAL">
+					<STRING> boss and </STRING>
+					<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="22" mentiontype="PROPER" number="UNKNOWN">
+						<STRING> People </STRING>
+						<REFERENCE animacy="ANIMATE" entity="2" gender="MALE" mentionid="23" mentiontype="PROPER" number="SINGULAR"> magazine's Sexiest Man </REFERENCE>
+						<STRING> Alive </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING> received </STRING>
+				<REFERENCE animacy="INANIMATE" entity="24" gender="UNKNOWN" mentionid="24" mentiontype="NOMINAL" number="SINGULAR">
+					<TARGET-REFERENCE ENTROPY="0.371726" ID="5" PARAGRAPH-POSITION="18" RECENCY="17" SYNCAT="subj-det" animacy="ANIMATE" entity="2" gender="MALE" mentionid="25" number="SINGULAR">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">his</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="82" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="90" TYPE="demonstrative">this</REFEX>
+							<REFEX PARTICIPANT-ID="93" TYPE="other">an</REFEX>
+							<REFEX PARTICIPANT-ID="96" TYPE="other">an</REFEX>
+							<REFEX PARTICIPANT-ID="99" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="102" TYPE="other">an</REFEX>
+							<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="111" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="114" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="117" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="123" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="126" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="132" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="135" TYPE="other">the Academy</REFEX>
+							<REFEX PARTICIPANT-ID="138" TYPE="other">an Oscar</REFEX>
+							<REFEX PARTICIPANT-ID="148" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="151" TYPE="demonstrative">this</REFEX>
+							<REFEX PARTICIPANT-ID="154" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="157" TYPE="other">an</REFEX>
+							<REFEX PARTICIPANT-ID="160" TYPE="other">the</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> award </STRING>
+				</REFERENCE>
+				<STRING> as </STRING>
+				<REFERENCE animacy="INANIMATE" entity="26" gender="UNKNOWN" mentionid="26" mentiontype="NOMINAL" number="UNKNOWN">
+					<STRING> best supporting </STRING>
+					<REFERENCE animacy="ANIMATE" entity="27" gender="MALE" mentionid="27" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> actor in </STRING>
+						<REFERENCE animacy="UNKNOWN" entity="28" gender="UNKNOWN" mentionid="28" mentiontype="PROPER" number="SINGULAR"> the dark drama`` Syriana'' </REFERENCE>
+					</REFERENCE>
+					<STRING> from </STRING>
+					<REFERENCE animacy="ANIMATE" entity="29" gender="UNKNOWN" mentionid="29" mentiontype="LIST" number="PLURAL">
+						<TARGET-REFERENCE ENTROPY="0.25482" ID="6" PARAGRAPH-POSITION="30" RECENCY="12" SYNCAT="subj-det" animacy="ANIMATE" entity="2" gender="MALE" mentionid="30" number="SINGULAR">
+							<ORIGINAL-REFEX>
+								<REFEX TYPE="pronoun">his</REFEX>
+							</ORIGINAL-REFEX>
+							<PARTICIPANTS-REFEX>
+								<REFEX PARTICIPANT-ID="82" TYPE="other">Kidman</REFEX>
+								<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+								<REFEX PARTICIPANT-ID="102" TYPE="other">you</REFEX>
+								<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="108" TYPE="other">Kidman</REFEX>
+								<REFEX PARTICIPANT-ID="111" TYPE="empty">-</REFEX>
+								<REFEX PARTICIPANT-ID="114" TYPE="other">nicole kidman</REFEX>
+								<REFEX PARTICIPANT-ID="117" TYPE="other">a</REFEX>
+								<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="126" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="132" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="135" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="138" TYPE="other">Nicole Kidman</REFEX>
+								<REFEX PARTICIPANT-ID="148" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="151" TYPE="other">Nicole Kidman</REFEX>
+								<REFEX PARTICIPANT-ID="154" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="160" TYPE="pronoun">his</REFEX>
+							</PARTICIPANTS-REFEX>
+						</TARGET-REFERENCE>
+						<STRING> former costar -LRB- and </STRING>
+						<REFERENCE animacy="ANIMATE" entity="31" gender="MALE" mentionid="31" mentiontype="NOMINAL" number="SINGULAR">
+							<STRING> a previous Oscar winner </STRING>
+							<REFERENCE animacy="ANIMATE" entity="28" gender="FEMALE" mentionid="32" mentiontype="PRONOMINAL" number="SINGULAR"> herself </REFERENCE>
+						</REFERENCE>
+						<STRING> -RRB- </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4">
+			<REFERENCE animacy="ANIMATE" entity="21" gender="UNKNOWN" mentionid="33" mentiontype="PRONOMINAL" number="PLURAL"> They </REFERENCE>
+			<STRING> shared </STRING>
+			<REFERENCE animacy="INANIMATE" entity="34" gender="UNKNOWN" mentionid="34" mentiontype="NOMINAL" number="UNKNOWN"> a brief </REFERENCE>
+			<STRING> whispered aside when </STRING>
+			<TARGET-REFERENCE ENTROPY="0.428106" ID="7" PARAGRAPH-POSITION="46" RECENCY="16" SYNCAT="np-subj" animacy="ANIMATE" entity="2" gender="MALE" mentionid="35" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">george</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">george</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> greeted </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="36" gender="UNKNOWN" mentionid="36" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="28" gender="FEMALE" mentionid="37" mentiontype="PRONOMINAL" number="SINGULAR"> her </REFERENCE>
+				<STRING> onstage to accept </STRING>
+				<REFERENCE animacy="INANIMATE" entity="11" gender="MALE" mentionid="38" mentiontype="PROPER" number="SINGULAR">
+					<TARGET-REFERENCE ENTROPY="0" ID="8" PARAGRAPH-POSITION="52" RECENCY="6" SYNCAT="subj-det" animacy="ANIMATE" entity="2" gender="MALE" mentionid="39" number="SINGULAR">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">his</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="82" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="93" TYPE="other">an</REFEX>
+							<REFEX PARTICIPANT-ID="96" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="99" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="102" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="111" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="114" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="117" TYPE="other">her</REFEX>
+							<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="126" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="132" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="135" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="138" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="148" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="151" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="154" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="160" TYPE="pronoun">his</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<REFERENCE animacy="ANIMATE" entity="17" gender="MALE" mentionid="39" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+					<STRING> Oscar </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="5">
+			<REFERENCE animacy="INANIMATE" entity="43" gender="UNKNOWN" mentionid="43" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> The award marked </STRING>
+				<REFERENCE animacy="INANIMATE" entity="44" gender="UNKNOWN" mentionid="44" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> at least </STRING>
+					<REFERENCE animacy="INANIMATE" entity="40" gender="UNKNOWN" mentionid="40" mentiontype="PROPER" number="SINGULAR"> one </REFERENCE>
+					<STRING> victory for </STRING>
+					<TARGET-REFERENCE ENTROPY="0.358126" ID="9" PARAGRAPH-POSITION="9" RECENCY="0" SYNCAT="np-obj" animacy="ANIMATE" entity="2" gender="MALE" mentionid="41" number="SINGULAR">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="name">Clooney</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="82" TYPE="pronoun">him</REFEX>
+							<REFEX PARTICIPANT-ID="90" TYPE="name">Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="93" TYPE="name">Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="96" TYPE="pronoun">him</REFEX>
+							<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="102" TYPE="pronoun">hi,</REFEX>
+							<REFEX PARTICIPANT-ID="105" TYPE="name">Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="108" TYPE="name">Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="111" TYPE="name">Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="114" TYPE="name">george clooney</REFEX>
+							<REFEX PARTICIPANT-ID="117" TYPE="name">George</REFEX>
+							<REFEX PARTICIPANT-ID="123" TYPE="name">Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="126" TYPE="name">Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="129" TYPE="name">George</REFEX>
+							<REFEX PARTICIPANT-ID="132" TYPE="name">Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="135" TYPE="name">George Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="138" TYPE="name">Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="148" TYPE="name">George</REFEX>
+							<REFEX PARTICIPANT-ID="151" TYPE="name">Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="154" TYPE="name">Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="157" TYPE="name">Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="160" TYPE="name">Clooney</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING>, </STRING>
+					<TARGET-REFERENCE ENTROPY="0.427128" ID="10" PARAGRAPH-POSITION="10" RECENCY="1" SYNCAT="np-subj" animacy="ANIMATE" entity="2" gender="MALE" mentionid="41" number="SINGULAR">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">who</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="82" TYPE="name">George Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="90" TYPE="pronoun">who</REFEX>
+							<REFEX PARTICIPANT-ID="93" TYPE="pronoun">who</REFEX>
+							<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="102" TYPE="name">george</REFEX>
+							<REFEX PARTICIPANT-ID="105" TYPE="pronoun">who</REFEX>
+							<REFEX PARTICIPANT-ID="108" TYPE="pronoun">qho</REFEX>
+							<REFEX PARTICIPANT-ID="111" TYPE="pronoun">who</REFEX>
+							<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="117" TYPE="name">Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="126" TYPE="other">as he</REFEX>
+							<REFEX PARTICIPANT-ID="129" TYPE="other">and</REFEX>
+							<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="135" TYPE="name">Clooney</REFEX>
+							<REFEX PARTICIPANT-ID="138" TYPE="pronoun">who</REFEX>
+							<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="154" TYPE="pronoun">who</REFEX>
+							<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+							<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> was </STRING>
+					<REFERENCE animacy="ANIMATE" entity="45" gender="MALE" mentionid="45" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> the poster boy for </STRING>
+						<REFERENCE animacy="INANIMATE" entity="46" gender="UNKNOWN" mentionid="46" mentiontype="PROPER" number="SINGULAR">
+							<REFERENCE animacy="INANIMATE" entity="47" gender="UNKNOWN" mentionid="47" mentiontype="PROPER" number="SINGULAR"> this year's </REFERENCE>
+							<STRING> Oscars </STRING>
+						</REFERENCE>
+					</REFERENCE>
+					<STRING> with </STRING>
+					<REFERENCE animacy="INANIMATE" entity="48" gender="UNKNOWN" mentionid="48" mentiontype="NOMINAL" number="PLURAL">
+						<REFERENCE animacy="INANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="PROPER" number="SINGULAR"> two </REFERENCE>
+						<STRING> other nominations </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING> as well-- </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="49" gender="UNKNOWN" mentionid="49" mentiontype="NOMINAL" number="UNKNOWN">
+					<STRING> both for </STRING>
+					<REFERENCE animacy="INANIMATE" entity="50" gender="UNKNOWN" mentionid="50" mentiontype="LIST" number="PLURAL">
+						<STRING>`` </STRING>
+						<REFERENCE animacy="INANIMATE" entity="51" gender="UNKNOWN" mentionid="51" mentiontype="LIST" number="PLURAL">
+							<REFERENCE animacy="INANIMATE" entity="52" gender="UNKNOWN" mentionid="52" mentiontype="NOMINAL" number="SINGULAR"> Good Night </REFERENCE>
+							<STRING>, and </STRING>
+							<REFERENCE animacy="INANIMATE" entity="53" gender="UNKNOWN" mentionid="53" mentiontype="PROPER" number="SINGULAR"> Good Luck </REFERENCE>
+						</REFERENCE>
+						<STRING>,'' as director and for original screenplay -LRB- </STRING>
+						<REFERENCE animacy="ANIMATE" entity="54" gender="MALE" mentionid="54" mentiontype="PROPER" number="SINGULAR"> along with Grant Heslov </REFERENCE>
+						<STRING> -RRB- </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING>. </STRING>
+			</REFERENCE>
+		</SENTENCE>
+		<SENTENCE ID="6">
+			<STRING> But </STRING>
+			<TARGET-REFERENCE ENTROPY="0.618739" ID="11" PARAGRAPH-POSITION="44" RECENCY="34" SYNCAT="np-subj" animacy="ANIMATE" entity="2" gender="MALE" mentionid="55" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="other">as</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="description">the actor</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">was</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> perhaps displayed </STRING>
+			<REFERENCE animacy="INANIMATE" entity="56" gender="NEUTRAL" mentionid="56" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a sly knowledge of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="57" gender="UNKNOWN" mentionid="57" mentiontype="NOMINAL" number="PLURAL"> alleged Oscar politics </REFERENCE>
+			</REFERENCE>
+			<STRING> when </STRING>
+			<TARGET-REFERENCE ENTROPY="0.228433" ID="12" PARAGRAPH-POSITION="55" RECENCY="11" SYNCAT="np-subj" animacy="ANIMATE" entity="2" gender="MALE" mentionid="58" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> quipped,`` Wow. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="7">
+			<STRING> All right, so </STRING>
+			<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="59" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+			<STRING> 'm not winning for </STRING>
+			<REFERENCE animacy="ANIMATE" entity="60" gender="MALE" mentionid="60" mentiontype="NOMINAL" number="SINGULAR"> best director </REFERENCE>
+			<STRING>.'' </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="8">
+			<STRING> In taking home </STRING>
+			<REFERENCE animacy="INANIMATE" entity="11" gender="MALE" mentionid="62" mentiontype="PROPER" number="SINGULAR">
+				<TARGET-REFERENCE ENTROPY="0.294599" ID="13" PARAGRAPH-POSITION="4" RECENCY="0" SYNCAT="subj-det" animacy="ANIMATE" entity="2" gender="MALE" mentionid="63" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">his</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="82" TYPE="other">his first</REFEX>
+						<REFEX PARTICIPANT-ID="90" TYPE="demonstrative">this</REFEX>
+						<REFEX PARTICIPANT-ID="93" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="99" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="102" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="111" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="114" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="117" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="123" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="126" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="132" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="135" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="138" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="148" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="151" TYPE="demonstrative">this</REFEX>
+						<REFEX PARTICIPANT-ID="154" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="160" TYPE="other">the</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> Oscar </STRING>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ENTROPY="0.294599" ID="14" PARAGRAPH-POSITION="6" RECENCY="2" SYNCAT="np-subj" animacy="ANIMATE" entity="2" gender="MALE" mentionid="61" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Clooney</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">George</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">george clooney</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">George</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Clooney</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> joins </STRING>
+			<REFERENCE animacy="ANIMATE" entity="64" gender="MALE" mentionid="64" mentiontype="PROPER" number="SINGULAR">
+				<STRING> Robert De Niro as </STRING>
+				<REFERENCE animacy="ANIMATE" entity="65" gender="MALE" mentionid="65" mentiontype="NOMINAL" number="SINGULAR"> another glamour boy </REFERENCE>
+				<STRING> who won </STRING>
+				<REFERENCE animacy="INANIMATE" entity="66" gender="UNKNOWN" mentionid="66" mentiontype="PROPER" number="SINGULAR"> an Academy Award </REFERENCE>
+				<STRING> by putting on weight </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="9">
+			<REFERENCE animacy="ANIMATE" entity="64" gender="MALE" mentionid="67" mentiontype="PROPER" number="SINGULAR"> De Niro </REFERENCE>
+			<STRING> was almost unrecognizable after gaining </STRING>
+			<REFERENCE animacy="ANIMATE" entity="69" gender="UNKNOWN" mentionid="69" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> dozens of pounds for </STRING>
+				<REFERENCE animacy="INANIMATE" entity="70" gender="UNKNOWN" mentionid="70" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="ANIMATE" entity="64" gender="MALE" mentionid="71" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+					<STRING> turn </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> as </STRING>
+			<REFERENCE animacy="ANIMATE" entity="72" gender="NEUTRAL" mentionid="72" mentiontype="PROPER" number="SINGULAR">
+				<STRING> boxer Jake La Motta in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="73" gender="UNKNOWN" mentionid="73" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="74" gender="UNKNOWN" mentionid="74" mentiontype="PROPER" number="SINGULAR"> 1980's </REFERENCE>
+					<STRING>`` Raging Bull,'' which scored him </STRING>
+					<REFERENCE animacy="ANIMATE" entity="76" gender="MALE" mentionid="76" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> a best actor </STRING>
+						<REFERENCE animacy="ANIMATE" entity="11" gender="MALE" mentionid="68" mentiontype="PROPER" number="SINGULAR"> Oscar </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="10">
+			<TARGET-REFERENCE ENTROPY="0.38864" ID="15" PARAGRAPH-POSITION="53" RECENCY="47" SYNCAT="np-subj" animacy="ANIMATE" entity="2" gender="MALE" mentionid="77" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Clooney</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">geroge clooney</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">George Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">He</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> gained 35 pounds for </STRING>
+			<REFERENCE animacy="INANIMATE" entity="79" gender="UNKNOWN" mentionid="79" mentiontype="NOMINAL" number="SINGULAR">
+				<TARGET-REFERENCE ENTROPY="0" ID="16" PARAGRAPH-POSITION="58" RECENCY="5" SYNCAT="subj-det" animacy="ANIMATE" entity="2" gender="MALE" mentionid="80" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">his</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="82" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="93" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="99" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="102" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="111" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="114" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="117" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="126" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="132" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="135" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="138" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="148" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="151" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="154" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="160" TYPE="other">the</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> role </STRING>
+			</REFERENCE>
+			<STRING> as </STRING>
+			<REFERENCE animacy="ANIMATE" entity="81" gender="MALE" mentionid="81" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a troubled former </STRING>
+				<REFERENCE animacy="INANIMATE" entity="78" gender="NEUTRAL" mentionid="78" mentiontype="PROPER" number="UNKNOWN"> CIA </REFERENCE>
+				<STRING> agent in </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="28" gender="UNKNOWN" mentionid="82" mentiontype="PROPER" number="SINGULAR">
+					<STRING>`` </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="28" gender="UNKNOWN" mentionid="83" mentiontype="PROPER" number="SINGULAR"> Syriana </REFERENCE>
+					<STRING>,'' casting </STRING>
+					<REFERENCE animacy="INANIMATE" entity="84" gender="UNKNOWN" mentionid="84" mentiontype="NOMINAL" number="SINGULAR">
+						<TARGET-REFERENCE ENTROPY="0.152184" ID="17" PARAGRAPH-POSITION="69" RECENCY="11" SYNCAT="subj-det" animacy="ANIMATE" entity="2" gender="MALE" mentionid="85" number="SINGULAR">
+							<ORIGINAL-REFEX>
+								<REFEX TYPE="pronoun">his</REFEX>
+							</ORIGINAL-REFEX>
+							<PARTICIPANTS-REFEX>
+								<REFEX PARTICIPANT-ID="82" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="99" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="102" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="111" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="114" TYPE="name">geroge clooney</REFEX>
+								<REFEX PARTICIPANT-ID="117" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="126" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="132" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="135" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="138" TYPE="other">aside</REFEX>
+								<REFEX PARTICIPANT-ID="148" TYPE="other">a</REFEX>
+								<REFEX PARTICIPANT-ID="151" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="154" TYPE="other">away</REFEX>
+								<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+								<REFEX PARTICIPANT-ID="160" TYPE="pronoun">his</REFEX>
+							</PARTICIPANTS-REFEX>
+						</TARGET-REFERENCE>
+						<STRING> pretty boy persona </STRING>
+					</REFERENCE>
+					<STRING> to </STRING>
+					<REFERENCE animacy="INANIMATE" entity="86" gender="NEUTRAL" mentionid="86" mentiontype="NOMINAL" number="SINGULAR"> the wind </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="11">
+			<STRING> Asked backstage if </STRING>
+			<REFERENCE animacy="INANIMATE" entity="88" gender="NEUTRAL" mentionid="88" mentiontype="NOMINAL" number="SINGULAR"> the weight gain </REFERENCE>
+			<STRING> had any influence on </STRING>
+			<REFERENCE animacy="ANIMATE" entity="89" gender="UNKNOWN" mentionid="89" mentiontype="NOMINAL" number="PLURAL"> academy voters </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ENTROPY="0.428106" ID="18" PARAGRAPH-POSITION="13" RECENCY="0" SYNCAT="np-subj" animacy="ANIMATE" entity="2" gender="MALE" mentionid="87" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Clooney</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">George</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">george</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">George</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Clooney</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Clooney</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> said:`` </STRING>
+			<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="90" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+			<STRING> do n't know whether </STRING>
+			<REFERENCE animacy="INANIMATE" entity="88" gender="NEUTRAL" mentionid="91" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+			<STRING> matters or not. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="12">
+			<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="92" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+			<STRING> think </STRING>
+			<REFERENCE animacy="INANIMATE" entity="88" gender="NEUTRAL" mentionid="93" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+			<STRING> 's </STRING>
+			<REFERENCE animacy="INANIMATE" entity="88" gender="NEUTRAL" mentionid="94" mentiontype="NOMINAL" number="SINGULAR"> a good part </REFERENCE>
+			<STRING>.'' </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

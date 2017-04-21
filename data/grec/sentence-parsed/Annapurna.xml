@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TEXT ID="22">
+	<TITLE>Annapurna</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Annapurna</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Sanskrit, Nepali, Nepal Bhasa: अन्नपूर्ण) is a series of peaks in the Himalaya, a 55-km-long massif  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">whose</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> highest point, Annapurna I, stands at 8,091 m (26,538 ft), making it the 10th-highest summit in the world and one of the 14 &quot;eight-thousanders&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located east of a great gorge cut through the Himalaya by the Kali Gandaki River, which separates  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> from the Dhaulagiri massif.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>(Dhaulagiri I lies 34km (21 mi) west of Annapurna I.)</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Annapurna is a Sanskrit name which is translated as Goddess of the Harvests.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>In Hinduism, Annapurna is a goddess of fertility and agriculture and an avatar of Durga. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

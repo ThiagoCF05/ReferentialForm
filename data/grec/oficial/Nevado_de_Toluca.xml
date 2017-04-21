@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TEXT ID="605">
+	<TITLE>Nevado de Toluca</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado de Toluca</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a large stratovolcano in central Mexico, located about 80 km west of Mexico City near the city of Toluca.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is generally cited as the fourth highest of Mexico's peaks, after Pico de Orizaba, Popocatépetl, and Iztaccíhuatl, although by some measurements, Sierra Negra is slightly higher.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="49" PARAGRAPH-RECENCY="27" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is often called by the Nahuatl name Xinantécatl, &quot;Senor Desnudo&quot; in spanish, which is usually translated as &quot;The Naked Man&quot; although other etymologies have been suggested such as &quot;Lord of the Cornstalks&quot; (chinām(itl) 'cornstalks' + tēcatl 'lord of'). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a 1.5 km (1 mile) wide summit caldera which is open to the west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The highest summit, Pico del Fraile (Friar's Peak), is on the south side of the crater and the second highest, Pico de la Aguila (Eagle's Peak), is on the north.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>There are two crater lakes on the floor of the basin at about 4200 m, the larger Laguna del Sol (Sun Lake) and the smaller, but deeper, Laguna de la Luna (Moon Lake).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>A road runs into the caldera to the lakes, making  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="90" PARAGRAPH-RECENCY="89" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> perhaps the most accessible major Mexican peak. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>From the southeast,  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado de Toluca</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> looks flat-topped, like shoulders without a head.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>A legend (recounted as part of the legend of Popocatépetl and Iztaccíhuatl) provides a mythical explanation. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

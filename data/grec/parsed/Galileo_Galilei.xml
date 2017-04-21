@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1529">
+	<TITLE>Galileo Galilei</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Galileo Galilei</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (February 15 1564 - January 8 1642) was an Italian physicist, astronomer, and philosopher </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is closely associated with the scientific revolution. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> achievements include improvements to the telescope, a variety of astronomical observations, the first and second laws of motion, and effective support for Copernicanism. According to Stephen Hawking, </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Galileo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has probably contributed more to the creation of the modern natural sciences than anybody else. </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been referred to as the &quot;father of modern astronomy,&quot; as the &quot;father of modern physics,&quot; and as the &quot;father of science.&quot; The work of </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Galileo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is considered to be a significant break from that of Aristotle.</STRING>
+	</PARAGRAPH>
+</TEXT>

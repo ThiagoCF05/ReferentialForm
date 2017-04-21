@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<TEXT ID="890">
+	<TITLE>Torreys Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Torreys Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in the Front Range region of the Rocky Mountains in Colorado.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of 54 fourteeners in Colorado.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> nearest major city is Denver.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The first man to ascend  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="35" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Torreys Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, botanist Charles C. Parry, named  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="6" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> for his botanist colleague John Torrey.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Torrey actually did not see  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="53" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> until 1872, 11 years later.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="59" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is nearly always mentioned in conjunction with nearby Grays Peak.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="70" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Torreys Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located along the Continental Divide, as well as the division between Clear Creek County and Summit County. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>There are three main trails used to reach the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The first is actually a continuation of the main trail to the summit of Grays Peak, which starts in Stevens Gulch.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>See the Grays Peak article for more information on accessing that trail. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>A popular and challenging variation of this trail follows class-3 Kelso Ridge.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>This route splits from the Grays Peak trail two miles from the trailhead, climbs to the 12,400 foot saddle between  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="21" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Torreys</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and 13,164 foot Kelso Mountain, then follows the rugged ridge about a mile to the summit. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The third trail starts at Loveland Pass about 4.5 miles to the northwest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>To reach Loveland Pass, follow I-70 west from Denver 55 miles to where US Route 6 breaks off and heads south.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>Follow the meandering Route 6 approximately seven miles to the trailhead at Loveland Pass, at an elevation of 11,990 feet. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>The steepest part of the trail actually begins right away with a half mile climb of 1,000 feet.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>The trail follows the Continental Divide gently taking the climber down into three saddles and up two more peaks, including Grizzly Peak (13,427 feet).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.3">
+			<STRING>The final saddle rests at approximately 12,600.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.4">
+			<STRING>From this saddle, it is a mile-long ascent of 1,800 feet to the final summit. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING>Once at the summit, many opt to continue on to Grays Peak, 0.75 miles away.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.2">
+			<STRING>The trail from  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Torreys Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> to Grays Peak dips down to a 13,707 foot saddle and then climbs back up to 14,270 feet. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<TEXT ID="931">
+	<TITLE>Yerupaj%C3%A1</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Yerupaja</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> or Nevado Yerupaja is a mountain of the Cordillera Huayhuash in north central Peru, part of the Andes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>At 6,635 m (other sources: 6,617 m)  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the second highest in Peru and the highest in the Cordillera Huayhuash.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The summit was first reached in 1950 by Jim Maxwell and Dave Harrah, and  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> northern peak (Yerupaja Norte) in 1968 by the Wellingtonian Roger Bates and Graeme Dingle. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> local name is El Carnicero, which means Butcher.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>This name refers to the knife-edge-sharpness of  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit ridge.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Many visitors consider  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Yerupaja</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> to be the most spectacular peak in South America. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>There have been only a few successful ascents of  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> because  </STRING>
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the hardest Andean high peaks to climb.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The most popular route is the southwest face.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The approach is normally made from Huaraz southwards via Chiquián and Jahuacocha. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

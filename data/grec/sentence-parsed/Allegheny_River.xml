@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TEXT ID="1792">
+	<TITLE>Allegheny River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Allegheny River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (also spelled Allegany River, especially in New York state) is a principal tributary of the Ohio River, which  </STRING>
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms with the Monongahela River at downtown Pittsburgh's Golden Triangle &quot;point.&quot;</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is approximately 325 mi (523 km) long, running through the U.S. states of New York and Pennsylvania.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> drains a rural dissected plateau of 11,580 sq mi (29,992 km²) in the northern Allegheny Plateau, providing the northeastern most drainage in the watershed of the Mississippi River.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> tributaries reach to within 8 mi (13 km) of Lake Erie in southwestern New York.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The valley of  </STRING>
+			<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been one of the most productive areas of energy extraction in U.S. history, with extensive deposits of coal, petroleum, and natural gas. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

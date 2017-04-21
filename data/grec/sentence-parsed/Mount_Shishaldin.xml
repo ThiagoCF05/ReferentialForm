@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT ID="536">
+	<TITLE>Mount Shishaldin</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Shishaldin Volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (pronounced /ʃɨˈʃældən/) is a moderately active volcano on Unimak Island in the Aleutian Islands chain of Alaska.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a rather symmetric cone, reminiscent of Mount Fuji, with several smaller, low-profile cones scattered on the Northwest slope.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Rising to 2857 m (9,373 ft) above sea level  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the third largest island based volcano in North America and one of the most active volcanoes in the Aleutian Range. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

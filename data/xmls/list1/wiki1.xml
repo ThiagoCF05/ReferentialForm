@@ -1,0 +1,288 @@
+<?xml version="1.0" ?>
+<TEXT GENRE="wiki" ID="8" TOPIC-ANIMACY="inanimate">
+	<TITLE>Aconcagua</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ENTROPY="0.0" ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Cerro Aconcagua</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Cerro Aconcagu</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Aconcagua</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain in the Americas, and the highest mountain outside Asia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ENTROPY="0.421208373686" ID="2" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="14" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">Mount Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Andes mountain range, in the Argentine province of Mendoza.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The summit is located about 5 kilometres from San Juan Province and 15 kilometres from the international border with Chile.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>It lies 112 km (70 mi) west by north of the city of Mendoza.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ENTROPY="0.708769308589" ID="3" PARAGRAPH-POSITION="63" PARAGRAPH-RECENCY="48" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Aconcagua</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Cerro Aconcagu</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">This</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="description">The mountain</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="name">The mountain of Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="demonstrative">This</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> is the highest peak in both the Western and Southern Hemispheres.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<REFERENCE ENTROPY="0.525876657364" ID="4" PARAGRAPH-POSITION="75" PARAGRAPH-RECENCY="12" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">This mountain</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> is one of the Seven Summits.  </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ENTROPY="0.554303998885" ID="5" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Aconcagua</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="description">The mountain</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="other">Mendoza</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="description">The mountain</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">The province of Mendoza</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">Province</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">The mountain</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Aconcagua</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> is bounded by the Valle de las Vacas to the north and east and the Valle de los Horcones Inferior to the West and South.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ENTROPY="0.771979655316" ID="6" PARAGRAPH-POSITION="27" PARAGRAPH-RECENCY="26" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="other">North</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">Valle de las Vacas</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="other">Vacas</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="other">Vacas</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="other">Land</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">San Juan Province</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="other">Valle de las Vacas</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="description">Mountain</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">North</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="other">Valle de las Vacas</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">Valle de las Vacas</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">Vacas</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Aconcagua</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> and  </STRING>
+			<REFERENCE ENTROPY="0.349398470282" ID="7" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="2" SENTENCE-POSITION="3" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="other">east</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="other">Valle de los Horcones</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="other">Horcones</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="other">Horcones</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="other">water</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">Mendoza</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="other">Valle de los Horcones</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="other">Glacier</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">South</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="other">Valle de los Horcones</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">Valle de los Horcones</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">Vacas</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it's</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> surroundings are part of the Aconcagua Provincial Park.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ENTROPY="0.430676558073" ID="8" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="9" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="other">Mendoza</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="other">The Park</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="other">Both</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="other">The park</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="other">The park</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> has a number of glaciers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The most substantial are the north-eastern or Polish Glacier and the eastern or English Glacier.  </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ENTROPY="0.421208373686" ID="9" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="name">Cerro aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="description">The mountain</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="description">The mountain</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="description">The peak</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="name">Aconcagua</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> was created by the subduction of the Nazca Plate beneath the South American plate during the geologically recent Andean orogeny; however,  </STRING>
+			<REFERENCE ENTROPY="0.665460829989" ID="10" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SENTENCE-POSITION="23" SENTENCE-RECENCY="22" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="27" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="35" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="39" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="43" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="45" TYPE="name">Cerro Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="47" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="48" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="49" TYPE="description">the mountain</REFEX>
+					<REFEX PARTICIPANT-ID="50" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="54" TYPE="name">Aconcagua</REFEX>
+					<REFEX PARTICIPANT-ID="57" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="60" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="62" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="63" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="64" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="66" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="67" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> is not a volcano.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The origin of the name is contested, it is either from the Arauca Aconca-Hue, which refers to the Aconcagua River and means 'comes from the other side' or the Quechua Ackon Cahuak, meaning 'Sentinel of Stone'.  </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

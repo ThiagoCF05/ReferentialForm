@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TEXT ID="1264">
+	<TITLE>Faroe Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Faroe Islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> or simply Faroes (Faroese: Føroyar, meaning &quot;Sheep Islands&quot;, Danish: Færøerne) are a group of islands in Northern Europe, between the Norwegian Sea and the North Atlantic Ocean, about one-half of the way from Iceland to Norway.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">They</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> have been an autonomous region of the Kingdom of Denmark since 1948 and  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> have, over the years, taken control of most matters, except defence ( </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">they</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> have a small organized native military in Mjørkadalur, including a small Police force and Coast Guard) and foreign affairs which is the responsibility of Denmark. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Faroes</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> have close traditional ties to Iceland, Shetland, Orkney, the Outer Hebrides and Greenland.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The archipelago was detached from Norway in 1814.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Faroes</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are represented in the Nordic Council as a part of the Danish Delegation. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

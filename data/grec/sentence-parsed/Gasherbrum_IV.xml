@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="171">
+	<TITLE>Gasherbrum IV</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gasherbrum IV</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the 17th highest mountain on Earth and the 6th highest in Pakistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the peaks in the Gasherbrum massif. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The Gasherbrums are a remote group of peaks located at the northeastern end of the Baltoro Glacier in the Karakoram range of the Himalaya.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The massif contains three of the world's 8,000 metre peaks (if one includes Broad Peak).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Gasherbrum is often claimed to mean &quot;Shining Wall&quot;, presumably a reference to the highly visible west face of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gasherbrum IV</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>; but in fact it comes from &quot;rgasha&quot; (beautiful) + &quot;brum&quot; (mountain) in Balti, hence it actually means &quot;beautiful mountain.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

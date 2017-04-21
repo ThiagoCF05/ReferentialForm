@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TEXT ID="65">
+	<TITLE>Cannon Mountain (New Hampshire)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cannon Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (formerly Profile Mountain) is a 4,100 foot (1,250 m) peak in the White Mountains of New Hampshire.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Known for both  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> technical rock &amp; ice climbing (particularly on Cannon Cliff, pictured) and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="34" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="16" SENTENCE-RECENCY="12" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> skiing ( </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="3" SEMCAT="mountain" SENTENCE-POSITION="19" SENTENCE-RECENCY="3" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a state owned ski area),  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="44" PARAGRAPH-RECENCY="7" SEMCAT="mountain" SENTENCE-POSITION="26" SENTENCE-RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was home to the Old Man of the Mountain until the formation collapsed on May 3, 2003.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="62" PARAGRAPH-RECENCY="18" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the parent mountain of three mountains, with heights of 3,693, 3,700, and 3,769 feet (1,125, 1,127 and 1,148 m), collectively known as &quot;The Cannon Balls.&quot;</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="89" PARAGRAPH-RECENCY="27" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a type of geological formation known as an exfoliating granite dome which is layered like an onion.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="108" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cannon Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located within Franconia Notch State Park. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

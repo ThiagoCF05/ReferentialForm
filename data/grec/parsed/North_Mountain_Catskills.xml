@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TEXT ID="616">
+	<TITLE>North Mountain (Catskills)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">North Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a peak in the Catskill Mountains of New York, on the border between the towns of Catskill and Hunter, in Greene County. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of the Catskill Escarpment.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> overlooks the North-South Lake State Campground, an area where resort hotels such as the Catskill Mountain House were once located, and thus </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has long been a popular climb with hikers. </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> can be reached by several trails from the campground area, all of which eventually lead to the Escarpment Trail, which crosses the summit.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Most hikers stop, at least for a while, at North Point, an area of many open ledges located at 2,900 feet (880 m), along the trail about a half-mile (800 m) below the summit. The views of the lakes, other mountains such as Kaaterskill High Peak and the Hudson River and its valley are expansive. They were sometimes the subject of paintings by members of the Hudson River School.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>The summit is also one of the lowest in elevation in the Catskills to feature a boreal forest of red spruce and balsam fir.</STRING>
+	</PARAGRAPH>
+</TEXT>

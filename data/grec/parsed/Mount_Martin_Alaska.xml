@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="480">
+	<TITLE>Mount Martin (Alaska)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Martin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a stratovolcano, located on the Alaska Peninsula, United States. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the volcanoes in the vicinity of the Valley of Ten Thousand Smokes. Although an eruption in 1953 is now considered questionable and no other confirmed eruptive activity has taken place at </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Martin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, there is intense fumarolic activity within </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> summit crater. The summit crater is also breached to the southeast. The 300 m (984 ft)-wide summit crater is often ice-free due to the geothermal heat and contains an intermittent acidic crater lake. The fumaroles in the summit crater produce extensive sulfur deposits.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is named for George C. Martin, who was the first person to visit the Valley of Ten Thousand Smokes after the 1912 eruption of Novarupta.</STRING>
+	</PARAGRAPH>
+</TEXT>

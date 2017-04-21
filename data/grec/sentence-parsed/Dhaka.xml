@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<TEXT ID="1050">
+	<TITLE>Dhaka</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dhaka</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (previously Dacca; Bangla: ঢাকা āhaka; [IPA: ɖʱaka]) is the capital of Bangladesh and the Dhaka District.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Located on the banks of the Buriganga River,  </STRING>
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dhaka</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and its metropolitan area have a population of 11 million, making  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> the largest city in Bangladesh and one of the most populous cities in the world. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Under Mughal rule,  </STRING>
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was also known as Jahangir Nagar.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The modern city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was largely developed by British authorities and  </STRING>
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> soon became the second-largest city in Bengal after Kolkata.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>With the partition of India,  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dhaka</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became the administrative capital of East Pakistan before becoming the capital of an independent Bangladesh in 1972.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>During this period  </STRING>
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dhaka</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> witnessed extensive political turmoil, including many periods of martial law, the declaration of Bangladesh's independence, military suppression and devastation from war and natural calamities. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Modern Dhaka</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the centre of political, cultural and economic life in Bangladesh, enjoying the highest literacy rate amongst other Bangladeshi cities and a diverse economy.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>While the urban infrastructure is the most developed in the country,  </STRING>
+			<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dhaka</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> suffers from severe challenges such as pollution, congestion, supply shortages, poverty and crime.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>In recent decades  </STRING>
+			<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dhaka</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has seen a modernisation of transport, communications and public works.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is attracting considerable foreign investment, greater volumes of commerce and trade and an increasing influx of people from across the nation. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

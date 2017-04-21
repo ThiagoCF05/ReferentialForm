@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<TEXT ID="236">
+	<TITLE>Iztaccíhuatl</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Iztaccíhuatl</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (alternative spellings include Ixtaccíhuatl, or either variant spelled without the accent) ([IPA: istakˈsiwatɬ] or, as spelled with the x, [IPA: iʃtakˈsiwatɬ]), is the third highest mountain in Mexico, after the Pico de Orizaba (5,636 m) and Popocatépetl (5,426 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name is Nahuatl for &quot;white woman&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has four peaks, the highest of which is 5,230 m above sea level.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Together, the peaks are seen as depicting the head, chest, knees and feet of a sleeping female figure, which is visible from either the east or the west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Iztaccíhuatl</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mere 70 km to the southeast of Mexico City and  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is often visible from the capital, depending on atmospheric conditions. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>While the first recorded ascent was made in 1889, archaeological evidence suggests that the Aztecs and previous cultures also climbed  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">This</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the lowest peak that contains permanent snow and glaciers in Mexico. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Iztaccíhuatl</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies to the north of Popocatépetl, and  </STRING>
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is connected to it by the high pass called the Paso de Cortés. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEXT ID="1409">
+	<TITLE>Uzbekistan</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Uzbekistan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Uzbekistan (Uzbek: O‘zbekiston Respublikasi or O‘zbekiston Jumhuriyati), is a doubly landlocked country in Central Asia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shares borders with Kazakhstan to the west and to the north, Kyrgyzstan and Tajikistan to the east, and Afghanistan and Turkmenistan to the south.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>This gives  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Uzbekistan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> a rather unusual status shared only with Europe's Liechtenstein in that their nation is surrounded entirely by other landlocked states.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The language, Uzbek, is a Turkic language mutually understandable with Turkish and other Turkic languages, however some sources put the ethnic tajiks, an ethnic group closely related to Persians at approximately 42%.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The name Uzbekistan is derived from Persian, meaning &quot;land of the Uzbeks&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>The word &quot;Ozbek&quot; means, Real/original/true (Oz) Leaders, Nobles (bek). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

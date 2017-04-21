@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1676">
+	<TITLE>Niels Bohr</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Niels (Henrik David) Bohr</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> [IPA: [nels ˈb̥oɐ̯ˀ]] (October 7, 1885 - November 18, 1962) was a Danish physicist  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="15" SEMCAT="person" SENTENCE-POSITION="16" SENTENCE-RECENCY="15" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> made fundamental contributions to understanding atomic structure and quantum mechanics.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="27" PARAGRAPH-RECENCY="11" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bohr</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is widely considered one of the greatest physicists of the twentieth century. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

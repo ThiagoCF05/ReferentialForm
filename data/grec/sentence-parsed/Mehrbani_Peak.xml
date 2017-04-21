@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="322">
+	<TITLE>Mehrbani Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mehrbani Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in Naltar Valley in the Gilgit District of Northern Areas of Pakistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies in the northwest of Naltar Peak (4,678 m) and in the south of the Snow Dome peak (5,029 m) (there is another Snow Dome peak near Concordia). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

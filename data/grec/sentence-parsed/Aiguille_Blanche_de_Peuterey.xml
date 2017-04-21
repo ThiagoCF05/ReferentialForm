@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="7">
+	<TITLE>Aiguille Blanche de Peuterey</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Aiguille Blanche de Peuterey</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (4,112 m) is a mountain of the Mont Blanc massif in Italy. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>There are three tops to  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>:*Pointe Güssfeldt (4,112 m)*Pointe Seymour King (4,107 m)*Pointe Jones (4,104 m) </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Together with  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> neighbour – the Aiguille Noire de Peuterey (3,773 m) –  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Aiguille Blanche</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms part of the Peuterey ridge (Intégrale), one of the three great ridges (the others being the Innominata and Brouillard ridges) to the summit of Mont Blanc.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>This was first climbed via a couloir on the Brenva face by Paul Güssfeldt with Emile Rey, Christian Klucker and César Ollier on 15–19 August 1893.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The first ascent of the complete ridge including the Aiguille Noire de Peuterey (the Intégrale) was on 28–31 July 1934 by Adolf Göttner, Ludwig Schmaderer and Ferdinand Krobath, </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="715">
+	<TITLE>Scafell Pike</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Scafell Pike</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain in England.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Lake District National Park in Cumbria. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is sometimes confused with the neighbouring Sca Fell, to which  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is connected by the col of Mickledore.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The name Pikes of Sca Fell was originally applied collectively to the peaks now known as Scafell Pike, Ill Crag and Broad Crag, which were considered subsidiary tops of Sca Fell (which looks higher from many angles).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The contraction Scafell Pike originated as an error on an Ordnance Survey map, but is now standard. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The land was donated to the National Trust in 1920 by Lord Leconfield in memory of the men of the Lake District &quot;who fell for God and King, for freedom, peace and right in the Great War&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Scafell Pike</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of three British mountains climbed as part of the (National) Three Peaks Challenge. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

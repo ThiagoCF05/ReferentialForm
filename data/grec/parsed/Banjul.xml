@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1010">
+	<TITLE>Banjul</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Banjul</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the capital of The Gambia. The population of </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city proper</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is only 34,828 but the total urban area is many times larger with a population of 523,589 (2003 census). </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located on St Mary's Island (or Banjul Island) where the Gambia River enters the Atlantic Ocean. </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Banjul</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located at 13°28' North, 16°36' West (13.4667, -16.60).</STRING>
+	</PARAGRAPH>
+</TEXT>

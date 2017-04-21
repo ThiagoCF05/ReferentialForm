@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<TEXT ID="1136">
+	<TITLE>Peshawar</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING>Peshāwar (Pashto: پښور; Urdu:پشاور) literally means City on the Frontier in Persian and  </STRING>
+			<REFERENCE ID="1" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="14" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known as Pai-khawar in Pashto.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="7" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the provincial capital of Pakistan's North-West Frontier Province.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Located on the edge of the Khyber Pass,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="18" SEMCAT="city" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Peshawar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the commercial, economic, political and cultural capital of the Pakistani frontier and, particularly, of the Pashtuns.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>In ancient times  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="60" PARAGRAPH-RECENCY="21" SEMCAT="city" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was known as Purushapura when  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="66" PARAGRAPH-RECENCY="6" SEMCAT="city" SENTENCE-POSITION="10" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was officially founded by the Kushans.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>For much of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="76" PARAGRAPH-RECENCY="10" SEMCAT="city" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> history,  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="78" PARAGRAPH-RECENCY="2" SEMCAT="city" SENTENCE-POSITION="6" SENTENCE-RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was one of the main trading centers on the ancient Silk Road and  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="92" PARAGRAPH-RECENCY="14" SEMCAT="city" SENTENCE-POSITION="20" SENTENCE-RECENCY="14" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a major crossroads for various cultures between the subcontinent and Central Asia. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

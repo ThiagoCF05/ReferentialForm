@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1615">
+	<TITLE>Jozef Murgaš</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Jozef Murgaš</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (17 February 1864, Tajov in the Kingdom of Hungary, present-day Slovakia – 11 May 1929, Wilkes-Barre, Pennsylvania) was a Slovak inventor, architect, botanist, painter, patriot, and Roman Catholic pastor.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> contributed to wireless telegraphy and  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> help develop mobile communications and wireless transmission of information and human voice. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was nicknamed the Radio Priest and deemed a Renaissance man. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TEXT ID="1389">
+	<TITLE>Tajikistan</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Republic of Tajikistan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Persian: جمهوری تاجیکستان (Perso-Arabic), Tajik: ҷумҳурии Тоҷикистон (Cyrillic), Çumhurii Toçikiston (Turkic) is a mountainous landlocked country in Central Asia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="20" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders Afghanistan to the south, Uzbekistan to the west, Kyrgyzstan to the north, and China to the east.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="19" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is home mainly to the Tajiks, who share culture and history with the Iranians, and speak Tajik, a language closely related to Persian.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Once the location of the famous Samanid Empire,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="72" PARAGRAPH-RECENCY="32" SEMCAT="country" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tajikistan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became a constituent republic of the Soviet Union in the 20th century, known as the Tajik Soviet Socialist Republic. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>After independence, however,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tajikistan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> suffered from a devastating civil war which lasted from 1992 to 1997.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Since the end of the war, newly-established political stability and foreign aid have allowed  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="27" SEMCAT="country" SENTENCE-POSITION="15" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> economy to grow.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="35" PARAGRAPH-RECENCY="4" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> natural resources such as cotton and aluminium have contributed greatly to this steady improvement, although an observer has characterized  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="55" PARAGRAPH-RECENCY="20" SEMCAT="country" SENTENCE-POSITION="21" SENTENCE-RECENCY="20" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as having few natural resources besides hydroelectric power and  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="65" PARAGRAPH-RECENCY="10" SEMCAT="country" SENTENCE-POSITION="31" SENTENCE-RECENCY="10" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> strategic location. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

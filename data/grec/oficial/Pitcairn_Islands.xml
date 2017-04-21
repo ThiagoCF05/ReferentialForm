@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<TEXT ID="1350">
+	<TITLE>Pitcairn Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Pitcairn Islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Pitkern : Pitkern Ailen), officially named the Pitcairn, Henderson, Ducie, and Oeno Islands, are a group of four islands in the southern Pacific Ocean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="24" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are a British overseas territory (formerly British colony), the last remaining in the Pacific.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Only Pitcairn Island -- the second largest -- is inhabited. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are best known for being the home of the descendants of the Bounty mutineers and the Tahitians who accompanied them, an event retold in numerous books and films.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>This story is still apparent in the surnames of many of the islanders.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>With only about fifty inhabitants (from nine families),  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="51" PARAGRAPH-RECENCY="50" SEMCAT="country" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pitcairn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also notable for being the least populated jurisdiction in the world (although  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="65" PARAGRAPH-RECENCY="14" SEMCAT="country" SENTENCE-POSITION="23" SENTENCE-RECENCY="14" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is not a sovereign nation).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The United Nations Committee on Decolonisation includes  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="78" PARAGRAPH-RECENCY="13" SEMCAT="country" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Pitcairn Islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> on the United Nations list of Non-Self-Governing Territories. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

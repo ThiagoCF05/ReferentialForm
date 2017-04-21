@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TEXT ID="155">
+	<TITLE>Finisterre Range</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Finisterre Range</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain range in north-eastern Papua New Guinea, at 5.8 S 146.1 E. The unnamed highest point of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="20" SEMCAT="mountain" SENTENCE-POSITION="21" SENTENCE-RECENCY="20" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the range</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> 5°57'15S,146°22'30E, which is ranked 45th in the world by prominence, is usually quoted at 4,175 m, but SRTM data suggests that it is nearer to 4,120 m. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The range</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> runs into the Saruwaged Range to the east and together they form a natural barrier between the Ramu and Markham valleys to the south and Vitiaz Strait to the north.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Many rivers originate in  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="35" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this range</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, including the Ramu. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The Finisterre Range campaign (1943-44) of World War II, including a series of actions known as Battle of Shaggy Ridge, saw fierce fighting between Australian and Japanese forces. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

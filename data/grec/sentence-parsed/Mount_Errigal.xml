@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="410">
+	<TITLE>Mount Errigal</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Errigal Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> or Errigal (An Earagail/tEaragal in Irish) situated in Gweedore, Donegal, is the tallest peak of the Derryveagh Mountains in the Northwest of Ireland with a height of 749 metres (2,457 feet).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Errigal</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also the most southern, steepest and highest of the mountain chain, called the 'Seven Sisters' by locals (Muckish, Crocknalaragagh, Aghla Beg, Ardloughnabrackbaddy, Aghla More, Mackoght (also known as 'little Errigal') and  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Errigal</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

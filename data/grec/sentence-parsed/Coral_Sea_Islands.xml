@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1247">
+	<TITLE>Coral Sea Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Coral Sea Islands Territory</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> includes a group of small uninhabited tropical islands and reefs in the Coral Sea, northeast of Queensland, Australia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The territory</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> covers 780,000 sq km, extending east and south from the outer edge of the Great Barrier Reef, and  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> include Heralds Beacon Island, Osprey Reef, the Willis Group, and fifteen other reef/island groups. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

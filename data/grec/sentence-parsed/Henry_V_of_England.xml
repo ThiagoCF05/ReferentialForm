@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<TEXT ID="1559">
+	<TITLE>Henry V of England</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Henry V of England</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (16 September 1387-31 August 1422) was one of the great warrior kings of the Middle Ages.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was born at Monmouth, Wales, on 9 August 1386 or 16 September 1387, and  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> reigned as King of England from 1413 to 1422. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Henry</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was son of Henry of Bolingbroke, later Henry IV, and Mary de Bohun, who died before Bolingbroke became king. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>At the time of  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> birth during the reign of Richard II,  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Henry</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was fairly far removed from the throne, preceded by the King and another preceding collateral line of heirs.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The precise date and even year of  </STRING>
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> birth are therefore not definitely recorded.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>By the time  </STRING>
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Henry</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> died,  </STRING>
+			<REFERENCE ID="9" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> had not only consolidated power as the King of England but  </STRING>
+			<REFERENCE ID="10" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> had also effectively accomplished what generations of  </STRING>
+			<REFERENCE ID="11" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ancestors had failed to achieve through decades of war: unification of the crowns of England and France in a single person. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TEXT ID="543">
+	<TITLE>Mount Sir James MacBrien</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Sir James MacBrien</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a peak in the Fort Smith Region of Canada's Northwest Territories.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The second highest peak in the Mackenzie Mountains,  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is named after Major-General Sir James Howden MacBrien who was the head of the Canadian Militia in the mid 1920s. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

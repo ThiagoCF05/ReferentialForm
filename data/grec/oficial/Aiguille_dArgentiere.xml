@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="8">
+	<TITLE>Aiguille d'Argentière</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Aiguille d'Argentière</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (3,901 m) is a mountain in the Mont Blanc massif on the border between France and Switzerland. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The first ascent of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was by a British party comprising Edward Whymper and A. Reilly with guides Michel Croz, M. Payot, H. Charlet on 15 July 1864.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The route they took was via the west flank and the north-west ridge. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

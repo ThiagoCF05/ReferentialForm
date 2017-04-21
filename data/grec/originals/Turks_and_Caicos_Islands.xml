@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "reg08-grec.dtd">
+<TEXT ID="1400">
+<TITLE>Turks and Caicos Islands</TITLE>
+
+<PARAGRAPH>
+<REF ID="1400.1" SEMCAT="country" SYNCAT="np-subj">
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">The Turks and Caicos Islands</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="empty">_</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="nominative">it</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="pronoun" CASE="nominative">it itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">that</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">that itself</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">the Turks and Caicos Islands</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">the Turks and Caicos Islands itself</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="no" HEAD="nominal" CASE="plain">the country</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="yes" HEAD="nominal" CASE="plain">the country itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">which</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">which itself</REFEX>
+</ALT-REFEX>
+</REF>
+ (TCI) are a British Overseas Territory consisting of two groups of tropical islands in the Caribbean.</PARAGRAPH>
+</TEXT>

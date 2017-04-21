@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<TEXT ID="81">
+	<TITLE>Chachani</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado Chachani</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest of the volcanoes near the city of Arequipa in southern Peru. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name means “skirt” in Quechua, and a female character is normally attributed to </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in local legends.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Because of the very low precipitation in the Arequipa area, </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Chachani</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> does not have a permanent ice cap or glaciers. The ascent to the summit is therefore non-technical, and can be attempted by inexperienced climbers. Climbing </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Chachani</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is popular with tourists, and many tour agencies in Arequipa offer guided trips to the summit, though the altitude is considered challenging for those who are not fully acclimated.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is normally climbed from </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> northern side, which is reached by four-wheel drive vehicle, turning off from the main highway near Pampas Cañahuas. Base camp is at approximately 5,200 metres. Climbers cross the face of adjacent mountains El Angel and Fatima before ascending to the summit of </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="yes" HEAD="nominal" TYPE="pronoun">Chachani itself</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>The standard route requires crampons and an ice axe, but does not require roping up, as there are no crevasses on </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Chachani</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. Two traverses over relatively steep terrain constitute the main challenges on the way to the summit. The final push to the summit is a steep scree slope, which provides for a fast descent back to the first traverse.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>Average total climb time from base camp ranges from six to eight hours, with a two to three hour descent.</STRING>
+	</PARAGRAPH>
+</TEXT>

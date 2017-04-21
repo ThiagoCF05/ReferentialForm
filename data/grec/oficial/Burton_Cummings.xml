@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TEXT ID="1462">
+	<TITLE>Burton Cummings</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Burton Cummings</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, OM, D.Mus (born December 31, 1947) is a Canadian musician and songwriter. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>A pianist and a showman,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the lead singer for the Canadian rock band &quot;The Guess Who,&quot; and during  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="15" SEMCAT="person" SENTENCE-POSITION="21" SENTENCE-RECENCY="15" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> 10 years in &quot;The Guess Who&quot; from 1965 to 1975,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="11" SEMCAT="person" SENTENCE-POSITION="32" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> sang many well known songs, including &quot;American Woman,&quot; &quot;No Time,&quot; &quot;Share the Land,&quot; &quot;Hand Me Down World,&quot; &quot;Undun,&quot; and &quot;These Eyes.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

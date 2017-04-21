@@ -1,0 +1,314 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="INANIMATE" entity="4" gender="NEUTRAL" mentionid="4" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="5" mentiontype="PROPER" number="SINGULAR">
+				<STRING> India -LRB- </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="6" gender="UNKNOWN" mentionid="6" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Devanagari: </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="7" gender="UNKNOWN" mentionid="7" mentiontype="NOMINAL" number="SINGULAR">
+						<REFERENCE animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="1" mentiontype="PROPER" number="SINGULAR"> भारत </REFERENCE>
+						<STRING> Bhārat </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING> -RRB- </STRING>
+			</REFERENCE>
+			<STRING>, officially </STRING>
+			<REFERENCE animacy="INANIMATE" entity="8" gender="NEUTRAL" mentionid="8" mentiontype="PROPER" number="SINGULAR">
+				<STRING> the Republic of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="9" gender="NEUTRAL" mentionid="9" mentiontype="PROPER" number="SINGULAR">
+					<STRING> India -LRB- </STRING>
+					<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="2" mentiontype="PROPER" number="SINGULAR"> Bhārata Gaṇarājya </REFERENCE>
+					<STRING> -RRB- </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="10" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a country in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="3" mentiontype="PROPER" number="SINGULAR"> South Asia </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="12" mentiontype="PRONOMINAL" number="SINGULAR"> It </REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="13" gender="UNKNOWN" mentionid="13" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="18" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="14" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the seventh-largest country by geographical area, </STRING>
+					<REFERENCE animacy="INANIMATE" entity="15" gender="NEUTRAL" mentionid="15" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> the </STRING>
+						<REFERENCE animacy="INANIMATE" entity="11" gender="UNKNOWN" mentionid="11" mentiontype="PROPER" number="SINGULAR"> second </REFERENCE>
+						<STRING> most populous country </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="16" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the most populous liberal democracy in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="17" gender="NEUTRAL" mentionid="17" mentiontype="NOMINAL" number="SINGULAR"> the world </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="19" mentiontype="PROPER" number="SINGULAR"> India </REFERENCE>
+		<STRING> has </STRING>
+		<REFERENCE animacy="INANIMATE" entity="21" gender="NEUTRAL" mentionid="21" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a coastline of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="22" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="23" gender="UNKNOWN" mentionid="23" mentiontype="NOMINAL" number="PLURAL">
+					<STRING> over </STRING>
+					<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="PROPER" number="SINGULAR"> seven thousand </REFERENCE>
+					<STRING> kilometres </STRING>
+				</REFERENCE>
+				<STRING>, bounded by </STRING>
+				<REFERENCE animacy="INANIMATE" entity="24" gender="UNKNOWN" mentionid="24" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="25" gender="NEUTRAL" mentionid="25" mentiontype="PROPER" number="SINGULAR">
+						<STRING> the Indian Ocean on </STRING>
+						<REFERENCE animacy="INANIMATE" entity="26" gender="NEUTRAL" mentionid="26" mentiontype="NOMINAL" number="SINGULAR"> the south </REFERENCE>
+					</REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="INANIMATE" entity="27" gender="NEUTRAL" mentionid="27" mentiontype="PROPER" number="SINGULAR">
+						<STRING> the Arabian Sea on </STRING>
+						<REFERENCE animacy="INANIMATE" entity="28" gender="UNKNOWN" mentionid="28" mentiontype="NOMINAL" number="SINGULAR"> the west </REFERENCE>
+					</REFERENCE>
+					<STRING>, and </STRING>
+					<REFERENCE animacy="INANIMATE" entity="29" gender="UNKNOWN" mentionid="29" mentiontype="PROPER" number="SINGULAR"> the Bay of Bengal </REFERENCE>
+				</REFERENCE>
+				<STRING> on </STRING>
+				<REFERENCE animacy="INANIMATE" entity="30" gender="NEUTRAL" mentionid="30" mentiontype="NOMINAL" number="UNKNOWN"> the east </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<REFERENCE animacy="INANIMATE" entity="37" gender="UNKNOWN" mentionid="37" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="31" mentiontype="PROPER" number="SINGULAR"> India </REFERENCE>
+			<STRING> borders </STRING>
+			<REFERENCE animacy="INANIMATE" entity="38" gender="UNKNOWN" mentionid="38" mentiontype="LIST" number="PLURAL">
+				<STRING> Pakistan to </STRING>
+				<REFERENCE animacy="INANIMATE" entity="28" gender="UNKNOWN" mentionid="39" mentiontype="NOMINAL" number="SINGULAR"> the west </REFERENCE>
+				<STRING>; </STRING>
+				<REFERENCE animacy="INANIMATE" entity="40" gender="UNKNOWN" mentionid="40" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="32" gender="NEUTRAL" mentionid="32" mentiontype="PROPER" number="SINGULAR"> China </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="INANIMATE" entity="33" gender="NEUTRAL" mentionid="33" mentiontype="PROPER" number="SINGULAR"> Nepal </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE animacy="INANIMATE" entity="34" gender="NEUTRAL" mentionid="34" mentiontype="PROPER" number="SINGULAR"> Bhutan </REFERENCE>
+					<STRING> to </STRING>
+					<REFERENCE animacy="INANIMATE" entity="41" gender="NEUTRAL" mentionid="41" mentiontype="NOMINAL" number="SINGULAR"> the north-east </REFERENCE>
+				</REFERENCE>
+				<STRING>; and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="35" gender="NEUTRAL" mentionid="35" mentiontype="PROPER" number="SINGULAR"> Bangladesh </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE animacy="INANIMATE" entity="36" gender="NEUTRAL" mentionid="36" mentiontype="PROPER" number="SINGULAR"> Myanmar </REFERENCE>
+					<STRING> to </STRING>
+					<REFERENCE animacy="INANIMATE" entity="30" gender="NEUTRAL" mentionid="43" mentiontype="NOMINAL" number="UNKNOWN"> the east </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</REFERENCE>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<STRING> In </STRING>
+		<REFERENCE animacy="INANIMATE" entity="25" gender="NEUTRAL" mentionid="50" mentiontype="PROPER" number="SINGULAR">
+			<STRING> the </STRING>
+			<REFERENCE animacy="INANIMATE" entity="25" gender="NEUTRAL" mentionid="44" mentiontype="PROPER" number="SINGULAR"> Indian Ocean </REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="45" mentiontype="PROPER" number="SINGULAR"> India </REFERENCE>
+		<STRING> is in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="51" gender="NEUTRAL" mentionid="51" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the vicinity of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="52" gender="UNKNOWN" mentionid="52" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="46" gender="NEUTRAL" mentionid="46" mentiontype="PROPER" number="SINGULAR"> Sri Lanka </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="47" gender="NEUTRAL" mentionid="47" mentiontype="PROPER" number="SINGULAR"> Maldives </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="48" gender="NEUTRAL" mentionid="48" mentiontype="PROPER" number="SINGULAR"> Indonesia </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="49" gender="NEUTRAL" mentionid="49" mentiontype="PROPER" number="SINGULAR"> Thailand </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="INANIMATE" entity="56" gender="UNKNOWN" mentionid="56" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="57" gender="UNKNOWN" mentionid="57" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> Home to </STRING>
+				<REFERENCE animacy="INANIMATE" entity="58" gender="NEUTRAL" mentionid="58" mentiontype="PROPER" number="UNKNOWN">
+					<STRING> the </STRING>
+					<REFERENCE animacy="INANIMATE" entity="53" gender="NEUTRAL" mentionid="53" mentiontype="PROPER" number="UNKNOWN"> Indus Valley Civilization </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="59" gender="NEUTRAL" mentionid="59" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a hub of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="60" gender="UNKNOWN" mentionid="60" mentiontype="NOMINAL" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="61" gender="UNKNOWN" mentionid="61" mentiontype="NOMINAL" number="PLURAL"> ancient trade routes </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="INANIMATE" entity="62" gender="NEUTRAL" mentionid="62" mentiontype="NOMINAL" number="SINGULAR"> the Indian subcontinent </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> became </STRING>
+		<REFERENCE animacy="INANIMATE" entity="63" gender="UNKNOWN" mentionid="63" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the seat of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="64" gender="UNKNOWN" mentionid="64" mentiontype="NOMINAL" number="PLURAL"> vast empires </REFERENCE>
+			<STRING> whose achievements include </STRING>
+			<REFERENCE animacy="INANIMATE" entity="65" gender="UNKNOWN" mentionid="65" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="66" gender="NEUTRAL" mentionid="66" mentiontype="NOMINAL" number="SINGULAR"> the decimal number system </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="67" gender="NEUTRAL" mentionid="67" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the </STRING>
+					<REFERENCE animacy="INANIMATE" entity="54" gender="MALE" mentionid="54" mentiontype="PROPER" number="UNKNOWN"> Buddhist </REFERENCE>
+					<STRING> art of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="55" gender="NEUTRAL" mentionid="55" mentiontype="PROPER" number="UNKNOWN"> Ajanta </REFERENCE>
+				</REFERENCE>
+				<STRING>, and </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="68" gender="UNKNOWN" mentionid="68" mentiontype="PROPER" number="SINGULAR"> the Taj Mahal </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<REFERENCE animacy="INANIMATE" entity="79" gender="UNKNOWN" mentionid="79" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="69" gender="UNKNOWN" mentionid="69" mentiontype="PROPER" number="SINGULAR"> Four </REFERENCE>
+			<STRING> major world religions </STRING>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="80" gender="UNKNOWN" mentionid="80" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="70" gender="NEUTRAL" mentionid="70" mentiontype="PROPER" number="SINGULAR"> Hinduism </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="71" gender="NEUTRAL" mentionid="71" mentiontype="PROPER" number="SINGULAR"> Buddhism </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="72" gender="UNKNOWN" mentionid="72" mentiontype="PROPER" number="SINGULAR"> Jainism </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="73" gender="NEUTRAL" mentionid="73" mentiontype="PROPER" number="SINGULAR"> Sikhism </REFERENCE>
+		</REFERENCE>
+		<STRING> originated in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="74" mentiontype="PROPER" number="SINGULAR"> India </REFERENCE>
+		<STRING>, while </STRING>
+		<REFERENCE animacy="INANIMATE" entity="81" gender="UNKNOWN" mentionid="81" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="75" gender="UNKNOWN" mentionid="75" mentiontype="PROPER" number="UNKNOWN"> Islam </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="84" gender="NEUTRAL" mentionid="84" mentiontype="PROPER" number="SINGULAR"> Christianity </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="76" gender="NEUTRAL" mentionid="76" mentiontype="PROPER" number="UNKNOWN"> Judaism </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="77" gender="NEUTRAL" mentionid="77" mentiontype="PROPER" number="SINGULAR"> Zoroastrianism </REFERENCE>
+		</REFERENCE>
+		<STRING>, arrived in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="82" gender="NEUTRAL" mentionid="82" mentiontype="NOMINAL" number="SINGULAR"> the first millennium CE </REFERENCE>
+		<STRING> and shaped </STRING>
+		<REFERENCE animacy="INANIMATE" entity="83" gender="NEUTRAL" mentionid="83" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the variegated culture of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="78" mentiontype="PROPER" number="SINGULAR"> India </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<STRING> Colonised by </STRING>
+		<REFERENCE animacy="INANIMATE" entity="87" gender="NEUTRAL" mentionid="87" mentiontype="PROPER" number="UNKNOWN"> the British East India Company </REFERENCE>
+		<STRING> in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="88" gender="UNKNOWN" mentionid="88" mentiontype="PROPER" number="SINGULAR"> the 18th century </REFERENCE>
+		<STRING> and directly administered by </STRING>
+		<REFERENCE animacy="INANIMATE" entity="85" gender="NEUTRAL" mentionid="85" mentiontype="PROPER" number="SINGULAR"> Great Britain </REFERENCE>
+		<STRING> starting </STRING>
+		<REFERENCE animacy="INANIMATE" entity="89" gender="UNKNOWN" mentionid="89" mentiontype="PROPER" number="SINGULAR"> the mid-19th century </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="86" mentiontype="PROPER" number="SINGULAR"> India </REFERENCE>
+		<STRING> became </STRING>
+		<REFERENCE animacy="INANIMATE" entity="90" gender="NEUTRAL" mentionid="90" mentiontype="NOMINAL" number="SINGULAR"> a modern nation-state </REFERENCE>
+		<STRING> in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="91" gender="UNKNOWN" mentionid="91" mentiontype="PROPER" number="SINGULAR"> 1947 </REFERENCE>
+		<STRING> after </STRING>
+		<REFERENCE animacy="INANIMATE" entity="92" gender="NEUTRAL" mentionid="92" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a struggle for </STRING>
+			<REFERENCE animacy="INANIMATE" entity="93" gender="NEUTRAL" mentionid="93" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> independence marked by widespread use of nonviolent resistance as </STRING>
+				<REFERENCE animacy="INANIMATE" entity="94" gender="UNKNOWN" mentionid="94" mentiontype="NOMINAL" number="SINGULAR"> a means of social protest </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<STRING> With </STRING>
+		<REFERENCE animacy="INANIMATE" entity="98" gender="NEUTRAL" mentionid="98" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="17" gender="NEUTRAL" mentionid="99" mentiontype="NOMINAL" number="SINGULAR"> the world's </REFERENCE>
+			<STRING> fourth largest economy in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="100" gender="UNKNOWN" mentionid="100" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="101" gender="NEUTRAL" mentionid="101" mentiontype="NOMINAL" number="SINGULAR"> purchasing power </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="102" gender="NEUTRAL" mentionid="102" mentiontype="NOMINAL" number="UNKNOWN">
+					<STRING> the </STRING>
+					<REFERENCE animacy="INANIMATE" entity="11" gender="UNKNOWN" mentionid="96" mentiontype="PROPER" number="SINGULAR"> second </REFERENCE>
+					<STRING> fastest growing large economy </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="97" mentiontype="PROPER" number="SINGULAR"> India </REFERENCE>
+		<STRING> has made rapid progress in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="103" gender="UNKNOWN" mentionid="103" mentiontype="PROPER" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="104" gender="UNKNOWN" mentionid="104" mentiontype="PROPER" number="SINGULAR"> the last decade </REFERENCE>
+			<STRING>, most notably </STRING>
+		</REFERENCE>
+		<STRING> in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="105" gender="NEUTRAL" mentionid="105" mentiontype="NOMINAL" number="SINGULAR"> information technology </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<REFERENCE animacy="UNKNOWN" entity="107" gender="UNKNOWN" mentionid="107" mentiontype="NOMINAL" number="UNKNOWN">
+			<STRING> A declared nuclear deterrent state, with </STRING>
+			<REFERENCE animacy="INANIMATE" entity="108" gender="NEUTRAL" mentionid="108" mentiontype="NOMINAL" number="SINGULAR"> an active space program </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="106" mentiontype="PROPER" number="SINGULAR"> India </REFERENCE>
+			<STRING> is considered </STRING>
+			<REFERENCE animacy="INANIMATE" entity="109" gender="NEUTRAL" mentionid="109" mentiontype="NOMINAL" number="SINGULAR"> an emerging superpower </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<STRING> Although </STRING>
+		<REFERENCE animacy="INANIMATE" entity="111" gender="NEUTRAL" mentionid="111" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="107" gender="UNKNOWN" mentionid="112" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+			<STRING> standard of living </STRING>
+		</REFERENCE>
+		<STRING> is projected to rise sharply in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="113" gender="MALE" mentionid="113" mentiontype="NOMINAL" number="SINGULAR"> the next half-century </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="110" mentiontype="PROPER" number="SINGULAR"> India </REFERENCE>
+		<STRING> currently battles </STRING>
+		<REFERENCE animacy="INANIMATE" entity="114" gender="UNKNOWN" mentionid="114" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> high levels of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="115" gender="UNKNOWN" mentionid="115" mentiontype="LIST" number="PLURAL"> poverty, persistent malnutrition, and environmental degradation </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<REFERENCE animacy="UNKNOWN" entity="117" gender="UNKNOWN" mentionid="117" mentiontype="NOMINAL" number="UNKNOWN"> A multi-lingual </REFERENCE>
+		<STRING>, multi-ethnicsociety, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="116" mentiontype="PROPER" number="SINGULAR"> India </REFERENCE>
+		<STRING> is home to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="118" gender="NEUTRAL" mentionid="118" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a diversity of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="119" gender="NEUTRAL" mentionid="119" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> wildlife in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="120" gender="NEUTRAL" mentionid="120" mentiontype="NOMINAL" number="SINGULAR"> a variety of habitat </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> consisting of </STRING>
+		<REFERENCE animacy="INANIMATE" entity="121" gender="UNKNOWN" mentionid="121" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="122" gender="NEUTRAL" mentionid="122" mentiontype="NOMINAL" number="SINGULAR"> evergreen forest </REFERENCE>
+			<STRING>, deciduous forest, desert, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="123" gender="NEUTRAL" mentionid="123" mentiontype="NOMINAL" number="SINGULAR"> rain forest </REFERENCE>
+			<STRING>, and mangrove </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+</TEXT>

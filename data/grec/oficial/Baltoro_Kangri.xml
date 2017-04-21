@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEXT ID="35">
+	<TITLE>Baltoro Kangri</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Baltoro Kangri</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain of the Karakoram mountain range in the Northern Areas of Pakistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies to the south of the Gasherbrums and east of Chogolisa Peak (7,665 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The huge Baltoro Glacier (which is one of the largest glaciers outside polar regions) rises from the foot of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="34" SEMCAT="mountain" SENTENCE-POSITION="20" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Baltoro Kangri</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>In the north of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="55" PARAGRAPH-RECENCY="5" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Baltoro Kangri</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the Abruzzi Glacier. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

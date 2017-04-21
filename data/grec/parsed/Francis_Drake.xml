@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1520">
+	<TITLE>Francis Drake</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sir Francis Drake</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, Vice Admiral, (c. 1540 - January 28 1596) was an English privateer, navigator, naval pioneer and raider, politician and civil engineer of the Elizabethan era, considered by many a pirate. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was second-in-command of the English fleet against the Spanish Armada in 1588. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> died of dysentery while unsuccessfully attacking San Juan, Puerto Rico in 1596.</STRING>
+	</PARAGRAPH>
+</TEXT>

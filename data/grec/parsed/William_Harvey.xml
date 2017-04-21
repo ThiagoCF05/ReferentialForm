@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="1779">
+	<TITLE>William Harvey</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">William Harvey</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (April 1, 1578 - June 3, 1657) was a medical doctor </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is credited with first correctly describing, in exact detail, the properties of blood being pumped around the body by the heart. This developed the ideas of René Descartes who in his Description of the Human Body said that the arteries and veins were pipes which carried nourishment around the body. Although Spanish physician Michael Servetus discovered circulation a quarter century before </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Harvey</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was born, all but three copies of his manuscript Christianismi Restitutio were destroyed and as a result, the secrets of circulation were lost until </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Harvey</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> rediscovered them nearly a century later. </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Harvey</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> travelled widely in the course of </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> researches, especially to Italy, where </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> stayed at the Venerable English College in Rome.</STRING>
+	</PARAGRAPH>
+</TEXT>

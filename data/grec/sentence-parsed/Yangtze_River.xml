@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TEXT ID="1854">
+	<TITLE>Yangtze River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Yangtze River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> or Chang Jiang ([Traditional Chinese: 長江 , Simplified Chinese: 长江, Pinyin: Cháng Jiāng]) listen is the longest river in Asia and the third longest in the world after the Nile in Africa and the Amazon in South America. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is about 6,211 km long and  </STRING>
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flows from  </STRING>
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> source in Qinghai Province in western China, eastwards into the East China Sea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has traditionally been considered a dividing point between northern and southern China, although geographers consider the Qinling-Huai River line to be the official line of geographical division. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

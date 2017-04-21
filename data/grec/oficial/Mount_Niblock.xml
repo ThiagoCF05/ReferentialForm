@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<TEXT ID="499">
+	<TITLE>Mount Niblock</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Niblock</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in Banff National Park near Lake Louise, Alberta, Canada. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named in 1904 after John Niblock, a superintendent with the Canadian Pacific Railway.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Niblock was an early promoter of tourism in the Rockies and influenced the naming of some of the CPR stops in Western Canada. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Niblock</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a popular scramble in the Lake Louise area and  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is sometimes combined in the same day with Mount Whyte (2,983m), although the latter is a more difficult scramble.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The best time for climbing  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="25" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Niblock</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is July through September when the normal route is usually free of snow.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Attempting it in the spring or early summer may include significant avalanche hazard. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>To access  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Niblock</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, follow the trail as it begins near Chateau Lake Louise, passes Mirror Lake (Alberta) and then Lake Agnes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Follow the right hand shore line trail to the far end of the lake until it begins it left turn towards the Big Beehive.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>Here an obvious path can be found leading to the lower scree slopes and short cliffs.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.4">
+			<STRING>A more detailed route description can be found in Scrambles in the Canadian Rockies. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

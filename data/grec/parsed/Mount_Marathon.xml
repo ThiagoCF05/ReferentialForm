@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TEXT ID="477">
+	<TITLE>Mount Marathon</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Marathon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> or Marathon Mountain is a mountain two miles west of Seward in the Kenai Mountains of Alaska.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> actually derives </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name from the ever-popular Mount Marathon Race held every Fourth of July.</STRING>
+	</PARAGRAPH>
+</TEXT>

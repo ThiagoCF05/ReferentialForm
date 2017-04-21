@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<TEXT ID="1821">
+	<TITLE>Kuskokwim River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Kuskokwim River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a river, approximately 650 mi (1,110 km) long, in southwest Alaska in the United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> provides the principal drainage for an area of the remote Alaska Interior on the north and west side of the Alaska Range, flowing southwest into Kuskokwim Bay on the Bering Sea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Except for  </STRING>
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> headwaters in the mountains,  </STRING>
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is broad and flat for  </STRING>
+			<REFERENCE ID="5" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> entire course, making  </STRING>
+			<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> a useful transportation route for many types of watercraft. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Kuskokwim in Yupik is a bastardization of a Yup'ik word to English.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>A compound word means big slow moving 'thing'.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Be clear that 'thing' is to be recognized as an object. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

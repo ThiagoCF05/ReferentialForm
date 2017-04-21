@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="204">
+	<TITLE>Hallasan</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hallasan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a shield volcano on Jeju Island of South Korea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hallasan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain of South Korea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The area around  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a designated national park, the Hallasan National Park (Hallasan Gungnip Gongwon/한라산국립공원/漢拏山國立公園).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hallasan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is commonly considered to be one of the three main mountains of South Korea, with Jirisan and Seoraksan being the other two. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

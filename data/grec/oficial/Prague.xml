@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TEXT ID="1143">
+	<TITLE>Prague</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Prague</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Czech: Praha (IPA: [IPA: [ˈpraɦa]]), see also other names) is the capital and largest city of the Czech Republic.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Situated on the Vltava river in central Bohemia,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="28" SEMCAT="city" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is home to approximately 1.2 million people.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>(It can be derived from jobs statistics, however, that an additional 300,000 work there without having registered as residents.)</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Nicknames for  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Prague</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> have included &quot;city of a hundred spires&quot; and &quot;the golden city&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Since 1992, the historic center of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="18" SEMCAT="city" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Prague</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been included in the UNESCO list of World Heritage Sites.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>According to Guinness World Records, Prague Castle is the largest ancient castle in the world. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="1787">
+	<TITLE>Winston Churchill</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sir Winston Leonard Spencer-Churchill</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> KG OM CH TD FRS PC (Can) (30 November 1874 - 24 January 1965) was an English statesman and author, best known as Prime Minister of the United Kingdom during the Second World War.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Well-known as an orator, strategist, and politician,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="43" PARAGRAPH-RECENCY="42" SEMCAT="person" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Churchill</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was one of the most important leaders in modern British and world history.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="57" PARAGRAPH-RECENCY="14" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> won the 1953 Nobel Prize in Literature for  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="66" PARAGRAPH-RECENCY="9" SEMCAT="person" SENTENCE-POSITION="10" SENTENCE-RECENCY="9" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> many books on English and world history.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="74" PARAGRAPH-RECENCY="8" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sir Winston Churchill</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was voted the greatest-ever Briton in the 2002 BBC poll the 100 Greatest Britons. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

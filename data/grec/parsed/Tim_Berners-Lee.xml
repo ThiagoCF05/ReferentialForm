@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1756">
+	<TITLE>Tim Berners-Lee</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sir Timothy John &quot;Tim&quot; Berners-Lee</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, KBE (born June 8, 1955 in London, England) is the inventor of the World Wide Web and director of the World Wide Web Consortium, which oversees its continued development. Informally, in technical circles, </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is sometimes called &quot;TimBL&quot; or &quot;TBL&quot;.</STRING>
+	</PARAGRAPH>
+</TEXT>

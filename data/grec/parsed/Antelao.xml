@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="23">
+	<TITLE>Antelao</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte Antelao</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest mountain in the eastern Dolomites (a section of the Alps) in northeastern Italy, southeast of the town of Cortina d'Ampezzo, in the region of Cadore. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is known as the &quot;King of the Dolomites&quot;. (Marmolada, the highest of all the Dolomites, is the &quot;Queen&quot;.) Like many Dolomite peaks, </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Antelao</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is steep, rocky, and pointed; </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also sits close to the edge of the Dolomite uplift and so </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has dramatic drops to the nearby valleys.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The easiest route is from the north, known as the &quot;Laste&quot;, a steep, narrow ridge. It involves a good deal of exposure, and a few short technical sections, such as a chimney, protected by cables.</STRING>
+	</PARAGRAPH>
+</TEXT>

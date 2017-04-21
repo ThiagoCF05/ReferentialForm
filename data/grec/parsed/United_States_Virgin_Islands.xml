@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TEXT ID="1407">
+	<TITLE>United States Virgin Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The United States Virgin Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are a group of islands in the Caribbean </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">that</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are an insular area of the United States. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are geographically part of the Virgin Islands and </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are located in the Leeward Islands of the Lesser Antilles. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The U.S. Virgin Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> consist of the four main islands of St. Thomas, St. John, St. Croix, and Water Island, and many smaller islands. </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the only part of the United States where traffic drives on the left. The total land area of </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the territory</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 346.36 km² (133.73 sq mi). As of the 2000 census the population was 108,612 .</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>In Denmark, </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">they</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are also referred to as The Former Danish West Indian Islands (De tidligere Dansk Vestindiske Øer).</STRING>
+	</PARAGRAPH>
+</TEXT>

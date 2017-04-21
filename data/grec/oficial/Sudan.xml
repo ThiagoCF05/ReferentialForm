@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1383">
+	<TITLE>Sudan</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sudan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (or The Sudan; officially the Republic of the Sudan or Republic of Sudan)(Arabic :السودان) is the largest country by area in Africa and the largest Arab country by area.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="30" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is bordered by Egypt to the north, the Red Sea to the northeast, Eritrea and Ethiopia to the east, Kenya and Uganda to the southeast, Democratic Republic of the Congo and the Central African Republic to the southwest, Chad to the west, and Libya to the northwest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="79" PARAGRAPH-RECENCY="48" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the tenth largest country in the world by area. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TEXT ID="533">
+	<TITLE>Mount Shasta</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Shasta</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, a 14,179-foot (4,322 m) stratovolcano, is the second-highest peak in the Cascade Range and the fifth highest peak in California.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a member in the Cascade Volcanic Arc and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in Siskiyou County, and  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="7" SEMCAT="mountain" SENTENCE-POSITION="18" SENTENCE-RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has an estimated volume of 108 cubic miles (450 km³), making  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="51" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="30" SENTENCE-RECENCY="12" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> the most voluminous stratovolcano of the Cascades.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Physically unconnected to any nearby mountain, and rising abruptly from miles of level ground which encircle  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="75" PARAGRAPH-RECENCY="24" SEMCAT="mountain" SENTENCE-POSITION="17" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>,  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="76" PARAGRAPH-RECENCY="1" SEMCAT="mountain" SENTENCE-POSITION="18" SENTENCE-RECENCY="1" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Shasta</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> stands some 10,000 feet (3,000 m) above the surrounding area. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Shasta</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was memorably described by the poet Joaquin Miller: &quot;Lonely as God, and white as a winter moon, Mount Shasta starts up sudden and solitary from the heart of the great black forests of Northern California.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<TEXT ID="215">
+	<TITLE>Hoher Dachstein</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hoher Dachstein</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a strongly karstic Austrian mountain, and the second highest mountain in the Northern Limestone Alps. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is situated at the border of Upper Austria and Styria in central Austria, and </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest point in each of those states. Parts of the massif also lie in the state of Salzburg, leading to </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> being referred to as the Drei-Länder-Berg (&quot;three state mountain&quot;). The Dachstein massif covers an area of around 20×30 km with dozens of peaks above 2,500 m, the highset of which are in the southern and south-western areas. Seen from the north, the Dachstein massif is dominated by the glaciers with the rocky summits rising beyond them. By contrast, to the south, </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> drops almost vertically to the valley floor.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The geology of the Dachstein massif is dominated by the so-called Dachstein-Kalk (&quot;Dachstein limestone&quot;), dating from Triassic times. In common with other karstic areas, </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Dachstein</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is permeated by a rich cave system, including some of the largest caves in Austria, such as the Mammuthhöhle and the Hirlatzhöhle. Another significant tourist destination is the Eisriesenhöhle. </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Dachstein</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is famous for </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> fossils, including megalodonts; the Linzer Weg leads over many such fossils, which are referred to as Kuhtritte (&quot;cattle footprints&quot;).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Glaciers are uncommon in the Northern Limestone Alps, and those on </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Dachstein</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> — the Hallstätter Gletscher (&quot;Hallstatt glacier&quot;) , the Großer Gosaugletscher (&quot;great Gosau glacier&quot;) and the Schladminger Gletscher (&quot;Schladming glacier&quot;) — are the largest, as well as being the northernmost and the easternmost in the whole of the Alps. Several smaller ice-fields also exist, such as the Kleine Gosaugletscher (&quot;lesser Gosau glacier&quot;) and the Schneelochgletscher (&quot;snow-hole glacier&quot;). The glaciers are retreating rapidly, and may disappear entirely within 80 years. The Hallstatt glacier withdrew by 20 m in the year 2003 alone.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>The summit was first reached in 1832 by Peter Gappmayr, via the Gosau glacier, after an earlier attempt by Erzherzog Karl via the Hallstätter glacier had failed. Within two years of Gappmayr's success, a wooden cross had been erected at the summit. The first person to reach the summit in winter was Friedrich Simony, on 14 January 1847. The sheer southern face was first climbed on 22 September 1909 by brothers Irg and Franz Steiner.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>Being the highest point of two different Bundesländer, the summit is a popular goal in both summer and winter. In fine weather, as many as 100 climbers may be attempting the ascent, leading to congestion at key sections of the climb.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<STRING>The most well known routes are*Schulter-Anstieg: Simony Hütte - Hallstatt glacier - Dachsteinwarte - east ridge*Randkluft-Anstieg: Simony Hütte - Hallstatt glacier - north-east face*West ridge: Adamekhütte - Gosau glacier - Obere Windluke - west ridgeThese routes require basic alpine equipment for crossing the glaciers, and knowledge of climbing. The more interesting climbing routes are concentrated on the south face, the most famous among them being the Steinerweg (graded V) and the Pichlweg (graded IV).</STRING>
+	</PARAGRAPH>
+</TEXT>

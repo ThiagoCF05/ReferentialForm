@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TEXT ID="662">
+	<TITLE>Piz Roseg</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Piz Roseg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (pronounced as peetse rawzech) is a mountain in the Bernina Range in Switzerland and Italy.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>There are two summits on </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> main ridge:*the south-east and higher summit (3,937 m) *the north-west summit, known as the Schneekuppe (3,920 m). There is also a prominent top on the east-north-east ridge, called the Roseg Pitschen (3,868 m).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The first ascent of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> to the Schneekuppe was by F. T. Bircham with guides Peter Jenny and Alexander Fleury on 31 August 1863. The highest point of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was reached two years later by A. W. Moore and Horace Walker with guide Jakob Anderegg on 28 June 1865.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Piz Roseg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is separated from the neighbouring Piz Scerscen by the Porta da Roseg (3,522 m), also called the Güssfeldtsattel. The Swiss side of this col – a steep ice slope of up to 70° – was first climbed by Paul Güssfeldt, with guides Hans Grass, Peter Jenny and Caspar Capat on 13 September 1872. Grass and Capat had spent the previous day cutting steps up the first two-fifths of the route. The following day they added at least another 450 steps on the first ascent.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>The 700-metre north-east face of </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Piz Roseg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first climbed by Christian Klucker and L. Norman-Neruda on 16 July 1890; the face – with a notable serac band halfway up – sports a number of difficult routes. Klucker, together with M. Barberia, also made the first traverse from the Italian side of the Porta da Roseg on 21 June 1898.</STRING>
+	</PARAGRAPH>
+</TEXT>

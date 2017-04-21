@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TEXT ID="596">
+	<TITLE>Mount Woodrow Wilson</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Woodrow Wilson</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (13,502 ft / 4,115 m) is located in the Wind River Range in the U.S. state of Wyoming.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the ninth highest in the range and the tenth tallest in Wyoming.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The summit is located in the Bridger Wilderness of Bridger-Teton National Forest, immediately west of the Continental Divide.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The eastern and western flanks of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are covered in snowfields and glaciers, including Dinwoody Glacier to the northeast and Mammoth Glacier to the west. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

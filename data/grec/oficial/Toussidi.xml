@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TEXT ID="891">
+	<TITLE>Toussidé</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Toussidé</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (also known as Tarso Toussidé) rises 3265 metres above sea level, the westernmost volcano of the Tibesti Mountains.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The peak is almost centered within the black shape that has tentacle-shaped lava flows extending down the western flank.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="38" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano’s</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> base measures approximately 55 miles (90 km) in diameter.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The light brownish area surrounding the peak shows a distinctive radial drainage pattern that is quite common for stratovolcanoes as the terrain falls away from the main peak.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The depression southeast of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="81" PARAGRAPH-RECENCY="42" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> measures approximately 5 miles (8 km) in diameter and 3300 feet (1000 m) in depth.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>The white base is caused by an accumulation of carbonate salts, creating this soda lake of Tibesti.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>With the exception of small vents that emit gasses and a few hot springs that continue to deposit minerals at the surface of the crater floor, little volcanic activity presently occurs in this region. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

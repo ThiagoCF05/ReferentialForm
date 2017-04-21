@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1570">
+	<TITLE>J. K. Rowling</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Joanne &quot;Jo&quot; Rowling</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, OBE (born July 31, 1965) is an English fiction writer </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> writes under the pen name J. K. Rowling. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rowling</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is most famously known as the author of the Harry Potter fantasy series, which has gained international attention, won multiple awards, and sold over 300 million copies worldwide. In February 2004, Forbes magazine estimated </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> fortune at £576 million (just over US$1 billion), making </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> the first person to become a US-dollar billionaire by writing books.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<TEXT ID="1424">
+	<TITLE>Aleister Crowley</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Aleister Crowley</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, born Edward Alexander Crowley, (12 October 1875 – 1 December 1947; the surname is pronounced /[IPA: 'krəʊ.li]/ i.e.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>with the first syllable sounding like the bird) was an English occultist, prolific writer, mystic, hedonist, aficionado of chess and mountain climbing, and sexual revolutionary. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="yes" HEAD="nominal" TYPE="pronoun">Crowley himself</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> claimed to be a Freemason, but the legitimacy of  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> claims have been disputed. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Other interests and accomplishments were wide-ranging --  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a chess master, mountain climber, poet, painter, astrologer, drug experimenter, and social critic.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is perhaps best known today for  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> occult writings, especially The Book of the Law, the central sacred text of Thelema.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Crowley</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was also an influential member in several occult organizations, including the Golden Dawn, the A∴A∴ (Argenteum Astrum), and Ordo Templi Orientis (O.T.O.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Crowley</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> gained much notoriety during  </STRING>
+			<REFERENCE ID="9" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lifetime, and  </STRING>
+			<REFERENCE ID="10" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was famously dubbed &quot;The Wickedest Man In the World.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

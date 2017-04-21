@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TEXT ID="1535">
+	<TITLE>Georg Wilhelm Friedrich Hegel</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Georg Wilhelm Friedrich Hegel</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> IPA: ˈgeɔʁk ˈvɪlhɛlm ˈfʁiːdʁɪç ˈheːgəl (August 27, 1770 - November 14, 1831) was a German philosopher born in Stuttgart, Württemberg, in present-day southwest Germany.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="25" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> influence has been widespread on writers of widely varying positions, including both  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="13" SEMCAT="person" SENTENCE-POSITION="14" SENTENCE-RECENCY="13" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> admirers (F. H. Bradley, Sartre, Hans Küng, Bruno Bauer), and  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="11" SEMCAT="person" SENTENCE-POSITION="25" SENTENCE-RECENCY="11" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> detractors (Kierkegaard, Schopenhauer, Heidegger, Schelling).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="56" PARAGRAPH-RECENCY="6" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> great achievement was to introduce for the first time in philosophy the idea that History and the concrete are important in getting out of the circle of philosophia perennis, i.e., the perennial problems of philosophy.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Also, for the first time in the history of philosophy  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="102" PARAGRAPH-RECENCY="46" SEMCAT="person" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> realised the importance of the Other in the coming to be of self-consciousness, see slave-master dialectic. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

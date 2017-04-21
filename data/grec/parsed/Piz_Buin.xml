@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TEXT ID="658">
+	<TITLE>Piz Buin</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Piz Buin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the highest in the Silvretta mountain range, the highest being the giant pyramid of Piz Linard (3,410 m, 11,188 ft). </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> forms the border between Graubünden and Vorarlberg. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest mountain peak in Vorarlberg.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> original name in the Romansh language of the Swiss canton Graubünden is Piz Buin Grand. A very similar summit nearby is called Piz Buin Pitschen; it has the same shape but is slightly lower (3,255 m or 10,680 ft).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Piz Buin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> can be reached from the Wiesbadener hut in Austria, crossing the Vermunt glacier, climbing up the Wiesbadener ridge and hiking over the Ochsentaler Glacier to the Buin gap. From the gap there is a zigzag walk to the top, with only a 20 m (65 ft) steep step to surmount before reaching the relatively flat summit space, which has an old wooden cross on the very top. The border between Switzerland and Austria crosses the summit from East to West.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>The name Piz Buin has also been taken, as its trade mark, by a sun cream firm, which has its headquarters in Vorarlberg and is well known all over the world.</STRING>
+	</PARAGRAPH>
+</TEXT>

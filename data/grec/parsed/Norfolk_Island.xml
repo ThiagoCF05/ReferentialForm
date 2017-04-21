@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="1337">
+	<TITLE>Norfolk Island</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Norfolk Island</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Norfuk: Norfuk Ailen) is a small inhabited island in the Pacific Ocean located between Australia, New Zealand and New Caledonia, and along with two neighbouring islands </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> forms one of Australia's external territories.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The Norfolk Island pine, a symbol of </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the island</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> pictured in </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> flag, is a striking evergreen tree endemic to </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the island</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and is quite popular in Australia, where two related species also grow.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TEXT ID="803">
+	<TITLE>Mount Walter (New Mexico)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Walter</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the second highest named summit in the state of New Mexico in the United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>However  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is not usually counted as an independent mountain since  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has only about 80 feet of topographic prominence, and  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is only 0.4 miles (0.6 km) north-northeast of Wheeler Peak, the highest peak in New Mexico.Both peaks lie in the Taos Mountains, a subrange of the Sangre de Cristo Mountains, which is in turn a subrange of the Rocky Mountains. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

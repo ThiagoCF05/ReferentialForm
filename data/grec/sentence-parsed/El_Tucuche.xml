@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEXT ID="739">
+	<TITLE>El Tucuche</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">El Tucuche</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (936m) is the second highest peak in Trinidad's northern range and  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is noted for  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> interesting plateau shape.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit is home to the Trinidad endemic El Tucuche Golden Tree Frog (Phyllodytes auratus), found only on  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">El Tucuche</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and on Trinidad's highest peak El Cerro del Aripo. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

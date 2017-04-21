@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TEXT ID="476">
+	<TITLE>Mount Mansfield</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Mansfield</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain in the U.S. state of Vermont.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The peak elevation, in the town of Underhill, is 4,393 ft. (1339 m) above mean sea level. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has the appearance of a (quite elongated) human face when viewed from the east or west with distinct forehead, nose, lips, chin (the highest point) and an Adam's apple.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>These features are most distinct when viewed from the east, looking westward. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Mansfield</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the two spots in Vermont where true alpine tundra survives from the ice ages.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>A few acres exist on Camel's Hump immediately to the south, but  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="30" SEMCAT="mountain" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Mansfield's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit still holds about 200 acres. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is used for various recreational and commercial purposes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>The summit is home to transmitter towers for a number of local TV and radio stations.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="25" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Mansfield</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has many hiking trails, including the Long Trail, which traverses the main ridgeline.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.4">
+			<STRING>Additionally, the east flank of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is used by the Stowe Mountain Resort for skiing and tourism, and for a toll road that is open to automobiles. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

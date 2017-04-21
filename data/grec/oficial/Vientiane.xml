@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT ID="1192">
+	<TITLE>Vientiane</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vientiane</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (vyen tyn, Lao ວຽງຈັນ Viangchan) is the capital city of Laos, situated in the Mekong Valley.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The estimated population of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="city" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is 200,000 (2005) while the number of people living in the Vientiane metropolitan area (the entire Vientiane Prefecture and parts of Vientiane Province) is believed to be over 730,000.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="52" PARAGRAPH-RECENCY="30" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vientiane</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 17°58' North, 102°36' East (17.9667, 102.6). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

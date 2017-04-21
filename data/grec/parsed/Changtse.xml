@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="86">
+	<TITLE>Changtse</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Changtse</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Tibetan: &quot;north peak&quot;) is a mountain situated between the Main Rongbuk and East Rongbuk Glaciers in Tibet immediately north of Mount Everest. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is connected to Mount Everest via the North Col.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The given elevation of 7,543 metres is from modern Chinese mapping. Some authorities give 7,583 metres.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The Changtse Glacier flows north into the East Rongbuk Glacier. It is possible that the second highest lake in the world is in the Changtse Glacier at 6,216 metres (20,394 feet).</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TEXT ID="960">
+	<TITLE>Alfred the Great</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Alfred</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Old English: Ælfrēd ) (c. 849 - 26 October 899) was king of the southern Anglo-Saxon kingdom of Wessex from 871 to 899. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Alfred</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is famous for </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> defence of the kingdom against the Danish Vikings, becoming the only English monarch awarded the epithet 'the Great'. </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Alfred</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was also the first King of the West Saxons to style </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">himself</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> 'King of the Anglo-Saxons'. Details of </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> life are known from a work by the Welsh scholar, Asser. A learned man, </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Alfred</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> encouraged education and </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> improved the kingdom's law system.</STRING>
+	</PARAGRAPH>
+</TEXT>

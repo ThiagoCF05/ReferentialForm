@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<TEXT ID="296">
+	<TITLE>Loser (mountain)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING>Loser (pronounced: [loːzə]) is the name of a mountain in the Ausseerland in Austria  </STRING>
+			<REFERENCE ID="1" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="15" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has an elevation of 1,838 metres above sea level. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the most prominent landmark of the Ausseerland.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Among the locals,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also known as the Ausseer Ohrwaschl (Aussee Ear) because of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="16" SENTENCE-RECENCY="12" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shape.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>It is possible to almost reach the peak by car by using a toll road of nine km.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>There is an extensive parking lot in front of the Loser Restaurant at an elevation of 1600 m, from where one can embark on various tours.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>The Augstsee (1643 m / 250 m x 100 m) is located close to the restaurant and is an attractive target for hiking which can be reached with just a little walking.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<STRING>From there onwards, one can reach the peak by passing the Loser-Fenster (Loser Window), a natural rock gate.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.7">
+			<STRING>One of the most important ski resorts of the Ausseerland is located on  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="134" PARAGRAPH-RECENCY="109" SEMCAT="mountain" SENTENCE-POSITION="14" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Loser</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and spans about 1000 meters of elevation.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.8">
+			<STRING>During the descent, one passes a second gastronomic establishment, the Loserhütte at 1498 m. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

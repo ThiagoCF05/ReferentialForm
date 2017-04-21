@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TEXT ID="1032">
+	<TITLE>Bujumbura</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bujumbura</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital city of Burundi.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="7" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies at the north eastern corner of Lake Tanganyika, and with an estimated population of 300,000 in 1994  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="27" PARAGRAPH-RECENCY="19" SEMCAT="city" SENTENCE-POSITION="20" SENTENCE-RECENCY="19" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Burundi's largest city and its administrative, communications, and economic center.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Manufactures include textiles, and soap.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="44" PARAGRAPH-RECENCY="17" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bujumbura</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Burundi's main port and  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="6" SEMCAT="city" SENTENCE-POSITION="7" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ships most of the country's chief export, coffee, as well as cotton, skins, and tin ore.  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="67" PARAGRAPH-RECENCY="17" SEMCAT="city" SENTENCE-POSITION="24" SENTENCE-RECENCY="17" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bujumbura</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 3°22'34&quot; South, 29°21'36&quot; East (-3.3761111, 29.36). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TEXT ID="181">
+	<TITLE>Gongga Shan</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gongga Shan</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Chinese, Traditional: 貢嘎山, Simplified: 贡嘎山, Pinyin: Gònggá shān), also known as Minya Konka, is the highest mountain in Sichuan, China. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is situated in the Daxue Shan mountain range. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the easternmost 7000 m peak in the world and the third highest peak outside of the Himalaya/Karakoram.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has large vertical relief over the deep nearby gorges.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>A rope way has been constructed that can transport tourists across the glacier below </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> to a cable car station at 5000 meter altitude.</STRING>
+	</PARAGRAPH>
+</TEXT>

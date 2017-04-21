@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="619">
+	<TITLE>Noshaq</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Noshaq</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (or Nowshak) is the highest mountain in Afghanistan and the second highest independent peak of the Hindu Kush after Tirich Mir (7,690 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Noshaq</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the northeastern corner of the country along the Durand line which marks the border with Pakistan. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The first ascent of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was in 1960 by Toshiaki Sakai and Goro Iwatsuboa, members of a Japanese expedition.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The climb followed the southeast ridge from the Qadzi Deh Glacier.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Nowadays, the normal route is by the West ridge. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The first winter ascent was in 1973 by Tadeusz Piotrowski and Andrzej Zawada, members of a Polish expedition, via the north face.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>It was the world's first winter climb above 7,000 m. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

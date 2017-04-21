@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="995">
+	<TITLE>Amman</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Amman</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, sometimes spelled Ammann (Arabic عمان ʿAmmān), is the capital city of the Hashemite Kingdom of Jordan, a city of more than 1.6 million inhabitants (2000), and the administrative capital and commercial centre of Jordan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital city of Amman Governorate. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

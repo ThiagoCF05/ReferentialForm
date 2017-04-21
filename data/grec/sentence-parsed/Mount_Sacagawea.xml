@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="524">
+	<TITLE>Mount Sacagawea</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Sacagawea</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the seventh highest peak in the Wind River Range, Wyoming and  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named after Sacagawea, the female Shoshone who accompanied the Lewis and Clark Expedition.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The Upper Fremont Glacier is located southeast and the Sacagawea Glacier is northeast of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Straddling the Continental Divide,  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Sacagawea</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one mile (1.6 km) northwest of Fremont Peak. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

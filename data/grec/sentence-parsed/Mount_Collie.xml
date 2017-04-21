@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="386">
+	<TITLE>Mount Collie</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Collie</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in Yoho National Park, located on the western boundary of the Wapta Icefield in Canada.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named in 1897 by Charles S. Thompson after J. Norman Collie, an accomplished mountaineer and early explorer of the Canadian Rockies. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

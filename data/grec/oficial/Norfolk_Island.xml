@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TEXT ID="1337">
+	<TITLE>Norfolk Island</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Norfolk Island</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Norfuk: Norfuk Ailen) is a small inhabited island in the Pacific Ocean located between Australia, New Zealand and New Caledonia, and along with two neighbouring islands  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="27" SEMCAT="country" SENTENCE-POSITION="28" SENTENCE-RECENCY="27" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms one of Australia's external territories. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The Norfolk Island pine, a symbol of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the island</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> pictured in  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="3" SEMCAT="country" SENTENCE-POSITION="11" SENTENCE-RECENCY="3" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flag, is a striking evergreen tree endemic to  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="9" SEMCAT="country" SENTENCE-POSITION="20" SENTENCE-RECENCY="9" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the island</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and is quite popular in Australia, where two related species also grow. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

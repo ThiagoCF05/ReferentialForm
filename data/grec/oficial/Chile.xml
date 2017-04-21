@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TEXT ID="1239">
+	<TITLE>Chile</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Chile</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Chile (Spanish: República de Chile), is a country in South America occupying a long and narrow coastal strip wedged between the Andes mountains and the Pacific Ocean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The Pacific forms  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="35" SEMCAT="country" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> entire western border, with Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage at  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="58" PARAGRAPH-RECENCY="22" SEMCAT="country" SENTENCE-POSITION="26" SENTENCE-RECENCY="22" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> southernmost tip. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

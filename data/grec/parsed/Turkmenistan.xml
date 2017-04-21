@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1399">
+	<TITLE>Turkmenistan</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Turkmenistan</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (also known as Turkmenia) is a country in Central Asia. The name Turkmenistan is derived from Persian, meaning &quot;land of the Turkmen&quot;. Before 1991, </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was a constituent republic of the Soviet Union, called the Turkmen Soviet Socialist Republic. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is bordered by Afghanistan to the southeast, Iran to the southwest, Uzbekistan to the northeast, Kazakhstan to the northwest, and the Caspian Sea to the west. Although </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is wealthy in natural resources in certain areas, most of </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is covered by the Karakum (Black Sands) Desert. </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Turkmenistan</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a single-party system ruled by President for Life Saparmurat Niyazov.</STRING>
+	</PARAGRAPH>
+</TEXT>

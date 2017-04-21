@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TEXT ID="1062">
+	<TITLE>Guatemala City</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guatemala City</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (in full, La Nueva Guatemala de la Asunción; locally known as Guatemala or Guate) is the capital and largest city of the nation of Guatemala.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="27" PARAGRAPH-RECENCY="26" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also the largest city in Central America. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Population estimates for  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guatemala City</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is 2,541,581.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="7" PARAGRAPH-RECENCY="3" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 14°38'N,90°33'W, in a mountain valley in the south central part of the country. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

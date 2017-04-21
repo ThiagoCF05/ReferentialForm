@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1352">
+	<TITLE>Qatar</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Qatar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Arabic: قطر [IPA: ˈqɑ̱.tˁɑ̱r]), officially the State of Qatar (Arabic: دولة قطر , Dawlat Qatar), is an emirate in the Middle East and Western Asia, occupying the small Qatar Peninsula on the northeasterly coast of the larger Arabian Peninsula.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="39" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is bordered by Saudi Arabia to the south; otherwise the Persian Gulf surrounds  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="54" PARAGRAPH-RECENCY="14" SEMCAT="country" SENTENCE-POSITION="15" SENTENCE-RECENCY="14" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the state</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<TEXT ID="146">
+	<TITLE>El Misti</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">El Misti</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (5,822 m) is a stratovolcano located in southern Peru near the city of Arequipa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>This city, second largest in the country, lies at the foot of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="27" SEMCAT="mountain" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">El Misti</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in a fertile valley located 2,400 m above sea level.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">El Misti</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has become the city's enduring symbol.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Most of the city's colonial buildings were constructed from  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="55" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">El Misti's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> white volcanic stone (sillar).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="60" PARAGRAPH-RECENCY="5" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> last eruption was in 1784. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>With  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="2" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> snow-capped, perfect cone,  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="4" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="4" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">El Misti</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> stands at 5,822 m and  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies between the mountain Chachani (6,075 m) and the volcano Pichu-Pichu (5,669 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>These impressive mountains, located northeast of Arequipa, are visible almost year-round, but especially during winter (May-September). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="9" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">El Misti</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has three concentric craters.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>In the inner crater fumarole activity can be seen.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Near the inner crater six Inca mummies and rare Inca artifacts were found in 1998 during a month-long excavation directed by the archaeologists Johan Reinhard and Jose Antonio Chavez.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>The finds are currently stored in the Museo de Santuarios Andinos in Arequipa. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>There are two main climbing routes on  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>The Pastores route, which is more used, as its starting point is nearer to the city of Arequipa, starts in 3,300 m. Usually a camp is made in 4,500 m at Nido de Aguilas.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>The second route, the Aguada Blanca route, starts at 4,000 m near the Aguada Blanca reservoir and a camp is made in 4,800 m at Monte Blanco (the name of the camp comes from the fact that it has more or less the height as the summit of Mont Blanc).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.4">
+			<STRING>Neither climbing routes presents technical difficulties but both are considered strenuous because of the steep loose sand slopes. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1693">
+	<TITLE>Paul Wolfowitz</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Paul Dundes Wolfowitz</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (b. December 22, 1943) is an American academic and political figure.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="12" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is currently the President of the World Bank, but  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="10" SEMCAT="person" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> may be most famous as a prominent architect of the foreign policy of the George W. Bush administration known as the Bush Doctrine, which resulted in the invasion of Iraq. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>A former aide to Democratic Senator &quot;Scoop&quot; Jackson in the 1970s,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="12" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Wolfowitz</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also served in the U.S. Defense Department, as Director of Policy Planning and Assistant Secretary of State for East Asian and Pacific Affairs at the U.S. State Department, as U.S.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Ambassador to Indonesia, and as Deputy Secretary of Defense in the Administration of George W. Bush. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

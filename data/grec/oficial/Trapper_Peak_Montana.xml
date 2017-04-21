@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEXT ID="892">
+	<TITLE>Trapper Peak (Montana)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Trapper Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest point in the Bitterroot Mountains, part of the larger Bitterroot Range in western Montana.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Located at approximately 45°53'23.43N,114°17'52.11W,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is within the Central Bitterroot subrange of the Bitterroot Mountains and the Selway-Bitterroot Wilderness Area.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> rises over 6000 ft above the nearby Bitterroot Valley.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>A trail to  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="52" PARAGRAPH-RECENCY="13" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> climbs from the end of a Forest Service road. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

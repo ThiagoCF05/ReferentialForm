@@ -1,0 +1,556 @@
+<?xml version="1.0" ?>
+<TEXT GENRE="news" ID="30" TOPIC-ANIMACY="animate">
+	<TITLE>ALITO TELLS SENATORS THAT 'RULE OF LAW' IS PARAMOUNT</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING>Addressing concerns among Democrats that  </STRING>
+			<REFERENCE ENTROPY="0.430676558073" ID="1" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">show</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="other">in the</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">The</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="other">felt</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">paramount</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Samuel Alito</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">are</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Judge Samuel Anthony Alito, Jr's</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Alito</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> past support for conservative positions makes  </STRING>
+			<REFERENCE ENTROPY="0.33564770546" ID="2" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="7" SENTENCE-POSITION="13" SENTENCE-RECENCY="7" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">him</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">it</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Samuel Anthony Alito, Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">it</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Judge Samuel Anthony Alito, Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">rule of law</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">them</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">them</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="other">the Rule of Law</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">him</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> too much of an ideologue for a seat on the Supreme Court,  </STRING>
+			<REFERENCE ENTROPY="0.525876657364" ID="3" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="13" SENTENCE-POSITION="26" SENTENCE-RECENCY="13" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">Judge Samuel A. Alito Jr.</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">They</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Samuel Anthony Alito</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Judge Samuel Anthony Alito, Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="other">senators</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Samuel Alito</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Samuel Alito</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">alito</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="description">the Associate Justice</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Samuel</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> began  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="4" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="2" SENTENCE-POSITION="28" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="other">a</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="other">their</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">talking about</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">a</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">a</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">for</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="other">to organize</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> public drive for confirmation on Monday by saying judges should have no agendas or preferred outcomes of their own. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>&quot;The judge's only obligation -- and it's a solemn obligation -- is to the rule of law,&quot;  </STRING>
+			<REFERENCE ENTROPY="0.376403149629" ID="5" PARAGRAPH-POSITION="18" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="18" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Alito</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">It</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Judge Alito Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="other">Clinton</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> said.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>&quot;And what that means is that in every single case, the judge has to do what the law requires.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>But with the two parties primed for a debate about the composition of the court and the nation's direction on several divisive issues,  </STRING>
+			<REFERENCE ENTROPY="0.555404175171" ID="6" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="24" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Alito</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Judge Samuel Anthony Alito, Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="description">the judge</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">alito</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="description">the judge</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="description">the Associate Justice</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">that</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Alito</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> steered clear in  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="7" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="4" SENTENCE-POSITION="28" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> opening statement of any discussion about  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="8" PARAGRAPH-POSITION="35" PARAGRAPH-RECENCY="7" SENTENCE-POSITION="35" SENTENCE-RECENCY="7" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">their</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">his personal</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">personal</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="other">personal</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">his personal</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="other">his own</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> views on abortion, presidential power and other specific topics, setting up what promised to be a far more direct clash with Democrats on Tuesday over  </STRING>
+			<REFERENCE ENTROPY="0.234100463488" ID="9" PARAGRAPH-POSITION="61" PARAGRAPH-RECENCY="26" SENTENCE-POSITION="61" SENTENCE-RECENCY="26" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> suitability for the pivotal seat. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>&quot;The role of a practicing attorney is to achieve a desirable result for the client in the particular case at hand,&quot;  </STRING>
+			<REFERENCE ENTROPY="0.329124966527" ID="10" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="22" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Alito</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">The court</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Judge Samuel Anthony Alito, Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Mr. Alito</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">alito</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Judge Alito Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Alito</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> said in remarks that lasted about 11 minutes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>&quot;But a judge can't think that way.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>A judge can't have any agenda.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.4">
+			<STRING>A judge can't have any preferred outcome in any particular case.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.5">
+			<STRING>And a judge certainly doesn't have a client. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>The day's proceedings began the formal process of weighing  </STRING>
+			<REFERENCE ENTROPY="0.569431649683" ID="11" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Alito's</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">of the</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Samuel Anthony Alito</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">out the</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">his Associate Justice</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">of</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> nomination to the Supreme Court seat vacated by Justice Sandra Day O'Connor, who is retiring. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING>President Bush, after having breakfast with  </STRING>
+			<REFERENCE ENTROPY="0.542984856711" ID="12" PARAGRAPH-POSITION="7" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Alito</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">her</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Justice Alito</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Judge Samuel Anthony Alito, Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="other">senators</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="description">the nominee</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="description">the nominee</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Alito</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> at the White House on Monday morning, told reporters that he wanted the Senate to &quot;give this man a fair hearing and an up or down vote on the Senate floor.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<STRING>Setting out the liberal case against  </STRING>
+			<REFERENCE ENTROPY="0.33564770546" ID="13" PARAGRAPH-POSITION="7" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Alito</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">it</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">him is</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">Bush</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Judge Samuel Anthony Alito, Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">the Alito nomination</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">alito</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="other">confirmation</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">abortion</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Alito</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>, Sen. Edward M. Kennedy, D-Mass., said he had grave concerns about what he characterized as  </STRING>
+			<REFERENCE ENTROPY="0.586135311615" ID="14" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="16" SENTENCE-POSITION="23" SENTENCE-RECENCY="16" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Alito's</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">positive</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">a lack of</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">a concerning</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Mr. Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">biased</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="other">great</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">blind</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">a</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">false</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> support for an &quot;all-powerful executive branch,&quot; a record of supporting powerful institutions over individuals, hostility to the concept of one person, one vote and opposition to abortion rights.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="7.2">
+			<STRING>He also raised questions about  </STRING>
+			<REFERENCE ENTROPY="0.615640639995" ID="15" PARAGRAPH-POSITION="57" PARAGRAPH-RECENCY="34" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Alito's</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">SAmuel's</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">personal</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="description">the nominee's</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="description">the judge's</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">personal</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Judge Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Alito's</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> credibility. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="8">
+		<SENTENCE ID="8.1">
+			<STRING>Republicans portrayed  </STRING>
+			<REFERENCE ENTROPY="0.502787629754" ID="16" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">him</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="description">the canidate</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Samuel Anthony Alito</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Judge Samuel Anthony Alito, Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Samuel Alito</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">alito</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Alito</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> as exceedingly well qualified and well within the mainstream of conservative thought. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="9">
+		<SENTENCE ID="9.1">
+			<STRING>&quot;I want to remind the American people that this nominee, Judge Alito, has been confirmed unanimously by the United States Senate, not once but twice,&quot; said Sen. Charles Grassley, R-Iowa, referring to  </STRING>
+			<REFERENCE ENTROPY="0.418165660079" ID="17" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="33" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Alito's</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Judge Samuel Anthony Alito, Jr</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Alito's</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> nomination to the 3rd U.S.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="9.2">
+			<STRING>Circuit Court of Appeals 15 years ago and  </STRING>
+			<REFERENCE ENTROPY="0.145262924963" ID="18" PARAGRAPH-POSITION="47" PARAGRAPH-RECENCY="14" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> earlier confirmation as a federal prosecutor. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

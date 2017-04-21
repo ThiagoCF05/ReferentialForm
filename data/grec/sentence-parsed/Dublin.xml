@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<TEXT ID="1055">
+	<TITLE>Dublin</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dublin</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Irish: Baile Ítha Cliath]) is the capital and the largest city of the Republic of Ireland, located near the midpoint of Ireland's east coast, at the mouth of the River Liffey and  </STRING>
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms the centre of the Dublin Region.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Originally founded as a centre of Viking settlement,  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been Ireland's capital city since mediæval times. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dublin City</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the entire area administered by Dublin City Council.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>However, when most people talk about 'Dublin', they also refer to the contiguous suburban areas that run into the adjacent counties of Dun Laoghaire-Rathdown, Fingal and South Dublin.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>This area is sometimes known as 'Urban Dublin' or the 'Dublin Metropolitan Area'. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The population within  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (i.e.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>the administrative area controlled by Dublin City Council) was 505,739 at the census of 2006.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Beyond this, at the same census the Dublin Region population was 1,186,159, whilst the Greater Dublin Area had a figure of 1,661,185. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>A person from  </STRING>
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dublin</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known as a Dubliner or a Dub.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>In a 2003 survey,  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dublin</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was found to be the best capital city in Europe to live in, and the Republic of Ireland was also the best country to live in. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

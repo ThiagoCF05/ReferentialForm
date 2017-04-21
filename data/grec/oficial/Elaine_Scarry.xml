@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<TEXT ID="1502">
+	<TITLE>Elaine Scarry</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Elaine Scarry</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born 30 June, 1946), a professor of English and American Literature and Language, is the Walter M. Cabot Professor of Aesthetics and the General Theory of Value at Harvard University.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="31" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> interests include Theory of Representation, the Language of Physical Pain and Structure of Verbal and Material Making in Art, Science and the Law. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the author of The Body in Pain which is known as a definitive study of pain and inflicting pain.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> argues that physical pain leads to destruction and the unmaking of the human world, whereas human creation at the opposite end of the spectrum leads to the making of the world. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>As a writer and lecturer on civic questions ranging from plane crashes to nuclear weapons to the Patriot Act,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="20" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Elaine Scarry</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has become an important public intellectual.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>( </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="8" SEMCAT="person" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> discusses this public role in an interview in the book, Global Values 101, published by Beacon Press in 2006.)</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="1845">
+	<TITLE>Tietê River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Tietê River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Portuguese: Rio Tietê) is a river in the Brazilian state of São Paulo.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">This highly-polluted river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> runs for 700 miles before joining the Paraná River, making  </STRING>
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> around the 130th longest river in the world.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> spring is located on the municipality of Salesópolis, in Serra do Mar.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Although Salesópolis is only 22 km to the ocean, the slope forces  </STRING>
+			<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> to run towards the center of the continent. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

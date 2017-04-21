@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<TEXT ID="1609">
+	<TITLE>John Peel</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">John Robert Parker Ravenscroft</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, OBE (30 August, 1939 – 25 October 2004), known professionally as John Peel, was an English disc jockey, radio presenter, and journalist. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Known for  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> eclectic taste in music and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="6" SEMCAT="person" SENTENCE-POSITION="9" SENTENCE-RECENCY="6" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> honest and warm broadcasting style,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="6" SEMCAT="person" SENTENCE-POSITION="15" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">John Peel</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a popular and respected DJ and broadcaster.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="9" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was one of the first to play reggae and punk on British radio.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="14" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> significant influence on alternative rock, Pop, British hip hop and dance music is acknowledged.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="53" PARAGRAPH-RECENCY="15" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was one of the original DJs of BBC Radio 1 in 1967 and the only original DJ remaining on that station at the time of  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="79" PARAGRAPH-RECENCY="26" SEMCAT="person" SENTENCE-POSITION="27" SENTENCE-RECENCY="26" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> death. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

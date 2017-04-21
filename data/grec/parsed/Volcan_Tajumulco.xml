@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="915">
+	<TITLE>Volcán Tajumulco</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Volcán Tajumulco</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is large stratovolcano in western Guatemala. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest mountain in Guatemala and Central America at 4,220 m (13,845 feet). </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tajumulco</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has had several historical reports of volcanic eruptions, but none have been confirmed to be true eruptions.</STRING>
+	</PARAGRAPH>
+</TEXT>

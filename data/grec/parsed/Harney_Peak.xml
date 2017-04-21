@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TEXT ID="207">
+	<TITLE>Harney Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Harney Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest mountain in South Dakota, located in Black Hills National Forest. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> elevation is 7,242 ft (2,207 m). </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest point east of the Rocky Mountains in mainland North America. An abandoned fire lookout tower is situated on the summit. A plaque at the base of the tower which reads &quot;Valentine McGillycuddy, Wasicu Wacan&quot; marks the final resting place for Dr. Valentine McGillycuddy.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was named in the late 1850s by Lieutenant Gouverneur K. Warren in honor of General William S. Harney, who was commander of the military in the Black Hills area in the late 1850s.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The top can be reached by following the trails either from Sylvan Lake or Horse Thief Lake. The hike from Sylvan Lake to the summit and back is about 6 miles (10 km). </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Harney Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located within the Black Elk Wilderness area. No permit is required for use of the trail, although the National Forest Service asks (at a self-service kiosk) that hikers register to obtain a free permit upon entering the Black Elk Wilderness area, en route to the summit.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>The entire area around </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Harney Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the most popular hiking locations in the Black Hills. The trails which course through the Black Elk Wilderness and nearby Custer State Park are walked on at all seasons of the year. There has been great interest in expanding this wilderness area in recent years.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TEXT ID="919">
+	<TITLE>Weissmies</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Weissmies</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (4,023 m) is a mountain in the Pennine Alps in Switzerland near the village of Saas-Fee. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed by Jakob Christian Häusser and Peter Josef Zurbriggen in 1855 via the Triftgrat.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The ascent was mired in some controversy as the local guides did not believe that  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="32" SEMCAT="mountain" SENTENCE-POSITION="16" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> could be ascended without their help; when they themselves ascended to the summit by following Häusser and Zurbriggen's footprints, they found that the highest point had indeed been reached. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The approach to the Trift Glacier/south-west ridge (Triftgrat) route can now be made via lift to Hohsaas, which is located virtually at the edge of the glacier.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The ascent from Hohsaas takes about 4 hours and involves slopes to 40 degrees and crevasses. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="748">
+	<TITLE>Kabru</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kabru</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain in the Himalayas on the border of India and Nepal. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of a ridge that extends south from Kangchenjunga.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The main features of this ridge are as follows (north to south):</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>*Kangchenjunga south top, 8476 m, at 27°41'30N,88°09'15E*A 6600-6700 m saddle, located at 27°39'51N,88°09'39E*A 7349 m summit, known as Talung, at 27°39'18N,88°07'51E*A 6983 m saddle, at 27°38'51N,88°07'21E*A 7412 m summit, at 27°38'06N,88°07'06E. This point has sufficient prominence to be classified as the highest point of a separate mountain, according to the definition used in List of highest mountains. It is confusingly referred to by some authorities as &quot;Kabru IV&quot;, but it is not clear that this is correct, or that any &quot;Kabru&quot; name is correctly applied to this summit. According to the 1996 version of the Himalayan Journal (pp. 29-36), members of an Indian Army expedition reached this summit in May 1994.*A substantial &quot;field of firn&quot; measuring about 2km from north to south, and 1 km from east to west. This is almost entirely over 7200 m, and the watershed divide that runs through this field does not drop below this height.*A 7338 m summit, at 27°37'00N,88°07'33E, at the eastern boundary of the field of firn. This point, which is known as Kabru North, was reached by C.R.Cooke on 18 November 1935, without oxygen. It remained the highest solo climb until 1953. Although it is lower than the 7412 m summit, which Cooke did not ascend, it was considered at the time, and may still be considered, to be </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Kabru's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> highest point; the higher summit was considered to be an unnamed summit along the ridge to Kangchenjunga.*An intervening c.7200 m saddle. Cooke's account implies that there are two intervening tops between this saddle and Kabru North.*A 7318 m summit, at 27°36'30N,88°06'42E, known as Kabru South. This was climbed by an Indian party in 1994.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>To the south west of Kabru south, there is a 6400 m saddle and a 6682 m summit known as Rathong. To its south east is the 6600 m Kabru Dome.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>In 2004, a group of Serbian climbers unsuccessfully attempted </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. A series of avalanches forced the group to give up their goal.</STRING>
+	</PARAGRAPH>
+</TEXT>

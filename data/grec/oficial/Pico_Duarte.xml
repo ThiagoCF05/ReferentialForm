@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="645">
+	<TITLE>Pico Duarte</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pico Duarte</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest peak in all the Caribbean islands.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies in the Cordillera Central range, the greatest of the Dominican Republic's mountain chains.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The Cordillera Central extends from the plains between San Cristóbal and Baní to the northwestern peninsula of Haiti, where it is known as Massif du Nord.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The highest elevations of the Cordillera Central are found in the Pico Duarte and Valle Nuevo massifs. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

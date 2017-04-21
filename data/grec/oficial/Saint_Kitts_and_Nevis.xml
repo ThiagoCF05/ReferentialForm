@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<TEXT ID="1361">
+	<TITLE>Saint Kitts and Nevis</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Saint Kitts and Nevis</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Federation of Saint Christopher and Nevis (or the Federation of Saint Kitts and Nevis), located in the Leeward Islands, is a unitary island nation in the Caribbean and the smallest nation in the Americas in both area and population.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The capital city and government for  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="49" PARAGRAPH-RECENCY="48" SEMCAT="country" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the federated state</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is mainly on the larger island of Saint Kitts (formerly named Saint Christopher).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The smaller state of Nevis (formerly named: Nuestra Señora de las Nieves) lies about 3 km southeast of Saint Kitts.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Historically the British dependency of Anguilla was also a part of this union, which was then known collectively as Saint Christopher-Nevis-Anguilla. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Although  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="2" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Saint Kitts and Nevis</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are geographically within the Leeward Islands,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="7" SEMCAT="country" SENTENCE-POSITION="9" SENTENCE-RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">they</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are relatively close to a cluster of several other islands.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>To the north-northwest lie the islands of Saint Eustatius, Saba, Saint Barthélemy, and Saint Martin.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>To the northeast are Antigua and Barbuda, and to the south-east is Montserrat. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Both the names Saint Christopher and Saint Kitts are given in the Constitution of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="15" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Saint Christopher and Nevis</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Saint Kitts and Nevis</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the smallest (in population) member of the United Nations in the American continent.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Owing to the United Nations 'one state, one vote' system,  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="25" SEMCAT="country" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> vote has the same weight as countries such as Brazil and Mexico, which are roughly 3,000 times more populous and India which has millions more people. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

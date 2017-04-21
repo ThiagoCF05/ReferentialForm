@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="31">
+	<TITLE>Aucanquilcha</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Aucanquilcha</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a massive stratovolcano located in Antofagasta Region of northern Chile, just south of the border with Bolivia. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is composed of a number of overlapping cones along a 10 km (6 mi) long ridge that forms the summit. There is fumarolic activity and voluminous sulfur deposits in the summit region. During the Pleistocene ice ages, an extensive ice cap with an area over 45 km² (17 mi²) mantled the upper slopes, extending down as low as 4,600 m (15,000 ft) and leaving large moraines.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>A sulfur mine was located near the summit of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Aucanquilcha</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, which was the world's highest mine until it closed in the 1990s, and it was serviced by perhaps the highest driveable road in the world, but this road is no longer usable by vehicles. The highest permanent human habitation was a miners' barracks at about 5,500 m (18,000 ft). Mining originally began on </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in 1913, initially using llamas as pack animals to carry down the sulfur. An aerial cable system extending for 22 km (14 mi) was completed in 1935, to lower the sulfur in buckets. Eventually this was replaced by the road which switchbacked up to the summit and was capable of supporting 20-ton mining trucks.</STRING>
+	</PARAGRAPH>
+</TEXT>

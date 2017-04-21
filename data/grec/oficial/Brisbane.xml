@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<TEXT ID="1027">
+	<TITLE>Brisbane</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Brisbane</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (pronounced [IPA: /ˈbɹɪz.bən/]) is the capital and most populous city of the Australian state of Queensland, and  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="18" SEMCAT="city" SENTENCE-POSITION="19" SENTENCE-RECENCY="18" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the third largest city in Australia, with a population of just under 2.0 million and an urban agglomeration of over 2.4 million people.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="44" PARAGRAPH-RECENCY="25" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a city set close to the Pacific Ocean, and  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="55" PARAGRAPH-RECENCY="11" SEMCAT="city" SENTENCE-POSITION="12" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is situated beside the Brisbane River on plains between Moreton Bay and the Great Dividing Range in south-eastern Queensland. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Named in honour of Sir Thomas Brisbane,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> grew from a harsh penal colony established in 1824 at Redcliffe, 40 km to the north.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The colony was moved to  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="22" SEMCAT="city" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Brisbane</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in 1825 and free settlers were permitted from 1842.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="10" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was chosen as the capital of Queensland when it was proclaimed a separate colony in 1859.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="57" PARAGRAPH-RECENCY="17" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> developed slowly until after World War II, when  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="66" PARAGRAPH-RECENCY="9" SEMCAT="city" SENTENCE-POSITION="10" SENTENCE-RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> played a central role in the Allied campaign as the South West Pacific headquarters for General Douglas MacArthur. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>More recently,  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Brisbane</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> hosted the 1982 Commonwealth Games and 1988 World's Fair, as well as the Goodwill Games in 2001. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

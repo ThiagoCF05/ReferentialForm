@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="338">
+	<TITLE>Mount Alberta</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Alberta</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain located in the upper Athabasca River Valley of Jasper National Park. J. Norman Collie named </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in 1898 after Princess Louise Caroline Alberta.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The first ascent was made by members of the Japanese Alpine Club: S. Hashimoto, H. Hatano, T. Hayakawa, Y. Maki, Y.Mita, N. Okabe. The team was guided by Hans Fuhrer, H. Kohler and J. Weber. After some difficulty in dealing with an overhang and a steep series of ledges, they reached the top and ceremoniously planted an ice axe. The ice axe was left as a symbol of their achievement. Parties on subsequent ascents took parts of the axe to the American Alpine Club in New York and back home to Japan.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The second ascent was completed in 1948 by Americans Fred Ayers and John Oberlin. In 1958, the first ascent by a Canadian team was completed by Neil Brown, Hans Gmoser, Leo Grillmair, Heinz Kahl and Sarka Spinkova.</STRING>
+	</PARAGRAPH>
+</TEXT>

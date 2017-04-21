@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT ID="664">
+	<TITLE>Piz Zupò</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Piz Zupò</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (3,995 m) is a mountain in the Bernina Range in Switzerland and Italy, and  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the second highest peak in the range after Piz Bernina. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The first ascent of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was made by L. Enderlin and Serardi, with Badrutt (a chamois hunter) on 9 July 1863. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

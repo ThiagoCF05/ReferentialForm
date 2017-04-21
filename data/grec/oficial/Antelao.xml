@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TEXT ID="23">
+	<TITLE>Antelao</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte Antelao</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain in the eastern Dolomites (a section of the Alps) in northeastern Italy, southeast of the town of Cortina d'Ampezzo, in the region of Cadore.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="29" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known as the &quot;King of the Dolomites&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>(Marmolada, the highest of all the Dolomites, is the &quot;Queen&quot;.)</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Like many Dolomite peaks,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="53" PARAGRAPH-RECENCY="23" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Antelao</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is steep, rocky, and pointed;  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="59" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also sits close to the edge of the Dolomite uplift and so  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="72" PARAGRAPH-RECENCY="13" SEMCAT="mountain" SENTENCE-POSITION="24" SENTENCE-RECENCY="13" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has dramatic drops to the nearby valleys. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The easiest route is from the north, known as the &quot;Laste&quot;, a steep, narrow ridge.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>It involves a good deal of exposure, and a few short technical sections, such as a chimney, protected by cables. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

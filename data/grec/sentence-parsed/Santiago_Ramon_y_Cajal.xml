@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="1731">
+	<TITLE>Santiago Ramón y Cajal</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Santiago Ramón y Cajal</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (May 1 1852 - October 17 1934) was a Spanish histologist, physician, and Nobel laureate.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is considered to be one of the founders of modern neuroscience. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

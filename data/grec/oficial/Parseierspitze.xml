@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="630">
+	<TITLE>Parseierspitze</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Parseierspitze</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is, at 3,036 metres tall, the highest summit of the Northern Limestone Alps and the only one that exceeds the 3,000 m mark.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="24" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in Austrian state of Tyrol, in the Lechtal Alps and due to  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="16" SENTENCE-RECENCY="15" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> height,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="2" SEMCAT="mountain" SENTENCE-POSITION="18" SENTENCE-RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is called &quot;Queen of the Lechtal Alps&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed in 1869 by the Specht/Siess party. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

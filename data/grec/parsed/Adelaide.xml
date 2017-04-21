@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<TEXT ID="991">
+	<TITLE>Adelaide</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Adelaide</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the capital and most populous city of the Australian state of South Australia, and </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the fifth largest city in Australia, with a population of over 1.1 million. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a coastal city beside the Southern Ocean, and </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is situated on the Adelaide Plains, north of the Fleurieu Peninsula, between the Gulf St. Vincent and the low-lying Mount Lofty Ranges. </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is roughly a linear city: </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 20 km from the coast to the foothills, but </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> stretches 90 km from Gawler at </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> northern extent to Sellicks Beach in the south.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Named in honour of Queen Adelaide, the consort of King William IV, </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was founded in 1836 as the planned capital for the only freely-settled British province in Australia. Colonel William Light, one of </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Adelaide's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> founding fathers, designed </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and chose </STRING>
+		<REFERENCE ID="12" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> location close to the River Torrens. Inspired by William Penn, Light's design set out </STRING>
+		<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Adelaide</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in a grid layout, interspaced by wide boulevards and large public squares, and entirely surrounded by parkland. </STRING>
+		<REFERENCE ID="14" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Early Adelaide</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was shaped by religious freedom and a commitment to political progressivism and civil liberties, which led to world-first reforms. Adelaidean society remained largely puritan up until the 1970s, when a set of social reforms under the premiership of Don Dunstan resulted in a cultural revival. Today </STRING>
+		<REFERENCE ID="15" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Adelaide</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is known for </STRING>
+		<REFERENCE ID="16" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> many festivals as well as for </STRING>
+		<REFERENCE ID="17" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> wine, arts and sports.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>As South Australia's seat of government and commercial centre, </STRING>
+		<REFERENCE ID="18" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Adelaide</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the site of many governmental and financial institutions. Most of these are concentrated in the city centre along the cultural boulevard of North Terrace and in various districts of the metropolitan area.</STRING>
+	</PARAGRAPH>
+</TEXT>

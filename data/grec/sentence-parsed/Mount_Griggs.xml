@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TEXT ID="428">
+	<TITLE>Mount Griggs</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Griggs</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, formerly known as Knife Peak Volcano, is a stratovolcano,  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies 10 km behind the volcanic arc defined by other Katmai group volcanoes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Although no historic eruptions have been reported from  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Griggs</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, vigorously active fumaroles persist in a summit crater and along the upper southwest flank.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The fumaroles on the southwest flank are the hottest, and some of the flank fumaroles can roar so loudly that they can be heard from the valley floor.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The slopes of  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Griggs</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are heavily mantled by fallout from the 1912 eruption of Novarupta volcano. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named for Dr. Robert Fisk Griggs (1881-1962), botanist, whose explorations of the area, after the eruption of Mount Katmai in 1912, led to the creation of Katmai National Monument by President Woodrow Wilson in 1918. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

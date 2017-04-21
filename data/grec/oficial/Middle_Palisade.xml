@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TEXT ID="326">
+	<TITLE>Middle Palisade</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Middle Palisade</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a peak in the Palisades group, part of the central Sierra Nevada Mountains in the US state of California.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> rises to 14,012 feet (4,271 m), and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the twelfth highest peak in the state. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Several routes involving exposed scrambling and/or easy technical rock climbing (class 4) exist on the various flanks of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="19" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Middle Palisade</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Some routes involve travel on the Middle Palisade Glacier.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The easiest route involves scrambling (class 3) up a chute in the east face of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="44" PARAGRAPH-RECENCY="25" SEMCAT="mountain" SENTENCE-POSITION="16" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

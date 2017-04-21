@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="618">
+	<TITLE>North Twin Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">North Twin (Peak)</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the two peaks that comprise The Twins massif located at the northeast corner of the Columbia Icefield in Jasper National Park, Alberta, Canada. The other lower peak is named South Twin (3,566 m). </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">North Twin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the third highest peak in the Canadian Rockies, after Mount Robson and Mount Columbia.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The massif was named The Twins in 1898 by J. Norman Collie and Hugh M. Stutfield. The decision to name the peaks separately was approved February 28 1980.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>In addition to </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">North Twin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and South Twin, the massif contains a northern subpeak of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">North Twin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> known as Twins Tower, 3,627 m (11,900 ft). This sits atop the famed north face of the massif (see below), and was named in 1984.</STRING>
+	</PARAGRAPH>
+</TEXT>

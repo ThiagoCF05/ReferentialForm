@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<TEXT ID="426">
+	<TITLE>Mount Gould (Montana)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Gould</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a peak on the Continental Divide in Glacier National Park, Montana, United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest point of the Garden Wall, a distinctive ridge of the Lewis Range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is most notable for  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> huge, steep east face, which drops 4000 feet (1220 m) in only one-half mile (0.8 km).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>This face provides a backdrop to Grinnell Lake, and is often photographed. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The first recorded ascent of  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Gould</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was in 1920, by Frank B. Wynn, Harry R. Horn, Henry H. Goddard, and party.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>They used the West Face route, which is the easiest and most commonly used route today.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>It starts from the Highline Trail, which skirts the west side of the peak, and involves some rock scrambling but no technical climbing. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Climbing the sheer East Face of  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Gould</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is theoretically possible; however the brittle, loose nature of the rock in Glacier National Park makes highly technical ascents like this one particularly unpleasant and dangerous. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

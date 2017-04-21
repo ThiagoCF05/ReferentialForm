@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="703">
+	<TITLE>Sahand</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sahand</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Persian: سهند) is a massive, heavily eroded stratovolcano in northwestern Iran.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>At 3707 m,  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain in the Iranian province of East Azarbaijan. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the highest mountains in Iranian Azerbaijan, in addition to being an important dormant volcano in the country.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The Sahand mountains are directly south of Tabriz, the highest peak of which is Jam Daqi at an altitude of 3,750 m..</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Approximately 17 peaks can be accounted for as being over 3,000 m. in height.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Due to the presence of a variety of flora and fauna, the Sahand mountains are known as the bride of mountains in Iran. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>It is also the name of an Iranian Saam Class frigate sunk in Operation Praying Mantis by American forces in 1988. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<TEXT ID="1141">
+	<TITLE>Port of Spain</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Port of Spain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, with a municipal population of 49,031 (2000 census) and a metropolitan population estimated at 269,923 residents, is the capital of Trinidad and Tobago and the country's third largest municipality by population, after Chaguanas and San Fernando.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located on the Gulf of Paria, on the northwest coast of the island of Trinidad. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> serves primarily as a retail and administrative centre.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also serves as a financial services centre and  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is home to two of the largest banks in the English-speaking Caribbean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the major shipping hubs of the Caribbean, with exports of agricultural products and asphalt.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Bauxite from the Guianas and iron ore from Venezuela are trans-shipped via facilities at Chaguaramas, about five miles west of  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>The tallest building in  </STRING>
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Port of Spain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (and country as a whole) is the 21-storey Nicholas Tower; the proposed Waterfront International Project is slated to include a 26-storey office tower. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

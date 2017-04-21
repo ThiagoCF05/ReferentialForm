@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="797">
+	<TITLE>Mount Paget</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Paget</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a summit of Allardyce Range on the South Atlantic/Antarctic island of South Georgia. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest peak in the island of South Georgia, and any territory of the United Kingdom. However, a higher peak still, Mount Jackson, lies within the British Antarctic Territory.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a saddle-shaped mountain, marking the highest point of the Allardyce Range in the central part of South Georgia. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">This feature</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was known to early sealers and whalers at South Georgia, and the name has long been established through general usage. </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is clearly visible from Grytviken and King Edward Point.</STRING>
+	</PARAGRAPH>
+</TEXT>

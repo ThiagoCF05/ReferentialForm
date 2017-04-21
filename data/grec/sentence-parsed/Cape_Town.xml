@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<TEXT ID="1036">
+	<TITLE>Cape Town</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cape Town</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Afrikaans: Kaapstad /ˈkɑːpstɑt/; Xhosa: iKapa) is the third most populous city in South Africa, forming part of the metropolitan municipality of the City of Cape Town.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the provincial capital of the Western Cape, as well as the legislative capital of South Africa, where the National Parliament and many government offices are located.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cape Town</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is famous for  </STRING>
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> harbour as well as  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> natural setting in the Cape floral kingdom, including such well-known landmarks as Table Mountain and Cape Point.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Often regarded as one of the world's most beautiful cities because of  </STRING>
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> geography,  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cape Town</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the most popular South African destination for tourism. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cape Town</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> originally developed as a victualling station for Dutch ships sailing to Eastern Africa, India, and Asia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Jan van Riebeeck's arrival on 6 April 1652 established the first permanent European settlement in sub-Saharan Africa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cape Town</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> quickly outgrew  </STRING>
+			<REFERENCE ID="10" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> original purpose as the first European outpost at the Castle of Good Hope.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the largest city in South Africa until the growth of Johannesburg and Durban. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>According to the 2001 Census,  </STRING>
+			<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a population of 2.9 million.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cape Town</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is town twinned with Nice in France. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

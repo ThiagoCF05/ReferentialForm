@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<TEXT ID="1279">
+	<TITLE>Guam</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guam</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Chamorro: Guåhån), officially the U.S.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Territory of Guam, is an island in the Western Pacific Ocean and  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an organized unincorporated territory of the United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> inhabitants are the Chamorros, who first populated the island approximately 4,000 years ago.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Experts theorize that the first peoples migrated from origins involved in the early trading routes, however, others speculate that the peoples more likely originated from South East Asia including Indonesia, Malaysia, and the Philippines.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Most early Chamorros take on the likeness of peoples from this origin, however, more and more, the people of  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guam</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are becoming racially-mixed.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the largest and southernmost of the Mariana Islands.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>The capital is Hagåtña, formerly Agana (pronounced Agaña).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.8">
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Guam's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> economy is mainly supported by tourism (particularly from Japan, Korea and the People's Republic of China) and United States armed forces bases.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.9">
+			<STRING>The United Nations Committee on Decolonization includes  </STRING>
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guam</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> on the United Nations list of Non-Self-Governing Territories. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

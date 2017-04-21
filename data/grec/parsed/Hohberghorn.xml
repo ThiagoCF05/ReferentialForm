@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TEXT ID="214">
+	<TITLE>Hohberghorn</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Hohberghorn</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (4,219 m) is a mountain in the Pennine Alps in Switzerland. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies towards the northern end of the Nadelgrat, a high-level ridge running roughly north–south above the resort of Saas-Fee to the east, and the Mattertal to the west.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first climbed by R. B. Heathcote, with guides Franz Biner, Peter Perren and Peter Taugwalderon, in August 1869 via the west gully above the Hohberg Glacier to the Stecknadeljoch.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> north-east face, not as long or as steep as that on the neighbouring Lenzspitze, is 320 m and at an average angle of 50 degrees, and might be considered as excellent training for the latter.</STRING>
+	</PARAGRAPH>
+</TEXT>

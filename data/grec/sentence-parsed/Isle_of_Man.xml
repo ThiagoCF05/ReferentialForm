@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TEXT ID="953">
+	<TITLE>Isle of Man</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Isle of Man</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Manx: 'Ellan Vannin') or Mann (Manx: 'Mannin'), is an island located in the Irish Sea at the geographical centre of the British Isles.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Although  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is not part of the United Kingdom,  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a Crown dependency. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

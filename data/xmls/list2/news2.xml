@@ -1,0 +1,663 @@
+<?xml version="1.0" ?>
+<TEXT GENRE="news" ID="12" TOPIC-ANIMACY="animate">
+	<TITLE>HARVARD'S CONTROVERSIAL PRESIDENT ANNOUNCES RESIGNATION</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ENTROPY="0.0" ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Dr. Lawrence H. Summers</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Larry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Lawrence Summers</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Lawrence Harry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Larry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">lawernce henery summers</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Larry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Lawrence Summers</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Lawrence Henry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Lawrence Henry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Lawrence Summers</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> resigned Tuesday as president of Harvard University after a relatively brief and turbulent tenure of five years, nudged by Harvard's governing corporation and facing a vote of no confidence from the influential Faculty of Arts and Sciences. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The announcement by  </STRING>
+			<REFERENCE ENTROPY="0.403673672484" ID="2" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Summers</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Mr. Summers</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">larry</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">President Summers</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Summer</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Summers</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>, an economist and a former secretary of the Treasury, disappointed many students on the campus and raised questions about future leaders' ability to govern Harvard with its vocal and independent-minded faculty. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>But advisers and confidants of  </STRING>
+			<REFERENCE ENTROPY="0.189281049611" ID="3" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Summers</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Lawrence Henry &amp;quot;Larry&amp;quot; Summers</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Mr. Summers</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">larry</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">summers</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Summers</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> said  </STRING>
+			<REFERENCE ENTROPY="0.128114324287" ID="4" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="2" SENTENCE-POSITION="8" SENTENCE-RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="other">he had</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">larry</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">that</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> privately concluded a week ago that  </STRING>
+			<REFERENCE ENTROPY="0.118950896135" ID="5" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="7" SENTENCE-POSITION="15" SENTENCE-RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the President</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="other">he felt he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> should step down, after members of Harvard's governing corporation and friends -- particularly from the Clinton administration -- made it clear that  </STRING>
+			<REFERENCE ENTROPY="0.254410944052" ID="6" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="23" SENTENCE-POSITION="38" SENTENCE-RECENCY="23" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Summers'</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> presidency was lost. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ENTROPY="0.427830961345" ID="7" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Summers</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Lawrence Summers</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="other">As president</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Larry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="other">As Harvard's President</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="other">As president</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="description">President Emeritus</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">lawrence hery summers</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Lawrence</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="other">At Harvard</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="other">Incidentally</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="other">Recently</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Summers</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>,  </STRING>
+			<REFERENCE ENTROPY="0.705774948209" ID="8" PARAGRAPH-POSITION="2" PARAGRAPH-RECENCY="1" SENTENCE-POSITION="2" SENTENCE-RECENCY="1" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">president</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="description">an economist</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="other">had</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Summer</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="other">has</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">who</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> earned a base salary of $563,000 in the 2004-5 academic year and  </STRING>
+			<REFERENCE ENTROPY="0.289541617829" ID="9" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="13" SENTENCE-POSITION="15" SENTENCE-RECENCY="13" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="other">would have</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">had</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">actually</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="other">also</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> received a 3 percent raise last July, is to leave office June 30.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Derek C. Bok, 75, who was Harvard's president from 1971 to 1991, will serve as interim president until a permanent successor is found. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>Hailed in  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="10" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> first days as a once-in-a-century leader,  </STRING>
+			<REFERENCE ENTROPY="0.114889426761" ID="11" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="7" SENTENCE-POSITION="10" SENTENCE-RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Summers</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Larry Summers</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">larry</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">summers</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Mr. Summers</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>, 51, arrived with plans to expand the campus, put new focus on undergraduate education and integrate the university's schools.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>But  </STRING>
+			<REFERENCE ENTROPY="0.247482124491" ID="12" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="21" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">larry</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> eventually alienated professors with a personal style that many saw as bullying and arrogant. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<REFERENCE ENTROPY="0.395488489104" ID="13" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Summers'</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Larry</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Mr. Summers's</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">The</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">His</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Summers'</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Summers's</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> desire to change Harvard's culture, which  </STRING>
+			<REFERENCE ENTROPY="0.128114324287" ID="14" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="7" SENTENCE-POSITION="8" SENTENCE-RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">many</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="other">many</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">was</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> saw as complacent, was accompanied by slights to some faculty and missteps like  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="15" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="14" SENTENCE-POSITION="22" SENTENCE-RECENCY="14" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="other">an unfortunate</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> statement last year that women might lack an intrinsic aptitude for math and science. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<STRING>And some of  </STRING>
+			<REFERENCE ENTROPY="0.408906726043" ID="16" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Summers'</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Summer's</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Summers's</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Summers'</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="other">his many</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Summers'</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Summers'</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Summer's</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> major decisions -- including overhauling the undergraduate curriculum, appointing deans and mapping out a new campus -- were hugely divisive at the 370-year-old university. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="8">
+		<SENTENCE ID="8.1">
+			<STRING>Several prominent donors said they were aghast at  </STRING>
+			<REFERENCE ENTROPY="0.395488489104" ID="17" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Summers'</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Summer's</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Summers'</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Summers'</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="other">his actions</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Summers'</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">him</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> fall. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="9">
+		<SENTENCE ID="9.1">
+			<STRING>&quot;How can anyone govern a university where a fraction of faculty members can force a president out?&quot;</STRING>
+		</SENTENCE>
+		<SENTENCE ID="9.2">
+			<STRING>said Joseph O'Donnell, a Boston business executive who is a former member of Harvard's Board of Overseers and a prominent donor. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="10">
+		<SENTENCE ID="10.1">
+			<STRING>But several of  </STRING>
+			<REFERENCE ENTROPY="0.525876657364" ID="18" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Summers'</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Summer's</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="description">Harvard's</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Summer's</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">Harvard's</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Summer's</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Summers'</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Summers'</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="other">the other</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Summers's</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> faculty critics --  </STRING>
+			<REFERENCE ENTROPY="0.254819595786" ID="19" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="4" SENTENCE-POSITION="8" SENTENCE-RECENCY="4" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="other">professors</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="other">They</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="other">several</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="other">(remove are)</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="other">many</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="other">who are</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">who</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">who</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> are predominantly in the humanities and social sciences, but extended across the university -- said  </STRING>
+			<REFERENCE ENTROPY="0.453476902614" ID="20" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="16" SENTENCE-POSITION="24" SENTENCE-RECENCY="16" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the president</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Summers</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> made the right decision.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="10.2">
+			<STRING>&quot;A strong leader is not just someone who can name a goal or force a change,&quot; said Mary C. Waters, a sociology professor, &quot;but someone who can bring out the best in people and find ways to encourage teamwork.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

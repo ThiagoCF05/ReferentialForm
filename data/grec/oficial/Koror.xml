@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<TEXT ID="1089">
+	<TITLE>Koror</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Koror</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the state comprising the main commercial center of the country of Palau.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="14" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> consists of several islands, the most prominent being Koror Island (also Oreor Island). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The state of Koror</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (population 14,000 as of 2004) contains about 90% of the population of the country.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The nation's former capital and largest town, also called Koror is located here.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The town has a population of 11,200 and is located at 7°21'38N,134°28'45E.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>As of 7 October 2006, Melekeok replaced Koror as Palau's capital city. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The island of Koror is connected by bridges to two neighboring islands: </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>* Ngerekebesang Island, the site of Palau's second-largest town, Meyuns, in the eastern part of the island, with a population of 1,200.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>* Malakal Island, the site of Koror's port. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>Koror Island is also connected by a bridge to the state of Airai in the island of Babeldaob, where Palau's international airport is located. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING>Besides the former capital, Koror, and the town of Meyuns, there are a total of 11 villages in  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="19" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the state of Koror</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>: </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<STRING>Ngermid, Ngerkesowaol, Ngerchemai, Iyebukel, Idid, Meketii, Dngeronger, Ikelau, Medalaii, Ngerbeched, Meyuns </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

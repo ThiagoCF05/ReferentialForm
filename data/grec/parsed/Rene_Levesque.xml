@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="975">
+	<TITLE>René Lévesque</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">René Lévesque</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (pronounced [IPA: [ʁəne levɛk]]) (August 24, 1922 - November 1, 1987) was a reporter, a minister of the government of Quebec, Canada, (1960 - 1966), the founder of the Parti Québécois political party, and 23rd Premier of Quebec (November 25, 1976 - October 3, 1985). </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was the first French-Canadian political leader since confederation to attempt, through a referendum, to negotiate political independence for Quebec. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lévesque</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was a recipient of the title Grand Officer of the French Legion of Honour.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="1125">
+	<TITLE>Naypyidaw</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Naypyidaw</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (also spelt Nay Pyi Taw) is the national capital of Myanmar, located in Pyinmana Township of Mandalay Division.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The administrative capital of Myanmar was officially moved to a militarised greenfield site two miles west of Pyinmana on 6 November 2005.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="41" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Naypyidaw</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is approximately 320 kilometres north of Yangon.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="8" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The capital's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> official name was revealed on Armed Forces Day in March 2006. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

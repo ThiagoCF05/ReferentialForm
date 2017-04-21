@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TEXT ID="758">
+	<TITLE>Labuche Kang</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Labuche Kang</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (or Lapche Kang, Lobuche Kang I, Choksiam) is a high peak of the Himalayas in Nepal/Tibet, on the main chain on the watershed separating the Sub-Continent of India from Tibet.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies in a little-known region known as the Labuche Himal. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Labuche Kang</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed in 1987 by a Tibetan-Japanese expedition, via the West Ridge.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>According to the Index, there have been no subsequent attempts or ascents. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

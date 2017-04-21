@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TEXT ID="1293">
+	<TITLE>Israel</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Israel</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Hebrew: מְדִינַת יִשְׂרָאֵל, Medinat Yisra'el; [Arabic: دَوْلَةْ إِسْرَائِيل], Dawlat Isrā'īl), officially the State of Israel, is a country in Western Asia on the southeastern edge of the Mediterranean Sea. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is bordered by Lebanon in the north, Syria and Jordan in the east, and Egypt in the south-west and </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a population of over seven million people.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Proclaimed independent in 1948, </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Israel</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the world's only Jewish state, although </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> population includes citizens of many ethnic and religious backgrounds (see Israelis). According to the international data reported by Freedom House, the degree of political rights and civil liberties in </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Israel</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> makes </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> the only liberal democracy in the Middle East, consisting of a multi-party system and separation of powers.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Israel</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a vibrant cultural life and a technologically and industrially advanced economy. </STRING>
+		<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Israel</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was ranked 23rd out of 177 countries in the 2006 United Nations Human Development Index, the highest ranking in the Middle East and third highest in Asia.</STRING>
+	</PARAGRAPH>
+</TEXT>

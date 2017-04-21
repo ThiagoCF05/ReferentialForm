@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<TEXT ID="1194">
+	<TITLE>Washington, D.C.</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Washington, D.C.</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, is the capital city of the United States of America.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>&quot;D.C.&quot; stands for the District of Columbia, the federal district coextensive with  </STRING>
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the city of Washington</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is named after George Washington, military leader of the American Revolution and the first President of the United States. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The District of Columbia and the city of Washington are coextensive and are governed by a single municipal government, so for most practical purposes they are considered to be the same entity, though this was not always the case.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>As late as 1871, there were multiple jurisdictions within  </STRING>
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the District</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, when Georgetown ceased to be a separate city within  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the District</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Although there is a municipal government and a mayor, Congress has the supreme authority over  </STRING>
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city and district</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, which results in citizens having a different status and less representation in government than residents of the states. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The centers of all three branches of the U.S. federal government are in  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the District</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as well as the headquarters of most independent agencies.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> serves as the headquarters for the World Bank, the International Monetary Fund, and the Organization of American States, and other national and international institutions.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Washington</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the frequent location of large political demonstrations and protests, particularly on the National Mall.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Washington</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the site of numerous national landmarks, monuments, and museums, and  </STRING>
+			<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a popular destination for tourists. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is commonly known as D.C., The District, or simply Washington.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Historically,  </STRING>
+			<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was called the Federal City or Washington City.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<REFERENCE ID="14" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is easily confused with the state of Washington, located in the Pacific Northwest — to avoid this,  </STRING>
+			<REFERENCE ID="15" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the capital city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is often called simply D.C., and the state referred to as &quot;Washington State.&quot;</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.4">
+			<STRING>The population of  </STRING>
+			<REFERENCE ID="16" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the District of Columbia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, as of 2005 U.S. Census Bureau estimates, is 582,049 persons.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.5">
+			<STRING>The Baltimore-Washington Metropolitan Area surpasses 8 million persons.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.6">
+			<STRING>If  </STRING>
+			<REFERENCE ID="17" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Washington, D.C.</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> were a state,  </STRING>
+			<REFERENCE ID="18" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> would rank last in area behind Rhode Island, 50th in population ahead of Wyoming, first in population density ahead of New Jersey, and 35th in Gross State Product. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

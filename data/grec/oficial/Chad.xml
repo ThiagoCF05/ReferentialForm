@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<TEXT ID="1238">
+	<TITLE>Chad</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Chad</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Arabic:تشاد , Tšad; French: Tchad), officially the Republic of Chad, is a landlocked country in central Africa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="18" PARAGRAPH-RECENCY="17" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is listed by Foreign Policy as one of the world's top 10 failed states.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="15" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders Libya to the north, Sudan to the east, the Central African Republic to the south, Cameroon and Nigeria to the southwest, and Niger to the west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Due to  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="63" PARAGRAPH-RECENCY="30" SEMCAT="country" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> distance from the sea and  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="69" PARAGRAPH-RECENCY="6" SEMCAT="country" SENTENCE-POSITION="9" SENTENCE-RECENCY="6" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> largely desert climate,  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="73" PARAGRAPH-RECENCY="4" SEMCAT="country" SENTENCE-POSITION="13" SENTENCE-RECENCY="4" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is sometimes referred to as the &quot;dead heart of Africa&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>In the north,  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="87" PARAGRAPH-RECENCY="14" SEMCAT="country" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> contains the Tibesti Mountains, the largest mountain chain in the Sahara desert.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="100" PARAGRAPH-RECENCY="13" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Chad</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was formerly part of the Federation of French Equatorial Africa. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

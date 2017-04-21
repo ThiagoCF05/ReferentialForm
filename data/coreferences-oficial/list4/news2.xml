@@ -1,0 +1,1122 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="female" ID="1" MENTION-ID="1" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Phyllis Huffman</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="5" GENDER="female" MENTION-ID="2" NUMBER="singular" TYPE="description">
+				<STRING> a veteran casting director </STRING>
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="female" ID="2" MENTION-ID="3" NUMBER="singular" PARAGRAPH-POSITION="6" RECENCY="5" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">whose</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">whose</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="other">and</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="other">having</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="other">who has</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="pronoun">whose</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">whose</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="other">has</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">whose</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="other">who had a</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="pronoun">whose</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">whose</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="other">had</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="other">with</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="other">who had a</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="other">who worked in</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="other">his</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="other">with a</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="other">and</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="6" GENDER="neutral" MENTION-ID="4" NUMBER="singular" TYPE="description"> long collaboration </REFERENCE>
+				<STRING> with filmmaker </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="male" MENTION-ID="5" NUMBER="singular" TYPE="name"> Clint Eastwood </REFERENCE>
+				<STRING> included work on </STRING>
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="7" GENDER="unknown" MENTION-ID="6" NUMBER="plural">
+					<STRING>`` Unforgiven'' and`` </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="unknown" MENTION-ID="7" NUMBER="singular" TYPE="name"> Million Dollar Baby </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>,'' </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="9" GENDER="unknown" MENTION-ID="8" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="male" MENTION-ID="9" NUMBER="singular" TYPE="pronoun"> his </REFERENCE>
+				<STRING> two films that won Best </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="12" GENDER="unknown" MENTION-ID="10" NUMBER="singular" TYPE="name"> Picture Oscars </REFERENCE>
+			</REFERENCE>
+			<STRING>, died </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="13" GENDER="unknown" MENTION-ID="11" NUMBER="singular" TYPE="name"> Thursday </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="14" GENDER="neutral" MENTION-ID="12" NUMBER="singular" TYPE="name">
+				<STRING> New York City after </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="15" GENDER="unknown" MENTION-ID="13" NUMBER="singular" TYPE="description"> a brief illness </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.422899" GENDER="female" ID="3" MENTION-ID="14" NUMBER="singular" PARAGRAPH-POSITION="39" RECENCY="33" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Ms. Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> was </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="unknown" MENTION-ID="15" NUMBER="singular" TYPE="name"> 61 </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING> In </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="20" GENDER="unknown" MENTION-ID="16" NUMBER="singular" TYPE="description"> a statement </REFERENCE>
+			<STRING> Friday, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="male" MENTION-ID="17" NUMBER="singular" TYPE="name"> Eastwood </REFERENCE>
+			<STRING> called </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.271003" GENDER="female" ID="4" MENTION-ID="18" NUMBER="singular" PARAGRAPH-POSITION="7" RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Huffman</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Ms huffman</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>,`` </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="female" MENTION-ID="19" NUMBER="singular" TYPE="description"> a visionary casting director </REFERENCE>
+			<STRING> with </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="24" GENDER="neutral" MENTION-ID="20" NUMBER="singular" TYPE="description">
+				<STRING> a true sense of what makes </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="25" GENDER="unknown" MENTION-ID="21" NUMBER="singular" TYPE="description">
+					<STRING> an actor right for </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="26" GENDER="unknown" MENTION-ID="22" NUMBER="singular" TYPE="description"> the role </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>.'' </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>`` </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="23" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> completely trusted </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="1" GENDER="female" MENTION-ID="24" NUMBER="singular" TYPE="name"> Phyllis </REFERENCE>
+			<STRING> with </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="30" GENDER="unknown" MENTION-ID="25" NUMBER="plural" TYPE="description"> the casting duties </REFERENCE>
+			<STRING> on all </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="26" NUMBER="singular" TYPE="pronoun"> my </REFERENCE>
+			<STRING> movies,'' </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="2" GENDER="male" MENTION-ID="27" NUMBER="singular" TYPE="name"> Eastwood </REFERENCE>
+			<STRING> said. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>`` </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="34" GENDER="neutral" MENTION-ID="28" NUMBER="singular" TYPE="description"> The industry </REFERENCE>
+			<STRING> has lost </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="35" GENDER="male" MENTION-ID="29" NUMBER="unknown" TYPE="description"> a true professional </REFERENCE>
+			<STRING> and all of us at </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="32" GENDER="unknown" MENTION-ID="30" NUMBER="unknown" TYPE="name"> Malpaso </REFERENCE>
+			<STRING> -LRB- </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="36" GENDER="neutral" MENTION-ID="31" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="33" GENDER="male" MENTION-ID="32" NUMBER="singular" TYPE="name"> Eastwood's </REFERENCE>
+				<STRING> production company </STRING>
+			</REFERENCE>
+			<STRING> -RRB- have lost </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="37" GENDER="male" MENTION-ID="33" NUMBER="singular" TYPE="description"> a loved family member </REFERENCE>
+			<STRING>.'' </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING> Born in </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="43" GENDER="male" MENTION-ID="34" NUMBER="singular" TYPE="name">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="38" GENDER="unknown" MENTION-ID="35" NUMBER="singular" TYPE="name"> Bronx </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="39" GENDER="unknown" MENTION-ID="36" NUMBER="singular" TYPE="name"> N.Y. </REFERENCE>
+				<STRING>, </STRING>
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.408907" GENDER="female" ID="5" MENTION-ID="37" NUMBER="singular" PARAGRAPH-POSITION="6" RECENCY="0" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Huffman</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="name">huffman</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="name">Miss Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> graduated from </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="40" GENDER="neutral" MENTION-ID="38" NUMBER="unknown" TYPE="name"> Webster University </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="41" GENDER="male" MENTION-ID="39" NUMBER="singular" TYPE="name"> St. Louis </REFERENCE>
+			<STRING> and </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.294599" GENDER="female" ID="6" MENTION-ID="40" NUMBER="singular" PARAGRAPH-POSITION="15" RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">also</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="other">later</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">she</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> worked for </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="44" GENDER="neutral" MENTION-ID="41" NUMBER="singular" TYPE="description"> a time </REFERENCE>
+			<STRING> as </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="45" GENDER="male" MENTION-ID="42" NUMBER="singular" TYPE="description"> a flight attendant </REFERENCE>
+			<STRING> on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="42" GENDER="unknown" MENTION-ID="43" NUMBER="unknown" TYPE="name"> TWA </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="4.1">
+			<STRING> After moving to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="48" GENDER="unknown" MENTION-ID="44" NUMBER="singular" TYPE="name">
+				<STRING> Los Angeles with </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="22" GENDER="male" MENTION-ID="45" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="22" GENDER="male" MENTION-ID="46" NUMBER="singular" TYPE="description">
+						<REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="female" ID="7" MENTION-ID="47" NUMBER="singular" PARAGRAPH-POSITION="7" RECENCY="0" SYNCAT="subj-det"/>
+						<STRING> husband </STRING>
+					</REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="22" GENDER="male" MENTION-ID="48" NUMBER="singular" TYPE="name">
+						<STRING> actor </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="22" GENDER="male" MENTION-ID="49" NUMBER="singular" TYPE="name"> David Huffman </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="53" GENDER="unknown" MENTION-ID="50" NUMBER="singular" TYPE="name"> the mid-1970s </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.429816" GENDER="female" ID="8" MENTION-ID="51" NUMBER="singular" PARAGRAPH-POSITION="15" RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> started </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="55" GENDER="unknown" MENTION-ID="52" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="female" ID="9" MENTION-ID="53" NUMBER="singular" PARAGRAPH-POSITION="17" RECENCY="2" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">her</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="pronoun">her</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> career </STRING>
+			</REFERENCE>
+			<STRING> as </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="57" GENDER="male" MENTION-ID="54" NUMBER="singular" TYPE="description"> a casting director </REFERENCE>
+			<STRING> at </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="47" GENDER="neutral" MENTION-ID="55" NUMBER="unknown" TYPE="name"> MTM </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.424315" GENDER="female" ID="10" MENTION-ID="56" NUMBER="singular" PARAGRAPH-POSITION="25" RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">She then</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">She then</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">Then she</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="other">Huffman then</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="other">She then</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> moved on to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="58" GENDER="neutral" MENTION-ID="57" NUMBER="unknown" TYPE="name"> Paramount </REFERENCE>
+			<STRING>, where </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="female" ID="11" MENTION-ID="58" NUMBER="singular" PARAGRAPH-POSITION="31" RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">she</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> worked for </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="62" GENDER="male" MENTION-ID="59" NUMBER="singular" TYPE="description">
+				<STRING> noted casting director </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="59" GENDER="female" MENTION-ID="60" NUMBER="singular" TYPE="name"> Marion Dougherty </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING> When </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="59" GENDER="male" MENTION-ID="61" NUMBER="singular" TYPE="name"> Dougherty </REFERENCE>
+			<STRING> went to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="64" GENDER="unknown" MENTION-ID="62" NUMBER="unknown" TYPE="name"> Warner Bros. </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.403401" GENDER="female" ID="12" MENTION-ID="63" NUMBER="singular" PARAGRAPH-POSITION="45" RECENCY="14" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Huffman</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">Eastwood</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">1Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> went with </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="59" GENDER="female" MENTION-ID="64" NUMBER="singular" TYPE="pronoun"> her </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.4">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="58" GENDER="neutral" MENTION-ID="65" NUMBER="singular" TYPE="pronoun"> It </REFERENCE>
+			<STRING> was there that </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.329125" GENDER="female" ID="13" MENTION-ID="66" NUMBER="singular" PARAGRAPH-POSITION="61" RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">she</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> began working with </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="33" GENDER="male" MENTION-ID="67" NUMBER="singular" TYPE="name"> Eastwood </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.5">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="71" GENDER="neutral" MENTION-ID="68" NUMBER="singular" TYPE="description">
+				<STRING> The </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="70" GENDER="neutral" MENTION-ID="69" NUMBER="singular" TYPE="name"> first </REFERENCE>
+				<STRING> film </STRING>
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.385903" GENDER="female" ID="14" MENTION-ID="70" NUMBER="singular" PARAGRAPH-POSITION="72" RECENCY="11" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">she</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="other">that she</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="name">Phyllis Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="name">Phyllis Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="other">film</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="name">Phyllis Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="other">they</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> cast for </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="33" GENDER="male" MENTION-ID="71" NUMBER="singular" TYPE="pronoun"> him </REFERENCE>
+			</REFERENCE>
+			<STRING> was </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="74" GENDER="male" MENTION-ID="72" NUMBER="singular" TYPE="name">
+				<STRING>`` Honkytonk Man'' in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="75" GENDER="unknown" MENTION-ID="73" NUMBER="singular" TYPE="name"> 1982 </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.6">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="78" GENDER="unknown" MENTION-ID="74" NUMBER="plural" TYPE="description">
+				<STRING> Other films </STRING>
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.516033" GENDER="female" ID="15" MENTION-ID="75" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">she</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="other">included</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="name">Phyllis</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="other">included</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="other">they</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="pronoun">she</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> cast for </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="33" GENDER="male" MENTION-ID="76" NUMBER="singular" TYPE="name"> Eastwood </REFERENCE>
+				<STRING> included`` </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="80" GENDER="neutral" MENTION-ID="77" NUMBER="singular" TYPE="name"> Mystic River </REFERENCE>
+				<STRING>,'' </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="81" GENDER="unknown" MENTION-ID="78" NUMBER="plural">
+					<STRING>`` </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="82" GENDER="unknown" MENTION-ID="79" NUMBER="singular" TYPE="name">
+						<STRING> Midnight in </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="83" GENDER="neutral" MENTION-ID="80" NUMBER="singular" TYPE="description">
+							<STRING> the Garden of </STRING>
+							<REFERENCE ANIMACY="inanimate" ENTITY-ID="84" GENDER="unknown" MENTION-ID="81" NUMBER="plural"> Good and Evil </REFERENCE>
+						</REFERENCE>
+					</REFERENCE>
+					<STRING>,''`` </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="85" GENDER="neutral" MENTION-ID="82" NUMBER="singular" TYPE="name"> A Perfect World </REFERENCE>
+					<STRING>,'' and`` </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="77" GENDER="neutral" MENTION-ID="83" NUMBER="unknown" TYPE="name"> Space Cowboys </REFERENCE>
+				</REFERENCE>
+				<STRING>.'' </STRING>
+			</REFERENCE>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="5.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.319772" GENDER="female" ID="16" MENTION-ID="84" NUMBER="singular" PARAGRAPH-POSITION="13" RECENCY="12" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> eventually became </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="88" GENDER="male" MENTION-ID="85" NUMBER="singular" TYPE="description">
+				<STRING> head of casting for </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="89" GENDER="neutral" MENTION-ID="86" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="64" GENDER="male" MENTION-ID="87" NUMBER="unknown" TYPE="name"> Warner's </REFERENCE>
+					<STRING> television division </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING> In television, </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.329125" GENDER="female" ID="17" MENTION-ID="88" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> cast the pilot of the hit series </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="94" GENDER="male" MENTION-ID="89" NUMBER="singular" TYPE="name">
+				<STRING>`` </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="95" GENDER="male" MENTION-ID="90" NUMBER="singular" TYPE="name"> Murphy Brown </REFERENCE>
+				<STRING>,'' which starred </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="90" GENDER="female" MENTION-ID="91" NUMBER="singular" TYPE="name"> Candice Bergen </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="6.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="97" GENDER="unknown" MENTION-ID="92" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.408907" GENDER="female" ID="18" MENTION-ID="93" NUMBER="singular" PARAGRAPH-POSITION="14" RECENCY="13" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">Her</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="pronoun">Her</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="name">Huffman's</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="pronoun">Her</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="pronoun">Her</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="name">Phyllis Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">Her</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="pronoun">Her</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="name">Huffman's</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">Her</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="pronoun">Her</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">Her</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="pronoun">Her</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="name">Phyllis Huffman's</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">Her</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="pronoun">Her</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis'</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> life in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="96" GENDER="neutral" MENTION-ID="94" NUMBER="singular" TYPE="name"> Southern California </REFERENCE>
+			</REFERENCE>
+			<STRING> was marred by tragedy, however. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.2">
+			<STRING> In </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="101" GENDER="unknown" MENTION-ID="95" NUMBER="singular" TYPE="name"> February 1985 </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="22" GENDER="male" MENTION-ID="96" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="22" GENDER="male" MENTION-ID="97" NUMBER="singular" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.128114" GENDER="female" ID="19" MENTION-ID="98" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">her</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="86" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="89" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="95" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="104" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="110" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="113" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="119" TYPE="pronoun">Her</REFEX>
+							<REFEX PARTICIPANT-ID="122" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="125" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="131" TYPE="name">Huffman</REFEX>
+							<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="145" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+							<REFEX PARTICIPANT-ID="162" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="163" TYPE="pronoun">her</REFEX>
+							<REFEX PARTICIPANT-ID="164" TYPE="pronoun">her</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> husband </STRING>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="105" GENDER="unknown" MENTION-ID="99" NUMBER="singular" TYPE="name">
+					<STRING> then </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="99" GENDER="unknown" MENTION-ID="100" NUMBER="singular" TYPE="name"> 40 </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, was stabbed to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="106" GENDER="unknown" MENTION-ID="101" NUMBER="singular" TYPE="description">
+				<STRING> death in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="107" GENDER="unknown" MENTION-ID="102" NUMBER="singular" TYPE="name">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="100" GENDER="male" MENTION-ID="103" NUMBER="singular" TYPE="name"> San Diego's </REFERENCE>
+					<STRING> Balboa Park </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> while trying to chase down </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="108" GENDER="male" MENTION-ID="104" NUMBER="singular" TYPE="description">
+				<STRING> a suspect in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="109" GENDER="unknown" MENTION-ID="105" NUMBER="singular" TYPE="description"> a mobile home burglary </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.3">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="110" GENDER="male" MENTION-ID="106" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="111" GENDER="male" MENTION-ID="107" NUMBER="singular" TYPE="description"> The assailant </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="111" GENDER="male" MENTION-ID="108" NUMBER="singular" TYPE="name">
+					<STRING> a 16-year-old Mexican </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="113" GENDER="unknown" MENTION-ID="109" NUMBER="unknown" TYPE="description"> national </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, was arrested and eventually sentenced to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="114" GENDER="unknown" MENTION-ID="110" NUMBER="singular" TYPE="name"> 26 years </REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="115" GENDER="unknown" MENTION-ID="111" NUMBER="singular" TYPE="description"> life in prison </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="8">
+		<SENTENCE ID="7.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="22" GENDER="male" MENTION-ID="112" NUMBER="singular" TYPE="name">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.559361" GENDER="male" ID="20" MENTION-ID="113" NUMBER="singular" PARAGRAPH-POSITION="2" RECENCY="1" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Huffman</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="other">After</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="name">Phyllis Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="other">Later</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="other">After her husband's death</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="other">later</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="other">Tearfully</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="other">Later</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="other">Widowed and bereft</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="other">Openly distressed</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="other">His wife</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="name">Phyllis</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="description">Grief stricken</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="other">After</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="other">Later</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="description">Devestated</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING>, </STRING>
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.547727" GENDER="male" ID="21" MENTION-ID="114" NUMBER="singular" PARAGRAPH-POSITION="19" RECENCY="17" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">who</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="other">then</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="pronoun">who</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="name">Mrs. Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="other">Eastwood</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="name">Phyllis</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="description">the widow</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="name">Huffman</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="pronoun">she</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="other">and Clint Eastwood</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> spoke at </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="119" GENDER="neutral" MENTION-ID="115" NUMBER="singular" TYPE="description">
+					<STRING> the sentencing phase of </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="120" GENDER="unknown" MENTION-ID="116" NUMBER="singular" TYPE="description"> the trial </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, soon moved back to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="39" GENDER="male" MENTION-ID="117" NUMBER="singular" TYPE="name"> New York </REFERENCE>
+			<STRING> and restarted </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="97" GENDER="unknown" MENTION-ID="118" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="female" ID="22" MENTION-ID="119" NUMBER="singular" PARAGRAPH-POSITION="21" RECENCY="2" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">her</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="other">a new</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="other">her new</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="other">in her later</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> life </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="7.2">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.415206" GENDER="female" ID="23" MENTION-ID="120" NUMBER="singular" PARAGRAPH-POSITION="23" RECENCY="2" SYNCAT="np-subj" TYPE="pronoun">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">Soon, she</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> formed </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="127" GENDER="unknown" MENTION-ID="121" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="female" ID="24" MENTION-ID="122" NUMBER="singular" PARAGRAPH-POSITION="29" RECENCY="6" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">her</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="pronoun">her</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> own independent casting </STRING>
+			</REFERENCE>
+			<STRING> company and </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.310918" GENDER="female" ID="25" MENTION-ID="123" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">also</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">also</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="other">yet</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="other">also</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">has</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="other">she bravely</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">she</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> continued to work for </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="64" GENDER="unknown" MENTION-ID="124" NUMBER="unknown" TYPE="name">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="64" GENDER="unknown" MENTION-ID="125" NUMBER="unknown" TYPE="name"> Warner Bros. </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="130" GENDER="male" MENTION-ID="126" NUMBER="unknown" TYPE="name">
+					<STRING> Hallmark Hall of </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="131" GENDER="unknown" MENTION-ID="127" NUMBER="plural">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="132" GENDER="unknown" MENTION-ID="128" NUMBER="plural">
+							<STRING> Fame and </STRING>
+							<REFERENCE ANIMACY="animate" ENTITY-ID="33" GENDER="male" MENTION-ID="129" NUMBER="singular" TYPE="name"> Eastwood's </REFERENCE>
+						</REFERENCE>
+						<STRING> Malpaso Productions </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="9">
+		<SENTENCE ID="8.1">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.209077" GENDER="female" ID="26" MENTION-ID="130" NUMBER="singular" PARAGRAPH-POSITION="5" RECENCY="4" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phyllis</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Phyllis Huffman</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> also remarried and </STRING>
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.225054" GENDER="female" ID="27" MENTION-ID="131" NUMBER="singular" PARAGRAPH-POSITION="9" RECENCY="4" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">today</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">now</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">she</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is survived by </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="135" GENDER="unknown" MENTION-ID="132" NUMBER="plural">
+				<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="female" ID="28" MENTION-ID="133" NUMBER="singular" PARAGRAPH-POSITION="23" RECENCY="14" SYNCAT="subj-det" TYPE="pronoun">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">her</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="other">her second</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="pronoun">her</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="pronoun">her</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> husband Jules del Vecchio; </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="137" GENDER="unknown" MENTION-ID="134" NUMBER="plural">
+					<STRING> sons </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="133" GENDER="male" MENTION-ID="135" NUMBER="singular" TYPE="name"> Mathew </REFERENCE>
+					<STRING> and Philip Huffman </STRING>
+				</REFERENCE>
+				<STRING>; </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="138" GENDER="male" MENTION-ID="136" NUMBER="singular" TYPE="name"> step-son Matthew del Vecchio </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="8.2">
+			<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0.319772" GENDER="female" ID="29" MENTION-ID="137" NUMBER="singular" PARAGRAPH-POSITION="28" RECENCY="5" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">she</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Phyllis Huffman</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">She</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Phillis</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">She</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is also survived by </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="143" GENDER="unknown" MENTION-ID="138" NUMBER="plural">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="144" GENDER="unknown" MENTION-ID="139" NUMBER="plural">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="145" GENDER="female" MENTION-ID="140" NUMBER="singular" TYPE="description">
+						<TARGET-REFERENCE ANIMACY="animate" ENTITY-ID="1" ENTROPY="0" GENDER="female" ID="30" MENTION-ID="141" NUMBER="singular" PARAGRAPH-POSITION="28" RECENCY="5" SYNCAT="subj-det">
+							<ORIGINAL-REFEX>
+								<REFEX TYPE="pronoun">her</REFEX>
+							</ORIGINAL-REFEX>
+							<PARTICIPANTS-REFEX>
+								<REFEX PARTICIPANT-ID="86" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="89" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="95" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="101" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="104" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="107" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="110" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="113" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="119" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="122" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="125" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="131" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="141" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="143" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="145" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="156" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="162" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="163" TYPE="pronoun">her</REFEX>
+								<REFEX PARTICIPANT-ID="164" TYPE="pronoun">her</REFEX>
+							</PARTICIPANTS-REFEX>
+						</TARGET-REFERENCE>
+						<STRING> mother </STRING>
+					</REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="139" GENDER="female" MENTION-ID="142" NUMBER="singular" TYPE="name"> Grace Grennan </REFERENCE>
+					<STRING>; </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="147" GENDER="unknown" MENTION-ID="143" NUMBER="plural">
+						<REFERENCE ANIMACY="animate" ENTITY-ID="148" GENDER="male" MENTION-ID="144" NUMBER="singular" TYPE="description"> a brother </REFERENCE>
+						<STRING>, </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="140" GENDER="male" MENTION-ID="145" NUMBER="singular" TYPE="name"> Chris Grennan </REFERENCE>
+						<STRING> and sister </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="141" GENDER="female" MENTION-ID="146" NUMBER="singular" TYPE="name"> Christine Stiller </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

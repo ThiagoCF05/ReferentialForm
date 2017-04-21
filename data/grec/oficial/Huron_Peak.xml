@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="224">
+	<TITLE>Huron Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Huron Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a fourteener in the U.S. state of Colorado.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the central Sawatch Range, west of the Mount Belford group, in the Collegiate Peaks Wilderness.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies in Chaffee County, approximately 18 miles (29 km) northwest of the town of Buena Vista.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>While relatively close to  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="51" PARAGRAPH-RECENCY="21" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> neighbor peaks,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="54" PARAGRAPH-RECENCY="3" SEMCAT="mountain" SENTENCE-POSITION="8" SENTENCE-RECENCY="3" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is separated from them by deep cols, resulting in a moderately high topographic prominence.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Nearby to the south are the Three Apostles, a striking group of three thirteen thousand foot peaks. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

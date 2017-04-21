@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1338">
+	<TITLE>Northern Mariana Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Northern Mariana Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Commonwealth of the Northern Mariana Islands (CNMI), is a commonwealth in political union with the United States of America at a strategic location in the western Pacific Ocean. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> consists of 15 islands about three-quarters of the way from Hawaii to the Philippines, at 15°1'2N,145°4'5E. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a population (2005 est) of 80,362. The official 2000 census count was 69,221 . The total land area of all islands is 463.63 km (179.01 sq mi), as reported by the United States Census Bureau.</STRING>
+	</PARAGRAPH>
+</TEXT>

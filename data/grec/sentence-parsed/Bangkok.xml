@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<TEXT ID="1008">
+	<TITLE>Bangkok</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bangkok</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, known in Thai as Krung Thep (กรุงเทพฯ), is the capital and largest city of Thailand, with an official 2000 census population of 6,355,144.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bangkok</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at , on the east bank of the Chao Phraya River, near the Gulf of Thailand. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Krung Thep has been the proper name of  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> for more than two centuries.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>However,  </STRING>
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the city's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> original name of Bangkok (which now is used locally to refer only to a district of  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>) persists in being used by most foreigners.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>(See History and Full Name below.)</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bangkok</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a fast growing, economically and culturally dynamic city in Southeast Asia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The World Meteorological Organization has dubbed  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bangkok</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> the world's hottest large city.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Moreover,  </STRING>
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the world's most popular tourist destinations.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bangkok</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the wealthiest and most populated city in Thailand.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is ranked as the 21st most populated city in the world </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<TEXT ID="357">
+	<TITLE>Mount Baw Baw</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Baw Baw</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (37°50'S,146°16'E) is about 120 kilometres east of Melbourne and 50 kilometresnorth of the Latrobe Valley.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> consists of a long plateau tending north-east, with low peaks named Mount Whitelaw, Mount St. Phillack (the highest), Mount Mueller, Mount Tyers, Mount Kernot and Mount Saint Gwinear.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The plateau itself is isolated from most of Victoria's high country by the Thomson and Aberfeldy Rivers and tributaries of the La Trobe River, including the Tanjil and Tyers Rivers to the south. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The Baw Baw massif consists of a late Devonian granodiorite pluton.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>There is relatively little relief on the plateau itself, the highest point (Mount St. Phillack) reaching 1567 metres.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The lower slopes of the plateau are covered in montane eucalypt forest and tall forest, and creek valleys have cool temperate rainforest of myrtle beech, Nothofagus cunninghamii.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Above 1200 metres snow gum woodland occur, grading into subalpine grasslands and shrublands above 1300 metres.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>Much of this subalpine zone is included in the 133 sq km Baw Baw National Park.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<STRING>The Baw Baw Village ski resort is technically outside the National Park. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The climate of the plateau itself is subalpine, with average annual precipitation of 1900 mm per annum.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Snow covers the plateau from June to September. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>It is thought that Baron Ferdinand von Mueller made the first recorded European ascent of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Baw Baw</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in 1860, naming Christmas Ck on one of his major collecting expeditions.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>It was on this trip that he collected the Baw Baw Berry, Wittsteinia vaccinacea. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

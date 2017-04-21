@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1538">
+	<TITLE>George Monbiot</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">George Monbiot</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (born January 27, 1963) is a leftwing journalist, author, academic and environmental and political activist in the United Kingdom </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> writes a weekly column for The Guardian newspaper.</STRING>
+	</PARAGRAPH>
+</TEXT>

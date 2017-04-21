@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1771">
+	<TITLE>Walter Raleigh</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sir Walter Raleigh</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (1552 or 1554 - 29 October, 1618) is a famed English writer, poet, courtier and explorer. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was responsible for establishing the first English colony in the new world.</STRING>
+	</PARAGRAPH>
+</TEXT>

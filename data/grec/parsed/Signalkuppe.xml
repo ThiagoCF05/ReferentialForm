@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="836">
+	<TITLE>Signalkuppe</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Signalkuppe</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (also known as Punta Gnifetti) (4,554 m) is a peak of the Monte Rosa massif in the Pennine Alps in Italy and Switzerland. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is named after 'the Signal', a prominent gendarme atop the east ridge.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The first ascent was by Giovanni Gnifetti, a parish priest from Alagna Valsesia, together with J. Farinetti, C. Ferraris, C. Grober, J. and G. Giordiano and porters on 9 August 1842.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The highest hut in Europe, the Margherita hut (named after Italy's Queen consort Margherita of Savoy) lies on the summit of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. Work started in 1890, supported by the Italian crown, and Queen Margherita opened it in 1893. The new hut, a high-altitude Faraday Cage, is clad in sheet copper to shield against unwanted electrical fields.</STRING>
+	</PARAGRAPH>
+</TEXT>

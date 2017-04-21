@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TEXT ID="1076">
+	<TITLE>Johannesburg</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Johannesburg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, also known as eGoli, is the most populous city in South Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is affectionately known as &quot;Jo'burg&quot;, &quot;Jozi&quot; and &quot;JHB&quot; by South Africans. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Johannesburg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the provincial capital of Gauteng Province, the wealthiest province in South Africa, and the site of the South African Constitutional Court. </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the 40 largest metropolitan areas in the world, and Africa's only global city (classified as a gamma world city). Whilst sometimes mistakenly assumed to be South Africa's capital city, </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Johannesburg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is not even one of South Africa's three official capital cities (although Pretoria, which is part of the same province, is).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Johannesburg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the site of a large-scale gold and diamond trade due to </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> location on the mineral-rich Witwatersrand range of hills. </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Johannesburg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also served by O.R. Tambo International Airport, the largest and busiest airport in Africa and a gateway for international air travel to and from the rest of southern Africa.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>According to the 2001 Census, the population of </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is more than three million. </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Johannesburg's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> land area of 1,644 km² is very large when compared to other cities, resulting in a population density of only 1,962/km². The population of the Greater Johannesburg Metropolitan Area is almost eight million. </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Johannesburg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also encompasses Soweto to the south west, a township which the apartheid government established to accommodate the large number of migrant workers.</STRING>
+	</PARAGRAPH>
+</TEXT>

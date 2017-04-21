@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="1300">
+	<TITLE>Laos</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Laos</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Lao People's Democratic Republic, is a landlocked socialist republic communist state in southeast Asia, bordered by Myanmar (Burma) and the People's Republic of China to the northwest, Vietnam to the east, Cambodia to the south, and Thailand to the west. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Laos</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> traces </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> history to the Kingdom of Lan Xang or Land of a Million Elephants, which existed from the 14th to the 18th century. After a period as a French colony, </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> gained independence in 1949. A long civil war ended when the communist Pathet Lao came to power in 1975.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Private enterprise has increased since the mid-1980s, but development has been hampered by poor communications in the heavily forested and mountainous landscape. Most of the population of around 6 million practice subsistence agriculture. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ethnic make-up is extremely diverse, with only around 60% belonging to the largest ethnic group, the Lao.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="710">
+	<TITLE>Sangemarmar Sar</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sangemarmar Sar</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, or Sangemar Mar, or Sang-e-Marmar, is a peak in the Batura Muztagh. This is the westernmost subrange of the Karakoram range, and is located in the Gilgit district of the Northern Areas of Pakistan, west of the Hunza Valley. It runs from Chalt village, in the Bar Valley on the eastern end, to Kampir Dior in Kurumbar Valley on the western end. The Kurumbar Valley separates the Pamir and Hindu Kush ranges from the Karakoram.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Because </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is much lower in elevation than many of the surrounding peaks, such as Batura Sar and Rakaposhi, </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sangemarmar Sar</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is little-known, and there has been only one successful ascent of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, according to the Index. However, because of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> location on the southeast flank of the range, relatively near the Hunza Valley, </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> does enjoy tremendous vertical relief above local terrain.</STRING>
+	</PARAGRAPH>
+</TEXT>

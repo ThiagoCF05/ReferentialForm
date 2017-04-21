@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<TEXT ID="77">
+	<TITLE>Cerro de la Silla</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cerro de la Silla</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (English: Saddle Hill), named for  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> distinctive saddle-shaped profile when viewed from the west, is a famous symbol of the landscape of the state of Nuevo León, Mexico.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Even though  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="yes" HEAD="nominal" TYPE="pronoun">the mountain itself</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the adjacent city of Guadalupe,  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is widely associated to the city of Monterrey, Mexico. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> covers an area of 60.5 square kilometres (23 mi²).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has four peaks: Pico Antena, Pico Norte, Pico Sur and Pico la Virgen; Pico Norte (North Peak) is the highest at 1820 m (5970 ft) while Pico la Virgen (Virgin's Peak) is the lowest at 1750 m (5740 ft). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Set aside as a Natural Monument by the government of Mexico in 1991,  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the hill</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a popular recreational area and  </STRING>
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is often climbed by hikers who take a 2.5 km (1.6 mi) trail to reach the top.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The ascent is considered fairly difficult, requiring approximately 3 hours to complete.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>A panoramic view of the city of Monterrey can be seen from the top. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>In the second half of the XX century, an aerial tramway was built to give a fastest access to  </STRING>
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the iconic mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> for the population.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Sadly, the day of its inauguration was also the day of its closure, as a tragic accident took the lives of five people, including the engineer Jesús Fernández, its designer.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>Several plans have been announced to rebuild another tramway with no results. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>Some other known mountains or elevations of the zone are: Cerro de las Mitras, the Sierra Madre Oriental -the &quot;m&quot; figure visible from various parts of the city-, the Cerro del Topo Chico, Cerro del Obispado, Cerro de la Loma Larga and La Huasteca. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

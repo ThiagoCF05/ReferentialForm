@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<TEXT ID="1831">
+	<TITLE>Okavango River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Okavango River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a river in southwest Africa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the fourth longest river system in southern Africa, running southeastward for 1,000 miles (1,600 km).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> begins in Angola, where  </STRING>
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known as the Cubango River.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Further south  </STRING>
+			<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms part of the border between Angola and Namibia, and then  </STRING>
+			<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flows into Botswana, draining into the Moremi Wildlife Reserve. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Before  </STRING>
+			<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> enters Botswana,  </STRING>
+			<REFERENCE ID="8" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> drops 4 meters, across the full 1.2km-width of  </STRING>
+			<REFERENCE ID="9" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, in a series of rapids known as Popa Falls, visible when  </STRING>
+			<REFERENCE ID="10" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is low, as during the dry season. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Unusually,  </STRING>
+			<REFERENCE ID="11" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Okavango</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> does not have an outlet in the sea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Instead,  </STRING>
+			<REFERENCE ID="12" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> empties into a swamp in the Kalahari Desert, known as the Okavango Delta.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Part of the  </STRING>
+			<REFERENCE ID="13" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">river's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flow fills Lake Ngami.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>World famous for its remarkable wildlife, the Okavango area contains the Moremi Wildlife Reserve (Botswana). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The area is also home to about 100,000 native people who are caught between the interests of tourist operators and insurgents in the neighbouring Caprivi Strip. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

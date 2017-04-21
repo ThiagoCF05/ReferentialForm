@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="1236">
+	<TITLE>Cape Verde</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Republic of Cape Verde</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> or Cape Verde (Portuguese: Cabo Verde, pron. [IPA: 'ka.bu 'veɾ.d(ɨ)]/) is a republic located on an archipelago in the Macaronesia ecoregion of the North Atlantic Ocean, off the western coast of Africa. The previously uninhabited islands were discovered and colonized by the Portuguese in the 15th century.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is named after Cap-Vert (meaning Green Cape), now in Senegal, the westernmost point of continental Africa.</STRING>
+	</PARAGRAPH>
+</TEXT>

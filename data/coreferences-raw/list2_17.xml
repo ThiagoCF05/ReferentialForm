@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="ANIMATE" entity="5" gender="UNKNOWN" mentionid="5" mentiontype="LIST" number="PLURAL">
+			<STRING> Cho Oyu -LRB- or </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="6" gender="UNKNOWN" mentionid="6" mentiontype="PROPER" number="SINGULAR"> Qowowuyag </REFERENCE>
+			<STRING>; in </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="7" gender="UNKNOWN" mentionid="7" mentiontype="PROPER" number="SINGULAR">
+				<REFERENCE animacy="UNKNOWN" entity="8" gender="UNKNOWN" mentionid="8" mentiontype="PROPER" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="1" mentiontype="PROPER" number="SINGULAR"> Nepal </REFERENCE>
+					<STRING> चोयु </STRING>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="9" gender="UNKNOWN" mentionid="9" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Tibetan in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="10" gender="UNKNOWN" mentionid="10" mentiontype="NOMINAL" number="SINGULAR">
+						<REFERENCE animacy="ANIMATE" entity="2" gender="UNKNOWN" mentionid="2" mentiontype="PROPER" number="SINGULAR"> Wylie </REFERENCE>
+						<STRING> transliteration </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING>: </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="11" gender="UNKNOWN" mentionid="11" mentiontype="NOMINAL" number="SINGULAR"> jo bo dbu yag </REFERENCE>
+				<STRING>; Chinese: </STRING>
+				<REFERENCE animacy="INANIMATE" entity="12" gender="UNKNOWN" mentionid="12" mentiontype="PROPER" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="3" gender="UNKNOWN" mentionid="3" mentiontype="PROPER" number="SINGULAR"> 卓奧有山 </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="13" gender="UNKNOWN" mentionid="13" mentiontype="PROPER" number="SINGULAR"> Pinyin </REFERENCE>
+				</REFERENCE>
+				<STRING>: -LSB- </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="14" gender="UNKNOWN" mentionid="14" mentiontype="NOMINAL" number="UNKNOWN"> -RSB- </REFERENCE>
+			</REFERENCE>
+			<STRING> -RRB- </STRING>
+		</REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="15" gender="NEUTRAL" mentionid="15" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the </STRING>
+			<REFERENCE animacy="INANIMATE" entity="4" gender="MALE" mentionid="4" mentiontype="PROPER" number="SINGULAR"> sixth </REFERENCE>
+			<STRING> highest mountain in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="16" mentiontype="NOMINAL" number="SINGULAR"> the world </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="17" mentiontype="PROPER" number="SINGULAR"> Cho Oyu </REFERENCE>
+		<STRING> lies in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="23" gender="NEUTRAL" mentionid="23" mentiontype="PROPER" number="SINGULAR">
+			<STRING> the </STRING>
+			<REFERENCE animacy="INANIMATE" entity="18" gender="NEUTRAL" mentionid="18" mentiontype="PROPER" number="SINGULAR"> Himalayas </REFERENCE>
+		</REFERENCE>
+		<STRING> and- is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="24" gender="UNKNOWN" mentionid="24" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="19" gender="UNKNOWN" mentionid="19" mentiontype="PROPER" number="SINGULAR"> 20 </REFERENCE>
+			<STRING> km west of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="PROPER" number="SINGULAR"> Mount Everest </REFERENCE>
+		</REFERENCE>
+		<STRING>, at </STRING>
+		<REFERENCE animacy="INANIMATE" entity="25" gender="NEUTRAL" mentionid="25" mentiontype="NOMINAL" number="SINGULAR"> the border </REFERENCE>
+		<STRING> between </STRING>
+		<REFERENCE animacy="INANIMATE" entity="26" gender="UNKNOWN" mentionid="26" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="21" gender="NEUTRAL" mentionid="21" mentiontype="PROPER" number="SINGULAR"> China </REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="22" mentiontype="PROPER" number="SINGULAR"> Nepal </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="27" mentiontype="PROPER" number="SINGULAR"> Cho Oyu </REFERENCE>
+		<STRING> means </STRING>
+		<REFERENCE animacy="ANIMATE" entity="28" gender="FEMALE" mentionid="28" mentiontype="PROPER" number="SINGULAR">`` Turquoise Goddess'' in Tibetan </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="29" mentiontype="PROPER" number="SINGULAR"> Cho Oyu </REFERENCE>
+		<STRING> was </STRING>
+		<REFERENCE animacy="INANIMATE" entity="30" gender="NEUTRAL" mentionid="30" mentiontype="PROPER" number="SINGULAR"> first </REFERENCE>
+		<STRING> attempted in </STRING>
+		<REFERENCE animacy="INANIMATE" entity="35" gender="UNKNOWN" mentionid="35" mentiontype="PROPER" number="SINGULAR"> 1952 </REFERENCE>
+		<STRING> by </STRING>
+		<REFERENCE animacy="INANIMATE" entity="36" gender="NEUTRAL" mentionid="36" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> an expedition led by </STRING>
+			<REFERENCE animacy="ANIMATE" entity="31" gender="MALE" mentionid="31" mentiontype="PROPER" number="SINGULAR"> Eric Shipton </REFERENCE>
+		</REFERENCE>
+		<STRING> and including </STRING>
+		<REFERENCE animacy="ANIMATE" entity="32" gender="MALE" mentionid="32" mentiontype="PROPER" number="SINGULAR"> Tom Bourdillon </REFERENCE>
+		<STRING>, but </STRING>
+		<REFERENCE animacy="INANIMATE" entity="37" gender="UNKNOWN" mentionid="37" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> technical difficulties at </STRING>
+			<REFERENCE animacy="INANIMATE" entity="38" gender="MALE" mentionid="38" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> an ice cliff above </STRING>
+				<REFERENCE animacy="INANIMATE" entity="39" gender="UNKNOWN" mentionid="39" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="33" gender="UNKNOWN" mentionid="33" mentiontype="PROPER" number="SINGULAR"> 6,650 </REFERENCE>
+					<STRING> m -LRB- </STRING>
+					<REFERENCE animacy="INANIMATE" entity="40" gender="NEUTRAL" mentionid="40" mentiontype="NOMINAL" number="SINGULAR">
+						<REFERENCE animacy="INANIMATE" entity="34" gender="UNKNOWN" mentionid="34" mentiontype="PROPER" number="SINGULAR"> 21,820 </REFERENCE>
+						<STRING> ft </STRING>
+					</REFERENCE>
+					<STRING> -RRB- </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> proved beyond </STRING>
+		<REFERENCE animacy="INANIMATE" entity="41" gender="UNKNOWN" mentionid="41" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="5" gender="UNKNOWN" mentionid="42" mentiontype="PRONOMINAL" number="PLURAL"> their </REFERENCE>
+			<STRING> abilities </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<STRING> -LRB- Today, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="43" gender="UNKNOWN" mentionid="43" mentiontype="NOMINAL" number="PLURAL"> these ice cliffs </REFERENCE>
+		<STRING> are normally ascended using </STRING>
+		<REFERENCE animacy="INANIMATE" entity="44" gender="UNKNOWN" mentionid="44" mentiontype="NOMINAL" number="PLURAL"> fixed ropes </REFERENCE>
+		<STRING>. -RRB- </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="45" mentiontype="PROPER" number="SINGULAR"> Cho Oyu </REFERENCE>
+		<STRING> was </STRING>
+		<REFERENCE animacy="INANIMATE" entity="30" gender="NEUTRAL" mentionid="46" mentiontype="PROPER" number="SINGULAR"> first </REFERENCE>
+		<STRING> climbed on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="49" gender="NEUTRAL" mentionid="49" mentiontype="PROPER" number="SINGULAR">
+			<STRING> October 19, 1954 via </STRING>
+			<REFERENCE animacy="ANIMATE" entity="50" gender="MALE" mentionid="50" mentiontype="PROPER" number="SINGULAR">
+				<STRING> the northwest ridge by </STRING>
+				<REFERENCE animacy="ANIMATE" entity="51" gender="UNKNOWN" mentionid="51" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="ANIMATE" entity="47" gender="MALE" mentionid="47" mentiontype="PROPER" number="SINGULAR"> Herbert Tichy </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="ANIMATE" entity="48" gender="MALE" mentionid="48" mentiontype="PROPER" number="SINGULAR"> Joseph Jöchler </REFERENCE>
+					<STRING> and Sherpa Pasang </STRING>
+				</REFERENCE>
+				<STRING> Dawa Lama of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="52" gender="NEUTRAL" mentionid="52" mentiontype="NOMINAL" number="SINGULAR"> an Austrian expedition </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="53" mentiontype="PROPER" number="SINGULAR"> Cho Oyu </REFERENCE>
+		<STRING> was </STRING>
+		<REFERENCE animacy="INANIMATE" entity="56" gender="UNKNOWN" mentionid="56" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the </STRING>
+			<REFERENCE animacy="INANIMATE" entity="54" gender="UNKNOWN" mentionid="54" mentiontype="PROPER" number="SINGULAR"> fifth </REFERENCE>
+			<STRING> 8000 metre peak to be climbed, after </STRING>
+			<REFERENCE animacy="ANIMATE" entity="57" gender="NEUTRAL" mentionid="57" mentiontype="PROPER" number="SINGULAR">
+				<STRING> Annapurna in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="58" gender="UNKNOWN" mentionid="58" mentiontype="PROPER" number="SINGULAR"> June 1950 </REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="59" gender="UNKNOWN" mentionid="59" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="60" gender="UNKNOWN" mentionid="60" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Mount Everest in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="61" gender="MALE" mentionid="61" mentiontype="PROPER" number="SINGULAR"> May 1953 </REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="62" gender="UNKNOWN" mentionid="62" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Nanga Parbat in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="63" gender="NEUTRAL" mentionid="63" mentiontype="PROPER" number="SINGULAR"> July 1953 </REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="64" gender="UNKNOWN" mentionid="64" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> K2 in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="65" gender="NEUTRAL" mentionid="65" mentiontype="PROPER" number="SINGULAR"> July 1954 </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<REFERENCE animacy="INANIMATE" entity="69" gender="UNKNOWN" mentionid="69" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> Just a few kilometres west of </STRING>
+			<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="66" mentiontype="PROPER" number="SINGULAR"> Cho Oyu </REFERENCE>
+		</REFERENCE>
+		<STRING> is Nangpa La -LRB- </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="70" gender="UNKNOWN" mentionid="70" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="67" gender="UNKNOWN" mentionid="67" mentiontype="PROPER" number="SINGULAR"> 5,716 </REFERENCE>
+			<STRING> m/18 </STRING>
+			<REFERENCE animacy="INANIMATE" entity="71" gender="NEUTRAL" mentionid="71" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="68" gender="UNKNOWN" mentionid="68" mentiontype="PROPER" number="SINGULAR"> ,753 </REFERENCE>
+				<STRING> ft </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> -RRB-, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="72" gender="NEUTRAL" mentionid="72" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a glaciated pass that serves as </STRING>
+			<REFERENCE animacy="INANIMATE" entity="73" gender="UNKNOWN" mentionid="73" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="74" gender="UNKNOWN" mentionid="74" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the main trading route between </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="9" gender="MALE" mentionid="75" mentiontype="PROPER" number="SINGULAR"> the Tibetans </REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="ANIMATE" entity="76" gender="UNKNOWN" mentionid="76" mentiontype="PROPER" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="77" gender="UNKNOWN" mentionid="77" mentiontype="PROPER" number="SINGULAR"> the Khumbu's </REFERENCE>
+					<STRING> Sherpas </STRING>
+				</REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<STRING> Due to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="80" gender="UNKNOWN" mentionid="80" mentiontype="LIST" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="81" gender="NEUTRAL" mentionid="81" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="69" gender="UNKNOWN" mentionid="82" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+				<STRING> proximity to </STRING>
+				<REFERENCE animacy="INANIMATE" entity="72" gender="NEUTRAL" mentionid="83" mentiontype="NOMINAL" number="SINGULAR"> this pass </REFERENCE>
+			</REFERENCE>
+			<STRING> and </STRING>
+			<REFERENCE animacy="INANIMATE" entity="84" gender="UNKNOWN" mentionid="84" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> the generally moderate slopes of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="85" gender="UNKNOWN" mentionid="85" mentiontype="NOMINAL" number="SINGULAR"> the standard northwest ridge route </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="86" gender="UNKNOWN" mentionid="86" mentiontype="NOMINAL" number="PLURAL"> climbers </REFERENCE>
+		<STRING> consider </STRING>
+		<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="78" mentiontype="PROPER" number="SINGULAR"> Cho Oyu </REFERENCE>
+		<STRING> to be </STRING>
+		<REFERENCE animacy="INANIMATE" entity="87" gender="NEUTRAL" mentionid="87" mentiontype="NOMINAL" number="UNKNOWN">
+			<STRING> the easiest </STRING>
+			<REFERENCE animacy="INANIMATE" entity="88" gender="UNKNOWN" mentionid="88" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="79" gender="UNKNOWN" mentionid="79" mentiontype="PROPER" number="SINGULAR"> 8,000 </REFERENCE>
+				<STRING> metre peak </STRING>
+			</REFERENCE>
+			<STRING> to climb </STRING>
+		</REFERENCE>
+		<STRING>, and </STRING>
+		<REFERENCE animacy="INANIMATE" entity="81" gender="NEUTRAL" mentionid="89" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="81" gender="NEUTRAL" mentionid="90" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a popular objective for </STRING>
+			<REFERENCE animacy="ANIMATE" entity="91" gender="UNKNOWN" mentionid="91" mentiontype="NOMINAL" number="PLURAL"> professionally guided parties </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+</TEXT>

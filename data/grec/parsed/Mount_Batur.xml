@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="356">
+	<TITLE>Mount Batur</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Batur</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Gunung Batur) is located at the center of two concentric calderas north west of Mount Agung, Bali, Indonesia. The south east side of the larger 10×13 km caldera contains a caldera lake. The inner 7.5-kilometer-wide caldera, which was formed during emplacement of the Bali (or Ubud) ignimbrite, has been dated at about 23,670 and 28,500 years ago (Wheller 1986, Sutawidjaja et al. 1992).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The SE wall of the inner caldera lies beneath Lake Batur; Batur cone has been constructed within the inner caldera to a height above the outer caldera rim. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Batur stratovolcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has produced vents over much of the inner caldera, but a NE-SW fissure system has localized the Batur I, II, and III craters along the summit ridge. Historical eruptions have been characterized by mild-to-moderate explosive activity sometimes accompanied by lava emission. Basaltic lava flows from both summit and flank vents have reached the caldera floor and the shores of Lake Batur in historical time. The caldera contains an active, 700-metre-tall stratovolcano rising above the surface of Lake Batur. The first historically documented eruption of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Batur</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was in 1804, and </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been frequently active since then.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="363">
+	<TITLE>Mount Binaiya</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Binaiya</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Indonesian: Gunung Binaia) is the highest point on the Indonesian island of Seram (or Ceram). </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the one hundred most topographically prominent peaks on Earth.</STRING>
+	</PARAGRAPH>
+</TEXT>

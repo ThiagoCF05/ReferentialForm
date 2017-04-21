@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TEXT ID="1334">
+	<TITLE>Nicaragua</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nicaragua</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Spanish: República de Nicaragua], IPA [IPA: [re'puβlika ðe nika'raɰwa]]) is a democratic republic in Central America. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the largest nation in the isthmus, but also the least densely populated with a demographic similar in size to </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> smaller neighbours. </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is bordered on the north by Honduras and on the south by Costa Rica. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> western coastline is on the Pacific Ocean, while the east side of </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is on the Caribbean Sea.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name is derived from Nicarao, the name of the Nahuatl-speaking tribe which inhabited the shores of Lago de Nicaragua before the Spanish conquest of the Americas, and the Spanish word [Spanish: Agua], meaning water, due to the presence of the large lakes Lago de Nicaragua and Lago de Managua in the region.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>At the time of the Spanish conquest, Nicaragua was the name given to the narrow strip of land between Lake Nicaragua and the Pacific Ocean. Chief Nicarao ruled over that land when the first conquerors arrived. The term was eventually applied, by extension, to the group that inhabited that region: the Nicaraos or Niquiranos.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>The Nicarao tribe migrated to the area from northern regions after the fall of Teotihuacán, on the advice of their religious leaders. According to tradition, they were to travel south until they encountered a lake with two volcanoes rising out of the waters, and so they stopped when they reached Ometepe, the largest fresh-water volcanic island in the world.</STRING>
+	</PARAGRAPH>
+</TEXT>

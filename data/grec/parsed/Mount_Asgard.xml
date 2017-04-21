@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="346">
+	<TITLE>Mount Asgard</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Asgard</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a twin peaked mountain with two flat-topped cylindrical rock towers, separated by a saddle. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in Auyuittuq National Park, on the Cumberland Peninsula of Baffin Island, Nunavut, Canada. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is named after Asgard, the realm of the gods in Norse Mythology. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Asgard</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is perhaps the most famous of the Baffin Mountains.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Asgard's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> slightly higher North Peak was first ascended in 1953 by H. Webber, J. Marmet, and Rothlisberger.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>In 1976, stuntman Rick Sylvester performed a BASE jump off </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> for the opening sequence of the James Bond film The Spy Who Loved Me, although the fictional setting was the Alps.</STRING>
+	</PARAGRAPH>
+</TEXT>

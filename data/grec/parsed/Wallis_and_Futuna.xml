@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TEXT ID="1413">
+	<TITLE>Wallis and Futuna</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Wallis and Futuna</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Territory of Wallis and Futuna Islands (French: Wallis et Futuna or Territoire des îles Wallis et Futuna), is composed of two separate groups with three main volcanic tropical islands, which are separated 260 km:</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>*Wallis Islands (Uvea), in the north**Wallis Island (Uvea)*Hoorn Islands (Futuna Islands), in the south**Futuna**Alofi</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">They</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are located in the South Pacific between Fiji and Samoa. Since 2003 </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Wallis and Futuna</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been a French overseas collectivity (collectivité d'outre-mer, or COM). Between 1961 and 2003, </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> had the status of a French overseas territory (territoire d'outre-mer, or TOM).</STRING>
+	</PARAGRAPH>
+</TEXT>

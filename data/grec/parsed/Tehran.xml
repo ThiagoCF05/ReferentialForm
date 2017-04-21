@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<TEXT ID="1182">
+	<TITLE>Tehran</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tehran</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([IPA: tʰehˈɾɒn]; Persian: تهران, also transliterated as Teheran or Tehrān), population (as of 2005) 7,314,000 (metropolitan: 12,151,000), and a land area of 658 square kilometers, is the capital city of Iran (Persia) and the center of Tehran Province. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tehran</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located at .</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>More than half of the country's industry is based there. Industries include the manufacturing of automobiles, electronics and electrical equipment, military weaponry, textiles, sugar, cement, and chemical products. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also a leading center for the sale of carpets and furniture. There is an oil refinery nearby.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tehran</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a sprawling city at the foot of the Alborz mountain range with an immense network of highways unparalleled in western Asia. </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the hub of the country's railway network. </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has numerous large museums, art centers, palace complexes and cultural centers.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>In addition to Persians, there is a large population of Azeris in </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tehran</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> , as well as other ethnicities including Armenian, Assyrian, Kurdish and Jewish communities. majority of </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Tehran's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> residents speak Persian. </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is dotted with mosques, and there are a number of churches and synagogues.</STRING>
+	</PARAGRAPH>
+</TEXT>

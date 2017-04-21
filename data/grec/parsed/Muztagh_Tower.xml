@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="809">
+	<TITLE>Muztagh Tower</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Muztagh Tower</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (also: Mustagh Tower; Muztagh: ice tower), is a mountain of the Karakoram range in the Himalaya in Northern Areas of Pakistan. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is often said to be one of the most difficult mountains in the world to climb. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Muztagh Tower</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> stands 7,273 metres high between the basins of the Baltoro and Sarpo Laggo glaciers, and </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also possesses a second summit, on the northeast ridge, that is 7,180 m high.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Long considered unclimbable, </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first summited in 1956 by a British expedition, consisting of John Hartog, Joe Brown, Tom Patey and Ian McNaught Davis, that came from the west side. The group barely managed to beat a French party attempting to climb </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> from the east, reaching the top on July 6, 1956, five days before the French. The lower summit was first climbed in 1984 by the northeast ridge.</STRING>
+	</PARAGRAPH>
+</TEXT>

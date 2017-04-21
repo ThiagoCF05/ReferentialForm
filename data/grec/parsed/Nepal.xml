@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TEXT ID="1329">
+	<TITLE>Nepal</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nepal</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([neˈpaːl]), officially the Kingdom of Nepal, is a landlocked Himalayan country in South Asia, bordered by China (Tibet) to the north and by India to the south, east and west. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nepal</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a kingdom of various geographical features,and </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is culturally rich. More than 80% of Nepalese follow Hinduism, which is higher than the percentage of Indian Hindus, making </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> the single most Hinduic nation in the world. For a small territory, the Nepali landscape is uncommonly diverse, ranging from the humid Terai in the south to the lofty Himalayas in the north. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nepal</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> boasts eight of the world's fourteen highest mountains, including Mount Everest on the border with China. Kathmandu is the capital and largest city. The other main cities include Bharatpur, Biratnagar, Bhairahawa, Birgunj, Janakpur, Pokhara, Nepalgunj, and Mahendranagar. The origin of the name Nepal is uncertain, but the most popular understanding is that it derived from Ne (holy) and pal (cave).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>After a long and rich history, during which the region splintered and coalesced under a variety of absolute rulers, </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nepal</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became a constitutional monarchy in 1990. However, the monarchy retained many important and ill-defined powers. This arrangement was marked by increasing instability, both in the parliament and, since 1996, in large swathes of </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> that have been fought over by Maoist insurgents. The Maoists, alienated from mainstream political parties, went underground and started a guerrilla war against both monarchy and mainstream political parties. They have sought to overthrow feudal institutions, including the monarchy, and establish a republic. This has led to the ongoing Nepalese Civil War in which more than 13,000 people have died. On the pretext of quashing the insurgents, who now control about 60% of </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, the king closed down the parliament and sacked the elected prime minister in 2002 and started ruling through prime ministers appointed by him. He then unilaterally declared a state of emergency early in 2005, and assumed all executive powers. Following the Loktantra Andolan, the king agreed to relinquish the sovereign power back to the people and reinstated the dissolved House of Representatives on April 24, 2006. Using its newly acquired sovereign authority, on May 19, 2006, the newly resumed House of Representatives unanimously passed a motion to curtail the power of the king and declared </STRING>
+		<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nepal</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> a secular state. As of September, 2006, a complete rewrite of </STRING>
+		<REFERENCE ID="10" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> constitution was still expected to happen in the near future.</STRING>
+	</PARAGRAPH>
+</TEXT>

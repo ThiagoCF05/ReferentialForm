@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEXT ID="1397">
+	<TITLE>Tunisia</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tunisia</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Arabic: تونس, Berber: ), officially the Tunisian Republic (الجمهورية التونسية), is a country situated on the Mediterranean coast of North Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the northernmost African country and the smallest of the nations situated along the Atlas mountain range, bordering Algeria, to the west, and Libya to the south east. Around forty percent of </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is composed of the Sahara desert, with much of the remainder consisting of particularly fertile soil, and a 1300-km coastline. Both played a prominent role in ancient times, first with the famous Phoenician city of Carthage, and later, as the Africa Province, which became known as the bread basket of the Roman Empire.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>It is thought that the name Tunis (Arabic for both the nation and capital city) originated from Berber, meaning either a geographical promontory, or, &quot;to spend the night.&quot;</STRING>
+	</PARAGRAPH>
+</TEXT>

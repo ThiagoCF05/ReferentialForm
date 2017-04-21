@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="300">
+	<TITLE>Machapuchare</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Machapuchare</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> or Machhaphuchhare is a mountain in the Annapurna Himal of north central Nepal.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is revered as particularly sacred by the local population, and hence  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is off limits to climbing. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

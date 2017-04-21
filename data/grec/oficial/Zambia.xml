@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT ID="1416">
+	<TITLE>Zambia</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Zambia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Zambia, is a landlocked country in southern Africa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="13" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders the Democratic Republic of the Congo to the north, Tanzania on the north-east, Malawi on the east, Mozambique, Zimbabwe, Botswana, and Namibia to the south, and Angola on the west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Formerly Northern Rhodesia,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="49" PARAGRAPH-RECENCY="35" SEMCAT="country" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is named after the Zambezi river. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

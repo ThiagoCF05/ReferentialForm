@@ -1,0 +1,740 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1">
+			<TARGET-REFERENCE ENTROPY="0" ID="1" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="3" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Ethiopia</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Ethopia</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Ethiopa</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Ethiopa</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Ethiopia</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<REFERENCE animacy="UNKNOWN" entity="5" gender="UNKNOWN" mentionid="5" mentiontype="PROPER" number="SINGULAR">
+				<STRING> (Ge'ez: </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="6" gender="UNKNOWN" mentionid="6" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="1" mentiontype="PROPER" number="SINGULAR"> ኢትዮጵያ </REFERENCE>
+					<STRING> ʾĪtyōṗṗyā </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> -RRB- , officially </STRING>
+			<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="2" mentiontype="PROPER" number="SINGULAR"> the Federal Democratic Republic of Ethiopia </REFERENCE>
+			<STRING>, is </STRING>
+			<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="8" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a country situated in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="9" gender="MALE" mentionid="9" mentiontype="PROPER" number="SINGULAR"> the Horn of Africa </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2">
+			<TARGET-REFERENCE ENTROPY="0.333011" ID="2" PARAGRAPH-POSITION="21" RECENCY="20" SYNCAT="np-subj" animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="12" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE animacy="INANIMATE" entity="13" gender="UNKNOWN" mentionid="13" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="4" gender="NEUTRAL" mentionid="14" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="4" gender="NEUTRAL" mentionid="15" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> the second-most populous nation in </STRING>
+						<REFERENCE animacy="INANIMATE" entity="10" gender="NEUTRAL" mentionid="10" mentiontype="PROPER" number="SINGULAR"> Africa </REFERENCE>
+					</REFERENCE>
+					<STRING>, bordered by </STRING>
+					<REFERENCE animacy="INANIMATE" entity="11" gender="NEUTRAL" mentionid="11" mentiontype="PROPER" number="SINGULAR"> Eritrea </REFERENCE>
+					<STRING> to </STRING>
+					<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="16" mentiontype="NOMINAL" number="SINGULAR"> the north </REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="17" gender="NEUTRAL" mentionid="17" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Djibouti to </STRING>
+					<REFERENCE animacy="INANIMATE" entity="18" gender="NEUTRAL" mentionid="18" mentiontype="NOMINAL" number="SINGULAR"> the northeast </REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="19" gender="NEUTRAL" mentionid="19" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Somalia to </STRING>
+					<REFERENCE animacy="INANIMATE" entity="20" gender="NEUTRAL" mentionid="20" mentiontype="NOMINAL" number="SINGULAR"> the southeast </REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="21" gender="NEUTRAL" mentionid="21" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Kenya to </STRING>
+					<REFERENCE animacy="INANIMATE" entity="22" gender="NEUTRAL" mentionid="22" mentiontype="NOMINAL" number="SINGULAR"> the south </REFERENCE>
+				</REFERENCE>
+				<STRING>, and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="23" gender="NEUTRAL" mentionid="23" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Sudan to </STRING>
+					<REFERENCE animacy="INANIMATE" entity="24" gender="UNKNOWN" mentionid="24" mentiontype="NOMINAL" number="SINGULAR"> the west </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3">
+			<TARGET-REFERENCE ENTROPY="0.429972" ID="3" PARAGRAPH-POSITION="52" RECENCY="31" SYNCAT="np-subj" animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="25" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Ethiopia</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">The Federal Democratic Republic of Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Ethopia</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="other">It also</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE animacy="INANIMATE" entity="27" gender="UNKNOWN" mentionid="27" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="28" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the oldest independent country in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="10" gender="NEUTRAL" mentionid="26" mentiontype="PROPER" number="SINGULAR"> Africa </REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="29" gender="UNKNOWN" mentionid="29" mentiontype="PROPER" number="SINGULAR">
+					<STRING> one of the oldest in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="30" gender="NEUTRAL" mentionid="30" mentiontype="NOMINAL" number="SINGULAR"> the world </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4">
+			<STRING> Recently being regarded as`` </STRING>
+			<REFERENCE animacy="INANIMATE" entity="34" gender="NEUTRAL" mentionid="34" mentiontype="NOMINAL" number="SINGULAR"> the cradle of civilization </REFERENCE>
+			<STRING>'', </STRING>
+			<TARGET-REFERENCE ENTROPY="0.551275" ID="4" PARAGRAPH-POSITION="76" RECENCY="24" SYNCAT="np-subj" animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="31" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Ethiopia</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">IT</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">and</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="demonstrative">this country</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Ethiopia</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is also </STRING>
+			<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="35" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the second-oldest official </STRING>
+				<REFERENCE animacy="ANIMATE" entity="32" gender="MALE" mentionid="32" mentiontype="PROPER" number="SINGULAR"> Christian </REFERENCE>
+				<STRING> nation in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="36" gender="NEUTRAL" mentionid="36" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the world after </STRING>
+					<REFERENCE animacy="INANIMATE" entity="33" gender="NEUTRAL" mentionid="33" mentiontype="PROPER" number="SINGULAR"> Armenia </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="5">
+			<TARGET-REFERENCE ENTROPY="0.511806" ID="5" PARAGRAPH-POSITION="89" RECENCY="13" SYNCAT="np-subj" animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="40" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">There</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">There</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="demonstrative">This region</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Ethiopa</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> has long been </STRING>
+			<REFERENCE animacy="INANIMATE" entity="34" gender="NEUTRAL" mentionid="41" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> an intersection between </STRING>
+				<REFERENCE animacy="INANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="NOMINAL" number="PLURAL">
+					<STRING> the civilizations of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="43" gender="UNKNOWN" mentionid="43" mentiontype="LIST" number="PLURAL">
+						<REFERENCE animacy="INANIMATE" entity="37" gender="NEUTRAL" mentionid="37" mentiontype="PROPER" number="SINGULAR"> North Africa </REFERENCE>
+						<STRING>, </STRING>
+						<REFERENCE animacy="INANIMATE" entity="44" gender="NEUTRAL" mentionid="44" mentiontype="PROPER" number="SINGULAR">
+							<STRING> the </STRING>
+							<REFERENCE animacy="INANIMATE" entity="38" gender="NEUTRAL" mentionid="38" mentiontype="PROPER" number="SINGULAR"> Middle East </REFERENCE>
+						</REFERENCE>
+						<STRING> and </STRING>
+						<REFERENCE animacy="INANIMATE" entity="45" gender="NEUTRAL" mentionid="45" mentiontype="NOMINAL" number="SINGULAR"> the rest </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING> of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="10" gender="NEUTRAL" mentionid="39" mentiontype="PROPER" number="SINGULAR"> Africa </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="6">
+			<STRING> Unique among </STRING>
+			<REFERENCE animacy="INANIMATE" entity="48" gender="UNKNOWN" mentionid="48" mentiontype="NOMINAL" number="PLURAL"> African countries </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ENTROPY="0.407274" ID="6" PARAGRAPH-POSITION="113" RECENCY="24" SYNCAT="np-subj" animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="46" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Ethiopia</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Ethopia</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Ethiopia</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> was never colonised, maintaining </STRING>
+			<REFERENCE animacy="INANIMATE" entity="49" gender="NEUTRAL" mentionid="49" mentiontype="NOMINAL" number="SINGULAR">
+				<TARGET-REFERENCE ENTROPY="0" ID="7" PARAGRAPH-POSITION="118" RECENCY="5" SYNCAT="subj-det" animacy="INANIMATE" entity="3" gender="UNKNOWN" mentionid="50" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="82" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="90" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="93" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="99" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="108" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="111" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="117" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="123" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="126" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="132" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="135" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="138" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="148" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="151" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="154" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="157" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="160" TYPE="pronoun">its</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> independence </STRING>
+			</REFERENCE>
+			<STRING> throughout </STRING>
+			<REFERENCE animacy="INANIMATE" entity="51" gender="NEUTRAL" mentionid="51" mentiontype="PROPER" number="SINGULAR">
+				<STRING> the Scramble for </STRING>
+				<REFERENCE animacy="INANIMATE" entity="10" gender="NEUTRAL" mentionid="47" mentiontype="PROPER" number="SINGULAR"> Africa </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="7">
+			<STRING> In addition, </STRING>
+			<TARGET-REFERENCE ENTROPY="0.672617" ID="8" PARAGRAPH-POSITION="127" RECENCY="9" SYNCAT="np-subj" animacy="INANIMATE" entity="3" gender="UNKNOWN" mentionid="50" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Ethiopia</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="demonstrative">this nation</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">the FDR of Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> has long been </STRING>
+			<REFERENCE animacy="ANIMATE" entity="60" gender="MALE" mentionid="60" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a member of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="61" gender="UNKNOWN" mentionid="61" mentiontype="NOMINAL" number="PLURAL"> international organisations </REFERENCE>
+			</REFERENCE>
+			<STRING>: </STRING>
+			<TARGET-REFERENCE ENTROPY="0.38864" ID="9" PARAGRAPH-POSITION="136" RECENCY="9" SYNCAT="np-subj" animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="62" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Ethiopa</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> became </STRING>
+			<REFERENCE animacy="ANIMATE" entity="63" gender="MALE" mentionid="63" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a member of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="64" gender="NEUTRAL" mentionid="64" mentiontype="PROPER" number="UNKNOWN">
+					<STRING> the </STRING>
+					<REFERENCE animacy="INANIMATE" entity="52" gender="NEUTRAL" mentionid="52" mentiontype="PROPER" number="UNKNOWN"> League of Nations </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ENTROPY="0.483064" ID="10" PARAGRAPH-POSITION="145" RECENCY="9" SYNCAT="np-subj" animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="62" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="other">and</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="other">th-</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="other">and</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="other">and</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="other">then</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="empty">-</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> signed </STRING>
+			<REFERENCE animacy="INANIMATE" entity="65" gender="NEUTRAL" mentionid="65" mentiontype="NOMINAL" number="SINGULAR"> the Declaration </REFERENCE>
+			<STRING> by </STRING>
+			<REFERENCE animacy="INANIMATE" entity="53" gender="NEUTRAL" mentionid="53" mentiontype="PROPER" number="UNKNOWN"> United Nations </REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="66" gender="UNKNOWN" mentionid="66" mentiontype="PROPER" number="SINGULAR"> 1942 </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ENTROPY="0.536927" ID="11" PARAGRAPH-POSITION="154" RECENCY="9" SYNCAT="np-subj" animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="62" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">and</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="empty">-</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> founded </STRING>
+			<REFERENCE animacy="INANIMATE" entity="67" gender="NEUTRAL" mentionid="67" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the </STRING>
+				<REFERENCE animacy="INANIMATE" entity="53" gender="NEUTRAL" mentionid="54" mentiontype="PROPER" number="UNKNOWN"> UN </REFERENCE>
+				<STRING> headquarters </STRING>
+			</REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="10" gender="NEUTRAL" mentionid="55" mentiontype="PROPER" number="SINGULAR"> Africa </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ENTROPY="0.642188" ID="12" PARAGRAPH-POSITION="161" RECENCY="7" SYNCAT="np-subj" animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="62" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Ethopia</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="description">the nation</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="empty">-</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> was </STRING>
+			<REFERENCE animacy="INANIMATE" entity="68" gender="UNKNOWN" mentionid="68" mentiontype="PROPER" number="SINGULAR">
+				<STRING> one of the </STRING>
+				<REFERENCE animacy="INANIMATE" entity="56" gender="UNKNOWN" mentionid="56" mentiontype="PROPER" number="SINGULAR"> fifty-one </REFERENCE>
+				<STRING> original members of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="53" gender="NEUTRAL" mentionid="69" mentiontype="PROPER" number="UNKNOWN">
+					<STRING> the </STRING>
+					<REFERENCE animacy="INANIMATE" entity="53" gender="NEUTRAL" mentionid="57" mentiontype="PROPER" number="UNKNOWN"> United Nations </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, and </STRING>
+			<TARGET-REFERENCE ENTROPY="0.643514" ID="13" PARAGRAPH-POSITION="174" RECENCY="13" SYNCAT="np-subj" animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="62" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="empty">-</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="description">nation</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="other">revered</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="empty">-</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE animacy="INANIMATE" entity="70" gender="UNKNOWN" mentionid="70" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="67" gender="NEUTRAL" mentionid="71" mentiontype="NOMINAL" number="SINGULAR"> the headquarters for </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="ANIMATE" entity="72" gender="MALE" mentionid="72" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the main founder of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="73" gender="NEUTRAL" mentionid="73" mentiontype="PROPER" number="UNKNOWN">
+						<STRING> the former Organisation of </STRING>
+						<REFERENCE animacy="INANIMATE" entity="74" gender="UNKNOWN" mentionid="74" mentiontype="LIST" number="PLURAL">
+							<STRING> African Unity and </STRING>
+							<REFERENCE animacy="INANIMATE" entity="75" gender="NEUTRAL" mentionid="75" mentiontype="PROPER" number="SINGULAR"> current African Union </REFERENCE>
+						</REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="8">
+			<TARGET-REFERENCE ENTROPY="0.228433" ID="14" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="76" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Ethiopia</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="name">Ethopia</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="description">The country</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="name">Ethiopa</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="name">Ethiopia</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> was also historically called </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="79" gender="UNKNOWN" mentionid="79" mentiontype="PROPER" number="SINGULAR">
+				<REFERENCE animacy="UNKNOWN" entity="80" gender="UNKNOWN" mentionid="80" mentiontype="PROPER" number="SINGULAR"> Abyssinia </REFERENCE>
+				<STRING>, derived from </STRING>
+				<REFERENCE animacy="INANIMATE" entity="81" gender="NEUTRAL" mentionid="81" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="77" gender="NEUTRAL" mentionid="77" mentiontype="PROPER" number="SINGULAR"> Arabic </REFERENCE>
+					<STRING> form of </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="82" gender="UNKNOWN" mentionid="82" mentiontype="PROPER" number="SINGULAR">
+						<REFERENCE animacy="UNKNOWN" entity="83" gender="UNKNOWN" mentionid="83" mentiontype="PROPER" number="SINGULAR">
+							<STRING> the </STRING>
+							<REFERENCE animacy="UNKNOWN" entity="78" gender="UNKNOWN" mentionid="78" mentiontype="PROPER" number="SINGULAR"> Ethiosemitic </REFERENCE>
+							<STRING> name'' ḤBŚT </STRING>
+						</REFERENCE>
+						<STRING>,'' modern Habesha </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="9">
+			<STRING> In </STRING>
+			<REFERENCE animacy="INANIMATE" entity="88" gender="UNKNOWN" mentionid="88" mentiontype="NOMINAL" number="PLURAL"> some countries </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ENTROPY="0.333011" ID="15" PARAGRAPH-POSITION="22" RECENCY="21" SYNCAT="np-subj" animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="84" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Ethiopia</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="82" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="90" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="93" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="96" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="99" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="102" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="105" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="108" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="111" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="114" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="117" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="123" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="126" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="129" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="132" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="135" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="138" TYPE="name">Ethiopia</REFEX>
+					<REFEX PARTICIPANT-ID="148" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="151" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="154" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="157" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="160" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is still called by </STRING>
+			<REFERENCE animacy="INANIMATE" entity="89" gender="UNKNOWN" mentionid="89" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> names cognate with </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="90" gender="UNKNOWN" mentionid="90" mentiontype="LIST" number="PLURAL">
+					<STRING>`` </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="80" gender="UNKNOWN" mentionid="91" mentiontype="PROPER" number="SINGULAR"> Abyssinia </REFERENCE>
+					<STRING>,'' </STRING>
+					<REFERENCE animacy="UNKNOWN" entity="92" gender="UNKNOWN" mentionid="92" mentiontype="LIST" number="PLURAL">
+						<REFERENCE animacy="UNKNOWN" entity="93" gender="UNKNOWN" mentionid="93" mentiontype="NOMINAL" number="UNKNOWN">
+							<STRING> e.g. </STRING>
+							<REFERENCE animacy="UNKNOWN" entity="85" gender="UNKNOWN" mentionid="85" mentiontype="PROPER" number="SINGULAR"> Turkish Habesistan </REFERENCE>
+						</REFERENCE>
+						<STRING> and </STRING>
+						<REFERENCE animacy="ANIMATE" entity="94" gender="MALE" mentionid="94" mentiontype="PROPER" number="SINGULAR">
+							<REFERENCE animacy="ANIMATE" entity="95" gender="MALE" mentionid="95" mentiontype="PROPER" number="SINGULAR">
+								<STRING> Arabic </STRING>
+								<REFERENCE animacy="ANIMATE" entity="87" gender="MALE" mentionid="87" mentiontype="PROPER" number="SINGULAR"> Al Habesh </REFERENCE>
+							</REFERENCE>
+							<STRING>, </STRING>
+							<REFERENCE animacy="INANIMATE" entity="96" gender="NEUTRAL" mentionid="96" mentiontype="NOMINAL" number="SINGULAR">
+								<STRING> meaning land of </STRING>
+								<REFERENCE animacy="ANIMATE" entity="97" gender="UNKNOWN" mentionid="97" mentiontype="NOMINAL" number="PLURAL"> the Habesha people </REFERENCE>
+							</REFERENCE>
+						</REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="10">
+			<REFERENCE animacy="INANIMATE" entity="99" gender="UNKNOWN" mentionid="99" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> The English name`` </STRING>
+				<REFERENCE animacy="INANIMATE" entity="3" gender="NEUTRAL" mentionid="98" mentiontype="PROPER" number="SINGULAR"> Ethiopia </REFERENCE>
+				<STRING>'' </STRING>
+			</REFERENCE>
+			<STRING> is thought to be derived from the Greek word </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="101" gender="UNKNOWN" mentionid="101" mentiontype="PROPER" number="SINGULAR">
+				<REFERENCE animacy="UNKNOWN" entity="102" gender="UNKNOWN" mentionid="102" mentiontype="PROPER" number="SINGULAR"> Αἰθιοπία Aithiopia </REFERENCE>
+				<STRING>, from </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="103" gender="UNKNOWN" mentionid="103" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Αἰθίοψ Aithiops` </STRING>
+					<REFERENCE animacy="ANIMATE" entity="104" gender="MALE" mentionid="104" mentiontype="PROPER" number="SINGULAR"> an Ethiopian </REFERENCE>
+					<STRING>' </STRING>
+				</REFERENCE>
+				<STRING>, derived from </STRING>
+				<REFERENCE animacy="INANIMATE" entity="105" gender="UNKNOWN" mentionid="105" mentiontype="NOMINAL" number="PLURAL"> Greek terms </REFERENCE>
+				<STRING> meaning`` </STRING>
+				<REFERENCE animacy="INANIMATE" entity="106" gender="UNKNOWN" mentionid="106" mentiontype="NOMINAL" number="SINGULAR"> of burnt -LRB- αιθ- -RRB- visage -LRB- ὄψ -RRB- </REFERENCE>
+			</REFERENCE>
+			<STRING>''. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="11">
+			<STRING> However, </STRING>
+			<REFERENCE animacy="INANIMATE" entity="111" gender="NEUTRAL" mentionid="111" mentiontype="NOMINAL" number="SINGULAR"> this etymology </REFERENCE>
+			<STRING> is disputed, since </STRING>
+			<REFERENCE animacy="INANIMATE" entity="112" gender="NEUTRAL" mentionid="112" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="113" gender="NEUTRAL" mentionid="113" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the Book of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="107" gender="UNKNOWN" mentionid="107" mentiontype="PROPER" number="SINGULAR"> Aksum </REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="113" gender="NEUTRAL" mentionid="114" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> a Ge'ez chronicle </STRING>
+					<REFERENCE animacy="INANIMATE" entity="108" gender="NEUTRAL" mentionid="108" mentiontype="PROPER" number="SINGULAR"> first </REFERENCE>
+					<STRING> composed in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="115" gender="UNKNOWN" mentionid="115" mentiontype="PROPER" number="SINGULAR"> the 15th century </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, states that </STRING>
+			<REFERENCE animacy="INANIMATE" entity="99" gender="UNKNOWN" mentionid="116" mentiontype="NOMINAL" number="SINGULAR"> the name </REFERENCE>
+			<STRING> is derived from'' </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="117" gender="UNKNOWN" mentionid="117" mentiontype="PROPER" number="SINGULAR">
+				<REFERENCE animacy="UNKNOWN" entity="118" gender="UNKNOWN" mentionid="118" mentiontype="PROPER" number="SINGULAR">` Ityopp` is'' </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="118" gender="MALE" mentionid="119" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> a son -LRB- unmentioned in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="120" gender="NEUTRAL" mentionid="120" mentiontype="PROPER" number="SINGULAR"> the Bible </REFERENCE>
+					<STRING> -RRB- of </STRING>
+					<REFERENCE animacy="ANIMATE" entity="109" gender="UNKNOWN" mentionid="109" mentiontype="PROPER" number="SINGULAR"> Cush </REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="118" gender="MALE" mentionid="121" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> son of Ham who according to legend founded </STRING>
+					<REFERENCE animacy="INANIMATE" entity="122" gender="NEUTRAL" mentionid="122" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> the city of </STRING>
+						<REFERENCE animacy="INANIMATE" entity="110" gender="UNKNOWN" mentionid="110" mentiontype="PROPER" number="SINGULAR"> Axum </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

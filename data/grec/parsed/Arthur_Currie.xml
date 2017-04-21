@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="1437">
+	<TITLE>Arthur Currie</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Arthur William Currie</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, GCMG , KCB (December 5, 1875 - November 30, 1933) was the first Canadian commander of the Canadian Expeditionary Force (a corps of four divisions) on the Western Front during World War I. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Currie</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was among the most successful generals of the war; </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is still considered one of the finest commanders in Canadian military history.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Under </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> capable leadership the Canadian Corps won a long series of battles, fighting as a unit for the first time in a major war. They soon earned a fierce reputation as some of the most effective troops on the Western Front.</STRING>
+	</PARAGRAPH>
+</TEXT>

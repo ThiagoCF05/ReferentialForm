@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TEXT ID="1067">
+	<TITLE>Ho Chi Minh City</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ho Chi Minh City</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Vietnamese: Thành phố Hồ Chí Minh pronunciation) is the largest city in Vietnam and  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="15" SEMCAT="city" SENTENCE-POSITION="16" SENTENCE-RECENCY="15" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located near the Mekong River delta.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Under the name Prey Nokor (Khmer: ),  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="15" SEMCAT="city" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the main port of Cambodia, before being conquered by the Vietnamese in the 16th century.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Known as Saigon (pronunciation) until the end of the Vietnam War,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="59" PARAGRAPH-RECENCY="28" SEMCAT="city" SENTENCE-POSITION="12" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the capital of the French colony of Cochinchina, and later of the former state of South Vietnam from 1954 to 1975.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>In 1975,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="84" PARAGRAPH-RECENCY="25" SEMCAT="city" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Saigon</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was merged with the surrounding province of Gia āịnh and renamed Ho Chi Minh City (although Saigon is still frequently used).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The city center is situated on the banks of the Saigon River, 60 km from the South China Sea. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

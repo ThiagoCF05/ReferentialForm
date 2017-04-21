@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="1717">
+	<TITLE>Rick Hansen</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rick Hansen</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> CC, OBC (1957-) is a Canadian paraplegic athlete and activist for people with spinal cord injuries  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="18" PARAGRAPH-RECENCY="17" SEMCAT="person" SENTENCE-POSITION="18" SENTENCE-RECENCY="17" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is most famous for  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="5" SEMCAT="person" SENTENCE-POSITION="23" SENTENCE-RECENCY="5" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> Man in Motion world tour to raise money for the cause and show the physical capabilities of such people. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is married to Amanda,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="5" SEMCAT="person" SENTENCE-POSITION="6" SENTENCE-RECENCY="5" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> former physiotherapist.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>They have three daughters, Emma, Alana and Rebecca, and live in Richmond, BC. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="1652">
+	<TITLE>Mencius</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mencius</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Chinese: 孟子], transliterated Meng Zi, most accepted dates: 372-289 BCE; other possible dates: 385-303/302 BCE) was a Chinese philosopher and follower of Confucianism  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> argued that humans are naturally moral beings but are corrupted by society. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

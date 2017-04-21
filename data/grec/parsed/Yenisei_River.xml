@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TEXT ID="1856">
+	<TITLE>Yenisei River</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Yenisei</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Енисе́й) is the greatest river system flowing to the Arctic Ocean, and the fifth longest river in the world. </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is slightly shorter but with 1.5 times the flow of the Mississippi-Missouri. Rising in Mongolia, </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> follows a northerly course to the Kara Sea, draining a large part of central Siberia, the longest stream following the Yenisei-Angara-Selenga-Ider being about 5500 km. </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> watershed, which includes the world's largest (by volume) lake, Lake Baikal, holds more water than any other river system.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The upper reaches, subject to rapids and flooding, pass through sparsely populated areas. The middle section is controlled by a series of massive hydroelectric dams fuelling significant Russian primary industry. Partly built by gulag labor in Soviet times, industrial contamination remains a serious problem in an area hard to police. Moving on through sparsely-populated taiga, </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Yenisei</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> swells with numerous tributaries and </STRING>
+		<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> finally reaches the Kara Sea in desolate tundra where </STRING>
+		<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is icebound for more than half the year. As with other Siberian rivers, the flow has increased recently, believed to be related to global warming. A concern is that altered salinity in the Arctic may have a global impact on ocean currents.</STRING>
+	</PARAGRAPH>
+</TEXT>

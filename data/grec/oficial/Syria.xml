@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TEXT ID="1388">
+	<TITLE>Syria</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Syria</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Arabic: سوريا or, since 2005, سورية), officially the Syrian Arab Republic (Arabic: الجمهورية العربية السورية), is a country in the Middle East.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="23" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders Lebanon to the west, Israel to the southwest, Jordan to the south, Iraq to the east, and Turkey to the north.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Israel occupies the Golan Heights in the southwest of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="56" PARAGRAPH-RECENCY="32" SEMCAT="country" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>; a dispute with Turkey over the Hatay Province now seems to have subsided.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Historically, Syria, or The Levant as the region has sometimes been called in English, has often been taken to include the territories of Lebanon, Israel and the Palestinian Territories, and parts of Jordan, but excluding the Jazira region in the north-east of the modern Syrian state.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>In this historic sense, the region is also known as Greater Syria or by the Arabic name Bilad al-Sham (بلاد الشام). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

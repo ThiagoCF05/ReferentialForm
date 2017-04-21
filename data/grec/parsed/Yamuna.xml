@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="1853">
+	<TITLE>Yamuna</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Yamuna</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (sometimes called Jamuna) is a major river of northern India, with a total length of around 1370 km. </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the largest tributary of the Ganga. </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> source is at Yamunotri, in the Uttaranchal Himalaya,which is north of Haridwar in the Himalayan Mountains. </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> flows through the states of Delhi, Haryana and Uttar Pradesh, before merging with the Ganges at Allahabad. The cities of Delhi, Mathura and Agra lie on </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> banks. The major tributaries of </STRING>
+		<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are the Tons, Chambal, Betwa, Sindh and Ken; with the Tons being the largest. </STRING>
+		<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Yamuna</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was called Ioames by the ancient Greeks, and Jomanes by the Romans. A canal is currently being built between the Sutlej and Yamuna rivers, known as the SLY (Sutlej-Yamuna Link).</STRING>
+	</PARAGRAPH>
+</TEXT>

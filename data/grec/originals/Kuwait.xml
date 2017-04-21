@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "reg08-grec.dtd">
+<TEXT ID="1298">
+<TITLE>Kuwait</TITLE>
+
+<PARAGRAPH>
+<REF ID="1298.1" SEMCAT="country" SYNCAT="np-subj">
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">The State of Kuwait</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Kuwait</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Kuwait itself</REFEX>
+<REFEX REG08-TYPE="empty">_</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="nominative">it</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="pronoun" CASE="nominative">it itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">that</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">that itself</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">the State of Kuwait</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">the State of Kuwait itself</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="no" HEAD="nominal" CASE="plain">the country</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="yes" HEAD="nominal" CASE="plain">the country itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">which</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">which itself</REFEX>
+</ALT-REFEX>
+</REF>
+ ([Arabic: الكويت]) is a small constitutional monarchy on the coast of the Persian Gulf, enclosed by Saudi Arabia in the south and Iraq in the north. The name is a diminutive of an Arabic word meaning "fortress built near water."</PARAGRAPH>
+</TEXT>

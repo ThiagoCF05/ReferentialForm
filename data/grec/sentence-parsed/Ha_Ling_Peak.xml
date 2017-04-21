@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="200">
+	<TITLE>Ha Ling Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ha Ling Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a peak of Mount Lawrence Grassi--a mountain located immediately south of the town of Canmore just east of the Spray Lakes road in Alberta's Canadian Rockies.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was previously named Chinaman's Peak but the name was changed to be more politically correct. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

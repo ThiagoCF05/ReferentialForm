@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<TEXT ID="610">
+	<TITLE>Nevado Pisco</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado Pisco</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in Peru, located in the Cordillera Blanca about 60 km north of Huaraz.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado Pisco</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed in July 12, 1951 by C. Kojan, G.Kojan, R.Leininger and M. Lenoir. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Previously,  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was popular for  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> easy climb.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Due to global warming and the resulting retreat of glaciers worldwide, a large piece of the glacier broke away in 2004.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>As a result,  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is no longer the easy climb  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> once was and depending on the season  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pisco</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a large ice wall with a 50-60 meter climb up a 60 degree slope.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is now rated an AD-.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>It is predicted that  </STRING>
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> will get more difficult as the glacier continues to recede. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>There are a multitude of companies in Huaraz offering guided climbs of  </STRING>
+			<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, which usually include all equipment, food, transport, guide, and possibly a porter.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The normal route is from the road to the south, up to the col to the west, then to the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>There are two camps on  </STRING>
+			<REFERENCE ID="11" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and one at  </STRING>
+			<REFERENCE ID="12" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> base, although climbers often only use one.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>The first is next to the road and river on the valley floor.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING>The second is in or next to Refugio Perú (at 4,765 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.6">
+			<STRING>The third, called the 'moraine camp' lies just below the ice of the first glacier.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.7">
+			<STRING>Most parties travel from Huaraz and climb to the moraine camp in one day, then summit and return to Huaraz the next. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Climbing involves mostly walking on snow slopes up to 35 degrees, but there is one section of about 100m of steep ice.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Views from  </STRING>
+			<REFERENCE ID="13" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are superb, encompassing many of the other well known mountains of the Cordillera Blanca, such as Huascarán, Chopicalqui, Artesonraju, and Alpamayo. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>The altitude makes the climb very difficult for anyone not well acclimatised or fit, and even those who are will be slowed down.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>Sleeping at the two high camps is also difficult. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

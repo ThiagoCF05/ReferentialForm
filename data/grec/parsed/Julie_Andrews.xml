@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1619">
+	<TITLE>Julie Andrews</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dame Julie Andrews</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, DBE (born October 1, 1935) is an Emmy, Grammy and Academy Award-winning English actress, singer, and author, </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> became famous for </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> starring roles in the Broadway musical My Fair Lady and the musical films Mary Poppins (1964) and The Sound of Music (1965). Currently, </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">she</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the Official Ambassador of the Happiest Homecoming on Earth for Disneyland and </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> recently made </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> debut as a theatre director.</STRING>
+	</PARAGRAPH>
+</TEXT>

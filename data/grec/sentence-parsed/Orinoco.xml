@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1833">
+	<TITLE>Orinoco</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Orinoco</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the longest rivers in South America at 2,410 km, (1,497.5 miles).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> drainage basin, sometimes called the Orinoquia, covers 880,000 km², 23.7% in Colombia with the rest in Venezuela.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Orinoco</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and  </STRING>
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> tributaries are the major transportation system for eastern and interior Venezuela and the llanos of Colombia. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

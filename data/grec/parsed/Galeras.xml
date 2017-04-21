@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="163">
+	<TITLE>Galeras</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Galeras</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Urcunina among the indigenous people) is a volcano in Colombia, near the city of Pasto. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> summit lies 4,276 m (14,029 feet) above sea level. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has erupted frequently since the Spanish conquest, and in 1993, an eruption killed nine people, including five scientists who had descended into </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> crater to sample gases.</STRING>
+	</PARAGRAPH>
+</TEXT>

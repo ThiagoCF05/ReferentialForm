@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<TEXT ID="71">
+	<TITLE>Cayambe (volcano)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING>Cayambe (or Volcán Cayambe) is the name of a volcano located in the Cordillera Oriental, a branch of the Ecuadorian Andes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in Pichincha province some 70 km (43 mi) northeast of Quito.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the third highest mountain in Ecuador. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cayambe</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="2" PARAGRAPH-RECENCY="1" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="1" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a permanent snow cap, is a Holocene compound volcano  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="13" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has not erupted in historical times.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>At 4,690 m (15,387 ft) on  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="13" SEMCAT="mountain" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> south slope is the highest point in the world crossed by the Equator and the only point on the Equator with snow cover (see, for example, Google Earth images).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="56" PARAGRAPH-RECENCY="30" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located within the Cayambe-Coca Ecological Reserve. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The town of Cayambe takes its name from  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ID="9" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cayambe</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first scaled by British climber Edward Whymper and his two Italian guides and companions Juan Antonio and Luis Carrel in 1880, and  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="24" SEMCAT="mountain" SENTENCE-POSITION="25" SENTENCE-RECENCY="24" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a favourite of mountain climbers today. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

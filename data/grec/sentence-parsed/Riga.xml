@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEXT ID="1152">
+	<TITLE>Riga</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Riga</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Latvian: Rīga, [Estonian: Riia], [Russian: []]), the capital of Latvia, is situated on the Baltic Sea coast on the mouth of the River Daugava, at 56°58'N,24°8'E.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Riga</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the largest city in the Baltic states.The Historic Centre of  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Riga</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been declared a UNESCO World Heritage Site, and  </STRING>
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is particularly notable for  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> extensive Art Nouveau (Jugendstil) architecture, comparable in significance only with Vienna, Saint Petersburg and Barcelona. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

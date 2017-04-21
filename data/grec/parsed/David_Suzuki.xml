@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1495">
+	<TITLE>David Suzuki</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">David Takayoshi Suzuki</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, CC, OBC, Ph.D (born March 24 1936), is a Canadian geneticist </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has attained prominence as a science broadcaster and an environmental activist. Since the mid 1970s, </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Suzuki's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> TV and radio series and books have sought to educate in an engaging way about nature and the environment. </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is best known as host of the popular and long-running CBC TV science magazine, The Nature of Things, seen in syndication in over 40 nations.</STRING>
+	</PARAGRAPH>
+</TEXT>

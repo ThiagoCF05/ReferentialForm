@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1125">
+	<TITLE>Naypyidaw</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Naypyidaw</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (also spelt Nay Pyi Taw) is the national capital of Myanmar, located in Pyinmana Township of Mandalay Division. The administrative capital of Myanmar was officially moved to a militarised greenfield site two miles west of Pyinmana on 6 November 2005. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Naypyidaw</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is approximately 320 kilometres north of Yangon. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The capital's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> official name was revealed on Armed Forces Day in March 2006.</STRING>
+	</PARAGRAPH>
+</TEXT>

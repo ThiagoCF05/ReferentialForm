@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEXT ID="1092">
+	<TITLE>Kuwait City</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kuwait City</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (also Al-Kuwait - الكويت), population 32,403 (2005 Census), is the capital of the emirate of Kuwait and part of the Al-Asimah governorate. Locally known as &quot;The City&quot; (Al-Diera - ألديره), </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> contains the Majlis Al-Umma (Kuwait's parliament), most Governmental offices, the headquarters of most Kuwaiti corporations and banks, the Liberation Tower and the Kuwait Towers. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kuwait City</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located at 29°22'11&quot; North, 47°58'42&quot; East (29.369722, 47.978333).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Kuwait City's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> trade and transportation needs are served by Kuwait International Airport, Mina Al-Shuwaik (Shuwaik Port) and 50 kilometers to the south by the port of Mina al-Ahmadi (Ahmadi Port) on the Persian Gulf coast.</STRING>
+	</PARAGRAPH>
+</TEXT>

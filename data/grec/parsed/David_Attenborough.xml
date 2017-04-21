@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEXT ID="1490">
+	<TITLE>David Attenborough</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sir David Frederick Attenborough</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, OM, CH, CVO, CBE, FRS (born on May 8, 1926 in London, England) is one of the world's best known broadcasters and naturalists. Widely considered one of the pioneers of the nature documentary, </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has written and presented eight major series (with a ninth in production) surveying nearly every aspect of life on Earth. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also a former senior manager at the BBC, having served as controller of BBC2 and director of programming for BBC Television in the 1960s and 1970s.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the younger brother of director and actor Richard Attenborough.</STRING>
+	</PARAGRAPH>
+</TEXT>

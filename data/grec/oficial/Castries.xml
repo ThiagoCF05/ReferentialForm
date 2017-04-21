@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1039">
+	<TITLE>Castries</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Castries</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, population 11 147 (1991), is the capital city of Saint Lucia, a country in the West Indies.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="18" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Castries</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 14°1'N,60°59'W. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The main post office is located in  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Castries</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Because most parts of the country don't use standard street addresses, mail is largely sent to P.O.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>boxes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Any mail sent without a town name ends up in the Castries post office. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

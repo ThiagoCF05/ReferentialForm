@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<TEXT ID="1015">
+	<TITLE>Belmopan</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Belmopan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, estimated population 12,300, is the capital of Belize. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Belmopan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 17°15'N,88°46'W, at an altitude of 76 meters (250 ft) above sea level.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="16" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Belmopan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was constructed just to the east of Belize River, 80 km (50 miles) inland from the former capital, the port of Belize City, after that city's near destruction by a hurricane in 1961.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The government was moved to  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="56" PARAGRAPH-RECENCY="39" SEMCAT="city" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Belmopan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in 1970.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The National Assembly Building is designed to resemble a Pre-Columbian Maya temple.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="71" PARAGRAPH-RECENCY="15" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Belmopan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located off of the Hummingbird Highway, one of the most picturesque highways in all of Central America.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="90" PARAGRAPH-RECENCY="19" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Belmopan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the world's smaller capital cities. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

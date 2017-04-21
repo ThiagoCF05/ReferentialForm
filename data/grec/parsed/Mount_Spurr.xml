@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="551">
+	<TITLE>Mount Spurr</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Spurr</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a stratovolcano in the Aleutian Volcanic Arc of Alaska, named after United States Geological Survey geologist and explorer Josiah Edward Spurr, who led an expedition to the area in 1898. The Alaska Volcano Observatory currently rates </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Spurr</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> as Level of Concern Color Code Green.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>There are two vents, the main Mount Spurr summit and nearby Crater Peak. The main Spurr summit has not erupted in over 10,000 years. Crater Peak has erupted twice in historic times; in 1953 and again in 1992. Both eruptions led to falls of volcanic ash in the Municipality of Anchorage 130 km (81 miles) to the east. As with other Alaskan volcanoes, the proximity of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Spurr</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> to major trans-Pacific aviation routes means that an eruption of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> can significantly disrupt air travel. Volcanic ash can cause jet engines to fail.</STRING>
+	</PARAGRAPH>
+</TEXT>

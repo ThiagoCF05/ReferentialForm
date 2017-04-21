@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TEXT ID="1371">
+	<TITLE>Sierra Leone</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sierra Leone</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Sierra Leone, is a country in West Africa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is bordered by Guinea on the north and Liberia on the south, with the Atlantic Ocean on the west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The name Sierra Leone was adapted from the Portuguese name for the country: Serra Leoa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The literal meaning is &quot;Lioness Mountain.&quot;</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>During the 1700s  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sierra Leone</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was an important centre of the Transatlantic Slave Trade.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>The capital Freetown was founded in 1792 by the Sierra Leone Company as a home for Black Britons who had fought for the British in the American Revolutionary War. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>In 1808, Freetown became a British Crown Colony, and in 1896, the interior of  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became a British Protectorate.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The Crown Colony and Protectorate joined and gained independence in 1961.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>From 1991 to 2000,  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> suffered greatly under a devastating civil war.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>To end the civil war, UN and British forces disarmed 17,000 militia and rebels, in the largest UN peacekeeping act of the decade.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>The average life span of a Sierra Leonean is 38 years for men and 42 years for women. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

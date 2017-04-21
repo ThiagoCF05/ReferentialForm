@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<TEXT ID="174">
+	<TITLE>Gerlachovský štít</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gerlachovský štít</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest peak in the High Tatras, in Slovakia, and in the whole 1,500 km (900 mi.)</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>long Carpathian mountain chain, as well as in northern and eastern Central Europe. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Usually listed at 2,655 m AMSL (8,711 ft.),  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> exact elevation is actually 0.6 m (2 ft.) lower.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The pyramidal shape of the massif is marked by a huge cirque.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Despite  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> relatively low elevation, the about 2,000 m vertical rise from the valley floor makes  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gerlachovský štít</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> soar.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Mistaken for an average mountain in the rugged High Tatras range in the more distant past,  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has since played a symbolic role in the eyes of the rulers and populations of several Central European nations, to the point that between the 19th and mid-20thcentury,  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> had four different names with six name reversals.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> managed to be the highest mountain of the Kingdom of Hungary, and of the countries of Czechoslovakia and Slovakia within the span of only about two decades of the 20th century. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gerlachovský štít</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shares  </STRING>
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> geology and ecology with the rest of the High Tatras, but  </STRING>
+			<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> provides a worthwhile environment for biologists as the highest ground anywhere in Europe north of the parallel linking approximately Munich, Salzburg, and Vienna.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="11" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> used to be particularly treasured as the loftiest point to climb to by Czechs, eastern Germans, Hungarians, Poles, and Slovaks during the period of restricted travel in the 20th century.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ID="12" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> continues to attract  </STRING>
+			<REFERENCE ID="13" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> share of visitors although the local authorities have been continually adding new restrictions on access.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>The view from the top is readily enhanced by the hikers' hard-to-beet feeling that in about a 200-degree arc, no one is standing taller than they are, except thousands of miles away, far beyond the curvature of the earth. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

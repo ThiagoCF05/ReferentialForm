@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="494">
+	<TITLE>Mount Morungole</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Morungole</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies within the Kidepo Valley National Park, north-east Uganda, Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is in the rugged, semi-arid Karamoja province near the border with the Sudan. Neighbouring peaks are Mount Zulia, and the Labwor and Dodoth Hills reach heights in excess of 2,000 meters.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The local inhabitants were the Ik, who were moved by a previous administration. They were attached to </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Morungole</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> considering </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> a sacred place.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<TEXT ID="70">
+	<TITLE>Cathedral Peak (California)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cathedral Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the crowning summit of the Cathedral Range, a mountain range in the south-central portion of Yosemite National Park in Tuolumne County, California.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The range is an offshoot of the Sierra Nevada Mountains.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="35" PARAGRAPH-RECENCY="34" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="1" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="1" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lends  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="2" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name to the range, derives  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="44" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="6" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name from  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="47" PARAGRAPH-RECENCY="3" SEMCAT="mountain" SENTENCE-POSITION="13" SENTENCE-RECENCY="3" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> cathedral-shaped peak, which was formed by glacial activity: the peak remained uneroded above the glaciers in the Pleistocene. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The west peak of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cathedral Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (shown foreshortened in the photograph) is called Eichorn Pinnacle, after Jules Eichorn, who first ascended a YDS 5.4 route in 1931. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>In 1869, John Muir wrote My first summer in the Sierra, where he described  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="15" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cathedral Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>&quot;The body of the Cathedral is nearly square, and the roof slopes are wonderfully regular and symmetrical, the ridge trending northeast and southwest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>This direction has apparently been determined by structure joints in the granite.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>The gable on the northeast end is magnificent in size and simplicity, and at its base there is a big snow-bank protected by the shadow of the building.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.4">
+			<STRING>The front is adorned with many pinnacles and a tall spire of curious workmanship.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.5">
+			<STRING>Here too the joints in the rock are seen to have played an important part in determining their forms and size and general arrangement.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.6">
+			<STRING>The Cathedral is said to be about eleven thousand feet above the sea, but the height of the building itself above the level of the ridge it stands on is about fifteen hundred feet.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.7">
+			<STRING>A mile or so to the westward there is a handsome lake, and the glacier-polished granite about it is shining so brightly it is not easy in some places to trace Front of Cathedral Peak the line between the rock and water, both shining alike.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

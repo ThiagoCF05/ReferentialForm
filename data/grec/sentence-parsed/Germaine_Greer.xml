@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<TEXT ID="1541">
+	<TITLE>Germaine Greer</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Germaine Greer</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born January 29, 1939) is an Australian academic, writer, and broadcaster,  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is widely regarded as one of the most significant feminist voices of the 20th century. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Greer</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Professor Emeritus of English literature and Comparative Studies at the University of Warwick in England after having recently retired, and  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the author of several highly acclaimed books.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Greer's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ground-breaking The Female Eunuch became an international bestseller when it was published in 1970, turning  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Greer</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> overnight into a household name, and bringing  </STRING>
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> both adulation and criticism. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ideas have created controversy ever since.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Belinda Luscombe in Time Magazine called  </STRING>
+			<REFERENCE ID="9" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> &quot;the ultimate Trojan Horse, gorgeous and witty, built to penetrate the seemingly unassailable fortress of patriarchy and let the rest of us foot soldiers in,&quot; describing  </STRING>
+			<REFERENCE ID="10" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as &quot;a joy to read, an eloquent maniac.&quot;</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Angela Carter described  </STRING>
+			<REFERENCE ID="11" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as &quot;a clever fool&quot;, while former British MP Edwina Currie called  </STRING>
+			<REFERENCE ID="12" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> &quot;a great big hard-boiled prat&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>&quot;[Her] mind provokes us like no other,&quot; journalist Catherine Keenan wrote in The Sydney Morning Herald, &quot;but for all the wrong reasons.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

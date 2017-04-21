@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="114">
+	<TITLE>Deception Island</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Deception Island</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an island in the South Shetland Islands off the Antarctic Peninsula </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has one of the safest harbours in Antarctica. A recently active volcano, </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> eruptions in 1967 and 1969 caused serious damage to the scientific stations there. The only current research bases are run by the Argentine Army and Spain.</STRING>
+	</PARAGRAPH>
+</TEXT>

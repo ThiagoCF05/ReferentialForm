@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1417">
+	<TITLE>Zimbabwe</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Zimbabwe</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (IPA: [IPA: [zɪmˈbɑbwe]]), officially the Republic of Zimbabwe, and formerly known as the Republic of Rhodesia, is a landlocked country in the southern part of the continent of Africa, between the Zambezi and Limpopo rivers. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> borders South Africa to the south, Botswana to the west, Zambia to the northwest, and Mozambique to the east. The name Zimbabwe derives from &quot;[Shona: dzimba dzemabwe]&quot; meaning &quot;houses of stone&quot; in the Shona language. Its use as </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name is a tribute to Great Zimbabwe, site of the capital of the Munhumutapa Empire.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<TEXT ID="1256">
+	<TITLE>East Timor</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">East Timor</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Democratic Republic of Timor-Leste, is a country in Southeast Asia comprising the eastern half of the island of Timor, the nearby islands of Atauro and Jaco, and Oecussi-Ambeno, an exclave on the northwestern side of the island, within Indonesian West Timor.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="44" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The small country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> of 5,376 square miles (14,609 square kilometres) is located about 400 miles (640 km) northwest of Darwin, Australia. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The name Timor derives from timor or timur, the word for 'east' in Malay as well as Indonesian, which became Timor in Portuguese.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The Portuguese name Timor-Leste and the Tetum name Timor Lorosa'e are sometimes used in English.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Lorosa'e (the word for 'east' in Tetum) literally means 'rising sun'. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">East Timor</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has the lowest per capita GDP (Purchasing Power Parity adjusted) in the world, of only $400 (which corresponds to the 192nd position).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>However, on  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="25" SEMCAT="country" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> Human Development Index, or HDI,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="6" SEMCAT="country" SENTENCE-POSITION="9" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is in 142nd place among the world's nations, which corresponds to medium human development. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Colonized by Portugal in the 16th century,  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">East Timor</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was known as Portuguese Timor for centuries.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="8" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was invaded by Indonesia in 1975, which occupied  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="9" SEMCAT="country" SENTENCE-POSITION="10" SENTENCE-RECENCY="9" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> until 1999.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>Following the UN-sponsored act of self-determination that year, Indonesia relinquished control of  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="15" SEMCAT="country" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the territory</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>,  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="1" SEMCAT="country" SENTENCE-POSITION="14" SENTENCE-RECENCY="1" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> achieved full independence on May 20, 2002, becoming the first new country of the 21st century.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.4">
+			<STRING>With the Philippines,  </STRING>
+			<REFERENCE ID="11" PARAGRAPH-POSITION="61" PARAGRAPH-RECENCY="20" SEMCAT="country" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">East Timor</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of only two predominantly Roman Catholic countries in Asia, and the only Portuguese-speaking sovereign state in Asia. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1249">
+	<TITLE>Côte d'Ivoire</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Côte d'Ivoire</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (pronounced [IPA: /kot divwaʀ/] in International French; officially the République de Côte d'Ivoire), or, translated into English, the Ivory Coast, is a country in West Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> borders Liberia and Guinea to the west, Mali and Burkina Faso to the north, Ghana to the east, and the Gulf of Guinea to the south. Once one of the most prosperous of the tropical West African states, </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> economy has been undermined by political turmoil and civil war, spawned by a failed attempt to assassinate the elected president. Consequently </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been divided for the past four years, while the United Nations, France and South African President Thabo Mbeki of the African Union have worked with Ivorian President Laurent Gbagbo and leadership of the &quot;Rebel Forces&quot; to try to negotiate a peace deal, but without success, leading to four years of &quot;no peace, no war&quot;, which has undermined </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> economy.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TEXT ID="559">
+	<TITLE>Mount Tamalpais</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Tamalpais</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (IPA: /tæməlˈpaɪəs/; MWCD [IPA: [tam-əl-ˈpi-əs]], known locally as &quot;Mount Tam&quot;) is a peak in Marin County, California, USA, often considered symbolic of Marin County.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Much of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="27" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Tamalpais</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is protected within public lands such as Mount Tamalpais State Park and the Mount Tamalpais Watershed. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1715">
+	<TITLE>Richard Posner</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Richard Allen Posner</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born January 11, 1939 in New York City) is currently a judge on the United States Court of Appeals for the Seventh Circuit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a major voice in the law and economics movement, which  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> helped start while a professor at the University of Chicago Law School. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Posner</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the author of several books on jurisprudence and legal philosophy, including The Problems of Jurisprudence; Sex and Reason; Overcoming Law; Law, Pragmatism and Democracy; and The Problematics of Moral and Legal Theory. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

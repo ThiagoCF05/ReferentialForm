@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="1173">
+	<TITLE>St. John's, Antigua and Barbuda</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">St John's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital city of the nation of Antigua and Barbuda, a country located in the West Indies in the Caribbean Sea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">St John's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 17°7'N,61°51'W.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>With a population of 24,226 (2000),  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">St John's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the commercial centre of the nation and the chief port of the island of Antigua.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The settlement of St John's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been the administrative centre of Antigua and Barbuda since the islands were first colonised in 1632, and  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became the seat of government when the nation achieved independence in 1981. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

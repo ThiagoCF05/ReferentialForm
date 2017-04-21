@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TEXT ID="1142">
+	<TITLE>Porto-Novo</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Porto-Novo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (also known as Hogbonou and Adjacé (population 223,552 as of a 2002 census) is the official capital of the West African nation of Benin.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="25" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a port on an inlet of the Gulf of Guinea, in the southeastern portion of the country.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="19" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Porto-Novo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Benin's second largest city, but the city of Cotonou is more important, culturally and politically.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The region around  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="65" PARAGRAPH-RECENCY="20" SEMCAT="city" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Porto-Novo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> produces palm oil, cotton and kapok.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Petroleum was discovered off the coast of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="79" PARAGRAPH-RECENCY="14" SEMCAT="city" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in the 1990s, and has become an important export. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Porto-Novo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 6°28' North, 2°36' East (6.46667, 2.6). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

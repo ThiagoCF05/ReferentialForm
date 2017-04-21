@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TEXT ID="480">
+	<TITLE>Mount Martin (Alaska)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Martin</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a stratovolcano, located on the Alaska Peninsula, United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the volcanoes in the vicinity of the Valley of Ten Thousand Smokes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Although an eruption in 1953 is now considered questionable and no other confirmed eruptive activity has taken place at  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="47" PARAGRAPH-RECENCY="35" SEMCAT="mountain" SENTENCE-POSITION="20" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Martin</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, there is intense fumarolic activity within  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="54" PARAGRAPH-RECENCY="7" SEMCAT="mountain" SENTENCE-POSITION="27" SENTENCE-RECENCY="7" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit crater.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The summit crater is also breached to the southeast.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The 300 m (984 ft)-wide summit crater is often ice-free due to the geothermal heat and contains an intermittent acidic crater lake.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>The fumaroles in the summit crater produce extensive sulfur deposits. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is named for George C. Martin, who was the first person to visit the Valley of Ten Thousand Smokes after the 1912 eruption of Novarupta. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

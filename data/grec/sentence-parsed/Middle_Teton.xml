@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TEXT ID="327">
+	<TITLE>Middle Teton</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Middle Teton</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the third highest peak in the Teton Range, Grand Teton National Park, Wyoming.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is immediately southwest of Grand Teton and the two are separated from one another by the lower saddle, a broad high ridge at 11,600 feet (3,540 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The Middle Teton Glacier is located on the eastern slopes of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Middle Teton</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a classic pyramidal shaped alpine peak and  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is sometimes included as part of the Cathedral Group of high Teton peaks.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The 40 mi long Teton Range is the youngest mountain chain in the Rocky Mountains, and began their uplift 9 million years ago, during the Miocene.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>Several periods of glaciation have carved  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Middle Teton</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and the other peaks of the range into their current shapes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>From the lower saddle, a distinctive feature known as the black dike appears as a straight line running from near the top of  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> down 800 feet (240 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.8">
+			<STRING>The black dike is a basaltic intrusion that occurred long after the surrounding rock was formed. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

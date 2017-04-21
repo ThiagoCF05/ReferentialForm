@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<TEXT ID="1569">
+	<TITLE>Isambard Kingdom Brunel</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Isambard Kingdom Brunel</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, FRS (9 April 1806 - 15 September 1859) (IPA: [IPA: [ˈɪzəmbɑ(ɹ)d ˈkɪŋdəm brʊˈnɛl]]), was an English engineer. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is best known for the creation of the Great Western Railway, a series of famous steamships, and numerous important bridges.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Though </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Brunel's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> projects were not always successful, they often contained innovative solutions to long-standing engineering problems. During </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> short career, </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Brunel</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> achieved many engineering &quot;firsts&quot;, including assisting in the building of the first tunnel under a navigable river and development of the first propeller-driven ocean-going iron ship, which was at the time also the largest ship ever built.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Brunel</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> suffered several years of ill health, with kidney problems, before succumbing to a stroke at the age of 53. </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Brunel</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was said to smoke up to 40 cigars a day, and get by on only four hours of sleep a night.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>In 2006, a major programme of events celebrated </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> life and work on the bicentenary of </STRING>
+		<REFERENCE ID="9" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> birth under the name Brunel 200.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1287">
+	<TITLE>Hungary</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hungary</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Hungarian: Magyarország listen), officially the Republic of Hungary (Magyar Köztársaság listen), is a landlocked country in Central Europe, bordered by Austria, Slovakia, Ukraine, Romania, Serbia, Croatia, and Slovenia. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hungary</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been a member state of the European Union since May 1 2004.</STRING>
+	</PARAGRAPH>
+</TEXT>

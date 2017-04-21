@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TEXT ID="899">
+	<TITLE>Tungurahua</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tungurahua</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, (), (Quichua tunguri (throat), rahua (fire): &quot;Throat of Fire&quot; ) is an active stratovolcano located in the Cordillera Central of Ecuador.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> gives name to the province of Tungurahua.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Volcanic activity restarted in 1999 and is ongoing as of 2007 with a major eruption on August 16 2006. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

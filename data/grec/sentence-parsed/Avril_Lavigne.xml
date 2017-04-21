@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<TEXT ID="1444">
+	<TITLE>Avril Lavigne</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Avril Ramona Lavigne Whibley</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born September 27, 1984) is a Juno Award-winning Canadian singer, songwriter, and occasional actress.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was originally known for  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> &quot;skater punk&quot; persona, but  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has since shed that image in favour of a more sophisticated and feminine style.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> two albums, Let Go (2002) and Under My Skin (2004), have topped charts in several countries. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Although  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> surname is of French origin,  </STRING>
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> does not speak French and  </STRING>
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name is pronounced in an anglicized way, somewhat as IPA: ləˈviːn (&quot;La-veen&quot;), rather than IPA: laˈviːɲ.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Lavigne, or rather la vigne, in French means the vine or the vineyard.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="9" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> first name, Avril, is French for April, but is also pronounced in an anglicized way as IPA: ˈævrəl (&quot;Av-ril&quot;), rather than IPA: aˈvril. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="10" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lavigne</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is featured in Maxim magazine's Maxim gallery.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>In 2006,  </STRING>
+			<REFERENCE ID="11" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was included in Canadian Business Magazine's ranking of the most powerful Canadians in Hollywood, grabbing the seventh position. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

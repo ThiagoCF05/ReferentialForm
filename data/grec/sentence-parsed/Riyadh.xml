@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TEXT ID="1154">
+	<TITLE>Riyadh</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Riyadh</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Arabic: الرياض] ar-Riyāḍ) is the capital of the kingdom of Saudi Arabia, located in Ar Riyad Province in the Najd region.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is situated in the centre of the Arabian peninsula on a large plateau and  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is home to over 4,260,000 people (around 20% of the nation's population). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies in Saudi Arabia's 'central corridor' of development along with Buraydah and Al Kharj in the Ar Riyad administrative division.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The other areas of concentrated population are two coastal areas - around Jiddah and Mecca on the Red Sea, and around Jubail and Dhahran on the Persian Gulf.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Riyadh</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 24°42'42&quot; North, 46°43'27&quot; East (24.711667, 46.724167). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is divided into 17 branch municipalities under the control of the Riyadh Municipality and the Riyadh Development Authority, chaired by Riyadh Province Governor Prince Salman Bin Abdul Aziz. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Although in a highly arid area  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> does receive some rainfall.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Five dams store the runoff.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>There are also 96 wells and 290 miles (467 km) of pipe bringing huge volumes of water from desalination plants on the Persian Gulf. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

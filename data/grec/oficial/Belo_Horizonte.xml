@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TEXT ID="1016">
+	<TITLE>Belo Horizonte</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Belo Horizonte</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (a Portuguese name meaning &quot;[IPA: ]beautiful horizon&quot;, pronounced 'bɛ.ləʊ - əʊ.ɹiː.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>'zɒn.teɪ) is the third largest metropolitan area and fifth largest city in Brazil (after São Paulo, Rio de Janeiro, Salvador and Fortaleza).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="35" PARAGRAPH-RECENCY="34" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital of Minas Gerais state, located in the southeastern region of the country.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>With a population of almost 2.4 million and over 5 million in the official metropolitan area,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="67" PARAGRAPH-RECENCY="32" SEMCAT="city" SENTENCE-POSITION="17" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Belo Horizonte</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> -- or &quot;Beagá&quot; as  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="72" PARAGRAPH-RECENCY="5" SEMCAT="city" SENTENCE-POSITION="22" SENTENCE-RECENCY="5" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is more familiarly known from the sound of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="81" PARAGRAPH-RECENCY="9" SEMCAT="city" SENTENCE-POSITION="31" SENTENCE-RECENCY="9" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> initials BH in Portuguese -- is a place of intense economical and cultural activity.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="96" PARAGRAPH-RECENCY="15" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a good infrastructure for national and international events. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The first settlements in the region occurred in the early 1700s, but  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="2" SEMCAT="city" SENTENCE-POSITION="15" SENTENCE-RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known today was planned and constructed in the 1890s, in order to replace Ouro Preto as the capital of Minas Gerais.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="9" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="23" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is nowadays notorious for the contrast between contemporary and classical buildings, being in fact the location of many modern Brazilian architectural icons, most notably the Pampulha Church. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

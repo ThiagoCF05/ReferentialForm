@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TEXT ID="335">
+	<TITLE>Mount Agung</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Agung</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> or Gunung Agung is a mountain in Bali. This stratovolcano is the highest point on the island. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> dominates the surrounding area influencing the climate. The clouds come from the west and </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Agung</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> takes their water so that the west is lush and green and the east dry and barren.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gunung Agung</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> last erupted in 1963-64 and </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is still active, with a large and very deep crater which occasionally belches smoke and ash. From a distance, </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> appears to be perfectly conical, despite the existence of the large crater.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>From the peak of </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, it is possible to see the peak of Gunung Rinjani on the island of Lombok, although both mountains are frequently covered in cloud.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1368">
+	<TITLE>Senegal</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Senegal</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([French: le Sénégal]), officially the Republic of Senegal, is a country south of the Sénégal River in western Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Senegal</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is bounded by the Atlantic Ocean to the west, Mauritania to the north, Mali to the east, and Guinea and Guinea-Bissau to the south. The Gambia lies almost entirely within </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Senegal</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, surrounded on the north, east and south; from its western coast, The Gambia's territory follows the Gambia River more than 300 km inland. The Cape Verde islands lie some 560 km (348 miles) off the Senegalese coast.</STRING>
+	</PARAGRAPH>
+</TEXT>

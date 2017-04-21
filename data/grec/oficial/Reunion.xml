@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1357">
+	<TITLE>Réunion</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Réunion</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (French: La Réunion) is an island and overseas département (département d'outre-mer, or DOM) of France, located in the Indian Ocean east of Madagascar, about 200 km southwest of Mauritius, the nearest island.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Like the other DOMs,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="37" SEMCAT="country" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Réunion</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also one of the 26 régions of France with the same status as those situated on the European mainland.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>As part of France,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="63" PARAGRAPH-RECENCY="25" SEMCAT="country" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Réunion</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is part of the European Union, and thus the currency used is the euro (in fact, due to varying time zones in the European Union,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="89" PARAGRAPH-RECENCY="26" SEMCAT="country" SENTENCE-POSITION="31" SENTENCE-RECENCY="26" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Réunion</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the first region in the world to use the euro, and the first ever purchase using the euro occurred at 12.01 a.m., when regional council president Paul Vergès bought a bag of lychees at a Saint-Denis market).. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

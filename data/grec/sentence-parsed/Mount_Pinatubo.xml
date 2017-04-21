@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TEXT ID="512">
+	<TITLE>Mount Pinatubo</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Pinatubo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an active stratovolcano located on the island of Luzon in the Philippines, at the intersection of the borders of the provinces of Zambales, Tarlac, and Pampanga.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ancestral Pinatubo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a stratovolcano made of andesite and dacite.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Before 1991,  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was inconspicuous and heavily eroded.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was covered in dense forest which supported a population of several thousand indigenous people, the Aeta, who had fled to the mountains from the lowlands when the Spanish conquered the Philippines in 1565. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> eruption in June 1991, more than 490 years after the last known eruptive activity, produced the second largest terrestrial eruption of the 20th century.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Successful predictions of the onset of the climactic eruption led to the evacuation of tens of thousands of people from the surrounding areas, saving many lives, but as the surrounding areas were severely damaged by pyroclastic flows, ash deposits, and later, lahars caused by rainwater remobilising earlier volcanic deposits, thousands of houses were destroyed. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The effects of the eruption were felt worldwide.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>It ejected roughly 10 billion metric tons of magma, and 20 million tons of SO2, bringing vast quantities of minerals and metals to the surface environment.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>It injected large amounts of aerosols into the stratosphere--more than any eruption since that of Krakatoa in 1883.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Over the following months, the aerosols formed a global layer of sulfuric acid haze.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING>Global temperatures dropped by about 0.5 °C (0.9 °F), and ozone destruction increased substantially. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEXT ID="1167">
+	<TITLE>Sharjah</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sharjah</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Arabic: الشارقة ash-shaariqah) extends along approximately 16 kilometres of the United Arab Emirates's Persian Gulf coastline and for more than 80 kilometres into the interior.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="27" PARAGRAPH-RECENCY="26" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The emirate</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> covers 1,003 square miles (2,600 km²) </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The total population is 636,000 (2003). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

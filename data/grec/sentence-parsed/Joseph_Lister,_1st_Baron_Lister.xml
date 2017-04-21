@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1613">
+	<TITLE>Joseph Lister, 1st Baron Lister</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Joseph Lister</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, 1st Baron Lister, OM , FRS (5 April 1827, Upton, Essex -10 February 1912) was an English surgeon  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> promoted the idea of sterile surgery while working at the Glasgow Royal Infirmary.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> successfully introduced carbolic acid to sterilise surgical instruments and to clean wounds. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

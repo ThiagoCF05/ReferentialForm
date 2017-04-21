@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1393">
+	<TITLE>Tokelau</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tokelau</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a non-self-governing colonial territory of New Zealand that comprises a group of three tropical coral atolls in the South Pacific Ocean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are occasionally referred to by Westerners by an older colonial name, The Union Islands.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Until 1976, the official name was Tokelau Islands.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The United Nations Committee on Decolonization includes  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tokelau</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> on the United Nations list of Non-Self-Governing Territories.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is, according to the CIA World Factbook list of countries by GDP, the poorest country in the world. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<TEXT ID="1855">
+	<TITLE>Yellow River</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Yellow River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Traditional Chinese: 黃河, Simplified Chinese: 黄河, Pinyin: Huáng Hélisten, Wade-Giles: Hwang-ho], sometimes simply called the River in ancient Chinese) is the second longest river in China (after Yangtze River) and the fifth in the world. </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 5464 km long . Originated from the Bayankala Mountains in Qinghai Province in western China, </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Yellow river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> flows through nine provinces of China and </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> finally empties into the Bohai Sea. The Yellow River basin has an east-west distance of 1900 km and north-south distance of 1100 km, total basin area 752443 km².</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The middle stream of </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Yellow River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> passes through Loess Plateau with substantial erosion taking place. The large amount of mud and sand discharged into </STRING>
+		<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> makes </STRING>
+		<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Yellow River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> the most sediment-laden river in the world. The recorded highest annual level of silts discharged into </STRING>
+		<REFERENCE ID="8" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Yellow River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 3.91 billion tons (1933). Highest silt concentration level is recorded in 1977 with 920 kg/m³. These sediments later deposit in the slower lower reaches of </STRING>
+		<REFERENCE ID="9" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, elevating the river bed and creating the famous &quot;river above ground&quot;. In Kaifeng, </STRING>
+		<REFERENCE ID="10" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Yellow River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is forty meters above the ground level.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="11" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Yellow River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is called the &quot;Mother River of China&quot; and &quot;the Cradle of Chinese Civilization&quot; in China, as the Yellow River basin is the birth-place of the northern Chinese civilizations and the most prosperous region in the early Chinese history. However, the frequent devastating flooding, largely due to the elevated river bed in </STRING>
+		<REFERENCE ID="12" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lower course, has also earned </STRING>
+		<REFERENCE ID="13" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> the unenviable distinction as &quot;China's Sorrow&quot;.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1231">
+	<TITLE>Burkina Faso</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Burkina Faso</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a landlocked nation in West Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is surrounded by six countries: Mali to the north, Niger to the east, Benin to the south east, Togo and Ghana to the south, and Côte d'Ivoire to the south west. Formerly the Republic of Upper Volta, </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was renamed on August 4, 1984 by President Thomas Sankara to mean &quot;the land of upright people&quot; (or &quot;upright land&quot;) in Mossi and Dioula, the major native languages of </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. Independence from France came in 1960. Governmental instability during the 1970s and 1980s was followed by multiparty elections in the early 1990s. Several hundred thousand farm workers migrate south every year to Côte d'Ivoire and Ghana in search of paid labour. The inhabitants of </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Burkina Faso</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are known as Burkinabè or Burkinabé (pronounced [IPA: [burkiːnəˈbeː]]).</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TEXT ID="434">
+	<TITLE>Mount Hermon</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hermon</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (33°24'N,35°51'E; [Hebrew: הר חרמון], Har Hermon, [Arabic: جبل الشيخ], Jabal el-Shaiykh, Djabl a-Shekh, &quot;mountain of the chief&quot; and &quot;snowy mountain&quot;) is a mountain in the Anti-Lebanon mountain range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> highest point is 2,814 m (9,230 feet) above sea level.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>This summit is on the border between Syria and Lebanon, and is under Syrian control.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The southern slopes of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hermon</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> have been part of Israel since 1967. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

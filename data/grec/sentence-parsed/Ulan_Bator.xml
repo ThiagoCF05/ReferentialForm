@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TEXT ID="1186">
+	<TITLE>Ulan Bator</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ulan Bator</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, or Ulaanbaatar (Улаанбаатар, ᠤᠯᠠᠭᠠᠨ ᠪᠠᠭᠠᠲᠤᠷ [Ulaɣan Baɣatar]) in Mongolian, is the capital of the republic of Mongolia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>In September 2006  </STRING>
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> population was estimated at 964,700. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

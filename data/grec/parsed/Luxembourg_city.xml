@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TEXT ID="1104">
+	<TITLE>Luxembourg (city)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luxembourg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (as </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> French name; sometimes Luxemburg as </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> German name; in Luxembourgish: Lëtzebuerg), commonly known as Luxembourg City, is a commune with city status, and the capital of the Grand Duchy of Luxembourg. </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located at the confluence of the Alzette and Pétrusse rivers in southern Luxembourg</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>As of 2005, </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the commune of Luxembourg City</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a population of 76,420, which is almost three times the population of the second most populous commune. </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The city's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> metropolitan population, including that of surrounding communes of Hesperange, Sandweiler, Strassen, and Walferdange, is 103,973. </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luxembourg City</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies at the heart of Western Europe, situated 188 km (117 miles) from Brussels, 289 km (179 miles) from Paris, 190 km (118 miles) from Cologne.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luxembourg City</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the wealthiest cities in the world, having developed into a banking and administrative centre. </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luxembourg</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a seat of several institutions of the European Union, including the European Court of Justice, the European Court of Auditors, and the European Investment Bank.</STRING>
+	</PARAGRAPH>
+</TEXT>

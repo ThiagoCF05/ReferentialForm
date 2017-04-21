@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TEXT ID="1309">
+	<TITLE>Macau</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Macau Special Administrative Region of the People's Republic of China</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Traditional Chinese: 中華人民共和國澳門特別行政區] [in Mandarin, in Cantonese] ; Portuguese: Região Administrativa Especial de Macau da República Popular da China [in Portuguese], abbreviated as RAEM), commonly known as Macau or Macao ([Traditional Chinese: 澳門], or informally known as 馬交) is a small territory on the southern coast of the People's Republic of China.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Administered by Portugal until 1999,  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the oldest European colony in China, dating back to the 16th century.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The administrative power over  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Macau</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was transferred to the People's Republic of China (PRC) in 1999, and  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is now one of two special administrative regions of the PRC, together with Hong Kong. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Besides historical Chinese and Portuguese world-heritage relics,  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Macau's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> biggest attraction is  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> gambling industry and casinos.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Though many forms of gambling are legal here, the most popular game is baccarat, which generates over two thirds of the gaming industry's gross receipts. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

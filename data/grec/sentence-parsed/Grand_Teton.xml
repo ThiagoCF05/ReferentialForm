@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<TEXT ID="185">
+	<TITLE>Grand Teton</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Grand Teton</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain within Grand Teton National Park, and the second highest in the U.S. state of Wyoming.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The origin of the name is controversial.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The most common explanation is that &quot;Grand Teton&quot; means &quot;large teat&quot; in French, named by either French-Canadian or Iroquois members of an expedition led by Donald McKenzie of the Northwest Company.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>However, other historians disagree, and claim that  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named after the Teton Sioux tribe of Native Americans. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>There is a controversy over who made the first ascent of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Grand Teton</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Nathaniel Langford and James Stevenson claimed to reach the summit on July 29, 1872.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>However, their description and sketches match the summit of The Enclosure: side peak of  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Grand Teton</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The Enclosure is named after a man-made palisade of rocks on its summit, probably constructed by Native Americans.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>When William O. Owen climbed the true summit in 1898, he found no trace of prior human passage.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<STRING>Therefore, The Enclosure was probably first climbed by Native Americans, and the true summit was first climbed by William Owen. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

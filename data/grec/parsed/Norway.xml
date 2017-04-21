@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TEXT ID="1339">
+	<TITLE>Norway</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Norway</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a Nordic country on the western portion of the Scandinavian Peninsula, located in Europe, and bordering Sweden, Finland and Russia. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Norway</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a very elongated shape; </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> extensive coastline along the North Atlantic Ocean is home to </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> famous fjords. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Kingdom of Norway</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also includes the Arctic island territories of Svalbard and Jan Mayen. The Norwegian sovereignty on Svalbard is based on the Svalbard Treaty, but this does not apply to Jan Mayen. Bouvet Island in the South Atlantic Ocean and a claim for Peter I Island in the South Pacific Ocean are also external dependencies, but these are not part of </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the Kingdom</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Norway</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also claims Queen Maud Land in Antarctica where </STRING>
+		<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has established the Troll permanent research station.</STRING>
+	</PARAGRAPH>
+</TEXT>

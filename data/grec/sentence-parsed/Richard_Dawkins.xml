@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<TEXT ID="1713">
+	<TITLE>Richard Dawkins</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Clinton Richard Dawkins</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born March 261941) is an eminent British ethologist, evolutionary scientist, and popular science writer  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> holds the Charles Simonyi Chair in the Public Understanding of Science at Oxford University. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dawkins</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> first came to prominence with  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> 1976 book The Selfish Gene which popularised the gene-centric view of evolution and introduced the term meme into the lexicon, thereby helping to found the field of memetics.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>In 1982,  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> made a major contribution to the science of evolution with the theory, presented in  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> widely cited book The Extended Phenotype, that phenotypic effects are not limited to an organism's body but can stretch far into the environment, including into the bodies of other organisms.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has since written several best-selling popular books on evolution, and  </STRING>
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has appeared in a number of television and radio programmes on evolutionary biology, creationism, and religion. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="9" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dawkins</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an outspoken atheist, humanist, and sceptic, and  </STRING>
+			<REFERENCE ID="10" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a prominent member of the Brights movement.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>In a play on Thomas Huxley's epithet &quot;Darwin's bulldog&quot;,  </STRING>
+			<REFERENCE ID="11" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Dawkins'</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> impassioned defence of Darwinian evolution has earned  </STRING>
+			<REFERENCE ID="12" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> the appellation &quot;Darwin's rottweiler&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

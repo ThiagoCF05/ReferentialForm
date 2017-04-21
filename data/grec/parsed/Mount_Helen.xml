@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="433">
+	<TITLE>Mount Helen</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Helen</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (13,620 ft / 4,151 m) is located in the Wind River Range in the U.S. state of Wyoming. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the fourth highest peak in the range and the fifth tallest in Wyoming. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The summit</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the Bridger Wilderness of Bridger-Teton National Forest, immediately west of the Continental Divide. The eastern flanks of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are covered in snowfields and glaciers, including Helen and Sacagawea Glaciers, all of which are in the Fitzpatrick Wilderness of Shoshone National Forest.</STRING>
+	</PARAGRAPH>
+</TEXT>

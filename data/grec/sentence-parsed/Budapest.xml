@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEXT ID="1030">
+	<TITLE>Budapest</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Budapest</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (pronounced [IPA: [ˈbʊdɑpɛʃt]]) is the capital city of Hungary and the country's principal political, cultural, commercial, industrial and transportation center. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Budapest</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has approximately 1.7 million inhabitants, down from a mid-1980s peak of 2.1 million.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Budapest</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became a single city occupying both banks of the river Danube with the amalgamation on 17 November 1873 of right-bank (west) Buda (Ofen in German) and Óbuda (Old Buda or Alt-Ofen) together with Pest on the left (east) bank.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the seventh largest city in the European Union. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

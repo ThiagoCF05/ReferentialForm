@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<TEXT ID="1118">
+	<TITLE>Montreal</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Montreal</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, or Montréal in French, (pronounced /ˌmʌntɹiˈɑːl/ in Canadian English, /mɔ̃ʀeal/ in International French, and [IPA: /mɒ̃ɾeal/] in some varieties of Quebec French) is the second largest city in Canada and the largest city in the province of Quebec.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the largest French speaking city in the Western Hemisphere, and  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the French language hub outside of France.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>At the 2001 Canadian Census, 1,588,590 people lived on the current territory of  </STRING>
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the city of Montreal proper</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (new 2006 demerged territory/the island of Montreal is about 1,900,000).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The population of the Montreal Census Metropolitan Area (also known as Greater Montreal Area) is estimated at 3,720,000 in 2006.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Montreal</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is ranked as the 15th-largest metropolitan area in Northern America and 77th in the world.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>In 2006, both Traveler's Digest and AskMen.com ranked  </STRING>
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Montreal</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as the number one city in the world to live in for  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> culture, architecture, history and ambience. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<TEXT ID="1818">
+	<TITLE>Kolyma River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Kolyma River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Russian: Колыма́]) is a river in northeastern Siberia,  </STRING>
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">whose</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> basin covers parts of the Sakha Republic, Chukotka Autonomous Okrug, and Magadan Oblast of Russia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> empties into the East siberian sea, a division of the Arctic ocean. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Kolyma</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is frozen to depths of several metres for about 250 days each year, becoming free of ice only in early June, till October. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Kolyma</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known for  </STRING>
+			<REFERENCE ID="6" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> Gulag labour camps and gold mining, both of which have been extensively documented since Stalin era Soviet archives opened.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> gives  </STRING>
+			<REFERENCE ID="8" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> title to a famous anthology about life in Gulag camps by Varlam Shalamov, ''The Kolyma Tales''. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

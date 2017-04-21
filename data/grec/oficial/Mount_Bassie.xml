@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<TEXT ID="355">
+	<TITLE>Mount Bassie</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Bassie</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a large mountain in the center of Baranof Island, Alaska -- close to the town of Sitka. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Bassie</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a massive hulk of rock,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="7" SEMCAT="mountain" SENTENCE-POSITION="8" SENTENCE-RECENCY="7" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> footprint covering nearly five square miles.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="7" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is bordered by the Blue Lake and Medvejie Lake watersheds and the Baranof River watershed, effectively splitting the island in two (one can see both Chatham Strait and the Pacific Ocean from the peak or surrounding ridges).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="53" PARAGRAPH-RECENCY="38" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Bassie</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is adjacent to Camp Lake from which ascents typically originate.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="64" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is fairly isolated in terms of sister peaks and  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="74" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has only two modest lower ridges running off the south and north sides of  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="89" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="26" SENTENCE-RECENCY="15" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>The rest of  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="93" PARAGRAPH-RECENCY="4" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> slopes down steeply into surrounding river valleys.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<REFERENCE ID="10" PARAGRAPH-POSITION="101" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Bassie</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is rarely summitted, although the western face is frequently traversed on the Baranof Cross-Island Trail. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

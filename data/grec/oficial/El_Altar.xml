@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="141">
+	<TITLE>El Altar</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">El Altar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an extinct volcano on the western side of Sangay National Park in Ecuador, 170 km south of Quito.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Spaniards named  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as such as  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="27" PARAGRAPH-RECENCY="4" SEMCAT="mountain" SENTENCE-POSITION="7" SENTENCE-RECENCY="4" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> resembled a huge cathedral to them.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The Inca called  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> Capac-Urcu, which means &quot;King Mountain&quot; in Quechua. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

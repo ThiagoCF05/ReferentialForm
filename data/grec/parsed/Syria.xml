@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1388">
+	<TITLE>Syria</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Syria</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Arabic: سوريا or, since 2005, سورية), officially the Syrian Arab Republic (Arabic: الجمهورية العربية السورية), is a country in the Middle East. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> borders Lebanon to the west, Israel to the southwest, Jordan to the south, Iraq to the east, and Turkey to the north. Israel occupies the Golan Heights in the southwest of </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>; a dispute with Turkey over the Hatay Province now seems to have subsided. Historically, Syria, or The Levant as the region has sometimes been called in English, has often been taken to include the territories of Lebanon, Israel and the Palestinian Territories, and parts of Jordan, but excluding the Jazira region in the north-east of the modern Syrian state. In this historic sense, the region is also known as Greater Syria or by the Arabic name Bilad al-Sham (بلاد الشام).</STRING>
+	</PARAGRAPH>
+</TEXT>

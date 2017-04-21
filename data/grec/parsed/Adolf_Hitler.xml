@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<TEXT ID="1420">
+	<TITLE>Adolf Hitler</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Adolf Hitler</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (April 20, 1889 - April 30, 1945) was Chancellor of Germany from 1933, and &quot;Führer&quot; (leader) of Germany from 1934 until </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> death. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was leader of the National Socialist German Workers Party (Nationalsozialistische Deutsche Arbeiterpartei or NSDAP), better known as the Nazi Party.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hitler</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> gained power in a Germany facing crisis after World War I, using charismatic oratory and propaganda, appealing to economic need of the lower and middle classes, nationalism, anti-Semitism and anti-communism to establish a totalitarian or fascist dictatorship. With a restructured economy and rearmed military, </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hitler</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> pursued an aggressive foreign policy with the intention of expanding German Lebensraum (&quot;living space&quot;), which triggered World War II when Germany invaded Poland. At the height of its power, Nazi Germany occupied most of Europe, but it and the Axis Powers were eventually defeated by the Allies.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>By then, </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Hitler's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> racial policies had culminated in a genocide of approximately eleven million people, including about six million Jews, in what is now known as the Holocaust.In the final days of the war, </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hitler</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> committed suicide in </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> underground bunker in Berlin with </STRING>
+		<REFERENCE ID="9" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> newlywed wife, Eva Braun.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>Since the end of World War II, </STRING>
+		<REFERENCE ID="10" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Hitler</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been regarded in most of the world as synonymous with evil, and portrayals of </STRING>
+		<REFERENCE ID="11" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> have been nearly universally condemnatory.</STRING>
+	</PARAGRAPH>
+</TEXT>

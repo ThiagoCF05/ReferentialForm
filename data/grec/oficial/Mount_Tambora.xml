@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TEXT ID="560">
+	<TITLE>Mount Tambora</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Tambora</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (or Tomboro) is an active stratovolcano on Sumbawa island, Indonesia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Sumbawa is flanked both to the north and south by oceanic crust, and  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="24" SEMCAT="mountain" SENTENCE-POSITION="14" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tambora</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was formed by the active subduction zones beneath it.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>This raised  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Tambora</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as high as 4,300 m (14,000 ft), making  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="46" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> one of the tallest peaks in the Indonesian archipelago, and drained off a large magma chamber inside  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="64" PARAGRAPH-RECENCY="18" SEMCAT="mountain" SENTENCE-POSITION="30" SENTENCE-RECENCY="18" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>It took centuries to refill the magma chamber, its volcanic activity reaching its peak in April 1815. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tambora</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> erupted in 1815 with a rating of seven on the Volcanic Explosivity Index; the largest eruption since the Lake Taupo eruption in AD 181.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The explosion was heard on Sumatra island (more than 2,000 km or 1,200 mi away).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Heavy volcanic ash falls were observed as far away as Borneo, Sulawesi, Java and Maluku islands.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The death toll was at least 71,000 people, of which 11,000-12,000 were killed directly by the eruption; most authors estimated 92,000 people were killed but this figure is based on an overestimated calculation. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>During an excavation in 2004, a team of archaeologists discovered cultural remains buried by the 1815 eruption.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>They were kept intact beneath the 3 m (10 ft) deep pyroclastic deposits.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Dubbed the Pompeii of the East, the artifacts were preserved in the positions they had occupied in 1815. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

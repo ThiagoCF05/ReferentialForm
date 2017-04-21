@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<TEXT ID="307">
+	<TITLE>Mamostong Kangri</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mamostong Kangri</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> or Mamostang Kangri is the highest peak in the remote Rimo Muztagh, a subrange of the Karakoram range in India near the disputed border with Pakistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="27" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located about 30 km east-southeast of the snout of the Siachen Glacier.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the 48th highest independent peak in the world (using a 500m prominence cutoff). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The South Chong Kumdan Glacier, Kichik Kumdan (Thangman), Mamostong, and South Terong Glaciers all head on the slopes of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="20" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mamostong Kangri</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mamostong Kangri</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has not seen a great deal of visitation due to  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="11" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> remote location and the unsettled political and military situation in the region.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The first European exploration of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="18" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was in 1907 by Arthur Neve and D. G. Oliver.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The first ascent was made in 1984 by an Indo-Japanese expedition, via the Northeast Ridge, after a complicated approach.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>The summit party comprised N. Yamada, K. Yoshida, R. Sharma, P. Das, and H. Chauhan. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The Index lists four additional ascents of  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>; however two of these listings may be for the same climb. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

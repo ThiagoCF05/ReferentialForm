@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1661">
+	<TITLE>Mikhail Gorbachev</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mikhail Sergeyevich Gorbachyov</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Михаи́л Серге́евич Горбачёв, Mihail Sergeevič Gorbačëv, [IPA: mʲɪxʌˈil sʲɪrˈgʲejɪvʲɪʨ gərbʌˈʨof], commonly written as Mikhail Gorbachev; born March 2 1931) was leader of the Soviet Union from 1985 until 1991. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> attempts at reform helped to end the Cold War, and also ended the political supremacy of the Communist Party of the Soviet Union (CPSU) and dissolved the Soviet Union. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was awarded the Nobel Peace Prize in 1990.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="605">
+	<TITLE>Nevado de Toluca</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado de Toluca</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a large stratovolcano in central Mexico, located about 80 km west of Mexico City near the city of Toluca. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is generally cited as the fourth highest of Mexico's peaks, after Pico de Orizaba, Popocatépetl, and Iztaccíhuatl, although by some measurements, Sierra Negra is slightly higher. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is often called by the Nahuatl name Xinantécatl, &quot;Senor Desnudo&quot; in spanish, which is usually translated as &quot;The Naked Man&quot; although other etymologies have been suggested such as &quot;Lord of the Cornstalks&quot; (chinām(itl) 'cornstalks' + tēcatl 'lord of').</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a 1.5 km (1 mile) wide summit caldera which is open to the west. The highest summit, Pico del Fraile (Friar's Peak), is on the south side of the crater and the second highest, Pico de la Aguila (Eagle's Peak), is on the north. There are two crater lakes on the floor of the basin at about 4200 m, the larger Laguna del Sol (Sun Lake) and the smaller, but deeper, Laguna de la Luna (Moon Lake). A road runs into the caldera to the lakes, making </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> perhaps the most accessible major Mexican peak.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>From the southeast, </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado de Toluca</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> looks flat-topped, like shoulders without a head. A legend (recounted as part of the legend of Popocatépetl and Iztaccíhuatl) provides a mythical explanation.</STRING>
+	</PARAGRAPH>
+</TEXT>

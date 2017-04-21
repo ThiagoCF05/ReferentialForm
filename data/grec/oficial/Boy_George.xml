@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="1457">
+	<TITLE>Boy George</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">George Alan O'Dowd</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, better known as Boy George, (born June 14, 1961, in Eltham, Kent, England) is an English singer-songwriter.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="18" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">George</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> grew up in a large, working-class Irish family. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

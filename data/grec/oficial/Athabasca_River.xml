@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TEXT ID="983">
+	<TITLE>Athabasca River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Athabasca River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (French: rivière Athabasca) originates from the Athabasca Glacier of the Columbia Icefield in Jasper National Park in Alberta, Canada.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The impressive and scenic Athabasca Falls is located upstream about 30 km from the Jasper townsite. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>In Woods Cree, the word ãthapãskãw means &quot;clumps of plants&quot; - likely a reference to the spotty vegetation along  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="20" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The Canadian Heraldic Authority has named Athabaska Herald after  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="10" SEMCAT="river" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<TEXT ID="937">
+	<TITLE>Cotonou</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cotonou</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the economic capital of Benin, as well as its largest city. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> official population count was 761,137 inhabitants in 2006; however, some estimates indicate </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> population may be as high as 1.2 million. </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The town's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> population in 1960 was a mere 70,000, so this would indicate a tenfold increase in population over a period of forty years. The urban area continues to expand, notably in the west of </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies in the south east of the country, between the Atlantic Ocean and Nokoué Lake, located at 6°22' North, 2°26' East (6.36667, 2.4333).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>In addition to being Benin's largest city, </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> houses many of its government and diplomatic services, and thus </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is Benin's de facto capital, even though the official capital is Porto-Novo. </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is best known as a major port, thanks to the Autonomous Port of Cotonou, </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also home to an airport and a railway to Parakou. Features of </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cotonou</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> include Cotonou Friendship Stadium, Cotonou Cathedral, Cotonou Central Mosque and the 20-hectare Dantokpa Market, which includes a fetish market and has a commercial throughput of over a million CFA Francs every day. The National University of Benin is located in </STRING>
+		<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Cotonou</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. Another familiar feature of </STRING>
+		<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are the motorcycle-taxis known as Zémidjans.</STRING>
+	</PARAGRAPH>
+</TEXT>

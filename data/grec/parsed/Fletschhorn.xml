@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="158">
+	<TITLE>Fletschhorn</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Fletschhorn</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (3,993 m) is a mountain in the Pennine Alps in Switzerland.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first climbed by J. D. James with guide Ambros Supersaxo in July 1889. The imposing north face was first ascended by E. R. Blanchet with guides Oskar Supersaxo and Kaspar Mooser on 25 July 1927.</STRING>
+	</PARAGRAPH>
+</TEXT>

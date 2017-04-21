@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="756">
+	<TITLE>Kula Kangri</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kula Kangri</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is claimed by many authorities to be the highest mountain in Bhutan but this is disputed by others, who claim that </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kula Kangri</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is wholly in Tibet. The first ascent was in 1937 by Chapman and Dawa Lama. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> occupies two ranges, the Himalaya and the Bhutan Himalaya.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Chinese and Japanese authorities claim nearby Gangkhar Puensum is higher, and the claim that </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kula Kangri</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is in or on the border with Bhutan is challenged here.</STRING>
+	</PARAGRAPH>
+</TEXT>

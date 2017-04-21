@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TEXT ID="1200">
+	<TITLE>Zagreb</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Zagreb</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (pronounced: [IPA: [ˈzɑː.greb]]) is the largest and capital city of Croatia. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Zagreb</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the cultural, scientific, economic, political and administrative center of the Republic of Croatia with the houses of Parliament, President and Government of the country. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The city's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> population in 2001 was 779,145 . (1 088 841 in the metro area).. </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is situated between the southern slopes of the Medvednica mountains and the northern bank of the Sava river at an elevation of 120m above sea level, located at 45°48'N,15°58'E.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> favourable geographic position in the southwestern part of the Pannonian Basin, which extends to the Alpine, Dinaric, Adriatic and Pannonian regions, provides an excellent connection for traffic between Central Europe and the Adriatic Sea.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The transport connections, concentration of industry, scientific and research institutions and industrial tradition underlie </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> leading economic position in Croatia.</STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Zagreb</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the seat of the central government, administrative bodies and almost all government ministries.</STRING>
+	</PARAGRAPH>
+</TEXT>

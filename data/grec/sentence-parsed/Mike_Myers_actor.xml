@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEXT ID="1659">
+	<TITLE>Mike Myers (actor)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Michael &quot;Mike&quot; Myers</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born May 25, 1963 in Scarborough, Ontario, Canada) is an Emmy-winning Canadian actor, comedian, screenwriter, and film producer,  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">whose</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> notable film roles include the titular characters of Wayne's World, the Austin Powers series, and Shrek. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

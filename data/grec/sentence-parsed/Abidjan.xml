@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<TEXT ID="987">
+	<TITLE>Abidjan</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Abidjan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the largest city and former capital of Côte d'Ivoire.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the commercial and banking center of Côte d'Ivoire as well as the de facto capital.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>(Yamoussoukro is the official capital.)</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> stands in Ébrié Lagoon on several converging peninsulas and islands, connected by bridges.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>There are an estimated 4 to 5 million inhabitants in the metropolitan area.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a study in contrasts.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>On one hand  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is hot and humid, congested and full of street hawkers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.8">
+			<STRING>On the other hand,  </STRING>
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Abidjan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is referred to as the &quot;Paris of West Africa&quot; because of  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> parks, broad boulevards, universities, exotic fashions and museums.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.9">
+			<STRING>Neighborhoods include Cocody, an upscale residential area located east of the modern business district, and Treichville, located southward on Petit-Bassam Island, with its busy traditional market.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.10">
+			<STRING>Banco National Park lies north of  </STRING>
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.11">
+			<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Abidjan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> harbors numerous government departments.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.12">
+			<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also the hub of the national road system and the terminus of the Abidjan-Niger Railway, which extends northward into Burkina Faso. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Since the start of the Ivorian Civil War in 2002, insecurity in  </STRING>
+			<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Abidjan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has risen, with frequent riots targeting foreigners as well as a sharp increase in criminality.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Once one of the wealthiest and most peaceful cities in Africa,  </STRING>
+			<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Abidjan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is now considered one of the most dangerous cities on the continent. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

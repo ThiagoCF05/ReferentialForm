@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TEXT ID="659">
+	<TITLE>Piz Linard</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Piz Linard</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a pyramid-shaped mountain of the Swiss Alps. At 3,410 m </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest peak of the Silvretta mountain range.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first climbed on August 1st, 1835 by the geologist and naturalist Oswald Heer lead by Johann Madutz.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>There is a legend that a man of name &quot;Chounard&quot; reached the summit in 1572 carrying a large golden cross, however the cross has never been found.</STRING>
+	</PARAGRAPH>
+</TEXT>

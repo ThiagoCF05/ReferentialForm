@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1086">
+	<TITLE>Kinshasa</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kinshasa</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (formerly Léopoldville) is the capital and largest city of the Democratic Republic of the Congo.With a population of about 7.5 million (2005 census), </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ties with Johannesburg for the status of the second largest city in sub-Saharan Africa, behind Lagos, and third largest in the whole continent, after Lagos and Cairo.</STRING>
+	</PARAGRAPH>
+</TEXT>

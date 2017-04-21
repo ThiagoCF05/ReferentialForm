@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<TEXT ID="1077">
+	<TITLE>Kabul</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kabul</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, Kâb'l (locally: کابل), is the capital and largest city of Afghanistan with a population of approximately 3 million people. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an economic and cultural center strategically situated in a narrow valley along the Kabul River, high in the mountains before the Khyber Pass.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kabul</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is linked with Ghazni, Kandahar, Herat and Mazari Sharif via a long beltway (circular highway) that stretches across Afghanistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also linked by highways with Pakistan to the southeast and Tajikistan to the north, and  </STRING>
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is 5,900 feet (1,800 metres) above sea level. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Kabul's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> main products include ordnance, cloth, furniture, and beet sugar, though, since 1978, a state of nearly continuous war has limited the economic productivity of  </STRING>
+			<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="8" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Kabul's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> population is multicultural and multi-ethnic, reflecting the diversity of Afghanistan, with Pashtuns, Tajiks, Hazaras, Uzbeks and others all comprising the bulk of  </STRING>
+			<REFERENCE ID="9" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the city's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> population.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kabul</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is in the process of being rebuilt following decades of war. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

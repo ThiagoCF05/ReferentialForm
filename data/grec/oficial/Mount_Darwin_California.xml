@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<TEXT ID="396">
+	<TITLE>Mount Darwin (California)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Darwin</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a flat-topped mountain, named for evolution-theorist Charles Darwin, in the Sierra Nevada range in Fresno County, California  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="20" SENTENCE-RECENCY="19" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">that</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a popular climb.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="5" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Kings Canyon National Park and the Inyo National Forest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed on August 12, 1908 by Ernest Clayton Andrews, the Australian geologist, and Willard D. Johnson. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The modern name of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was given to  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="4" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="4" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in 1895 by Theodore S. Solomons and E. C. Bonner (of the United States Geological Survey) as part of a series of mountains named after naturalists.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Other nearby mountains include Mount Mendel, Mount Fiske, Mount Haeckel, Mount Huxley, Mount Spencer, and Mount Wallace.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>(This assortment of mountains is also known as the Evolution Region.)</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Nearby landmarks include Darwin Glacier and Darwin Canyon. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>A similar exercise in naming mountains after naturalists and other late nineteenth century proponents of evolution theory was carried out at the West Coast Range in Tasmania, Australia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>In contrast, Mount Darwin in Tierra del Fuego was given its name during the voyage of the Beagle by captain Robert FitzRoy to celebrate Darwin's 25th birthday on 12 February 1834. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

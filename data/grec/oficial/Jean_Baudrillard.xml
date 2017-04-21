@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="967">
+	<TITLE>Jean Baudrillard</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Jean Baudrillard</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born June 20, 1929) is a cultural theorist, philosopher, political commentator, sociologist, and photographer.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="15" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> work is frequently associated with postmodernism and post-structuralism. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<TEXT ID="1811">
+	<TITLE>Ganges River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Ganges River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (English: [IPA: /ˈgænʤiz/]; Gangā [IPA: /ˈgəŋgaː/] in most Indian languages) (Devanagari गंगा) is a river of northern India and Bangladesh.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a long history of reverence in India and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="10" SEMCAT="river" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is worshipped by Hindus as a goddess.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="8" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is often called the 'holy Ganga'. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The total length of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is about 2,510 km (1,557 mi).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Along with another river Yamuna,  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="12" SEMCAT="river" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms a large and fertile basin, known as the Gangetic plains, stretching across north India and Bangladesh, and  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="36" PARAGRAPH-RECENCY="19" SEMCAT="river" SENTENCE-POSITION="25" SENTENCE-RECENCY="19" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> supports one of the highest densities of human population in the world.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Indeed, about one in every 12 people on earth (8.5% of world population) live in  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="64" PARAGRAPH-RECENCY="28" SEMCAT="river" SENTENCE-POSITION="16" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> catchment area.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Due to this incredible concentration of population, pollution and the destruction of habitats are matters of serious concern. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

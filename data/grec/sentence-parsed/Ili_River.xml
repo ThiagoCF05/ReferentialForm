@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<TEXT ID="1816">
+	<TITLE>Ili River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Ili River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a river in Kazakhstan and in the western part of the Xinjiang Uighur Autonomous Region, in northwestern China. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is 1,439 km (870 miles) long, 815 km of which in Kazakhstan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> takes  </STRING>
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> beginning in eastern Tian Shan from the Tekes and Kunes rivers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Ili River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> drains the basin between the Tian Shan the P'o-lo-k'o-nu Mountains to the north. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Flowing into lake Balkhash  </STRING>
+			<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms an immense delta with vast wetland regions of lakes, marches and jungle-like vegetation. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The Kapchagai Hydroelectric power station was built from 1965 to 1980 in the middle flow of  </STRING>
+			<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ili River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, forming the Kapchagay Reserve.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Tamgaly, some 20 km downstream along  </STRING>
+			<REFERENCE ID="8" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Ili River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a site of rock drawings.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>The name Tamgaly in Kazakh means painted or marked place. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

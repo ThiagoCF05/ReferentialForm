@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1284">
+	<TITLE>Heard Island and McDonald Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Heard Island and McDonald Islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (HIMI ) are uninhabited, barren islands located in the Southern Ocean at 53°00'S,73°00'E, about two-thirds of the way from Madagascar to Antarctica.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="23" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">They</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> have been part of Australia since 1947, and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="9" SEMCAT="country" SENTENCE-POSITION="10" SENTENCE-RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> contain the only two active volcanoes in Australian territory, one of which, Mawson Peak, is the highest Australian mountain.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="53" PARAGRAPH-RECENCY="20" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The group's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> size is 372 km² in area. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

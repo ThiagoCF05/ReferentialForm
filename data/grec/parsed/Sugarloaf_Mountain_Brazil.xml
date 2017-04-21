@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TEXT ID="860">
+	<TITLE>Sugarloaf Mountain, Brazil</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sugarloaf Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (in Portuguese, Pão de Açúcar), is a peak situated in Rio de Janeiro, Brazil, from the mouth of Guanabara Bay on a peninsula that sticks out into the Atlantic Ocean. Rising 396 m above sea-level, </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name is said to refer to </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> resemblance to the traditional shape of concentrated refined loaf sugar. However, it is believed by some that the name actually derives from Pau-nh-acuqua (“high hill”) in the Tupi-Guarani language, as used by the indigenous Tamoios.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is only one of several monolithic morros of granite and quartz that rise straight from the water's edge around Rio de Janeiro. A glass-paneled cable car (in popular Portuguese, bondinho - more properly called teleférico), capable of holding 75 passengers, runs along a 1400-metre route between the peaks of Babilônia and Urca every half hour. The original cable car line was built in 1912. So familiar is </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, the mere sight of </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in a film is sufficient to establish the setting as Rio.</STRING>
+	</PARAGRAPH>
+</TEXT>

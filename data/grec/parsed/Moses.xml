@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1665">
+	<TITLE>Moses</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Moses</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Hebrew: מֹשֶׁה, Standard Mošə Tiberian Mōšeh; Arabic: موسى, Mūsa; Ge'ez: ሙሴ Musse) is a Biblical Hebrew liberator, leader, lawgiver, prophet, and historian. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Moses</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is considered one of the greatest figures of the Bible. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is considered a prophet in Judaism, Christianity, Islam and the Bahá'í Faith.</STRING>
+	</PARAGRAPH>
+</TEXT>

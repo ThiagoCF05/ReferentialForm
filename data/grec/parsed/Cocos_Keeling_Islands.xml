@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1242">
+	<TITLE>Cocos (Keeling) Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Territory of Cocos (Keeling) Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, also called Cocos Islands and Keeling Islands, is a territory of Australia. There are two atolls with 27 coral islands in the group. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are located in the Indian Ocean, about one-half of the way from Australia to Sri Lanka, at 12°07'S,96°54'E.</STRING>
+	</PARAGRAPH>
+</TEXT>

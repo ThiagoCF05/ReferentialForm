@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<TEXT ID="1134">
+	<TITLE>Paris</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Paris</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the capital city of France and a French département (75). Situated on the banks of the river Seine in north-central France, </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the capital of the Île-de-France région (also known as &quot;Paris Region&quot;), which encompasses </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Paris</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> suburbs. </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Paris</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> had an estimated mid-2004 population of 2,144,700. The Paris urban area, extending well beyond the city boundaries, has today an estimated population of 9.93 million. The Paris metropolitan area (including satellite towns) stood at 11.5 million in 1999 and is one of the most populated metropolitan areas in Europe.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The Paris region is France's most dynamic centre of economic activity. It produces more than a quarter of France's wealth, with a GDP of €478.7 billion (US$595.3 billion) in 2005. With La Défense, the largest business district in Europe, the Paris urban area (unité urbaine) also hosts the head offices of almost half of the major French companies, as well as the offices of major international firms. </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Paris</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a leading global cultural, business and political centre and </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a major international influence in fashion, gastronomy and the arts. </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is widely regarded as one of the world's major global cities, with the headquarters of international organisations such as UNESCO, the OECD, the ICC, or the informal Paris Club.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is renowned for </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> defining neo-classical architecture, hosts many museums and galleries and </STRING>
+		<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has an active nightlife. The most recognisable symbol of </STRING>
+		<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Paris</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the 324 metre (1,063 ft) Eiffel Tower on the banks of the Seine. Dubbed &quot;the City of Light&quot; (la Ville Lumière) since the 19th century, </STRING>
+		<REFERENCE ID="14" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Paris</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is regarded by some as one of the most romantic cities in the world. </STRING>
+		<REFERENCE ID="15" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the most visited city in the world, with more than 30 million visitors per year.</STRING>
+	</PARAGRAPH>
+</TEXT>

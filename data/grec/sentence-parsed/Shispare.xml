@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TEXT ID="828">
+	<TITLE>Shispare</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Shispare</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the high peaks of the Batura Muztagh, which is the westernmost subrange of the Karakoram range. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Alternate forms of the name of  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are Shispare Sar and Shisparé Sar. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

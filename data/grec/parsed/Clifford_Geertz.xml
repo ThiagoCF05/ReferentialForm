@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1479">
+	<TITLE>Clifford Geertz</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Clifford James Geertz</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (August 23 1926, San Francisco – October 30 2006, Philadelphia) was an American anthropologist and </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> served until </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> death as professor emeritus at the Institute for Advanced Study, Princeton, New Jersey.</STRING>
+	</PARAGRAPH>
+</TEXT>

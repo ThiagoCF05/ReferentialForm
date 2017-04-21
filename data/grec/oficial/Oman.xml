@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="1340">
+	<TITLE>Oman</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Sultanate of Oman</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Standard Arabic:سلطنة عُمان, Saltanat ˤUmān) is a country in Southwest Asia, on the southeast coast of the Arabian Peninsula.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="20" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders the United Arab Emirates in the northwest, Saudi Arabia in the west, and Yemen in the southwest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The coast is formed by the Arabian Sea in the south and east, and the Gulf of Oman in the northeast.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="61" PARAGRAPH-RECENCY="40" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also has an exclave enclosed by the United Arab Emirates. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT ID="816">
+	<TITLE>Pidurutalagala</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pidurutalagala</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (, literally &quot;straw plateau rock&quot;, also known as Mount Pedro) is a mountain in the central hill-country of Sri Lanka, close to the city of Nuwara Eliya.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>At a height of 2.534 metres (8,281 feet),  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain in Sri Lanka.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a military area which is closed to the public. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

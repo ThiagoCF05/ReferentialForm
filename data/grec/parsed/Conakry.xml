@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1044">
+	<TITLE>Conakry</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Conakry</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (also Konakry, Malinké Kɔnakiri), population 2,000,000 (2002), is the capital of Guinea. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a port on the Atlantic Ocean. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Conakry</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located at 9°30' North, 13°40' West (9.5, -13.6667).</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="179">
+	<TITLE>Going to the Sun Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Going to the Sun Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in Glacier National Park (U.S.) and  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> rises dramatically above St. Mary valley just north of the Going-to-the-Sun Road.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Numerous Blackfeet Indian legends are credited with the origins of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="23" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountains'</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Used by the Blackfeet as a location for vision quests,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the most accessible major mountain peaks in Glacier National Park.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>According to several sources, the actual Blackfeet name for  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="68" PARAGRAPH-RECENCY="23" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is The-Face-of-Sour-Spirit-Who-Went-Back-to-The-Sun-After-His-Work-Was-Done Mountain, in explanation of the snowfields on the mountainside which, as viewed from the west, make the outline of a face. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

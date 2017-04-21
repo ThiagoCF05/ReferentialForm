@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<TEXT ID="1149">
+	<TITLE>Quito</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Quito</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (official name: San Francisco de Quito) is the capital city of Ecuador in northwestern South America. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in northern Ecuador (see map) in the Guayllabamba river basin on the eastern slopes of the Pichincha ( 15,728 ft; 4,794 m), an active stratovolcano in the Andes mountains. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The city's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> elevation is 9,300 ft (2,850 m) above sea level (measured at the Plaza de la Independencia), making </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Quito</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> the second highest capital city in the world. </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The city's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> population according to the most recent census (2001) was 1,399,378. In 2005, however, the estimated population was 1,865,541 (canton). The area of </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Quito</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is approximately 112 square miles (290 km²).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>There is some confusion about </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Quito's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> position as the second highest (elevation) capital in the world, but La Paz, Bolivia, which is where the Bolivian government functions, is the governmental capital of Bolivia. Sucre is the legal capital of Bolivia.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Quito</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located about 15 miles (25 km) south of the equator. A monument marking the equator is known locally as la mitad del mundo (the middle of the world).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>Due to </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> altitude and location, the climate in </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Quito</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is mild to cool, fairly constant all year round, with a high temperature typically around 67 degrees Fahrenheit (20°C) on any given day, and a low around 49 degrees Fahrenheit (10°C) at night. </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> experiences only two seasons: summer (the dry season) and winter (the rainy season).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Quito</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the second most populous city in Ecuador after Guayaquil.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1633">
+	<TITLE>Lech Wałęsa</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lech Wałęsa</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([lɛx vaˈwɛ̃sa]; in English often [IPA: ['lɛk və'lɛsə]]; born September 29 1943, Popowo, Poland) is a Polish politician, a former trade union and human rights activist, and also a former electrician. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> co-founded Solidarity (Solidarność), the Soviet bloc's first independent trade union, </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> won the Nobel Peace Prize in 1983, and </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> served as President of Poland from 1990 to 1995 (succeeded by Aleksander Kwaśniewski).</STRING>
+	</PARAGRAPH>
+</TEXT>

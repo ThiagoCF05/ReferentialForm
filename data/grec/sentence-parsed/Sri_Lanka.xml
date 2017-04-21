@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<TEXT ID="1382">
+	<TITLE>Sri Lanka</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sri Lanka</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Democratic Socialist Republic of Sri Lanka (ශ්රී ලංකා in Sinhala, இலங்கை in Tamil; known as Ceylon before 1952) is a predominantly Buddhist island nation in South Asia, located about 31 kilometres (18½ mi) off the southern coast of India.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is often popularly referred to as the Pearl of the Indian Ocean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is home to more than 20 million people. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>A strategic naval link between West Asia and South East Asia,  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sri Lanka</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been an ancient centre of Buddhist religion and culture.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Significant numbers of people also adhere to Hindu, Christianity, Islam and indigenous religions.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Sinhalese people form a majority of the population (74%), which also consists of smaller communities of Tamil, Muslims, Burghers and indigenous peoples.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Famous for the production and export of tea, coffee, rubber and coconuts,  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sri Lanka</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> also boasts a progressive and modern industrial economy.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>The natural beauty of  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Sri Lanka's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> tropical forests, beaches and landscape and  rich cultural heritage make  </STRING>
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> a famous destination for tourists worldwide. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>After over a thousand years of rule by independent kingdoms,  </STRING>
+			<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sri Lanka</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was colonised by Portugal and the Dutch before passing to the control of the British Empire.During World War II  </STRING>
+			<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> served as an important base in the fight against the Japanese.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>A nationalist political movement arose in  </STRING>
+			<REFERENCE ID="10" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in the early 20th century to obtain political independence, which was granted in 1948.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Although  </STRING>
+			<REFERENCE ID="11" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> enjoyed a stable period of democracy and economic progress,  </STRING>
+			<REFERENCE ID="12" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the nation</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been torn by a bloody civil war between the Sinhalese-dominated government and Tamil separatists led by the LTTE who demand an independent Tamil state in northeastern Sri Lanka.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Tsunamis caused by the 2004 Indian Ocean earthquake devastated the southern and north-eastern part of  </STRING>
+			<REFERENCE ID="13" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the nation</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, causing the deaths and displacement of a large segment of the population. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

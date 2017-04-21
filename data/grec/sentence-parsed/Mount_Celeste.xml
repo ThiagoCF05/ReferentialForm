@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TEXT ID="377">
+	<TITLE>Mount Celeste</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Celeste</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain located on Vancouver Island, British Columbia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shares the name Celeste with two peaks in the BC Cariboo.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Within the boundaries of Strathcona Provincial Park,  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies at the north end of Rees Ridge.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Iceberg Peak lies at the south end of this ridge. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TEXT ID="582">
+	<TITLE>Mount Wellington, New Zealand</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING>Mount Wellington is a peak and a suburb in Auckland City, New Zealand.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was formed by an eruption around 9,000 years ago. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

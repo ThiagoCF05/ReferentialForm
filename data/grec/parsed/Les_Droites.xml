@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEXT ID="286">
+	<TITLE>Les Droites</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Les Droites</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (4,000 m) is a mountain in the Mont Blanc massif in the French Alps. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has two summits:*West summit (3,984 m), first ascent by W. A. B. Coolidge, Christian Almer Sr and Christian Almer Jr on 16 July 1876*East summit (4,000 m), first ascent by Thomas Middlemore and John Oakley Maund with guides Henri Cordier, Johann Jaun and Andreas Maurer on 7 August 1876</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The north face of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> rises some 1,600 m from the Argentière basin at an average angle of 60°, and is the steepest face on the 10-km-long ridge that stretches from the Aiguille Verte to Mont Dolent. The first route to be made on it was via the central couloir on the north-east flank by Bobi Arsandaux and Jacques Lagarde on 31 July 1930.</STRING>
+	</PARAGRAPH>
+</TEXT>

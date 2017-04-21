@@ -1,0 +1,838 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1">
+			<STRING> Addressing </STRING>
+			<REFERENCE animacy="INANIMATE" entity="3" gender="UNKNOWN" mentionid="3" mentiontype="NOMINAL" number="PLURAL"> concerns </REFERENCE>
+			<STRING> among </STRING>
+			<REFERENCE animacy="ANIMATE" entity="1" gender="UNKNOWN" mentionid="1" mentiontype="PROPER" number="SINGULAR"> Democrats </REFERENCE>
+			<STRING> that </STRING>
+			<REFERENCE animacy="INANIMATE" entity="4" gender="NEUTRAL" mentionid="4" mentiontype="NOMINAL" number="SINGULAR">
+				<TARGET-REFERENCE ENTROPY="0.430677" ID="1" PARAGRAPH-POSITION="6" RECENCY="0" SYNCAT="subj-det" animacy="ANIMATE" entity="11" gender="MALE" mentionid="5" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">his</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="other">show</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="other">in the</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="other">felt</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="other">paramount</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="name">Alito</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="name">Alito's</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="name">Alito's</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="name">Samuel Alito</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="other">are</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="name">Judge Samuel Anthony Alito, Jr's</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="name">Alito</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> past support for </STRING>
+				<REFERENCE animacy="INANIMATE" entity="6" gender="UNKNOWN" mentionid="6" mentiontype="NOMINAL" number="PLURAL"> conservative positions </REFERENCE>
+			</REFERENCE>
+			<STRING> makes </STRING>
+			<TARGET-REFERENCE ENTROPY="0.335648" ID="2" PARAGRAPH-POSITION="13" RECENCY="7" SYNCAT="np-obj" animacy="ANIMATE" entity="11" gender="MALE" mentionid="7" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">him</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">it</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Samuel Anthony Alito, Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">it</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Judge Samuel Anthony Alito, Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">rule of law</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">them</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">them</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="other">the Rule of Law</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">him</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> too much of </STRING>
+			<REFERENCE animacy="ANIMATE" entity="8" gender="MALE" mentionid="8" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> an ideologue for </STRING>
+				<REFERENCE animacy="INANIMATE" entity="9" gender="UNKNOWN" mentionid="9" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> a seat on </STRING>
+					<REFERENCE animacy="INANIMATE" entity="10" gender="NEUTRAL" mentionid="10" mentiontype="PROPER" number="UNKNOWN">
+						<STRING> the </STRING>
+						<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="2" mentiontype="PROPER" number="UNKNOWN"> Supreme Court </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ENTROPY="0.525877" ID="3" PARAGRAPH-POSITION="26" RECENCY="13" SYNCAT="np-subj" animacy="ANIMATE" entity="11" gender="MALE" mentionid="11" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">Judge Samuel A. Alito Jr.</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">They</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Samuel Anthony Alito</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Judge Samuel Anthony Alito, Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="other">senators</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Samuel Alito</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Samuel Alito</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">alito</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="description">the Associate Justice</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">which</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Samuel</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> began </STRING>
+			<REFERENCE animacy="INANIMATE" entity="12" gender="NEUTRAL" mentionid="12" mentiontype="NOMINAL" number="SINGULAR">
+				<TARGET-REFERENCE ENTROPY="0" ID="4" PARAGRAPH-POSITION="28" RECENCY="2" SYNCAT="subj-det" animacy="ANIMATE" entity="11" gender="MALE" mentionid="13" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">his</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="other">their</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="other">talking about</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="other">for</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="other">to organize</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> public drive </STRING>
+			</REFERENCE>
+			<STRING> for confirmation on </STRING>
+			<REFERENCE animacy="INANIMATE" entity="14" gender="UNKNOWN" mentionid="14" mentiontype="PROPER" number="SINGULAR"> Monday </REFERENCE>
+			<STRING> by saying </STRING>
+			<REFERENCE animacy="ANIMATE" entity="15" gender="UNKNOWN" mentionid="15" mentiontype="NOMINAL" number="PLURAL"> judges </REFERENCE>
+			<STRING> should have </STRING>
+			<REFERENCE animacy="INANIMATE" entity="16" gender="UNKNOWN" mentionid="16" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="17" gender="UNKNOWN" mentionid="17" mentiontype="NOMINAL" number="PLURAL"> no agendas </REFERENCE>
+				<STRING> or </STRING>
+				<REFERENCE animacy="INANIMATE" entity="18" gender="UNKNOWN" mentionid="18" mentiontype="NOMINAL" number="PLURAL">
+					<STRING> preferred outcomes of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="19" gender="MALE" mentionid="19" mentiontype="NOMINAL" number="UNKNOWN">
+						<REFERENCE animacy="ANIMATE" entity="15" gender="UNKNOWN" mentionid="20" mentiontype="PRONOMINAL" number="PLURAL"> their </REFERENCE>
+						<STRING> own </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2">
+			<STRING>`` </STRING>
+			<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="22" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="23" gender="MALE" mentionid="23" mentiontype="NOMINAL" number="SINGULAR"> The judge's </REFERENCE>
+				<STRING> only obligation-- and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="4" gender="NEUTRAL" mentionid="24" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+				<STRING> 's </STRING>
+				<REFERENCE animacy="INANIMATE" entity="25" gender="NEUTRAL" mentionid="25" mentiontype="NOMINAL" number="SINGULAR"> a solemn obligation </REFERENCE>
+				<STRING>-- </STRING>
+			</REFERENCE>
+			<STRING> is to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="26" gender="NEUTRAL" mentionid="26" mentiontype="NOMINAL" number="SINGULAR"> the rule of law </REFERENCE>
+			<STRING>,'' </STRING>
+			<TARGET-REFERENCE ENTROPY="0.376403" ID="5" PARAGRAPH-POSITION="18" RECENCY="0" SYNCAT="np-subj" animacy="ANIMATE" entity="11" gender="MALE" mentionid="21" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Alito</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">It</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Judge Alito Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="other">Clinton</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> said. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3">
+			<STRING>`` And what </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="22" gender="NEUTRAL" mentionid="27" mentiontype="PRONOMINAL" number="UNKNOWN"> that </REFERENCE>
+			<STRING> means is that in every single case, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="23" gender="MALE" mentionid="28" mentiontype="NOMINAL" number="SINGULAR"> the judge </REFERENCE>
+			<STRING> has to do what </STRING>
+			<REFERENCE animacy="INANIMATE" entity="29" gender="NEUTRAL" mentionid="29" mentiontype="NOMINAL" number="SINGULAR"> the law </REFERENCE>
+			<STRING> requires.'' </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="4">
+			<STRING> But with </STRING>
+			<REFERENCE animacy="ANIMATE" entity="32" gender="UNKNOWN" mentionid="32" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> the </STRING>
+				<REFERENCE animacy="INANIMATE" entity="30" gender="UNKNOWN" mentionid="30" mentiontype="PROPER" number="SINGULAR"> two </REFERENCE>
+				<STRING> parties primed for </STRING>
+				<REFERENCE animacy="INANIMATE" entity="33" gender="NEUTRAL" mentionid="33" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> a debate about </STRING>
+					<REFERENCE animacy="INANIMATE" entity="34" gender="UNKNOWN" mentionid="34" mentiontype="LIST" number="PLURAL">
+						<REFERENCE animacy="INANIMATE" entity="35" gender="NEUTRAL" mentionid="35" mentiontype="NOMINAL" number="SINGULAR">
+							<STRING> the composition of </STRING>
+							<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="36" mentiontype="NOMINAL" number="SINGULAR"> the court </REFERENCE>
+						</REFERENCE>
+						<STRING> and </STRING>
+						<REFERENCE animacy="INANIMATE" entity="37" gender="NEUTRAL" mentionid="37" mentiontype="NOMINAL" number="SINGULAR">
+							<REFERENCE animacy="INANIMATE" entity="38" gender="NEUTRAL" mentionid="38" mentiontype="NOMINAL" number="SINGULAR"> the nation's </REFERENCE>
+							<STRING> direction on </STRING>
+							<REFERENCE animacy="INANIMATE" entity="39" gender="UNKNOWN" mentionid="39" mentiontype="NOMINAL" number="PLURAL"> several divisive issues </REFERENCE>
+						</REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ENTROPY="0.555404" ID="6" PARAGRAPH-POSITION="24" RECENCY="0" SYNCAT="np-subj" animacy="ANIMATE" entity="11" gender="MALE" mentionid="31" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Alito</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Judge Samuel Anthony Alito, Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="description">the judge</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">alito</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="description">the judge</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="description">the Associate Justice</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">that</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Alito</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> steered clear in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="40" gender="UNKNOWN" mentionid="40" mentiontype="NOMINAL" number="SINGULAR">
+				<TARGET-REFERENCE ENTROPY="0" ID="7" PARAGRAPH-POSITION="28" RECENCY="4" SYNCAT="subj-det" animacy="ANIMATE" entity="11" gender="MALE" mentionid="41" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">his</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> opening statement of any discussion about </STRING>
+				<REFERENCE animacy="INANIMATE" entity="42" gender="UNKNOWN" mentionid="42" mentiontype="NOMINAL" number="PLURAL">
+					<TARGET-REFERENCE ENTROPY="0" ID="8" PARAGRAPH-POSITION="35" RECENCY="7" SYNCAT="subj-det" animacy="ANIMATE" entity="11" gender="MALE" mentionid="43" number="SINGULAR">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">his</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="89" TYPE="other">their</REFEX>
+							<REFEX PARTICIPANT-ID="95" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="101" TYPE="other">his personal</REFEX>
+							<REFEX PARTICIPANT-ID="104" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="107" TYPE="other">personal</REFEX>
+							<REFEX PARTICIPANT-ID="110" TYPE="other">personal</REFEX>
+							<REFEX PARTICIPANT-ID="113" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="119" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="122" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="125" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="131" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="143" TYPE="other">his personal</REFEX>
+							<REFEX PARTICIPANT-ID="145" TYPE="other">his own</REFEX>
+							<REFEX PARTICIPANT-ID="156" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="162" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="163" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> views </STRING>
+				</REFERENCE>
+				<STRING> on </STRING>
+				<REFERENCE animacy="INANIMATE" entity="44" gender="UNKNOWN" mentionid="44" mentiontype="LIST" number="PLURAL">
+					<STRING> abortion, presidential power and </STRING>
+					<REFERENCE animacy="INANIMATE" entity="45" gender="UNKNOWN" mentionid="45" mentiontype="NOMINAL" number="PLURAL"> other specific topics </REFERENCE>
+				</REFERENCE>
+				<STRING>, setting up what promised to be </STRING>
+				<REFERENCE animacy="INANIMATE" entity="46" gender="UNKNOWN" mentionid="46" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> a far more direct clash with </STRING>
+					<REFERENCE animacy="ANIMATE" entity="47" gender="UNKNOWN" mentionid="47" mentiontype="PROPER" number="SINGULAR">
+						<STRING> Democrats on </STRING>
+						<REFERENCE animacy="INANIMATE" entity="48" gender="UNKNOWN" mentionid="48" mentiontype="PROPER" number="SINGULAR">
+							<STRING> Tuesday over </STRING>
+							<REFERENCE animacy="INANIMATE" entity="49" gender="UNKNOWN" mentionid="49" mentiontype="NOMINAL" number="SINGULAR">
+								<TARGET-REFERENCE ENTROPY="0.2341" ID="9" PARAGRAPH-POSITION="61" RECENCY="26" SYNCAT="subj-det" animacy="ANIMATE" entity="11" gender="MALE" mentionid="50" number="SINGULAR">
+									<ORIGINAL-REFEX>
+										<REFEX TYPE="pronoun">his</REFEX>
+									</ORIGINAL-REFEX>
+									<PARTICIPANTS-REFEX>
+										<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+										<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+										<REFEX PARTICIPANT-ID="95" TYPE="name">Alito's</REFEX>
+										<REFEX PARTICIPANT-ID="101" TYPE="pronoun">his</REFEX>
+										<REFEX PARTICIPANT-ID="104" TYPE="pronoun">his</REFEX>
+										<REFEX PARTICIPANT-ID="107" TYPE="pronoun">his</REFEX>
+										<REFEX PARTICIPANT-ID="110" TYPE="pronoun">his</REFEX>
+										<REFEX PARTICIPANT-ID="113" TYPE="name">Alito's</REFEX>
+										<REFEX PARTICIPANT-ID="119" TYPE="pronoun">his</REFEX>
+										<REFEX PARTICIPANT-ID="122" TYPE="pronoun">his</REFEX>
+										<REFEX PARTICIPANT-ID="125" TYPE="pronoun">which</REFEX>
+										<REFEX PARTICIPANT-ID="131" TYPE="pronoun">his</REFEX>
+										<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+										<REFEX PARTICIPANT-ID="143" TYPE="pronoun">his</REFEX>
+										<REFEX PARTICIPANT-ID="145" TYPE="pronoun">his</REFEX>
+										<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+										<REFEX PARTICIPANT-ID="162" TYPE="other">the</REFEX>
+										<REFEX PARTICIPANT-ID="163" TYPE="pronoun">his</REFEX>
+										<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+									</PARTICIPANTS-REFEX>
+								</TARGET-REFERENCE>
+								<STRING> suitability for </STRING>
+								<REFERENCE animacy="INANIMATE" entity="51" gender="UNKNOWN" mentionid="51" mentiontype="NOMINAL" number="SINGULAR"> the pivotal seat </REFERENCE>
+							</REFERENCE>
+						</REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="5">
+			<STRING>`` </STRING>
+			<REFERENCE animacy="INANIMATE" entity="53" gender="UNKNOWN" mentionid="53" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> The role of </STRING>
+				<REFERENCE animacy="ANIMATE" entity="54" gender="MALE" mentionid="54" mentiontype="NOMINAL" number="SINGULAR"> a practicing attorney </REFERENCE>
+			</REFERENCE>
+			<STRING> is to achieve </STRING>
+			<REFERENCE animacy="INANIMATE" entity="55" gender="NEUTRAL" mentionid="55" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a desirable result for </STRING>
+				<REFERENCE animacy="ANIMATE" entity="56" gender="MALE" mentionid="56" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the client in </STRING>
+					<REFERENCE animacy="INANIMATE" entity="57" gender="NEUTRAL" mentionid="57" mentiontype="NOMINAL" number="SINGULAR"> the particular case </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> at hand,'' </STRING>
+			<TARGET-REFERENCE ENTROPY="0.329125" ID="10" PARAGRAPH-POSITION="22" RECENCY="0" SYNCAT="np-subj" animacy="ANIMATE" entity="11" gender="MALE" mentionid="52" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Alito</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">The court</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Judge Samuel Anthony Alito, Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Mr. Alito</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">alito</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Judge Alito Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Alito</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> said in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="58" gender="UNKNOWN" mentionid="58" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> remarks that lasted </STRING>
+				<REFERENCE animacy="INANIMATE" entity="59" gender="UNKNOWN" mentionid="59" mentiontype="PROPER" number="SINGULAR"> about 11 minutes </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="6">
+			<STRING>`` But </STRING>
+			<REFERENCE animacy="ANIMATE" entity="60" gender="MALE" mentionid="60" mentiontype="NOMINAL" number="SINGULAR"> a judge </REFERENCE>
+			<STRING> ca n't think </STRING>
+			<REFERENCE animacy="INANIMATE" entity="61" gender="NEUTRAL" mentionid="61" mentiontype="NOMINAL" number="SINGULAR"> that way </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="7">
+			<REFERENCE animacy="ANIMATE" entity="60" gender="MALE" mentionid="62" mentiontype="NOMINAL" number="SINGULAR"> A judge </REFERENCE>
+			<STRING> ca n't have any agenda. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="8">
+			<REFERENCE animacy="ANIMATE" entity="60" gender="MALE" mentionid="63" mentiontype="NOMINAL" number="SINGULAR"> A judge </REFERENCE>
+			<STRING> ca n't have any preferred outcome in any particular case. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="9">
+			<STRING> And </STRING>
+			<REFERENCE animacy="ANIMATE" entity="60" gender="MALE" mentionid="64" mentiontype="NOMINAL" number="SINGULAR"> a judge </REFERENCE>
+			<STRING> certainly does n't have </STRING>
+			<REFERENCE animacy="ANIMATE" entity="65" gender="MALE" mentionid="65" mentiontype="NOMINAL" number="SINGULAR"> a client </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="10">
+			<REFERENCE animacy="INANIMATE" entity="69" gender="UNKNOWN" mentionid="69" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="70" gender="UNKNOWN" mentionid="70" mentiontype="PROPER" number="SINGULAR"> The day's </REFERENCE>
+				<STRING> proceedings </STRING>
+			</REFERENCE>
+			<STRING> began </STRING>
+			<REFERENCE animacy="INANIMATE" entity="71" gender="NEUTRAL" mentionid="71" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the formal process of weighing </STRING>
+				<REFERENCE animacy="INANIMATE" entity="72" gender="UNKNOWN" mentionid="72" mentiontype="NOMINAL" number="SINGULAR">
+					<TARGET-REFERENCE ENTROPY="0.569432" ID="11" PARAGRAPH-POSITION="10" RECENCY="0" SYNCAT="subj-det" animacy="ANIMATE" entity="11" gender="MALE" mentionid="66" number="SINGULAR">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="name">Alito's</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="89" TYPE="other">of the</REFEX>
+							<REFEX PARTICIPANT-ID="95" TYPE="name">Samuel Anthony Alito</REFEX>
+							<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="104" TYPE="name">Alito's</REFEX>
+							<REFEX PARTICIPANT-ID="107" TYPE="other">out the</REFEX>
+							<REFEX PARTICIPANT-ID="110" TYPE="name">Alito's</REFEX>
+							<REFEX PARTICIPANT-ID="113" TYPE="name">Alito's</REFEX>
+							<REFEX PARTICIPANT-ID="119" TYPE="other">his Associate Justice</REFEX>
+							<REFEX PARTICIPANT-ID="122" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="125" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="131" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">this</REFEX>
+							<REFEX PARTICIPANT-ID="143" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="145" TYPE="name">Alito's</REFEX>
+							<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="162" TYPE="other">of</REFEX>
+							<REFEX PARTICIPANT-ID="163" TYPE="name">Alito's</REFEX>
+							<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> nomination </STRING>
+				</REFERENCE>
+				<STRING> to </STRING>
+				<REFERENCE animacy="INANIMATE" entity="73" gender="UNKNOWN" mentionid="73" mentiontype="NOMINAL" number="SINGULAR">
+					<STRING> the </STRING>
+					<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="67" mentiontype="PROPER" number="UNKNOWN"> Supreme Court </REFERENCE>
+					<STRING> seat vacated by </STRING>
+					<REFERENCE animacy="ANIMATE" entity="74" gender="FEMALE" mentionid="74" mentiontype="PROPER" number="SINGULAR">
+						<REFERENCE animacy="ANIMATE" entity="75" gender="FEMALE" mentionid="75" mentiontype="PROPER" number="SINGULAR">
+							<STRING> Justice </STRING>
+							<REFERENCE animacy="ANIMATE" entity="68" gender="FEMALE" mentionid="68" mentiontype="PROPER" number="SINGULAR"> Sandra Day O'Connor </REFERENCE>
+						</REFERENCE>
+						<STRING>, who is retiring </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="11">
+			<REFERENCE animacy="ANIMATE" entity="79" gender="MALE" mentionid="79" mentiontype="PROPER" number="SINGULAR">
+				<STRING> President </STRING>
+				<REFERENCE animacy="ANIMATE" entity="76" gender="MALE" mentionid="76" mentiontype="PROPER" number="SINGULAR"> Bush </REFERENCE>
+			</REFERENCE>
+			<STRING>, after having </STRING>
+			<REFERENCE animacy="INANIMATE" entity="80" gender="UNKNOWN" mentionid="80" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> breakfast with </STRING>
+				<TARGET-REFERENCE ENTROPY="0.542985" ID="12" PARAGRAPH-POSITION="7" RECENCY="0" SYNCAT="np-obj" animacy="ANIMATE" entity="11" gender="MALE" mentionid="77" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Alito</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="other">her</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="name">Alito</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="name">Justice Alito</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="name">Alito</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="name">Judge Samuel Anthony Alito, Jr.</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="name">Alito</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="other">senators</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="name">Alito</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="description">the nominee</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">him</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="name">Alito</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="description">the nominee</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="name">Alito</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="pronoun">him</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">him</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="name">Alito</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="name">Judge Alito</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="name">Alito</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> at </STRING>
+			<REFERENCE animacy="INANIMATE" entity="81" gender="NEUTRAL" mentionid="81" mentiontype="PROPER" number="SINGULAR">
+				<STRING> the White House on </STRING>
+				<REFERENCE animacy="INANIMATE" entity="82" gender="UNKNOWN" mentionid="82" mentiontype="PROPER" number="SINGULAR"> Monday morning </REFERENCE>
+			</REFERENCE>
+			<STRING>, told </STRING>
+			<REFERENCE animacy="ANIMATE" entity="83" gender="UNKNOWN" mentionid="83" mentiontype="NOMINAL" number="PLURAL"> reporters </REFERENCE>
+			<STRING> that </STRING>
+			<REFERENCE animacy="ANIMATE" entity="76" gender="MALE" mentionid="84" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+			<STRING> wanted </STRING>
+			<REFERENCE animacy="INANIMATE" entity="85" gender="NEUTRAL" mentionid="85" mentiontype="PROPER" number="UNKNOWN"> the Senate </REFERENCE>
+			<STRING> to`` give this man </STRING>
+			<REFERENCE animacy="INANIMATE" entity="87" gender="UNKNOWN" mentionid="87" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="88" gender="UNKNOWN" mentionid="88" mentiontype="NOMINAL" number="SINGULAR"> a fair hearing </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="89" gender="UNKNOWN" mentionid="89" mentiontype="LIST" number="PLURAL">
+					<STRING> an up or down vote on </STRING>
+					<REFERENCE animacy="INANIMATE" entity="90" gender="UNKNOWN" mentionid="90" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> the </STRING>
+						<REFERENCE animacy="INANIMATE" entity="85" gender="NEUTRAL" mentionid="78" mentiontype="PROPER" number="UNKNOWN"> Senate </REFERENCE>
+						<STRING> floor </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>.'' </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="12">
+			<STRING> Setting out </STRING>
+			<REFERENCE animacy="INANIMATE" entity="97" gender="NEUTRAL" mentionid="97" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the liberal case against </STRING>
+				<TARGET-REFERENCE ENTROPY="0.335648" ID="13" PARAGRAPH-POSITION="7" RECENCY="0" SYNCAT="np-obj" animacy="ANIMATE" entity="11" gender="MALE" mentionid="91" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Alito</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">him</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="other">it</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="name">Alito</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="other">him is</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="other">Bush</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="name">Judge Samuel Anthony Alito, Jr.</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="name">Alito</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="name">Judge Alito</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="other">the Alito nomination</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="name">Judge Alito</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="name">alito</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="name">Alito</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="other">confirmation</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="pronoun">him</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="name">Alito</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">him</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="other">abortion</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="name">Alito</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="name">Alito</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="98" gender="MALE" mentionid="98" mentiontype="PROPER" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="99" gender="MALE" mentionid="99" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Sen. </STRING>
+					<REFERENCE animacy="ANIMATE" entity="92" gender="MALE" mentionid="92" mentiontype="PROPER" number="SINGULAR"> Edward M. Kennedy </REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="93" gender="MALE" mentionid="93" mentiontype="PROPER" number="SINGULAR"> D-Mass. </REFERENCE>
+			</REFERENCE>
+			<STRING>, said </STRING>
+			<REFERENCE animacy="ANIMATE" entity="99" gender="MALE" mentionid="100" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+			<STRING> had </STRING>
+			<REFERENCE animacy="INANIMATE" entity="101" gender="UNKNOWN" mentionid="101" mentiontype="NOMINAL" number="PLURAL">
+				<STRING> grave concerns about what </STRING>
+				<REFERENCE animacy="ANIMATE" entity="99" gender="MALE" mentionid="102" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+				<STRING> characterized as </STRING>
+				<REFERENCE animacy="INANIMATE" entity="103" gender="NEUTRAL" mentionid="103" mentiontype="NOMINAL" number="SINGULAR">
+					<TARGET-REFERENCE ENTROPY="0.586135" ID="14" PARAGRAPH-POSITION="23" RECENCY="16" SYNCAT="subj-det" animacy="ANIMATE" entity="11" gender="MALE" mentionid="94" number="SINGULAR">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="name">Alito's</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="89" TYPE="other">positive</REFEX>
+							<REFEX PARTICIPANT-ID="95" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="101" TYPE="other">a lack of</REFEX>
+							<REFEX PARTICIPANT-ID="104" TYPE="other">a concerning</REFEX>
+							<REFEX PARTICIPANT-ID="107" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="110" TYPE="name">Alito's</REFEX>
+							<REFEX PARTICIPANT-ID="113" TYPE="name">Alito's</REFEX>
+							<REFEX PARTICIPANT-ID="119" TYPE="name">Mr. Alito's</REFEX>
+							<REFEX PARTICIPANT-ID="122" TYPE="name">Alito's</REFEX>
+							<REFEX PARTICIPANT-ID="125" TYPE="other">biased</REFEX>
+							<REFEX PARTICIPANT-ID="131" TYPE="other">great</REFEX>
+							<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="143" TYPE="other">blind</REFEX>
+							<REFEX PARTICIPANT-ID="145" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="156" TYPE="other">a</REFEX>
+							<REFEX PARTICIPANT-ID="162" TYPE="other">false</REFEX>
+							<REFEX PARTICIPANT-ID="163" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> support </STRING>
+				</REFERENCE>
+				<STRING> for </STRING>
+				<REFERENCE animacy="INANIMATE" entity="104" gender="UNKNOWN" mentionid="104" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="105" gender="NEUTRAL" mentionid="105" mentiontype="NOMINAL" number="SINGULAR"> an`` all-powerful executive branch </REFERENCE>
+					<STRING>,'' </STRING>
+					<REFERENCE animacy="INANIMATE" entity="106" gender="UNKNOWN" mentionid="106" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> a record of supporting </STRING>
+						<REFERENCE animacy="INANIMATE" entity="107" gender="UNKNOWN" mentionid="107" mentiontype="NOMINAL" number="PLURAL"> powerful institutions </REFERENCE>
+						<STRING> over </STRING>
+						<REFERENCE animacy="ANIMATE" entity="108" gender="UNKNOWN" mentionid="108" mentiontype="NOMINAL" number="PLURAL">
+							<REFERENCE animacy="ANIMATE" entity="109" gender="UNKNOWN" mentionid="109" mentiontype="NOMINAL" number="PLURAL"> individuals </REFERENCE>
+							<STRING>, hostility </STRING>
+						</REFERENCE>
+						<STRING> to </STRING>
+						<REFERENCE animacy="INANIMATE" entity="110" gender="NEUTRAL" mentionid="110" mentiontype="NOMINAL" number="SINGULAR">
+							<STRING> the concept of </STRING>
+							<REFERENCE animacy="ANIMATE" entity="111" gender="MALE" mentionid="111" mentiontype="NOMINAL" number="SINGULAR">
+								<REFERENCE animacy="INANIMATE" entity="95" gender="UNKNOWN" mentionid="95" mentiontype="PROPER" number="SINGULAR"> one </REFERENCE>
+								<STRING> person </STRING>
+							</REFERENCE>
+						</REFERENCE>
+					</REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="INANIMATE" entity="112" gender="NEUTRAL" mentionid="112" mentiontype="NOMINAL" number="SINGULAR">
+						<REFERENCE animacy="INANIMATE" entity="96" gender="UNKNOWN" mentionid="96" mentiontype="PROPER" number="SINGULAR"> one </REFERENCE>
+						<STRING> vote </STRING>
+					</REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE animacy="INANIMATE" entity="113" gender="NEUTRAL" mentionid="113" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> opposition to </STRING>
+						<REFERENCE animacy="INANIMATE" entity="114" gender="UNKNOWN" mentionid="114" mentiontype="NOMINAL" number="PLURAL"> abortion rights </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="13">
+			<REFERENCE animacy="ANIMATE" entity="99" gender="MALE" mentionid="116" mentiontype="PRONOMINAL" number="SINGULAR"> He </REFERENCE>
+			<STRING> also raised </STRING>
+			<REFERENCE animacy="INANIMATE" entity="117" gender="UNKNOWN" mentionid="117" mentiontype="NOMINAL" number="PLURAL"> questions </REFERENCE>
+			<STRING> about </STRING>
+			<REFERENCE animacy="INANIMATE" entity="118" gender="UNKNOWN" mentionid="118" mentiontype="NOMINAL" number="SINGULAR">
+				<TARGET-REFERENCE ENTROPY="0.615641" ID="15" PARAGRAPH-POSITION="57" RECENCY="34" SYNCAT="subj-det" animacy="ANIMATE" entity="11" gender="MALE" mentionid="115" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Alito's</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="name">SAmuel's</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="name">Alito's</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="other">personal</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="description">the nominee's</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="description">the judge's</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="name">Alito</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="other">personal</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="name">Alito's</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">his</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="name">Judge Alito's</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="name">Alito's</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> credibility </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="8">
+		<SENTENCE ID="14">
+			<REFERENCE animacy="ANIMATE" entity="119" gender="UNKNOWN" mentionid="119" mentiontype="PROPER" number="SINGULAR"> Republicans </REFERENCE>
+			<STRING> portrayed </STRING>
+			<TARGET-REFERENCE ENTROPY="0.502788" ID="16" PARAGRAPH-POSITION="3" RECENCY="0" SYNCAT="np-obj" animacy="ANIMATE" entity="11" gender="MALE" mentionid="120" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">him</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="description">the canidate</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Samuel Anthony Alito</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">Judge Samuel Anthony Alito, Jr.</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Samuel Alito</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">alito</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Alito</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Judge Alito</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Alito</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> as exceedingly well qualified and well within </STRING>
+			<REFERENCE animacy="INANIMATE" entity="121" gender="NEUTRAL" mentionid="121" mentiontype="NOMINAL" number="SINGULAR"> the mainstream of conservative thought </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="9">
+		<SENTENCE ID="15">
+			<STRING>`` </STRING>
+			<REFERENCE animacy="ANIMATE" entity="128" gender="UNKNOWN" mentionid="128" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+			<STRING> want to remind </STRING>
+			<REFERENCE animacy="ANIMATE" entity="129" gender="UNKNOWN" mentionid="129" mentiontype="NOMINAL" number="PLURAL"> the American people </REFERENCE>
+			<STRING> that </STRING>
+			<REFERENCE animacy="ANIMATE" entity="130" gender="MALE" mentionid="130" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="11" gender="MALE" mentionid="131" mentiontype="NOMINAL" number="SINGULAR"> this nominee </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="11" gender="MALE" mentionid="132" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Judge </STRING>
+					<REFERENCE animacy="ANIMATE" entity="11" gender="MALE" mentionid="122" mentiontype="PROPER" number="SINGULAR"> Alito </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, has been confirmed unanimously by </STRING>
+			<REFERENCE animacy="INANIMATE" entity="85" gender="NEUTRAL" mentionid="133" mentiontype="PROPER" number="UNKNOWN">
+				<STRING> the </STRING>
+				<REFERENCE animacy="INANIMATE" entity="123" gender="NEUTRAL" mentionid="123" mentiontype="PROPER" number="SINGULAR"> United States </REFERENCE>
+				<STRING> Senate </STRING>
+			</REFERENCE>
+			<STRING>, not once but twice,'' said </STRING>
+			<REFERENCE animacy="ANIMATE" entity="134" gender="MALE" mentionid="134" mentiontype="PROPER" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="128" gender="MALE" mentionid="135" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Sen. </STRING>
+					<REFERENCE animacy="ANIMATE" entity="125" gender="MALE" mentionid="125" mentiontype="PROPER" number="SINGULAR"> Charles Grassley </REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="126" gender="MALE" mentionid="126" mentiontype="PROPER" number="SINGULAR"> R-Iowa </REFERENCE>
+			</REFERENCE>
+			<STRING>, referring to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="136" gender="UNKNOWN" mentionid="136" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="137" gender="UNKNOWN" mentionid="137" mentiontype="NOMINAL" number="SINGULAR">
+					<TARGET-REFERENCE ENTROPY="0.418166" ID="17" PARAGRAPH-POSITION="33" RECENCY="0" SYNCAT="subj-det" animacy="ANIMATE" entity="11" gender="MALE" mentionid="127" number="SINGULAR">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="name">Alito's</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="95" TYPE="name">Judge Samuel Anthony Alito, Jr</REFEX>
+							<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="104" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="107" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="110" TYPE="name">Alito's</REFEX>
+							<REFEX PARTICIPANT-ID="113" TYPE="name">Alito's</REFEX>
+							<REFEX PARTICIPANT-ID="119" TYPE="name">Alito's</REFEX>
+							<REFEX PARTICIPANT-ID="122" TYPE="name">Alito's</REFEX>
+							<REFEX PARTICIPANT-ID="125" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="131" TYPE="name">Alito</REFEX>
+							<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="143" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="145" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="162" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="163" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> nomination to </STRING>
+					<REFERENCE animacy="INANIMATE" entity="138" gender="NEUTRAL" mentionid="138" mentiontype="PROPER" number="UNKNOWN">
+						<STRING> the 3rd U.S. Circuit Court of Appeals </STRING>
+						<REFERENCE animacy="INANIMATE" entity="139" gender="UNKNOWN" mentionid="139" mentiontype="PROPER" number="SINGULAR"> 15 years </REFERENCE>
+						<STRING> ago </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="140" gender="NEUTRAL" mentionid="140" mentiontype="NOMINAL" number="SINGULAR">
+					<TARGET-REFERENCE ENTROPY="0.145263" ID="18" PARAGRAPH-POSITION="47" RECENCY="14" SYNCAT="subj-det" animacy="ANIMATE" entity="11" gender="MALE" mentionid="141" number="SINGULAR">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="pronoun">his</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="86" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="95" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="101" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="104" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="107" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="110" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="113" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="119" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="122" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="125" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="131" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="141" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="143" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="145" TYPE="empty">-</REFEX>
+							<REFEX PARTICIPANT-ID="156" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="162" TYPE="pronoun">his</REFEX>
+							<REFEX PARTICIPANT-ID="163" TYPE="other">the</REFEX>
+							<REFEX PARTICIPANT-ID="164" TYPE="pronoun">his</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> earlier confirmation as </STRING>
+					<REFERENCE animacy="ANIMATE" entity="142" gender="MALE" mentionid="142" mentiontype="NOMINAL" number="SINGULAR"> a federal prosecutor </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

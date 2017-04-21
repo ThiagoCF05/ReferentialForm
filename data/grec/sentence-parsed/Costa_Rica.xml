@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1248">
+	<TITLE>Costa Rica</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Costa Rica</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Costa Rica (Spanish: Costa Rica or República de Costa Rica, IPA: [IPA: [re'puβlika ðe 'kosta 'rika]]), is a country in Central America, bordered by Nicaragua to the north, Panama to the south-southeast, the Pacific Ocean to the west and south, and the Caribbean Sea to the east.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Costa Rica</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the first country in the world to constitutionally abolish  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> army. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

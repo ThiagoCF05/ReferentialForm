@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="35">
+	<TITLE>Baltoro Kangri</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Baltoro Kangri</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain of the Karakoram mountain range in the Northern Areas of Pakistan. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies to the south of the Gasherbrums and east of Chogolisa Peak (7,665 m). The huge Baltoro Glacier (which is one of the largest glaciers outside polar regions) rises from the foot of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Baltoro Kangri</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. In the north of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Baltoro Kangri</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the Abruzzi Glacier.</STRING>
+	</PARAGRAPH>
+</TEXT>

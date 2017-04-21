@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="1566">
+	<TITLE>Ingmar Bergman</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ernst Ingmar Bergman</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([IPA: ˈbɛrjman] in Swedish) (born July 14, 1918) is a Swedish stage and film director </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of the key film auteurs of the second half of the twentieth century.</STRING>
+	</PARAGRAPH>
+</TEXT>

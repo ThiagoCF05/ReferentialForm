@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1145">
+	<TITLE>Pretoria</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pretoria</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a city located in the northern part of Gauteng Province, South Africa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="14" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the country's three capital cities, serving as the executive (administrative) capital; the other two being Cape Town and Bloemfontein, respectively the legislative and judicial capitals. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pretoria</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is contained in the City of Tshwane Metropolitan Municipality as one of several constituent former administrations (among which also Centurion and Soshanguve), and therefore sometimes incorrectly referred to as Tshwane -- this contentious issue is still being decided as of January 2006; see the discussion further down in this article. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pretoria</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is town twinned with Washington, D.C., United States. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

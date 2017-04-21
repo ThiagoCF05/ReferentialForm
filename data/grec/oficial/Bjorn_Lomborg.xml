@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<TEXT ID="1452">
+	<TITLE>Bjørn Lomborg</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Bjørn Lomborg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born January 6, 1965) is an Adjunct Professor at the Copenhagen Business School and a former director of the Environmental Assessment Institute in Copenhagen.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="25" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became internationally-known for  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="4" SEMCAT="person" SENTENCE-POSITION="5" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> best-selling and controversial book The Skeptical Environmentalist.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>After the book's publication, members of the Danish scientific community accused  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="49" PARAGRAPH-RECENCY="19" SEMCAT="person" SENTENCE-POSITION="12" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lomborg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> of scientific dishonesty.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>These allegations were investigated by appropriate arms of the Danish government and in the end, no official charges were left standing.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>However, many scientists — including the majority of climatologists — remain critical of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="87" PARAGRAPH-RECENCY="38" SEMCAT="person" SENTENCE-POSITION="14" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Lomborg's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> work. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>In 2002,  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lomborg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and the Environmental Assessment Institute founded the Copenhagen Consensus, which sought to establish priorities for advancing global welfare using methodologies based on the theory of welfare economics. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

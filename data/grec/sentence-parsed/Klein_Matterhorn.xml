@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TEXT ID="264">
+	<TITLE>Klein Matterhorn</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Klein Matterhorn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (marketed as the &quot;Matterhorn Glacier Paradise&quot;) is the highest point in the Zermatt-Cervinia ski area in Switzerland, and the end point of the highest cable car in Europe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The peak is at 3883m with the cable car terminal at 3820m. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

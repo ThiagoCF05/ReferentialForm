@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TEXT ID="1734">
+	<TITLE>Shania Twain</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Shania Twain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>,OC (born August 28, 1965) is a Canadian singer and songwriter </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has enjoyed popular success in the country and pop music genres. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> third album Come on Over is the biggest-selling album of all time by a female artist, and the seventh biggest selling album in music history, and </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">she</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the only female artist to have three albums certified Diamond by the RIAA. </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Twain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the recipient of numerous awards, including five Grammy awards and nearly forty BMI Songwriter awards. </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">She</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is married to legendary Rock producer Mutt Lange, and they have a son, Eja. Currently, </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Shania</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> family reside between Switzerland and New Zealand.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,731 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0" GENDER="neutral" ID="1" MENTION-ID="1" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Indonesia</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Indonesia</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>, officially </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="5" GENDER="neutral" MENTION-ID="2" NUMBER="singular" TYPE="name">
+				<STRING> the Republic of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="6" GENDER="neutral" MENTION-ID="3" NUMBER="singular" TYPE="name">
+					<STRING> Indonesia -LRB- </STRING>
+					<REFERENCE ANIMACY="unknown" ENTITY-ID="7" GENDER="male" MENTION-ID="4" NUMBER="singular" TYPE="name">
+						<STRING> Indonesian: </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="5" NUMBER="singular" TYPE="name"> Republik Indonesia </REFERENCE>
+					</REFERENCE>
+					<STRING> -RRB- </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="6" NUMBER="singular" TYPE="description">
+				<STRING> a nation of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="10" GENDER="unknown" MENTION-ID="7" NUMBER="plural" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="unknown" MENTION-ID="8" NUMBER="singular" TYPE="name"> 18,110 </REFERENCE>
+					<STRING> islands in </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="11" GENDER="neutral" MENTION-ID="9" NUMBER="singular" TYPE="name">
+						<STRING> the </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="10" NUMBER="singular" TYPE="name"> South East Asian Archipelago </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, making </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.123344" GENDER="neutral" ID="2" MENTION-ID="11" NUMBER="singular" PARAGRAPH-POSITION="23" RECENCY="22" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="13" GENDER="neutral" MENTION-ID="12" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="14" GENDER="neutral" MENTION-ID="13" NUMBER="singular" TYPE="description"> the world's </REFERENCE>
+				<STRING> largest archipelagic state </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="neutral" MENTION-ID="14" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.558086" GENDER="unknown" ID="3" MENTION-ID="15" NUMBER="singular" PARAGRAPH-POSITION="29" RECENCY="6" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">Its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="name">Indonesia's</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="description">The country's</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="name">Indonesia's</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="name">Indonesia's</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="name">Indonesia's</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="other">The</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="name">Indonesia's</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">Its</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="name">Indonesia's</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="name">Indonesia's</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="other">The</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> capital </STRING>
+			</REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="neutral" MENTION-ID="16" NUMBER="singular" TYPE="name"> Jakarta </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.651565" GENDER="neutral" ID="4" MENTION-ID="17" NUMBER="singular" PARAGRAPH-POSITION="33" RECENCY="4" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Indonesia</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="description">The archipelago</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="description">The country</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="description">The archipelago nation</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is bordered by </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="22" GENDER="unknown" MENTION-ID="18" NUMBER="plural" TYPE="description">
+				<STRING> the nations of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="23" GENDER="unknown" MENTION-ID="19" NUMBER="plural">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="19" GENDER="neutral" MENTION-ID="20" NUMBER="singular" TYPE="name"> Papua New Guinea </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="20" GENDER="unknown" MENTION-ID="21" NUMBER="singular" TYPE="name"> East Timor </REFERENCE>
+					<STRING>, and </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="21" GENDER="neutral" MENTION-ID="22" NUMBER="singular" TYPE="name"> Malaysia </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING> With </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="26" GENDER="neutral" MENTION-ID="23" NUMBER="singular" TYPE="description"> a population of over 200 million </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.521467" GENDER="neutral" ID="5" MENTION-ID="24" NUMBER="singular" PARAGRAPH-POSITION="54" RECENCY="21" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="other">and</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Indonesia</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="28" GENDER="unknown" MENTION-ID="25" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="26" GENDER="neutral" MENTION-ID="26" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="14" GENDER="neutral" MENTION-ID="27" NUMBER="singular" TYPE="description"> the world's </REFERENCE>
+					<STRING> fourth most populous country </STRING>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="31" GENDER="neutral" MENTION-ID="28" NUMBER="singular" TYPE="description">
+					<STRING> the most populous nation with </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="32" GENDER="neutral" MENTION-ID="29" NUMBER="singular" TYPE="description">
+						<STRING> a majority of </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="25" GENDER="neutral" MENTION-ID="30" NUMBER="singular" TYPE="name"> Muslims </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="34" GENDER="neutral" MENTION-ID="31" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="35" GENDER="neutral" MENTION-ID="32" NUMBER="singular" TYPE="name"> The Indonesian Archipelago </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="35" GENDER="unknown" MENTION-ID="33" NUMBER="singular" TYPE="description">
+					<STRING> home of </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="33" GENDER="unknown" MENTION-ID="34" NUMBER="singular" TYPE="name"> the Spice </REFERENCE>
+					<STRING> Islands </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, has been </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="35" GENDER="neutral" MENTION-ID="35" NUMBER="singular" TYPE="description"> an important trade destination </REFERENCE>
+			<STRING> since </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="39" GENDER="unknown" MENTION-ID="36" NUMBER="plural" TYPE="description"> early Chinese sailors </REFERENCE>
+			<STRING> began to find </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="40" GENDER="neutral" MENTION-ID="37" NUMBER="singular" TYPE="description">
+				<STRING> profit in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="41" GENDER="neutral" MENTION-ID="38" NUMBER="singular" TYPE="description"> the spice trade </REFERENCE>
+			</REFERENCE>
+			<STRING> during </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="42" GENDER="unknown" MENTION-ID="39" NUMBER="plural" TYPE="description"> ancient times </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="44" GENDER="unknown" MENTION-ID="40" NUMBER="unknown" TYPE="description">
+				<STRING> Much of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="45" GENDER="neutral" MENTION-ID="41" NUMBER="singular" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.415206" GENDER="neutral" ID="6" MENTION-ID="42" NUMBER="singular" PARAGRAPH-POSITION="32" RECENCY="0" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="name">Indonesia's</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="85" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="88" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="91" TYPE="pronoun">their</REFEX>
+							<REFEX PARTICIPANT-ID="97" TYPE="other">Indonesia's recent</REFEX>
+							<REFEX PARTICIPANT-ID="100" TYPE="pronoun">its'</REFEX>
+							<REFEX PARTICIPANT-ID="106" TYPE="name">Indonesia's</REFEX>
+							<REFEX PARTICIPANT-ID="109" TYPE="name">Indonesia's</REFEX>
+							<REFEX PARTICIPANT-ID="112" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="115" TYPE="pronoun">their</REFEX>
+							<REFEX PARTICIPANT-ID="118" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="124" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="133" TYPE="name">Indonesia's</REFEX>
+							<REFEX PARTICIPANT-ID="136" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="140" TYPE="name">Indonesia's</REFEX>
+							<REFEX PARTICIPANT-ID="142" TYPE="name">Indonesia's</REFEX>
+							<REFEX PARTICIPANT-ID="149" TYPE="other">its storied</REFEX>
+							<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="155" TYPE="name">Indonesia's</REFEX>
+							<REFEX PARTICIPANT-ID="158" TYPE="name">the Republic of Indonesia's</REFEX>
+							<REFEX PARTICIPANT-ID="161" TYPE="pronoun">its</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> history </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> has been influenced by </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="46" GENDER="unknown" MENTION-ID="43" NUMBER="plural" TYPE="description">
+				<STRING> the many foreign powers that have been drawn to </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="35" GENDER="neutral" MENTION-ID="44" NUMBER="singular" TYPE="description"> the archipelago </REFERENCE>
+				<STRING> by </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="48" GENDER="neutral" MENTION-ID="45" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="35" GENDER="unknown" MENTION-ID="46" NUMBER="singular" TYPE="pronoun"> its </REFERENCE>
+					<STRING> wealth of </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="50" GENDER="unknown" MENTION-ID="47" NUMBER="plural" TYPE="description"> natural resources </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="56" GENDER="neutral" MENTION-ID="48" NUMBER="unknown" TYPE="demonstrative"> These </REFERENCE>
+			<STRING> have included </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="57" GENDER="unknown" MENTION-ID="49" NUMBER="plural">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="58" GENDER="unknown" MENTION-ID="50" NUMBER="plural">
+					<STRING> Classical </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="59" GENDER="unknown" MENTION-ID="51" NUMBER="plural">
+						<STRING> Hindus and </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="52" GENDER="neutral" MENTION-ID="52" NUMBER="singular" TYPE="name"> Buddhists </REFERENCE>
+						<STRING> from </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="53" GENDER="neutral" MENTION-ID="53" NUMBER="singular" TYPE="name"> India </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="58" GENDER="unknown" MENTION-ID="54" NUMBER="plural" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="54" GENDER="male" MENTION-ID="55" NUMBER="singular" TYPE="name"> Muslim </REFERENCE>
+					<STRING> traders in </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="61" GENDER="unknown" MENTION-ID="56" NUMBER="plural" TYPE="description"> medieval times </REFERENCE>
+				</REFERENCE>
+				<STRING>, and Europeans </STRING>
+			</REFERENCE>
+			<STRING> during </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="62" GENDER="unknown" MENTION-ID="57" NUMBER="singular" TYPE="name">
+				<STRING> the Age of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="63" GENDER="neutral" MENTION-ID="58" NUMBER="singular" TYPE="name">
+					<STRING> Exploration, who fought for </STRING>
+					<REFERENCE ANIMACY="unknown" ENTITY-ID="64" GENDER="unknown" MENTION-ID="59" NUMBER="singular" TYPE="description">
+						<STRING> monopolization of </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="41" GENDER="neutral" MENTION-ID="60" NUMBER="singular" TYPE="description"> the spice trade </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.663023" GENDER="neutral" ID="7" MENTION-ID="61" NUMBER="singular" PARAGRAPH-POSITION="84" RECENCY="52" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Indonesia</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="description">The land</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="description">The bountiful country</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Indonesis</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="description">The area</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="description">the land</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="description">The area</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> was colonized by </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="67" GENDER="neutral" MENTION-ID="62" NUMBER="singular" TYPE="name">
+				<STRING> the Dutch for </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="68" GENDER="unknown" MENTION-ID="63" NUMBER="singular" TYPE="name"> over three centuries </REFERENCE>
+			</REFERENCE>
+			<STRING>; however, </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.615641" GENDER="neutral" ID="8" MENTION-ID="64" NUMBER="singular" PARAGRAPH-POSITION="95" RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the nation</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">the native people</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="other">it was</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">they</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="description">the country</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Indonesia</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> declared </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="70" GENDER="neutral" MENTION-ID="65" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0" GENDER="unknown" ID="9" MENTION-ID="66" NUMBER="singular" PARAGRAPH-POSITION="97" RECENCY="2" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="other">their</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="other">their</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="other">personal</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="other">an</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="other">their</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="other">their</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="other">her</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="pronoun">its</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> independence </STRING>
+			</REFERENCE>
+			<STRING> in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="72" GENDER="unknown" MENTION-ID="67" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="73" GENDER="unknown" MENTION-ID="68" NUMBER="singular" TYPE="name"> 1945 </REFERENCE>
+				<STRING>, which was internationally recognized </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="74" GENDER="unknown" MENTION-ID="69" NUMBER="singular" TYPE="name"> four years </REFERENCE>
+				<STRING> later </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING> Since </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="75" GENDER="unknown" MENTION-ID="70" NUMBER="unknown" TYPE="description"> then </REFERENCE>
+			<STRING>, </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.531669" GENDER="neutral" ID="10" MENTION-ID="71" NUMBER="singular" PARAGRAPH-POSITION="110" RECENCY="13" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the region</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="description">the troubled nation</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> has had </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="77" GENDER="neutral" MENTION-ID="72" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="78" GENDER="neutral" MENTION-ID="73" NUMBER="singular" TYPE="description"> a turbulent history </REFERENCE>
+				<STRING>, including political instability and corruption, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="79" GENDER="unknown" MENTION-ID="74" NUMBER="plural" TYPE="description"> periods of rapid economic growth </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="80" GENDER="unknown" MENTION-ID="75" NUMBER="plural">
+					<STRING> decline, environmental catastrophe, and </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="81" GENDER="neutral" MENTION-ID="76" NUMBER="singular" TYPE="description"> a recent democratization process </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.245053" GENDER="neutral" ID="11" MENTION-ID="77" NUMBER="singular" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Indonesia</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">The Republic of Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="description">The country</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Indonesia</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="78" NUMBER="singular" TYPE="description">
+				<STRING> a unitary state consisting of </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="84" GENDER="unknown" MENTION-ID="79" NUMBER="plural">
+					<STRING> numerous distinct ethnic, linguistic, and religious groups spread across </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="85" GENDER="unknown" MENTION-ID="80" NUMBER="plural" TYPE="description">
+						<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.243982" GENDER="unknown" ID="12" MENTION-ID="81" NUMBER="singular" PARAGRAPH-POSITION="17" RECENCY="16" SYNCAT="subj-det">
+							<ORIGINAL-REFEX>
+								<REFEX TYPE="pronoun">its</REFEX>
+							</ORIGINAL-REFEX>
+							<PARTICIPANTS-REFEX>
+								<REFEX PARTICIPANT-ID="85" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="88" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="91" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="97" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="100" TYPE="other">many</REFEX>
+								<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it's</REFEX>
+								<REFEX PARTICIPANT-ID="109" TYPE="other">the vast</REFEX>
+								<REFEX PARTICIPANT-ID="112" TYPE="empty">-</REFEX>
+								<REFEX PARTICIPANT-ID="115" TYPE="other">vast and</REFEX>
+								<REFEX PARTICIPANT-ID="118" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="124" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="133" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="136" TYPE="empty">-</REFEX>
+								<REFEX PARTICIPANT-ID="140" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="142" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="149" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="155" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="158" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="161" TYPE="other">the</REFEX>
+							</PARTICIPANTS-REFEX>
+						</TARGET-REFERENCE>
+						<STRING> numerous islands </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="89" GENDER="unknown" MENTION-ID="82" NUMBER="plural" TYPE="description">
+				<STRING> The modern borders of </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.757258" GENDER="neutral" ID="13" MENTION-ID="83" NUMBER="singular" PARAGRAPH-POSITION="24" RECENCY="7" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Indonesia</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="description">the island</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="description">the country</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="description">the country</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="other">its states</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="name">Indonesia</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="name">Indonesia</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="description">the country</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="demonstrative">this state</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="name">indonesia</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="name">Indonesia</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="name">Indonesia</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="name">Indonesia</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="name">Indonesia</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="description">the country</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="description">the country</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="description">the country</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="pronoun">it</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> are based upon </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="90" GENDER="unknown" MENTION-ID="84" NUMBER="unknown" TYPE="description">
+				<STRING> those of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="91" GENDER="neutral" MENTION-ID="85" NUMBER="singular" TYPE="description">
+					<STRING> the </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="88" GENDER="unknown" MENTION-ID="86" NUMBER="singular" TYPE="name"> Dutch East Indies </REFERENCE>
+					<STRING> colony </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, rather than on any preconceived notion of unity. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING> However, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="93" GENDER="neutral" MENTION-ID="87" NUMBER="singular" TYPE="description">
+				<STRING> a shared history of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="94" GENDER="unknown" MENTION-ID="88" NUMBER="plural">
+					<STRING> colonialism, </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="95" GENDER="neutral" MENTION-ID="89" NUMBER="singular" TYPE="description">
+						<STRING> rebellion against </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="1" GENDER="neutral" MENTION-ID="90" NUMBER="singular" TYPE="pronoun"> it </REFERENCE>
+					</REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="97" GENDER="neutral" MENTION-ID="91" NUMBER="singular" TYPE="description"> a national Indonesian language </REFERENCE>
+					<STRING>, and </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="98" GENDER="neutral" MENTION-ID="92" NUMBER="singular" TYPE="description">
+						<STRING> a religious majority of </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="99" GENDER="unknown" MENTION-ID="93" NUMBER="singular" TYPE="description">
+							<REFERENCE ANIMACY="unknown" ENTITY-ID="92" GENDER="unknown" MENTION-ID="94" NUMBER="singular" TYPE="name"> Islam </REFERENCE>
+							<STRING> help </STRING>
+						</REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> to define </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.429816" GENDER="neutral" ID="14" MENTION-ID="95" NUMBER="singular" PARAGRAPH-POSITION="65" RECENCY="41" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Indonesia</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">its identity</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">the Republic of Indonesia</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Indonesia</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> as </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="101" GENDER="neutral" MENTION-ID="96" NUMBER="singular" TYPE="description"> a state </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="105" GENDER="unknown" MENTION-ID="97" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="106" GENDER="unknown" MENTION-ID="98" NUMBER="singular" TYPE="description">
+					<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.430677" GENDER="neutral" ID="15" MENTION-ID="99" NUMBER="singular" PARAGRAPH-POSITION="69" RECENCY="4" SYNCAT="subj-det">
+						<ORIGINAL-REFEX>
+							<REFEX TYPE="name">Indonesia's</REFEX>
+						</ORIGINAL-REFEX>
+						<PARTICIPANTS-REFEX>
+							<REFEX PARTICIPANT-ID="85" TYPE="name">Indonesia's</REFEX>
+							<REFEX PARTICIPANT-ID="88" TYPE="name">Indonesia's</REFEX>
+							<REFEX PARTICIPANT-ID="91" TYPE="other">Their</REFEX>
+							<REFEX PARTICIPANT-ID="97" TYPE="other">The</REFEX>
+							<REFEX PARTICIPANT-ID="100" TYPE="other">The</REFEX>
+							<REFEX PARTICIPANT-ID="106" TYPE="name">Indonesia's</REFEX>
+							<REFEX PARTICIPANT-ID="109" TYPE="name">Indonesia</REFEX>
+							<REFEX PARTICIPANT-ID="112" TYPE="other">The</REFEX>
+							<REFEX PARTICIPANT-ID="115" TYPE="other">THeir</REFEX>
+							<REFEX PARTICIPANT-ID="118" TYPE="pronoun">its</REFEX>
+							<REFEX PARTICIPANT-ID="124" TYPE="pronoun">Its</REFEX>
+							<REFEX PARTICIPANT-ID="133" TYPE="pronoun">It's</REFEX>
+							<REFEX PARTICIPANT-ID="136" TYPE="other">The</REFEX>
+							<REFEX PARTICIPANT-ID="140" TYPE="name">Indonesia's</REFEX>
+							<REFEX PARTICIPANT-ID="142" TYPE="pronoun">It's</REFEX>
+							<REFEX PARTICIPANT-ID="149" TYPE="other">The</REFEX>
+							<REFEX PARTICIPANT-ID="152" TYPE="pronoun">Its</REFEX>
+							<REFEX PARTICIPANT-ID="155" TYPE="name">Indonesia's</REFEX>
+							<REFEX PARTICIPANT-ID="158" TYPE="pronoun">Its</REFEX>
+							<REFEX PARTICIPANT-ID="161" TYPE="other">The</REFEX>
+						</PARTICIPANTS-REFEX>
+					</TARGET-REFERENCE>
+					<STRING> national motto </STRING>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="unknown" ENTITY-ID="106" GENDER="unknown" MENTION-ID="100" NUMBER="unknown" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="103" GENDER="unknown" MENTION-ID="101" NUMBER="singular" TYPE="name"> Bhinneka </REFERENCE>
+					<STRING> tunggal ika -LRB- derived from </STRING>
+					<REFERENCE ANIMACY="unknown" ENTITY-ID="104" GENDER="unknown" MENTION-ID="102" NUMBER="singular" TYPE="name"> Old Javanese </REFERENCE>
+					<STRING> for </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="108" GENDER="neutral" MENTION-ID="103" NUMBER="singular" TYPE="description"> unity in diversity </REFERENCE>
+					<STRING> -RRB- </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, reflects </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="109" GENDER="unknown" MENTION-ID="104" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="110" GENDER="neutral" MENTION-ID="105" NUMBER="singular" TYPE="description">
+					<STRING> the amalgamation of </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="111" GENDER="unknown" MENTION-ID="106" NUMBER="plural" TYPE="description">
+						<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.615829" GENDER="neutral" ID="16" MENTION-ID="107" NUMBER="singular" PARAGRAPH-POSITION="87" RECENCY="18" SYNCAT="subj-det">
+							<ORIGINAL-REFEX>
+								<REFEX TYPE="description">the country's</REFEX>
+							</ORIGINAL-REFEX>
+							<PARTICIPANTS-REFEX>
+								<REFEX PARTICIPANT-ID="85" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="88" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="91" TYPE="other">diverse</REFEX>
+								<REFEX PARTICIPANT-ID="97" TYPE="other">diverse</REFEX>
+								<REFEX PARTICIPANT-ID="100" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it's</REFEX>
+								<REFEX PARTICIPANT-ID="109" TYPE="name">Indonesia</REFEX>
+								<REFEX PARTICIPANT-ID="112" TYPE="other">a</REFEX>
+								<REFEX PARTICIPANT-ID="115" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="118" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="124" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="133" TYPE="name">Indonesia's</REFEX>
+								<REFEX PARTICIPANT-ID="136" TYPE="empty">-</REFEX>
+								<REFEX PARTICIPANT-ID="140" TYPE="description">the country's</REFEX>
+								<REFEX PARTICIPANT-ID="142" TYPE="name">Indonesia's</REFEX>
+								<REFEX PARTICIPANT-ID="149" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="152" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="155" TYPE="pronoun">its</REFEX>
+								<REFEX PARTICIPANT-ID="158" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="161" TYPE="pronoun">its</REFEX>
+							</PARTICIPANTS-REFEX>
+						</TARGET-REFERENCE>
+						<STRING> myriad cultures </STRING>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="113" GENDER="unknown" MENTION-ID="108" NUMBER="plural" TYPE="description"> languages </REFERENCE>
+				<STRING>, and </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="84" GENDER="unknown" MENTION-ID="109" NUMBER="plural" TYPE="description"> ethnic groups </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING> However, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="116" GENDER="unknown" MENTION-ID="110" NUMBER="plural" TYPE="description"> sectarian tensions </REFERENCE>
+			<STRING> have threatened political stability in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="117" GENDER="unknown" MENTION-ID="111" NUMBER="plural" TYPE="description"> some regions </REFERENCE>
+			<STRING>, leading to </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="118" GENDER="unknown" MENTION-ID="112" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="119" GENDER="unknown" MENTION-ID="113" NUMBER="plural" TYPE="description"> violent confrontations </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="120" GENDER="neutral" MENTION-ID="114" NUMBER="singular" TYPE="description">
+					<STRING> the secession of </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="20" GENDER="unknown" MENTION-ID="115" NUMBER="singular" TYPE="name"> East Timor </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

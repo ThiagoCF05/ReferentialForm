@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TEXT ID="1241">
+	<TITLE>Clipperton Island</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Clipperton Island</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (French: Île de Clipperton and sometimes Île de la Passion) is a seven-square-kilometer coral atoll in the North Pacific Ocean, south of Mexico and west of Costa Rica, at 10°18'N,109°13'W.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has no permanent inhabitants, only temporary residents in a weather station. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an overseas possession of France administered from French Polynesia by  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> gubernatorial high commissioner of the Republic.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> FIPS 10-4 data code is IP, but ISO 3166 has reserved the code CP for  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Clipperton Island</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> on request of the ITU. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

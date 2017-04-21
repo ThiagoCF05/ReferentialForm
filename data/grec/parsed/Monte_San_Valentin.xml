@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TEXT ID="781">
+	<TITLE>Monte San Valentin</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte San Valentin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, also known as Monte San Clemente, is the highest mountain in Chilean Patagonia and the highest mountain south of 40°S outside Antarctica. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> stands at the north end of the North Patagonian Icefield.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte San Valentin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> can be climbed from Lago Leones, to the south east, or from Laguna San Rafael, to the west. The ascent is long and is particularly subject to bad weather. The accident and fatality rate is high.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>There is some confusion about the elevation. It was originally estimated at 3,876m by Nordenskjold in 1921 but later thought to be 4,058m. The latter is the most commonly quoted elevation and is quoted here. A group that climbed </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the San Valentin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in 1993 included two surveyors, who calculated an elevation of 4,080±20 m by using a GPS. In 2001 a group measured 4,070±40 m, also using GPS. SRTM data also supports an elevation in excess of 4,000 metres. But Chilean IGM mapping gives only 3,910 metres. ChIGM maps are usually accurate and reliable, but the summit is uniformly white, which may have created problems for the cartographers.</STRING>
+	</PARAGRAPH>
+</TEXT>

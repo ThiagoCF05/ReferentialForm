@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TEXT ID="1402">
+	<TITLE>Uganda</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Uganda</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Uganda, is a country in East Africa, bordered on the east by Kenya, the north by Sudan, on the west by the Democratic Republic of Congo, on the southwest by Rwanda, and on the south by Tanzania.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The southern part of  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> includes a substantial portion of Lake Victoria, within which  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shares borders with Kenya and Tanzania.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Uganda</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> takes  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name from the Buganda kingdom, which encompasses a portion of the south of  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> including the capital Kampala. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

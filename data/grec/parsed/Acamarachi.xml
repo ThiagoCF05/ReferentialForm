@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1">
+	<TITLE>Acamarachi</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Acamarachi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, also known as Pili, is a stratovolcano located northeast of the volcanoes Aguas Calientes and Lascar, and southwest of the sector Salar de Pujsa of Los Flamencos National Reserve, in the Antofagasta Region of Chile. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies on a high plateau called Puna de Atacama.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a steep-sided cone with slopes of up to 45 degrees. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is at the southeast end of a small volcano group stretching to Colachi to the northwest. </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has an old summit crater with a summit lava flow thought to date from the Holocene era. A small crater lake about 10-15 m in diameter is found within the crater. This is most likely the second highest crater lake in the world, and also the second highest lake of any kind in South America, behind the crater lake of Ojos del Salado.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEXT ID="61">
+	<TITLE>Buck Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Buck Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the Teton Range, Grand Teton National Park, Wyoming, immediately southeast of Grand Teton. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest summit south of Garnet Canyon and </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is easily seen from most vantage points in Jackson Hole. Views from the summit offer excellent views of the Cathedral Group to the north. The west slope of the summit tower are along the Alaska Basin Trail and extend into Caribou-Targhee National Forest and the Jedediah Smith Wilderness, which is the location of Alaska Basin, a popular wilderness camping area for backpackers.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The summit was first climbed on August 21, 1898 by T.M. Bannon and George Buck, only ten days after Grand Teton was first climbed by another party. Bannon later became the first person to climb Borah Peak, the tallest mountain in the state of Idaho.</STRING>
+	</PARAGRAPH>
+</TEXT>

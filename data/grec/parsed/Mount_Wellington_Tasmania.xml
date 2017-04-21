@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="583">
+	<TITLE>Mount Wellington (Tasmania)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Wellington</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain on </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">whose</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> foothills is built much of the city of Hobart, Tasmania, Australia. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is often referred to simply as 'the Mountain' by the residents of Hobart, and </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> rises to 1271 m AHD over the city.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is frequently snow covered, sometimes even in summer and the lower slopes are thickly forested, but criss-crossed by many walking tracks and a few fire trails. There is also a sealed but narrow road to the summit, about 22 km travel from the city. An enclosed lookout near the summit provides spectacular views of the city below and to the east, the Derwent estuary, and also glimpses of the World Heritage Area nearly 100 km to the west.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>From Hobart, the most distinctive feature of </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Wellington</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the cliff of dolerite columns known as the Organ Pipes.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TEXT ID="2">
+	<TITLE>Acatenango</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Acatenango</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a stratovolcano in Guatemala, close to the city of Antigua. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has two peaks, Pico Mayor (Highest Peak) and Yepocapa (3,880 m) which is also known as Tres Hermanas (Three Sisters). </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Acatenango</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is joined with Volcán de Fuego and collectively the volcano complex is known as La Horqueta.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The Fuego-Acatenango massif comprises a string of five or more volcanic vents along a north-south trend that is perpendicular to that of the Central American arc in Guatemala. From north to south known centers of volcanism are Ancient Acatenango, Yepocapa, Pico Mayor de Acatenango, Meseta, and Fuego. Volcanism along the trend stretches back more than 200,000 years. Although many of the centers have been active contemporaneously, there is a general sequence of younger volcanism, from north to south along the trend.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>This massive volcano complex towers more than 3,500 metres above the Pacific coastal plain to the south and 2,000 metres above the Guatemalan Highlands to the north. The volcano complex comprises remnants of multiple eruptive centers, which periodically have collapsed to form huge debris avalanches. The largest of these avalanches extended more than 50 kilometres from its source and covered more than 300 square kilometres. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has potential to produce huge debris avalanches that could inundate large areas of the Pacific coastal plain. In areas around the volcanoes and downslope toward the coastal plain, more than 100,000 people are potentially at risk from these and other flowage phenomena.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>The only known historical eruptions of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Acatenango volcano</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> occurred in the 20th century, between 1924 and 1927 from just north of the summit peak (Pico Mayor) and again in December 1972 from the saddle between Yepocapa and Pico Mayor. These phreatic explosions generated ballistic volcanic bombs that fell near the summit craters and fine volcanic ash that fell up to 25 km away. In prehistoric time, </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Acatenango</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has erupted explosively to form widespread fall deposits, hot pyroclastic flows and lava flows. There have been numerous eruptions during the past 80,000 years from vents along the massif. The most recent explosive eruptions of </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Acatenango</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> occurred 1,900 years ago (Pico Mayor), 2,300 years ago (Pico Mayor) and about 5,000 years ago (Yepocapa). If such eruptions were to recur, many people and costly infrastructure would be at risk.</STRING>
+	</PARAGRAPH>
+</TEXT>

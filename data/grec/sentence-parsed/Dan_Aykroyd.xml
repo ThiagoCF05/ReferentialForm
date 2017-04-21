@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1486">
+	<TITLE>Dan Aykroyd</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Daniel Edward Aykroyd</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> CM (born July 1, 1952 in Ottawa, Canada) is an Academy Award-nominated Canadian comedian, actor, screenwriter, and musician.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was an original cast member of Saturday Night Live, an originator of the Blues Brothers (with John Belushi), and  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has had a long career as a film actor and screenwriter. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

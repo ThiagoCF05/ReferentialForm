@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<TEXT ID="1800">
+	<TITLE>Columbia River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Columbia River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (French: fleuve Columbia) is a river situated in British Columbia and the Pacific Northwest of the United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="19" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the largest river in volume flowing into the Pacific Ocean from the Western Hemisphere, and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="17" SEMCAT="river" SENTENCE-POSITION="18" SENTENCE-RECENCY="17" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the second largest by volume in North America behind the Mississippi.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>In rare years,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="53" PARAGRAPH-RECENCY="16" SEMCAT="river" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the river's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flow may actually exceed that of the Mississippi.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The mean total flow is 262,000 ft^3/s (7400 m³/s).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="71" PARAGRAPH-RECENCY="18" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the largest hydroelectric power producing river in North America.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>From  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="83" PARAGRAPH-RECENCY="12" SEMCAT="river" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> headwaters to the Pacific Ocean  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="89" PARAGRAPH-RECENCY="6" SEMCAT="river" SENTENCE-POSITION="8" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flows 1,232 miles (2,044 km), and  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="96" PARAGRAPH-RECENCY="7" SEMCAT="river" SENTENCE-POSITION="15" SENTENCE-RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> drains 258,000 square miles (415,211 km²).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>Because of  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="105" PARAGRAPH-RECENCY="9" SEMCAT="river" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> large water volume,  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="109" PARAGRAPH-RECENCY="4" SEMCAT="river" SENTENCE-POSITION="7" SENTENCE-RECENCY="4" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has the nickname 'the Mighty Columbia.'</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.8">
+			<REFERENCE ID="11" PARAGRAPH-POSITION="116" PARAGRAPH-RECENCY="7" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is four times the volume of the Colorado River, fifteen times the volume of the Sacramento River, and over 100 times the volume of the Rio Grande River.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.9">
+			<REFERENCE ID="12" PARAGRAPH-POSITION="145" PARAGRAPH-RECENCY="29" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named after Capt.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.10">
+			<STRING>Robert Gray's ship Columbia Rediviva, the first to travel up  </STRING>
+			<REFERENCE ID="13" PARAGRAPH-POSITION="160" PARAGRAPH-RECENCY="15" SEMCAT="river" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

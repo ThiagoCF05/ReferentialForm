@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TEXT ID="958">
+	<TITLE>Vanuatu</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vanuatu</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Vanuatu, is a Melanesian island nation located in the South Pacific Ocean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The archipelago</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located some 1,750 km (1090 mi) east of Australia, 500 km (310 mi) north-east of New Caledonia, west of Fiji and south of the Solomon Islands. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Vanuatu</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first inhabited by Melanesian people.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Europeans began to settle in the area in the late 18th century and in 1906 Britain and France officially claimed  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, jointly managing  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> through the British-French Condominium.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>An independence movement was established in the 1970s, and  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Republic of Vanuatu</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was created in 1980. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

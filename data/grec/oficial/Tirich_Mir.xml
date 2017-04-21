@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<TEXT ID="886">
+	<TITLE>Tirich Mir</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tirich Mir</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (alternatively Terich Mir and Terichmir) is the highest mountain in the Hindu Kush region of northern Pakistan. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed in 1950 by a Norwegian expedition comprised of Arne Næss, P. Kvernberg, H. Berg, and Tony Streather. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tirich Mir</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> overlooks Chitral town.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="4" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can easily be seen from the main bazaar.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="9" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can also be seen from Afghanistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>According to a local legend, it is impossible to climb  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="17" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, because of all the Jinns, demons, witches and fairies who live up there. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Almost every year, a few tourists are killed while hiking and trekking around  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="14" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tirich Mir</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Often, they fall down into deep crevasses and their bodies are never found. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>The last village in Chitral before reaching  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tirich Mir</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Village Tirich.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>It is located in Mulkow.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.3">
+			<STRING>The people there speak the Khowar language.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.4">
+			<STRING>The residents are available for hire as porters and tourist guides and will lead trekkers part way up  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="34" SEMCAT="mountain" SENTENCE-POSITION="19" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, but there is a point beyond which they will not go. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

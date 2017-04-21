@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<TEXT ID="279">
+	<TITLE>Lassen Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lassen Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (also known as Mount Lassen) is the southernmost active volcano in the Cascade Range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is part of the Cascade Volcanic Arc which is an arc that stretches from northern California to southwestern British Columbia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Located in the Shasta Cascade region of Northern California,  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lassen</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> rises 2,000 feet (610 m) above the surrounding terrain and  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a volume of half a cubic mile, making  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> one of the largest lava domes on Earth.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was created on the destroyed northeastern flank of now gone Mount Tehama, a stratovolcano that was at least a thousand feet (300 m) higher than  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lassen</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lassen Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has the distinction of being the only other volcano in the Cascades besides Mount St. Helens to have erupted during the 20th century.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>On May 22, 1915, an explosive eruption at  </STRING>
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lassen Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> devastated nearby areas and rained volcanic ash as far away as 200 miles (320 km) to the east.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>This explosion was the most powerful in a 1914–17 series of eruptions that were the last to occur in the Cascades before the 1980 eruption of Mount St. Helens in Washington.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Lassen Volcanic National Park was created in Shasta County, California to preserve the devastated area and nearby volcanic wonders. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Unlike most lava domes,  </STRING>
+			<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lassen</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is topped by craters.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>In fact, a series of these craters exist around  </STRING>
+			<REFERENCE ID="11" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Lassen's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit, although two of these are now covered by solidified lava and sulfur deposits.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<REFERENCE ID="12" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lassen</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the largest of a group of more than 30 volcanic domes that have erupted over the past 300,000 years in the Lassen Volcanic Center. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

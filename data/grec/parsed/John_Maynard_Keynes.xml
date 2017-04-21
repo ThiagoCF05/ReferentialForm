@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1607">
+	<TITLE>John Maynard Keynes</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">John Maynard Keynes</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, 1st Baron Keynes, CB (pronounced &quot;canes&quot;, IPA [IPA: /keɪnz/]) (5 June 1883 - 21 April 1946) was a British economist </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">whose</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ideas, called Keynesian economics, had a major impact on modern economic and political theory as well as on many governments' fiscal policies. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is particularly remembered for advocating interventionist government policy, by which the government would use fiscal and monetary measures to mitigate the adverse effects of economic recessions, depressions and booms. Economists consider </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> one of the main founders of modern theoretical macroeconomics. </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> popular expression &quot;In the very long run, we are all dead&quot; is still quoted.</STRING>
+	</PARAGRAPH>
+</TEXT>

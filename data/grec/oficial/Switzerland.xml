@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<TEXT ID="1387">
+	<TITLE>Switzerland</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Switzerland</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([German: die Schweiz], [French: la Suisse], [Italian: Svizzera] and Romansh: Svizra), officially the Swiss Confederation, is a landlocked Alpine country in Central Europe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="24" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="1" SEMCAT="country" SENTENCE-POSITION="2" SENTENCE-RECENCY="1" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders Germany to the north, France to the west, Italy to the south, and Austria and Liechtenstein to the east, was historically a confederation, and  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="52" PARAGRAPH-RECENCY="26" SEMCAT="country" SENTENCE-POSITION="28" SENTENCE-RECENCY="26" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been a federation since 1848.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="59" PARAGRAPH-RECENCY="7" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Switzerland</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a strong economy in finance and banking, and a long and strong tradition of political and military neutrality.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>This background allows  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="82" PARAGRAPH-RECENCY="23" SEMCAT="country" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Switzerland</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> to host various international co-operations and organizations.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>&quot;Switzerland&quot; is a term often used to state being neutral on a situation, in reference to  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="106" PARAGRAPH-RECENCY="24" SEMCAT="country" SENTENCE-POSITION="17" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Switzerland's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> strong history of neutrality. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Confoederatio Helvetica,  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> official Latin name, means Helvetic Confederation.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The use of Latin avoids having to favour one of the four national languages.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The abbreviation (CH) is used for the same reason.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The titles commonly used in French (Confédération suisse), Italian (Confederazione Svizzera) and Romansh (Confederaziun svizra) translate as &quot;Swiss Confederation&quot;, while the German name of Schweizerische Eidgenossenschaft translates literally as &quot;Swiss Oath Fellowship&quot; or &quot;Swiss Commonwealth of the Covenant&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>A male native of  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="75" PARAGRAPH-RECENCY="72" SEMCAT="country" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Switzerland</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is said to be a Schweizer and a female is a Schweizerin in Swiss German; Suisse (male) or Suissesse (female) in Swiss French and svizzero (male) or svizzera (female) in Swiss Italian. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

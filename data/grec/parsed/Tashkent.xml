@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="1179">
+	<TITLE>Tashkent</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tashkent</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ([Uzbek: Toshkent, Тошкент], [Russian: Ташкент], [English: Stone City]) is the current capital of Uzbekistan and also of Tashkent Province. The population of </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in 2006 was 1,967,879.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The name of </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has evolved in a number of stages. In medieval times </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the town</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and the province was known as Chach. Later, </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the town</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> came to be known as Chachkand/Chashkand, meaning &quot;Chach City.&quot; (Kand, qand, kent, kad, kath, kud--all meaning a city, are derived from the Old Iranian, kanda, meaning a town or a city. They are found in city names like Samarkand, Yarkand, Penjikent etc.) After the 16th century and the steady replacement of the old, Persian-speaking population with Uzbeks, the name was changed slightly from Chachkand/Chashkand to Tashkand, which as &quot;stone city&quot; was more meaningful to the new inhabitants than the old name. The modern spelling of Tashkent is a Soviet product.</STRING>
+	</PARAGRAPH>
+</TEXT>

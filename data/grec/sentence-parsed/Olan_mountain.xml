@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="624">
+	<TITLE>Olan (mountain)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Olan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (l'Olan in French) (3,564 m) is a mountain in the Massif des Écrins in the French Alps.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> dominates the valleys of Valgaudemar, Valjouffrey, and Vénéon in the heart of Écrins National Park. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

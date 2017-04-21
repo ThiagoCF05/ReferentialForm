@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TEXT ID="1060">
+	<TITLE>Geneva</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Geneva</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (pronunciation /[IPA: dʒənivə]/; French: Genève /[IPA: ʒənɛv]/, German: Genf /[IPA: gɛnf]/, Italian: Ginevra) is the second most populous city in Switzerland (after Zürich), and  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="25" SEMCAT="city" SENTENCE-POSITION="26" SENTENCE-RECENCY="25" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the most populous city of Romandy (the French-speaking part of Switzerland).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="13" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is situated where Lake Geneva (French Lac Léman) flows into the Rhône River, and  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="54" PARAGRAPH-RECENCY="15" SEMCAT="city" SENTENCE-POSITION="16" SENTENCE-RECENCY="15" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital of the Canton of Geneva.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The population within the city limits is 185,526 (2004) and that of the metropolitan area — which extends into France and Vaud — is about 700,000.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="89" PARAGRAPH-RECENCY="35" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Geneva</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is widely regarded as a global city, mainly due to the presence of numerous international organizations, including the European headquarters of the United Nations.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>A 2006 survey found  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="118" PARAGRAPH-RECENCY="29" SEMCAT="city" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Geneva</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> to have the second highest quality of living in the world (again, after Zürich). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>See Names of European cities in different languages for a list of the name of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="16" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in other languages. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

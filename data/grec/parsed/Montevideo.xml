@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="1117">
+	<TITLE>Montevideo</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Montevideo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> -pron [IPA: monteβi'ðeo] is the capital, largest city, and chief port of Uruguay. Given that </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is more than twice as large as any other city in the country, </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is considered a primate city. As of April 2006, </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Montevideo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is ranked by Mercer Human Resource Consulting as the city in Latin America with the highest quality of life.</STRING>
+	</PARAGRAPH>
+</TEXT>

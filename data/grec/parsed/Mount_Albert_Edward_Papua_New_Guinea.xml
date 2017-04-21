@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEXT ID="337">
+	<TITLE>Mount Albert Edward, Papua New Guinea</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Albert Edward</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a 3,990 metre high mountain in the Wharton Range in Central Province, Papua New Guinea. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> consists of two peaks about 400 metres apart, a cross marks the top of the slightly higher western peak and a trig station marks the eastern peak. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies approximately 140km north of Port Moresby.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The first recorded ascent was in 1906 by C A W Monckton. There were further ascents in the early 20th century, but the first detailed account was made in 1935 following an ascent by Richard Archbold and Austin L. Rand in 1933.</STRING>
+	</PARAGRAPH>
+</TEXT>

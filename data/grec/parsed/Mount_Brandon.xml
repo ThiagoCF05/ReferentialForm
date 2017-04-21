@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TEXT ID="369">
+	<TITLE>Mount Brandon</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Brandon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> or the Brandon Mountain (Irish: Sliabh Bhreandáin or Cnoc Bréanainn) is a mountain on the Dingle Peninsula, in Co. Kerry, in the west of Ireland. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The hill</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> takes </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name from Saint Brendan &quot;The Navigator&quot;, who legend suggests climbed to the summit around AD 530 to see The Americas, before setting sail. The small village of Brandon lies at the foot of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, on the north side.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of the unnamed central mountain range of the Dingle Peninsula, which were formed 300 million years ago, and forming an impressive high ridge which extends for across the peninsula and taking in the other peaks of Barr an Ghéaráin (Brandon Peak), Piaras Mór, and Más an Tiompán, .</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Brandon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> owes </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> craggy shape thanks to the work of local glaciers during the Ice age, which gouged out a series of corries (cooms) on the eastern flank of </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. Running in a line almost all the way to the summit are the Pater Noster Lakes, a series of rock steps each of which are occupied by a lake, the largest being Loch Cruite. The summit of </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="yes" HEAD="nominal" TYPE="pronoun">Mount Brandon itself</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is rounded and smooth due to the fact that it was never covered by ice, and presents a stark contrast to the conical top of Brandon Peak, which is almost Alpine in appearance.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>The Western slope of </STRING>
+		<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Brandon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> presents a huge contrast from </STRING>
+		<REFERENCE ID="11" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> eastern side, facing into the sun, it largely escaped the gouging effect of the glaciers, with the result that it presents an almost unbroken grassy slope.</STRING>
+	</PARAGRAPH>
+</TEXT>

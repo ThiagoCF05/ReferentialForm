@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TEXT ID="261">
+	<TITLE>Kinnerly Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kinnerly Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain of the Livingston Range, in Glacier National Park, Montana, United States. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located approximately 1 mile (1.6 km) north of Kintla Peak, the highest peak in the Livingston Range, and 3 miles (4.8 km) south of the Canadian border. Both peaks are located in the remote northwest corner of the park.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kinnerly Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is notable for </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> huge north face, which rises steeply from Upper Kintla Lake. From the lake to the summit is an elevation gain of 5,573 ft (1,699 m) in approximately 1 horizontal mile (5,280 ft/1.6 km). (This elevation gain over one horizontal mile is almost unmatched in the contiguous United States.)</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The first recorded ascent of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kinnerly Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was made by a Sierra Club party led by the noted mountaineer Norman Clyde, in 1937. The standard climbing route ascends the northwest face, starting from the south shore of Upper Kintla Lake. It involves a large amount of elevation gain, mostly by scrambling, but with some exposed and mildly technical sections (Class 4 or easy Class 5). Other routes exist on the southeast and southwest faces. (Edwards 1995:84-89)</STRING>
+	</PARAGRAPH>
+</TEXT>

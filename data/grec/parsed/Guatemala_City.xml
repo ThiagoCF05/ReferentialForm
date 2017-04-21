@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="1062">
+	<TITLE>Guatemala City</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guatemala City</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (in full, La Nueva Guatemala de la Asunción; locally known as Guatemala or Guate) is the capital and largest city of the nation of Guatemala. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the largest city in Central America.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Population estimates for </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guatemala City</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is 2,541,581. </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located at 14°38'N,90°33'W, in a mountain valley in the south central part of the country.</STRING>
+	</PARAGRAPH>
+</TEXT>

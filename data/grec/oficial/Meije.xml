@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TEXT ID="323">
+	<TITLE>Meije</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">La Meije</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in the Massif des Écrins range, located at the border of the Hautes-Alpes and Isère départements.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="20" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> overlooks the nearby village of La Grave, a mountaineering centre and ski resort, well-known for  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="17" SENTENCE-RECENCY="16" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> off-piste and extreme skiing possibilities. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">La Meije</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is composed of three principal summits.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The highest point is the Grand Pic de la Meije at 3,984 metres.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The Doigt de Dieu (English: Finger of God), a large snow-clad tower at the east end of the ridge, overhanging the south slopes, is an attraction for mountaineers of all levels of ability.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The first ascent of  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="58" PARAGRAPH-RECENCY="57" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">La Meije</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was made on August 16, 1877 by Emmanuel Boileau de Castelneu and Pierre Gaspard and son.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>In 1891, J. H. Gibson, U. Almer and F. Boss made the first traverse of the ridge, from west to east. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>For mountaineering,  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">La Meije</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can be approached from two mountain refuges:* The refuge du Promontoire at 3,082 metres, is situated at the bottom of the steep south buttress of the peak, and allows access to routes on the south face of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="38" SEMCAT="mountain" SENTENCE-POSITION="41" SENTENCE-RECENCY="38" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>* The refuge de l'Aigle at 3,450 metres, is situated at the top of the Tabuchet glacier, and allows access to the north face. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

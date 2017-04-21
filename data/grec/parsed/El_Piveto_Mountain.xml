@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="147">
+	<TITLE>El Piveto Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">El Piveto Mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located lies between Wolf River and Cervus Creek on Vancouver Island, British Columbia. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is is located 2 km SE of Rambler Peak and 24 km E of Gold River.</STRING>
+	</PARAGRAPH>
+</TEXT>

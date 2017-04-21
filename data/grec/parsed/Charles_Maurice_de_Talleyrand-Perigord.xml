@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1473">
+	<TITLE>Charles Maurice de Talleyrand-Périgord</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Charles Maurice de Talleyrand-Périgord</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, Prince de Benevente (February 2, 1754 – May 17, 1838) was a French diplomat. </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> worked successfully from the regime of Louis XVI, through the French Revolution and then under Napoleon I, Louis XVIII and Louis-Philippe. Known since the turn of the 19th century simply by the name Talleyrand, </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is widely regarded as one of the most versatile and influential diplomats in European history.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TEXT ID="957">
+	<TITLE>Thailand</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Kingdom of Thailand</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a country in Southeast Asia, bordering Laos and Cambodia to the east, the Gulf of Thailand and Malaysia to the south, and the Andaman Sea and Myanmar to the west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The country's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> official name was Siam ([Thai: สยาม]; IPA: [IPA: [saˈjaːm]], ), until May 11, 1949.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The word Thai (ไทย) means &quot;freedom&quot; in the Thai language and is also the name of the majority ethnic group. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

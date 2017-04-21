@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TEXT ID="373">
+	<TITLE>Mount Buller (Victoria)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Buller</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in the Australian Alps. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The summit of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Buller</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> can be reached by vehicle via the village coupled with a 500m short walk.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>It is also possible to climb  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="21" SEMCAT="mountain" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> from Delatite river level you can follow the Klingsporn walking track.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The Klingsporn track was the bridle trail in days gone by when stockmen would take their cattle up high for the summer months.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The walk begins at Merimbah and is a 8km walk on a well defined track. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>An adventurous twist on this walk is to walk to the aptly named &quot;Thank Christ Corner&quot; on Shoulder spur and go off track along shoulder spur to Mclaughlin's spur to the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Mclaughlins spur offers good views to the summit fire tower and the rocky outcrops that must be traversed. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>At the summit there is a stone distance dial and a fire tower that is manned during the summer months. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

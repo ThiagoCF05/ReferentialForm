@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="368">
+	<TITLE>Mount Boucherie</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Boucherie</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the remnants of a former stratovolcano created nearly 60 million years ago. Between four and six different glacial periods over the past 50 million years have eroded the volcano to produce </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Boucherie</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

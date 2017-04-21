@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<TEXT ID="1841">
+	<TITLE>São Francisco River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The São Francisco River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a river in Brazil with a length of 3,160 kilometres.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the fourth largest river system in South America and the longest river wholly within Brazil.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> begins in the state of Minas Gerais.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> runs generally north behind the coastal range draining an area of over 630,000 square kilometers before turning east to form the border between the state of Bahia and the states of Pernambuco and Alagoas before entering the Atlantic Ocean between the states of Alagoas and Sergipe. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The main tributaries are the: Paraopeba, Abaeté, das Velhas, Jequitaí, Paracatu, Urucuia, Verde Grande, Carinhanha, Corrente, and Grande. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The area crossed by  </STRING>
+			<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is vast and underpopulated, but several towns lie on  </STRING>
+			<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Beginning in Minas Gerais  </STRING>
+			<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> passes by Pirapora, São Francisco, Januária, Bom Jesus da Lapa, the twin cities of Petrolina and Juazeiro, and Paulo Afonso.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The hinterland is dry and underpopulated so most of the towns are small and isolated.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Only Petrolina and Juazeiro have grown into medium sized cities and are important because of the fruit production based on irrigation from the Sobradinho dam. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

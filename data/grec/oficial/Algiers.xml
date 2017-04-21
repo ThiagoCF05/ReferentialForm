@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<TEXT ID="993">
+	<TITLE>Algiers</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Algiers</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Arabic: الجزائر al-Jazāʼir, literally &quot;the Islands&quot;; Berber: Ldzayer, [French: Alger]) is the capital and largest city of Algeria in North Africa.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>According to the 1998 census the population of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="30" SEMCAT="city" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city proper</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was 1,519,570, whilst the total for the agglomeration was 2,135,630.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Nicknamed al-Bahjah (البهجة) or Alger la Blanche (&quot;Algiers the White&quot;) for the glistening white of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="57" PARAGRAPH-RECENCY="26" SEMCAT="city" SENTENCE-POSITION="16" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> buildings as seen sloping up from the sea,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="66" PARAGRAPH-RECENCY="9" SEMCAT="city" SENTENCE-POSITION="25" SENTENCE-RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is situated on the west side of a bay of the Mediterranean Sea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The city name is derived from  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="86" PARAGRAPH-RECENCY="20" SEMCAT="city" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> location on the slopes of the &quot;Sahel&quot;, a chain of hills parallel to the coast. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The modern part of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is built on the level ground by the seashore and the old part, the ancient city of the deys, climbs the steep hill behind the modern town and is crowned by the casbah or citadel, 400 feet above the sea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The casbah and the two quays form a triangle. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

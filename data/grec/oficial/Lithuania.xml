@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT ID="1307">
+	<TITLE>Lithuania</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lithuania</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Lithuania (Lithuanian: Lietuva; official —  Lietuvos Respublika), is a country in northern Europe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The largest of the three Baltic States situated along the Baltic Sea,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="30" SEMCAT="country" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shares borders with Latvia to the north, Belarus to the southeast, Poland and the Russian exclave of the Kaliningrad Oblast to the southwest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="55" PARAGRAPH-RECENCY="24" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lithuania</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been a member state of the European Union since May 1 2004. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

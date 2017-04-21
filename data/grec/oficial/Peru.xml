@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1348">
+	<TITLE>Peru</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Peru</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Peru ([Spanish: Perú] or República del Perú pron.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>IPA [IPA: [re'pu.βli.ka del pe'ɾu]], Quechua: Piruw), is a country in western South America, bordering Ecuador and Colombia to the north, Brazil to the east, Bolivia to the south-east, Chile to the south, and the Pacific Ocean to the west. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>In addition to being known as the cradle of the Inca empire,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Peru</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the home of many indigenous ethnic groups.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="9" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is therefore a country with major historical and cultural standing. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

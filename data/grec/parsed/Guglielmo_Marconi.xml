@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1549">
+	<TITLE>Guglielmo Marconi</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guglielmo Marchese Marconi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, GCVO (25 April 1874 - 20 July 1937) was an Italian inventor, best known for </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> development of a practical radiotelegraph system, which served as the foundation for the establishment of numerous affiliated companies worldwide. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> shared the 1909 Nobel Prize in Physics with Karl Ferdinand Braun, &quot;in recognition of their contributions to the development of wireless telegraphy&quot;.</STRING>
+	</PARAGRAPH>
+</TEXT>

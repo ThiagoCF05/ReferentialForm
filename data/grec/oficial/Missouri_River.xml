@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<TEXT ID="1826">
+	<TITLE>Missouri River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Missouri River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a tributary of the Mississippi River in the United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="12" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Missouri</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> begins at the confluence of the Madison, Jefferson, and Gallatin rivers in Montana, and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="15" SEMCAT="river" SENTENCE-POSITION="16" SENTENCE-RECENCY="15" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flows into the Mississippi north of St. Louis, Missouri.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>At 2,341 mi (3,767 km) in length,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="17" SEMCAT="river" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> drains approximately one-sixth of the North American continent.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Depending on whether  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="57" PARAGRAPH-RECENCY="12" SEMCAT="river" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> length is reckoned from the headwaters of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="65" PARAGRAPH-RECENCY="8" SEMCAT="river" SENTENCE-POSITION="12" SENTENCE-RECENCY="8" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> sources (as the Mississippi's length is reckoned from Lake Itasca, Minnesota), or from their confluence where  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="82" PARAGRAPH-RECENCY="17" SEMCAT="river" SENTENCE-POSITION="29" SENTENCE-RECENCY="17" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Missouri</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is first so-named (at Three Forks, Montana),  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="90" PARAGRAPH-RECENCY="8" SEMCAT="river" SENTENCE-POSITION="37" SENTENCE-RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is currently either the longest or second-longest river in the United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Prior to the Pick-Sloan Program and channelization,  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="110" PARAGRAPH-RECENCY="20" SEMCAT="river" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was unquestionably the longest river in the US.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>The combined Missouri-Mississippi river system is the third longest river in the world.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>According to Engineers, in an average year,  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="139" PARAGRAPH-RECENCY="29" SEMCAT="river" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Missouri River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> provides about 45 percent of the flow of the Mississippi past St. Louis.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.8">
+			<REFERENCE ID="11" PARAGRAPH-POSITION="153" PARAGRAPH-RECENCY="14" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> volume on average is also less than that of the Ohio River, another tributary of the Mississippi. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

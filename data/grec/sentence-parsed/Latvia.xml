@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TEXT ID="1301">
+	<TITLE>Latvia</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Latvia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Latvia (Latvian: Latvija or Latvijas Republika, Livonian: Lețmō), is a country in Northern Europe. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Latvia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shares land borders with two fellow Baltic states - Estonia to the north and Lithuania to the south - and both Russia and Belarus to the east.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>In the west,  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Latvia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shares a maritime border with Sweden.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The capital of  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Latvia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Riga (Latvian: Rīga).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Latvia</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been a member state of the European Union since May 1, 2004. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

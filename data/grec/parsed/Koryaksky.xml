@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="268">
+	<TITLE>Koryaksky</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Koryaksky</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> or Koryakskaya Sopka ([Russian: Коря&amp;#769;кская со&amp;#769;пка]) is a volcano on the Kamchatka Peninsula in the far east of Russia. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies within sight of Kamchatka Krai's administrative center, Petropavlovsk-Kamchatsky. Together with neighbouring Avachinsky, </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been designated a Decade Volcano, worthy of particular study in light of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> history of explosive eruptions and proximity to populated areas.</STRING>
+	</PARAGRAPH>
+</TEXT>

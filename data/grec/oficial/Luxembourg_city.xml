@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TEXT ID="1104">
+	<TITLE>Luxembourg (city)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luxembourg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (as  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="2" SEMCAT="city" SENTENCE-POSITION="3" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> French name; sometimes Luxemburg as  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="6" SEMCAT="city" SENTENCE-POSITION="9" SENTENCE-RECENCY="6" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> German name; in Luxembourgish: Lëtzebuerg), commonly known as Luxembourg City, is a commune with city status, and the capital of the Grand Duchy of Luxembourg.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="35" PARAGRAPH-RECENCY="26" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at the confluence of the Alzette and Pétrusse rivers in southern Luxembourg </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>As of 2005,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the commune of Luxembourg City</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a population of 76,420, which is almost three times the population of the second most populous commune.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="19" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The city's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> metropolitan population, including that of surrounding communes of Hesperange, Sandweiler, Strassen, and Walferdange, is 103,973.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="16" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luxembourg City</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies at the heart of Western Europe, situated 188 km (117 miles) from Brussels, 289 km (179 miles) from Paris, 190 km (118 miles) from Cologne. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luxembourg City</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the wealthiest cities in the world, having developed into a banking and administrative centre.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="9" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="18" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Luxembourg</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a seat of several institutions of the European Union, including the European Court of Justice, the European Court of Auditors, and the European Investment Bank. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

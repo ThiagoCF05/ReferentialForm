@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="1" mentiontype="NOMINAL" number="SINGULAR"> The movie </REFERENCE>
+		<STRING> is overwrought and overdone. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="2" mentiontype="NOMINAL" number="SINGULAR"> The plot </REFERENCE>
+		<STRING> is not the </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="3" mentiontype="NOMINAL" number="SINGULAR"> book's </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<REFERENCE animacy="ANIMATE" entity="6" gender="UNKNOWN" mentionid="6" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> know that </STRING>
+		<REFERENCE animacy="INANIMATE" entity="7" gender="UNKNOWN" mentionid="7" mentiontype="NOMINAL" number="PLURAL"> movies </REFERENCE>
+		<STRING> are not supposed to be fully like </STRING>
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="8" mentiontype="NOMINAL" number="SINGULAR"> the book </REFERENCE>
+		<STRING> but when </STRING>
+		<REFERENCE animacy="ANIMATE" entity="9" gender="UNKNOWN" mentionid="9" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> practically every child -LRB- </STRING>
+			<REFERENCE animacy="ANIMATE" entity="10" gender="MALE" mentionid="10" mentiontype="NOMINAL" number="UNKNOWN"> as well as adult </REFERENCE>
+			<STRING> -RRB- in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="4" gender="NEUTRAL" mentionid="4" mentiontype="PROPER" number="SINGULAR"> America </REFERENCE>
+		</REFERENCE>
+		<STRING> has read </STRING>
+		<REFERENCE animacy="INANIMATE" entity="11" gender="UNKNOWN" mentionid="11" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> the Dr. </STRING>
+			<REFERENCE animacy="ANIMATE" entity="5" gender="MALE" mentionid="5" mentiontype="PROPER" number="SINGULAR"> Seuss </REFERENCE>
+			<STRING> books </STRING>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="12" gender="NEUTRAL" mentionid="12" mentiontype="NOMINAL" number="UNKNOWN"> this </REFERENCE>
+		<STRING> is unforgivable. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<REFERENCE animacy="INANIMATE" entity="7" gender="UNKNOWN" mentionid="13" mentiontype="NOMINAL" number="PLURAL"> The movies </REFERENCE>
+		<STRING> do n't need to be fleshed out with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="14" gender="NEUTRAL" mentionid="14" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> over analytical information about why </STRING>
+			<REFERENCE animacy="ANIMATE" entity="15" gender="UNKNOWN" mentionid="15" mentiontype="NOMINAL" number="SINGULAR"> the Cat </REFERENCE>
+			<STRING> is who </STRING>
+			<REFERENCE animacy="ANIMATE" entity="15" gender="MALE" mentionid="16" mentiontype="PRONOMINAL" number="SINGULAR"> he </REFERENCE>
+			<STRING> is </STRING>
+		</REFERENCE>
+		<STRING> or with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="17" gender="NEUTRAL" mentionid="17" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the history of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="18" gender="UNKNOWN" mentionid="18" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="10" gender="UNKNOWN" mentionid="19" mentiontype="PRONOMINAL" number="PLURAL"> their </REFERENCE>
+				<STRING> lives </STRING>
+			</REFERENCE>
+			<STRING>, but give it </STRING>
+			<REFERENCE animacy="INANIMATE" entity="21" gender="NEUTRAL" mentionid="21" mentiontype="NOMINAL" number="SINGULAR"> a rest </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<REFERENCE animacy="UNKNOWN" entity="22" gender="NEUTRAL" mentionid="22" mentiontype="NOMINAL" number="UNKNOWN">
+			<STRING> The </STRING>
+			<REFERENCE animacy="INANIMATE" entity="23" gender="UNKNOWN" mentionid="23" mentiontype="NOMINAL" number="UNKNOWN"> good stuff... </REFERENCE>
+			<STRING>. </STRING>
+		</REFERENCE>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<REFERENCE animacy="INANIMATE" entity="24" gender="NEUTRAL" mentionid="24" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the visual production </STRING>
+			<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="25" mentiontype="PRONOMINAL" number="SINGULAR">
+				<STRING> itself with </STRING>
+				<REFERENCE animacy="INANIMATE" entity="26" gender="UNKNOWN" mentionid="26" mentiontype="NOMINAL" number="SINGULAR">
+					<REFERENCE animacy="INANIMATE" entity="22" gender="UNKNOWN" mentionid="27" mentiontype="PRONOMINAL" number="SINGULAR"> its </REFERENCE>
+					<STRING> ultra-stylized appearance </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</REFERENCE>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<REFERENCE animacy="INANIMATE" entity="24" gender="NEUTRAL" mentionid="29" mentiontype="PRONOMINAL" number="SINGULAR"> It </REFERENCE>
+		<STRING> looks nice, but did </STRING>
+		<REFERENCE animacy="INANIMATE" entity="30" gender="NEUTRAL" mentionid="30" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the budget of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="31" gender="NEUTRAL" mentionid="31" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a </STRING>
+				<REFERENCE animacy="INANIMATE" entity="28" gender="UNKNOWN" mentionid="28" mentiontype="PROPER" number="SINGULAR"> third </REFERENCE>
+				<STRING> world nation </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING> need to be spent to create </STRING>
+		<REFERENCE animacy="INANIMATE" entity="32" gender="NEUTRAL" mentionid="32" mentiontype="NOMINAL" number="SINGULAR"> this film </REFERENCE>
+		<STRING>? </STRING>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="33" mentiontype="NOMINAL" number="SINGULAR"> The plot </REFERENCE>
+		<STRING> has added </STRING>
+		<REFERENCE animacy="INANIMATE" entity="34" gender="UNKNOWN" mentionid="34" mentiontype="LIST" number="PLURAL">
+			<STRING> a bunch of new things to </STRING>
+			<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="35" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+			<STRING>... and who cares </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<REFERENCE animacy="UNKNOWN" entity="36" gender="NEUTRAL" mentionid="36" mentiontype="NOMINAL" number="UNKNOWN"> This </REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="36" gender="NEUTRAL" mentionid="37" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> a short book which should have remained </STRING>
+			<REFERENCE animacy="INANIMATE" entity="38" gender="NEUTRAL" mentionid="38" mentiontype="NOMINAL" number="SINGULAR"> a cartoon classic </REFERENCE>
+			<STRING> on tv </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<STRING> With </STRING>
+		<REFERENCE animacy="INANIMATE" entity="39" gender="UNKNOWN" mentionid="39" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> the holidays upon </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="40" gender="UNKNOWN" mentionid="40" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="41" gender="UNKNOWN" mentionid="41" mentiontype="PRONOMINAL" number="PLURAL"> us </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="42" gender="NEUTRAL" mentionid="42" mentiontype="NOMINAL" number="SINGULAR"> the mass merchandising </REFERENCE>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="43" mentiontype="NOMINAL" number="SINGULAR"> the movie </REFERENCE>
+		<STRING> is sure to be a hit... too bad as there are </STRING>
+		<REFERENCE animacy="INANIMATE" entity="44" gender="UNKNOWN" mentionid="44" mentiontype="NOMINAL" number="PLURAL"> some other films that deserve to be seen </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<STRING> At </STRING>
+		<REFERENCE animacy="INANIMATE" entity="45" gender="UNKNOWN" mentionid="45" mentiontype="PROPER" number="SINGULAR"> less than 90 minutes </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="46" mentiontype="NOMINAL" number="SINGULAR"> this movie </REFERENCE>
+		<STRING> is definitely too long. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<REFERENCE animacy="ANIMATE" entity="47" gender="UNKNOWN" mentionid="47" mentiontype="PRONOMINAL" number="UNKNOWN"> You </REFERENCE>
+		<STRING> 'll probably have screaming </STRING>
+		<REFERENCE animacy="ANIMATE" entity="48" gender="UNKNOWN" mentionid="48" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> kids who want to see </STRING>
+			<REFERENCE animacy="INANIMATE" entity="32" gender="NEUTRAL" mentionid="49" mentiontype="NOMINAL" number="SINGULAR"> this film </REFERENCE>
+		</REFERENCE>
+		<STRING>.... </STRING>
+	</SENTENCE>
+	<SENTENCE ID="13">
+		<REFERENCE animacy="INANIMATE" entity="32" gender="NEUTRAL" mentionid="50" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> is on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="51" gender="UNKNOWN" mentionid="51" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> steroids </STRING>
+			<REFERENCE animacy="INANIMATE" entity="52" gender="NEUTRAL" mentionid="52" mentiontype="NOMINAL" number="SINGULAR"> the way </REFERENCE>
+			<STRING> it runs all over </STRING>
+			<REFERENCE animacy="INANIMATE" entity="54" gender="NEUTRAL" mentionid="54" mentiontype="NOMINAL" number="SINGULAR"> the place </REFERENCE>
+		</REFERENCE>
+		<STRING> but </STRING>
+		<REFERENCE animacy="ANIMATE" entity="48" gender="UNKNOWN" mentionid="55" mentiontype="PRONOMINAL" number="PLURAL"> they </REFERENCE>
+		<STRING> may be entertained. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="14">
+		<REFERENCE animacy="ANIMATE" entity="57" gender="UNKNOWN" mentionid="57" mentiontype="NOMINAL" number="PLURAL"> Parents </REFERENCE>
+		<STRING> have </STRING>
+		<REFERENCE animacy="INANIMATE" entity="58" gender="UNKNOWN" mentionid="58" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="INANIMATE" entity="56" gender="UNKNOWN" mentionid="56" mentiontype="PROPER" number="SINGULAR"> two </REFERENCE>
+			<STRING> choices: lie </STRING>
+		</REFERENCE>
+		<STRING> and say </STRING>
+		<REFERENCE animacy="UNKNOWN" entity="59" gender="NEUTRAL" mentionid="59" mentiontype="NOMINAL" number="SINGULAR"> the theatre </REFERENCE>
+		<STRING> went out of business. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="15">
+		<STRING> Or give in to </STRING>
+		<REFERENCE animacy="ANIMATE" entity="60" gender="UNKNOWN" mentionid="60" mentiontype="NOMINAL" number="PLURAL"> the children </REFERENCE>
+		<STRING> and put up with </STRING>
+		<REFERENCE animacy="INANIMATE" entity="61" gender="UNKNOWN" mentionid="61" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="57" gender="UNKNOWN" mentionid="62" mentiontype="PRONOMINAL" number="PLURAL"> their </REFERENCE>
+			<STRING> disappointment </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="16">
+		<STRING> Stale popcorn would be better than </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="63" mentiontype="NOMINAL" number="SINGULAR"> this movie </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="17">
+		<STRING> Somehow </STRING>
+		<REFERENCE animacy="ANIMATE" entity="6" gender="UNKNOWN" mentionid="64" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> think </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="65" mentiontype="NOMINAL" number="SINGULAR"> this movie </REFERENCE>
+		<STRING> will be better on video as seeing </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="66" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="67" gender="NEUTRAL" mentionid="67" mentiontype="NOMINAL" number="SINGULAR"> the smaller screen </REFERENCE>
+		<STRING> may make </STRING>
+		<REFERENCE animacy="INANIMATE" entity="1" gender="NEUTRAL" mentionid="68" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> appear to be less over produced. </STRING>
+	</SENTENCE>
+</TEXT>

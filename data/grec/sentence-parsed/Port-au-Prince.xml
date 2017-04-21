@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="1139">
+	<TITLE>Port-au-Prince</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Port-au-Prince</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, (Pòtoprens in Kréyòl), population 1,277,000 (2006), is the capital and largest city of Haiti.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Growth, especially in crowded slums in nearby plains and hillsides, has raised the population of the Port-au-Prince area to between 2.5 and 3 million people.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located on a bay of the Gulf of La Gonave, at 18°32'N,72°20'W.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The city's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> layout is somewhat similar to that of an amphitheatre; commercial districts are near the water, while residential neighbourhoods are located on the hills above. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

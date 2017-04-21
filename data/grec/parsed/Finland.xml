@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TEXT ID="1267">
+	<TITLE>Finland</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Republic of Finland</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Finnish: Suomi, Suomen tasavalta, Swedish: Republiken Finland), is one of the Nordic countries. Situated in Northern Europe, </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> shares land borders with Sweden to the west, Russia to the east and Norway to the north while Estonia lies to its south. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Finland</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is bounded by the Baltic Sea with the Gulf of Finland to the south and the Gulf of Bothnia to the west. The Åland Islands, off the south-western coast, are an autonomous province of </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Finland</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Finland</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a population of over five million people spread over more than 330,000 km² (127,000 sq. mi) making </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> one of the most sparsely populated countries in the world.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Finland</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is ranked 11th on the 2006 United Nations Human Development Index.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>Along with Estonian, Hungarian and Maltese, Finnish is one of the few official languages of the European Union that is not of Indo-European origin.</STRING>
+	</PARAGRAPH>
+</TEXT>

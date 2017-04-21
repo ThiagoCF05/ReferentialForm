@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<TEXT ID="1550">
+	<TITLE>Guy Fawkes</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guy Fawkes</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (April 13 1570 - January 31 1606),  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="8" SEMCAT="person" SENTENCE-POSITION="9" SENTENCE-RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was also known as Guido Fawkes, born in York, was an English soldier and member of a group of Roman Catholics who attempted to carry out the Gunpowder Plot on 5 November 1605. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The plot was an attempt to assassinate the Protestant King James I (James VI of Scotland) and the members of both houses of the Parliament of England, by blowing up Westminster Palace during the formal opening session of the 1605 Parliament, in which the king would address a joint assembly of both the House of Lords and the House of Commons.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="62" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guy Fawkes</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was in large part responsible for the later stages of the plan's execution.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="76" PARAGRAPH-RECENCY="14" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> activities were detected, however, before the plan's completion.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Following a severe interrogation involving the use of torture, and a trial in Westminster Hall by Judge John Popham,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="104" PARAGRAPH-RECENCY="28" SEMCAT="person" SENTENCE-POSITION="20" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Fawkes</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="106" PARAGRAPH-RECENCY="2" SEMCAT="person" SENTENCE-POSITION="22" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> conspirators were executed for treason and attempted murder.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="115" PARAGRAPH-RECENCY="9" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Guy Fawkes'</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> failure is remembered with Guy Fawkes Night (also known as Bonfire Night or Fireworks Night) on November 5. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TEXT ID="920">
+	<TITLE>Wetterhorn</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Wetterhorn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (3,701 m) is a mountain in the Swiss Alps close to the village of Grindelwald.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Although  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="18" PARAGRAPH-RECENCY="17" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed in 1844, the ascent by Alfred Wills and party in 1854 is the more celebrated, and is generally regarded to have marked the beginning of the golden age of alpinism. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

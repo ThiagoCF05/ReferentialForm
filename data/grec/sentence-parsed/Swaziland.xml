@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEXT ID="1386">
+	<TITLE>Swaziland</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Kingdom of Swaziland</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a small, landlocked country in Southern Africa (one of the smallest on the continent), situated on the eastern slope of the Drakensberg mountains, embedded between South Africa in the west and Mozambique in the east.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is named after the Swazi, a Bantu tribe.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Due in part to a high rate of HIV infection,  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Swaziland</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has the world's lowest life expectancy: 32.62 years. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

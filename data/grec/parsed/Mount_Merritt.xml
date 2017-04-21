@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="487">
+	<TITLE>Mount Merritt</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Merritt</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (10,004 ft / 3,049 m) is located in the Lewis Range in the U.S. state of Montana. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of six in Glacier National Park over 10,000 ft (3,048 m). Located in the northeastern part of the park, </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Merritt</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> rises dramatically a vertical mile above nearby rivers. The approach to </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this remote peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> involves a one way hike of 13 miles (21 km) to the summit base. Near the summit, the Old Sun Glacier hangs along the east ridge.</STRING>
+	</PARAGRAPH>
+</TEXT>

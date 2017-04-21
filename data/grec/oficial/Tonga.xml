@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1394">
+	<TITLE>Tonga</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tonga</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Kingdom of Tonga (Tongan for &quot;south&quot;), is an independent archipelago in the southern Pacific Ocean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="18" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies about a third of the way between New Zealand and Hawaii, south of Samoa and east of Fiji. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The islands</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are also known as the Friendly Islands, the name given by Captain Cook because of the friendly reception he received.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>He happened to arrive at the time of inasi festival, the yearly donation of the first fruits to the Tui Tonga and was invited to the festivities.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>According to the writer William Mariner, in reality the chiefs had wanted to kill Cook during the gathering, but had been unable to agree on a plan. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

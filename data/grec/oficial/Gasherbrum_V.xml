@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="172">
+	<TITLE>Gasherbrum V</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gasherbrum V</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in the Gasherbrum massif, located in the Karakoram range of the Himalaya. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Gasherbrum is a remote group of peaks located at the northeastern end of the Baltoro Glacier in the Karakoram range of the Himalaya.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The massif contains three of the world's 8,000 metre peaks (if one includes Broad Peak).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Gasherbrum is often claimed to mean &quot;Shining Wall&quot;, presumably a reference to the highly visible face of Gasherbrum IV; but in fact it comes from &quot;rgasha&quot; (beautiful) + &quot;brum&quot; (mountain) in Balti, hence it actually means &quot;beautiful mountain.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Although in Western literature a height around 7,320 m is traditionally given,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="13" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is more likely to be around 7,150 m high.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The Russian military 1:100,000 topographical map shows a height of 7,120 m. The currently most accurate map of the region probably is that in the series of &quot;Maps of Snow Mountains in China&quot;, which gives a height of 7,147 m. On this map the pass connecting to Gasherbrum III is 6,493 m high (654 m prominence). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

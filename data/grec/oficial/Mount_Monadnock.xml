@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TEXT ID="491">
+	<TITLE>Mount Monadnock</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Monadnock</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, or Grand Monadnock, of Cheshire County, New Hampshire, is the most prominent peak of southeast New England.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>At 3165 ft,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is nearly 1,000 feet (305 m) higher than any mountain peak within 30 miles and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="20" SENTENCE-RECENCY="16" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> rises 2,000 feet (610 m) above the surrounding landscape.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="48" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> bare, isolated, and rocky summit provides expansive views.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>A number of hiking trails ascend  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="63" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, including the 110 mile Metacomet-Monadnock Trail and the 50 mile Monadnock-Sunapee Greenway. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, sixty-two miles northwest of Boston and thirty-eight miles southwest of Concord, is located within the towns of Jaffrey and Dublin, New Hampshire.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The east side of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="27" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> drains into the Contoocook River, thence into the Merrimack River and the Atlantic Ocean; the north, south, and west sides into the Ashuelot River, thence into the Connecticut River and Long Island Sound. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

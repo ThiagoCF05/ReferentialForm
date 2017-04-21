@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TEXT ID="700">
+	<TITLE>Rysy</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rysy</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Hungarian: Tengerszem-csúcs], [German: Meeraugspitze]) is a mountain in the crest of the High Tatras, at the Polish-Slovak border.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Rysy</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has three peaks: middle (2,503 m), north-western (2,499 m) and south-eastern (2,473 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The north-western peak is the highest point (and the most prominent) of Poland, while the highest of the three peaks is just on the Slovak side of the border. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

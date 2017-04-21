@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TEXT ID="988">
+	<TITLE>Abu Dhabi</TITLE>
+	<PARAGRAPH ID="1">
+		<STRING>Abu Dhabi ([Arabic: أبو ظبي] ʼAbū Ẓaby, literally &quot;Father of Gazelle&quot;) is the largest of the seven emirates that compose the United Arab Emirates and was also the largest of the former Trucial States. </STRING>
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Abu Dhabi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also a city of the same name within the Emirate that is the capital of the country, in north central UAE. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies on a T-shaped island jutting into the Persian Gulf from the central western coast. An estimated 1,000,000 people lived there in 2000, with about an 80% expatriate population. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Abu Dhabi city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located at 24.4667 N 54.3667 E. The Emirate has approximately 70% of the country's entire wealth. Al Ain is Abu Dhabi's second largest urban area with a population of 348,000 (2003 census estimate) and is located 150 kilometres inland.</STRING>
+	</PARAGRAPH>
+</TEXT>

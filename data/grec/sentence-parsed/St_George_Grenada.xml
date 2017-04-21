@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TEXT ID="1172">
+	<TITLE>St. George's, Grenada</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">St. George's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, population 7,500 (1999), is the capital of Grenada.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at 12°3'N,61°45'W. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Chief exports are cacao, nutmeg, and mace. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">St. George's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the capital of the former British colony of the Windward Islands. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

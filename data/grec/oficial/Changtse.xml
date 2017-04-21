@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="86">
+	<TITLE>Changtse</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Changtse</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Tibetan: &quot;north peak&quot;) is a mountain situated between the Main Rongbuk and East Rongbuk Glaciers in Tibet immediately north of Mount Everest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="23" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is connected to Mount Everest via the North Col. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The given elevation of 7,543 metres is from modern Chinese mapping.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Some authorities give 7,583 metres. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The Changtse Glacier flows north into the East Rongbuk Glacier.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>It is possible that the second highest lake in the world is in the Changtse Glacier at 6,216 metres (20,394 feet). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

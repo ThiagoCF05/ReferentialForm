@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TEXT ID="1079">
+	<TITLE>Kano</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the administrative center of the Kano State and the third largest city in Nigeria, in terms of geographical size, after Ibadan and Lagos.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Also, in population,  </STRING>
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the third most populous city (with a population of 3,626,204) in the country, trailing Lagos and Ibadan in that order. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has long been the economic centre of northern Nigeria, and a centre for the production and export of groundnuts.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> houses the Bayero University and a railway station with trains to Lagos routed through Kaduna, while Kano International Airport lies nearby.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kano</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has long been a centre for Nigeria's Islamic culture; one of the country's finest mosques lies in  </STRING>
+			<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Formerly walled, most of the gates to the Old City survive.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The Old City houses the vast Kurmi Market, known for its crafts, while old dye pits – still in use – lie nearby.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Also in the Old City are the 15th century Sahelian Emir's Palace, neighbouring Kano Central Mosque and the Gidan Makama Mosque.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>The Gida Dan Hausa house is another architecturally notable building. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Christians and followers of other non-Muslim religions form only a small part of the population, and traditionally lived in the Sabon Gari, or Foreign Quarter.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>In the 1970s, the 1980s, and again in 2001 there were inter religious riots in which hundreds are reported to have died - most recently over the introduction of Islamic sharia law. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

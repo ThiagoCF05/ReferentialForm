@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TEXT ID="1830">
+	<TITLE>North Saskatchewan River</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The North Saskatchewan River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a glacier-fed river flowing east from the Canadian Rockies to central Saskatchewan. </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is one of two major rivers that join to make up the Saskatchewan River.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The Saskatchewan River system is the largest in western Canada, including most of southern Alberta and southern Saskatchewan, and crossing into central Manitoba.</STRING>
+	</PARAGRAPH>
+</TEXT>

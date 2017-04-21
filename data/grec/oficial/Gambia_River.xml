@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<TEXT ID="1810">
+	<TITLE>Gambia River</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Gambia River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a major river in Africa, running 1,130 km (700 miles) from the Fouta Djallon plateau in north Guinea westward to the Atlantic Ocean at the city of Banjul.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="30" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is navigable for about half that length. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known largely because of The Gambia, the smallest country in mainland Africa, which consists of little more than the downstream half of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="24" SEMCAT="river" SENTENCE-POSITION="25" SENTENCE-RECENCY="24" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="27" PARAGRAPH-RECENCY="2" SEMCAT="river" SENTENCE-POSITION="27" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> two banks. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>From the Fouta Djallon,  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> runs northwest into the Tambacounda province of Senegal, where  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="10" SEMCAT="river" SENTENCE-POSITION="15" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flows through the Parc National du Niokolo Koba, then  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="25" PARAGRAPH-RECENCY="10" SEMCAT="river" SENTENCE-POSITION="25" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is joined by the Nieri Ko and Koulountou before entering The Gambia at Fatoto.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>At this point  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="43" PARAGRAPH-RECENCY="18" SEMCAT="river" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> runs generally west, but in a meandering course with a number of oxbows, and about 100 km from  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="62" PARAGRAPH-RECENCY="19" SEMCAT="river" SENTENCE-POSITION="23" SENTENCE-RECENCY="19" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> mouth  </STRING>
+			<REFERENCE ID="11" PARAGRAPH-POSITION="64" PARAGRAPH-RECENCY="2" SEMCAT="river" SENTENCE-POSITION="25" SENTENCE-RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> gradually widens, to over 10 km wide where  </STRING>
+			<REFERENCE ID="12" PARAGRAPH-POSITION="73" PARAGRAPH-RECENCY="9" SEMCAT="river" SENTENCE-POSITION="34" SENTENCE-RECENCY="9" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> meets the sea. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Near the mouth of  </STRING>
+			<REFERENCE ID="13" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, near Juffure, is James Island, a place used in the slave trade which is now a UNESCO World Heritage Site. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

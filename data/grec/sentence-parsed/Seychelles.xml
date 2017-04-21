@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1370">
+	<TITLE>Seychelles</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Seychelles</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, officially the Republic of Seychelles (pronounced [IPA: /seɪˈʃɛl/] or [IPA: /seɪˈʃɛlz/]; French: République des Seychelles, pronounced [IPA: /seʃɛl/]; Creole: Repiblik Sesel), is an archipelago nation of 115 islands in the Indian Ocean, some 1,600 km east of mainland Africa, northeast of the island of Madagascar.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Other nearby island countries and territories include Zanzibar to the north, Mauritius and Réunion to the south, Comoros and Mayotte to the southwest, and the Suvadives of the Maldives to the northeast. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>In terms of population,  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Seychelles</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the smallest sovereign state of Africa. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

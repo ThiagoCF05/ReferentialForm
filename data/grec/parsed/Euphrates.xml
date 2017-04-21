@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TEXT ID="1807">
+	<TITLE>Euphrates</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Euphrates</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (the traditional Greek name, Arabic: الفرات Al-Furat, Armenian: Եփրատ Yeṗrat, Hebrew: פְּרָת Perath, Kurdish: Ferat, Azeri: Fərat, Old Persian: Ufrat, Syriac: ܦܪܘܬ or ܦܪܬ Frot or Prâth, Turkish: Fırat, Akkadian: Pu-rat-tu) is the westernmost of the two great rivers that define Mesopotamia (the other being the Tigris).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>In the Bible, God's promise to Abraham and his descendants (which also includes Isaac and Jacob) of the promised land extends to </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

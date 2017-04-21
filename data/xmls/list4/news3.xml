@@ -1,0 +1,417 @@
+<?xml version="1.0" ?>
+<TEXT GENRE="news" ID="32" TOPIC-ANIMACY="inanimate">
+	<TITLE>HAMAS MAKES ITS CHOICES FOR CABINET POSTS</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ENTROPY="0.0" ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Hamas</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">hamas</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">Palestine</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Hamas</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> delivered  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="2" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="2" SENTENCE-POSITION="3" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">its'</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="other">a</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">their</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">his</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">a</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">their</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">its</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> proposed Cabinet list to the Palestinian Authority president, Mahmoud Abbas, on Sunday night.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ENTROPY="0.694335550809" ID="3" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="14" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Hamas</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="description">The Palestinian Islamic organization</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">hamas</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="description">The group</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">They</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">This organization</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">He</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Hamas</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> is expected to control the most important government ministries after weeks of negotiations failed to persuade other Palestinian parties to join  </STRING>
+			<REFERENCE ENTROPY="0.584333189488" ID="4" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="22" SENTENCE-POSITION="23" SENTENCE-RECENCY="22" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">their</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">their</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">a coalition</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="description">the Palestinian</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">palenstine</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">their</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">their</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="other">in the</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">its</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> government. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Ismail Haniya,  </STRING>
+			<REFERENCE ENTROPY="0.234100463488" ID="5" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">the Hamas</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas'</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">a Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="description">the Palestinian</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">Islamic</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Hamas's</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">a Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Hamas</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> leader and prime minister-designate, presented the lineup to Abbas at a meeting in Gaza City.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Pressed by reporters, Abbas declined to say whether he would give his approval, though aides said he was likely to do so.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>He said he would convene the Palestinian legislature, in which  </STRING>
+			<REFERENCE ENTROPY="0.551555464763" ID="6" PARAGRAPH-POSITION="51" PARAGRAPH-RECENCY="48" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the militant Islamic Hamas</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">Palestinians</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="description">the organization</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="other">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> has an absolute majority, for a vote of confidence on the Cabinet. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>&quot;I pray to God to help us,&quot; Abbas said.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>&quot;The task is not easy, neither for us nor for the new government.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Haniya declined to make public the names of the proposed ministers in the 24-member Cabinet, though he said it would include &quot;professionals, experts and technocrats,&quot; in addition to  </STRING>
+			<REFERENCE ENTROPY="0.570651267686" ID="7" PARAGRAPH-POSITION="29" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="29" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Hamas</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">other</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="other">palestinian</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">political</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="other">military</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="demonstrative">these</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="other">party members</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">existing</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">their</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">it's</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Hamas</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> members.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>However, Abbas' Fatah movement and all other Palestinian parties rejected  </STRING>
+			<REFERENCE ENTROPY="0.539047341795" ID="8" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="12" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Hamas'</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas'</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="demonstrative">this</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">their</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">his</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="other">his</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">his</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="other">his</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">its</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="other">the</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">its</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> invitation to join a government of national unity. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>The lack of political partners is likely to leave  </STRING>
+			<REFERENCE ENTROPY="0.407580638724" ID="9" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Hamas</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">Abbas</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">hama</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="other">Abbas</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">Palestine</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="other">Abbas</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">him</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="description">the government</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Hamas</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> isolated as  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="10" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="3" SENTENCE-POSITION="13" SENTENCE-RECENCY="3" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">he</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="other">Haniya</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">they</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> prepares to lead the deeply troubled Palestinian Authority.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>Israel, the United States and the European Union all regard  </STRING>
+			<REFERENCE ENTROPY="0.271002889901" ID="11" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="19" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Hamas</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">hamas</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">hamas</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Hamas</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> as a terrorist organization and have refused to deal with  </STRING>
+			<REFERENCE ENTROPY="0.128114324287" ID="12" PARAGRAPH-POSITION="43" PARAGRAPH-RECENCY="11" SENTENCE-POSITION="22" SENTENCE-RECENCY="11" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="description">the group</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING>In remarks to reporters, Haniya did say that two prominent  </STRING>
+			<REFERENCE ENTROPY="0.333011323747" ID="13" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Hamas</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">hamas</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="other">Islamic</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="other">Palestinians</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">hamas</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="other">political</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">hamas</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="description">party</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">Islamic</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="other">known</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="other">palestine</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Hamas</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> leaders -- Dr. Mahmoud Zahar and Said Siam -- would be in the Cabinet, though he did not give their positions.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.2">
+			<STRING>However, Zahar, more confrontational in his public comments than Haniya, is expected to become foreign minister, and Siam is believed to be the choice for interior minister, which would give him authority over the police and other branches of the security forces. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<STRING>In another development, the U.S. ambassador to Israel, Richard H. Jones, brokered a Sunday night meeting in which Israel and the Palestinians reached a deal to allow food and other essential supplies to go into the Gaza Strip beginning Monday. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="8">
+		<SENTENCE ID="8.1">
+			<STRING>Citing security concerns, Israel has kept the Karni crossing, the main commercial goods terminal on Gaza's border, closed for most of the past two months.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="8.2">
+			<STRING>Palestinian and U.N. officials say Gaza is facing shortages of bread and other basic foods because the crossing has been closed. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

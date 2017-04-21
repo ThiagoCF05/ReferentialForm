@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1271">
+	<TITLE>Gabon</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gabon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Gabonese Republic, is a country in west central Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> borders on Equatorial Guinea, Cameroon, Republic of the Congo and the Gulf of Guinea. Since </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> independence from France on August 17, 1960, </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the Republic</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been ruled by only two autocratic Presidents; the incumbent El Hadj Omar Bongo has been in power since 1967 and is currently (2006) Africa's longest-serving Head of State. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gabon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> introduced a multiparty system and a new democratic constitution in the early 1990s that allowed for a more transparent electoral process and for reforms of governmental institutions. A small population, abundant natural resources, and foreign private investment have helped make </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gabon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> one of the most prosperous countries in the region.</STRING>
+	</PARAGRAPH>
+</TEXT>

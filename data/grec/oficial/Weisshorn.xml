@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TEXT ID="918">
+	<TITLE>Weisshorn</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Weisshorn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (4,505 m) is a mountain in the Swiss Alps, west of Zermatt and north of the Matterhorn. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed on 19 August 1861 by John Tyndall with guides J. J. Bennen and Ulrich Wenger.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The south face was first climbed in 1895 by J. M. Biner, A. Imboden and E. Broome. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>With  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="2" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> 4505 m,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="3" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="3" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Weisshorn</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> overtops the illustrious Matterhorn by some 60 m. Departing from the Tracuit at 3265 m, you'll reach the summit via the NW ridge.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The first 3 hours consist of relatively easy walking across the glacier and will lead you on top of the Bishorn (4153 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The second part of the ascent is more exposed and will take another 5 hrs.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>The ascent is not a piece of cake, but it's worth the effort. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

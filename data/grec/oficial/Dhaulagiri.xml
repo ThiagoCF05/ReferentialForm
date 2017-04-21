@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="123">
+	<TITLE>Dhaulagiri</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Dhaulagiri</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (धौलागिरी) is the seventh highest mountain in the world.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms the eastern anchor of the Dhaulagiri Himal, a subrange of the Himalaya in the Dhawalagiri Zone of north central Nepal.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies northwest of Pokhara, an important regional town and tourist center.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Across the deep gorge of the Kali Gandaki to the east lies the Annapurna Himal, home to Annapurna I, one of the other eight-thousanders.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Dhaulagiri means &quot;White Mountain&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

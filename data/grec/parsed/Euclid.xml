@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TEXT ID="1513">
+	<TITLE>Euclid</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Euclid</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (also referred to as Euclid of Alexandria) (Greek: Εὐκλείδης) (c. 325–c. 265 BC), a Greek mathematician, </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lived in Alexandria, Hellenistic Egypt, almost certainly during the reign of Ptolemy I (323 BC-283 BC), is often considered to be the &quot;father of geometry&quot;. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> most popular work, Elements, is thought to be one of the most successful textbooks in the history of mathematics. Within it, the properties of geometrical objects are deduced from a small set of axioms, thereby founding the axiomatic method of mathematics.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Although best-known for its geometric results, the Elements also includes various results in number theory, such as the connection between perfect numbers and Mersenne primes, the proof of the infinitude of prime numbers, </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Euclid's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lemma on factorization (which lead to the fundamental theorem of arithmetic, on uniqueness of prime factorizations), and the Euclidean algorithm for finding the greatest common divisor of two numbers.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Euclid</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> also wrote works on perspective, conic sections, spherical geometry, and possibly quadric surfaces. Neither the year nor place of </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> birth have been established, nor the circumstances of </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> death.</STRING>
+	</PARAGRAPH>
+</TEXT>

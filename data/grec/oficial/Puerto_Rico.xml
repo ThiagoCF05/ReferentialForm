@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TEXT ID="1351">
+	<TITLE>Puerto Rico</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Commonwealth of Puerto Rico</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, ([Spanish: Estado Libre Asociado de Puerto Rico], IPA [IPA: [esˈtaðo ˈlibɾe asoˈsjaðo de ˈpweɾto ˈriko]]), also Porto Rico (archaic) and more commonly Puerto Rico, is a United States territory with Commonwealth status located in the northeastern Caribbean, east of the Dominican Republic and west of the Virgin Islands.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="50" PARAGRAPH-RECENCY="49" SEMCAT="country" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The archipelago of Puerto Rico</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> includes the main island of Puerto Rico, the smallest of the Greater Antilles, and a number of smaller islands and keys, the largest of which are Mona, Vieques, and Culebra. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The nature of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SEMCAT="country" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Puerto Rico's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> political relationship with the United States is the subject of ongoing debate in  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="18" PARAGRAPH-RECENCY="14" SEMCAT="country" SENTENCE-POSITION="18" SENTENCE-RECENCY="14" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the island</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and also in the United Nations.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Those who support maintaining the status quo (i.e., Commonwealth status) insist that upon attaining this status,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="23" SEMCAT="country" SENTENCE-POSITION="17" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Puerto Rico</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> entered into a voluntary association with the U.S. &quot;in the nature of a compact&quot;, but according to a President's Task Force report,  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="64" PARAGRAPH-RECENCY="23" SEMCAT="country" SENTENCE-POSITION="40" SENTENCE-RECENCY="23" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Puerto Rico</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an unincorporated organized territory of the United States, subject to the plenary powers of the United States Congress and with the &quot;right to establish a constitution for the internal administration of government and on matters of purely local concern&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

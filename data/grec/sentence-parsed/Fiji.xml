@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1266">
+	<TITLE>Fiji</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Fiji</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Fijian: Viti]; Hindustānī: फ़िजी فِجی), officially the Republic of the Fiji Islands, is an island nation in the South Pacific Ocean, east of Vanuatu, west of Tonga and south of Tuvalu.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> occupies an archipelago of about 322 islands, of which 106 are permanently inhabited; in addition, there are some 522 islets.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The two major islands, Viti Levu and Vanua Levu, account for some 87% of the total population.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The name Fiji is the old Tongan word for the islands, which is in turn derived from the Fijian name Viti. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

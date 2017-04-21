@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<TEXT ID="399">
+	<TITLE>Mount Diablo</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Diablo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain in Contra Costa County, California in the San Francisco Bay Area, located south of the town of Clayton and northeast of Danville. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is an isolated 3,849-foot (1,173 m) upthrust peak </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">that</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is visible from most of the San Francisco Bay Area and much of northern California. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Diablo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> appears from many angles to be a double pyramid and </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> includes many subsidiary peaks, the largest and closest of which is the other half of the double pyramid, North Peak, nearly as high in elevation at 3,557 feet (1,084 m).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the centerpiece of Mount Diablo State Park, a state park of approximately 20,000 acres (80 km²) in area. The park was the first public open space of a complex -- according to Save Mount Diablo -- now including 38 preserves, including adjacent and nearby city open spaces, regional parks, watersheds, etc., buffered in some areas with private lands protected with conservation easements. Preserved lands on and around </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Diablo</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> total more than 90,000 acres (360 km²).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Except for distant views from the Central Valley, </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Diablo's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> northwestern double pyramid view is most familiar to California residents. This view however includes a minor part of </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> acreage, most of which stretches east and southeast from the summit through Altamont Pass to the rest of the northern Diablo range.</STRING>
+	</PARAGRAPH>
+</TEXT>

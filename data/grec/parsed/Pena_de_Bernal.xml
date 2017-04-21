@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TEXT ID="635">
+	<TITLE>Peña de Bernal</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Peña de Bernal</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (in English: Bernal's Boulder or Bernal Peak) is the second-largest monolith in the world, after Mt. Augustus, Western Australia. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the third-highest monolith in the world (350 meters (1148.294 ft), after the Rock of Gibraltar and Sugarloaf Mountain in Rio de Janeiro, Brazil.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Peña de Bernal</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in San Sebastián Bernal, a small town in the Mexican state of Querétaro.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>According to Leonor Lopez Dominguez of Mexico Desconocido, </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the porphyrytic monolith</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was formed some 100 million years ago during the Jurassic period, when </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> must have been at least three times higher than today.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>Many people make a pilgrimage to the highest point hikeable, visiting a little chapel about halfway up. On the Spring equinox, people gather all dressed in white to form a human belt around </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the monolith</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

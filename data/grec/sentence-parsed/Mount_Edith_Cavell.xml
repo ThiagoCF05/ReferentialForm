@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TEXT ID="402">
+	<TITLE>Mount Edith Cavell</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Edith Cavell</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Athabasca River and Astoria River valleys of Jasper National Park, Canada.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named in 1916 for Edith Cavell, an English nurse executed by the Germans during World War I for having helped persons held captive to escape to refuge. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>A close up view of the north face of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Edith Cavell</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is visible after a short hike to Cavell Meadows.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The trailhead is by the parking lot at the end of Mt.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Edith Cavell road.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The trail to the meadows is one way, rising 370 metres to 2,135 metres.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>The Canadian Rockies Trail Guide describes the trail in detail. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The hanging Angel Glacier is visible from Cavell Meadows, which spills over a 300 metre cliff on the north face. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Access to the Tonquin Valley trails can be found about 1km before then end of the Mt.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Edith Cavell road.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>There is a parking area across from the Hostelling Internation Mt.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.4">
+			<STRING>Edith Cavell Hostel.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.5">
+			<STRING>A short walk down the gravel path leads to the north end of Cavell Lake.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.6">
+			<STRING>There is small bridge across the stream that empties the lake.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.7">
+			<STRING>From here you have a good view with the lake in the foreground and the Mt.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.8">
+			<STRING>Edith Cavell peaks in the background. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

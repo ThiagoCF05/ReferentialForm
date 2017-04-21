@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="361">
+	<TITLE>Mount Berlin</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Berlin</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the sixth highest volcano in Antarctica, located 16 km west of Mount Moulton in Marie Byrd Land near the eastern coast of the Ross Sea. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is composed of two coalesced shield volcanoes: Marren Peak and Berlin Crater. The volcanic structure is considered active, as steaming fumaroles have been observed near the rim of the northern and western calderas, producing fumarolic ice towers.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Discovered by the Byrd Antarctic Expedition on flights to the NE and E of Little America in November-December 1934. Named &quot;Mount Hal Flood&quot; by Byrd, but the name Flood is now applied to the entire mountain range of which </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a part. Named by the US-SCAN for Leonard M. Berlin, leader of the USAS party which sledged to </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in December 1940.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<SENTENCE ID="1">
+		<REFERENCE animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="1" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> Talk about </STRING>
+			<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="2" mentiontype="NOMINAL" number="SINGULAR"> a change </REFERENCE>
+			<STRING> of pace. </STRING>
+		</REFERENCE>
+	</SENTENCE>
+	<SENTENCE ID="2">
+		<REFERENCE animacy="ANIMATE" entity="3" gender="UNKNOWN" mentionid="3" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> 've always loved </STRING>
+		<REFERENCE animacy="ANIMATE" entity="4" gender="MALE" mentionid="4" mentiontype="PROPER" number="SINGULAR">
+			<STRING> King for </STRING>
+			<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="5" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="6" gender="MALE" mentionid="6" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+				<STRING> horror </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="3">
+		<STRING> And </STRING>
+		<REFERENCE animacy="INANIMATE" entity="7" gender="UNKNOWN" mentionid="7" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="3" gender="UNKNOWN" mentionid="8" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+			<STRING> other love </STRING>
+		</REFERENCE>
+		<STRING> is fantasy. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="4">
+		<REFERENCE animacy="UNKNOWN" entity="10" gender="NEUTRAL" mentionid="10" mentiontype="NOMINAL" number="UNKNOWN"> This </REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="10" gender="UNKNOWN" mentionid="11" mentiontype="NOMINAL" number="UNKNOWN">
+			<STRING> the best of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="12" gender="UNKNOWN" mentionid="12" mentiontype="NOMINAL" number="PLURAL">
+				<REFERENCE animacy="INANIMATE" entity="9" gender="UNKNOWN" mentionid="9" mentiontype="PROPER" number="SINGULAR"> two </REFERENCE>
+				<STRING> worlds </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="5">
+		<STRING> When </STRING>
+		<REFERENCE animacy="ANIMATE" entity="14" gender="UNKNOWN" mentionid="14" mentiontype="NOMINAL" number="SINGULAR"> a friend of mine </REFERENCE>
+		<STRING> told </STRING>
+		<REFERENCE animacy="ANIMATE" entity="3" gender="UNKNOWN" mentionid="15" mentiontype="PRONOMINAL" number="SINGULAR"> me </REFERENCE>
+		<STRING> that </STRING>
+		<REFERENCE animacy="INANIMATE" entity="4" gender="MALE" mentionid="13" mentiontype="PROPER" number="UNKNOWN"> King </REFERENCE>
+		<STRING> had writen </STRING>
+		<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="16" mentiontype="NOMINAL" number="SINGULAR"> a fantasy </REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE animacy="ANIMATE" entity="3" gender="UNKNOWN" mentionid="17" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> was intrigued. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="6">
+		<STRING> And </STRING>
+		<REFERENCE animacy="INANIMATE" entity="18" gender="NEUTRAL" mentionid="18" mentiontype="NOMINAL" number="SINGULAR"> the book </REFERENCE>
+		<STRING> lived up to </STRING>
+		<REFERENCE animacy="INANIMATE" entity="19" gender="UNKNOWN" mentionid="19" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="3" gender="UNKNOWN" mentionid="20" mentiontype="PRONOMINAL" number="SINGULAR"> my </REFERENCE>
+			<STRING> expectations </STRING>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="7">
+		<REFERENCE animacy="INANIMATE" entity="21" gender="UNKNOWN" mentionid="21" mentiontype="NOMINAL" number="PLURAL">
+			<STRING> The story tastes sharply of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="22" gender="NEUTRAL" mentionid="22" mentiontype="NOMINAL" number="SINGULAR"> a fairy tale </REFERENCE>
+			<STRING>. </STRING>
+		</REFERENCE>
+	</SENTENCE>
+	<SENTENCE ID="8">
+		<REFERENCE animacy="ANIMATE" entity="23" gender="MALE" mentionid="23" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="ANIMATE" entity="24" gender="MALE" mentionid="24" mentiontype="NOMINAL" number="SINGULAR"> The good prince </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE animacy="ANIMATE" entity="24" gender="MALE" mentionid="25" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="24" gender="MALE" mentionid="26" mentiontype="NOMINAL" number="SINGULAR"> the bad prince </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="24" gender="MALE" mentionid="27" mentiontype="NOMINAL" number="SINGULAR"> the evil bad guy </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</REFERENCE>
+	</SENTENCE>
+	<SENTENCE ID="9">
+		<REFERENCE animacy="ANIMATE" entity="28" gender="MALE" mentionid="28" mentiontype="NOMINAL" number="SINGULAR"> The younger prince </REFERENCE>
+		<STRING> is </STRING>
+		<REFERENCE animacy="INANIMATE" entity="29" gender="UNKNOWN" mentionid="29" mentiontype="NOMINAL" number="UNKNOWN">
+			<STRING> jealous of </STRING>
+			<REFERENCE animacy="ANIMATE" entity="30" gender="MALE" mentionid="30" mentiontype="NOMINAL" number="SINGULAR"> the older brother who will be king </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="10">
+		<REFERENCE animacy="ANIMATE" entity="31" gender="MALE" mentionid="31" mentiontype="NOMINAL" number="SINGULAR"> The evil magician </REFERENCE>
+		<STRING> works </STRING>
+		<REFERENCE animacy="INANIMATE" entity="32" gender="UNKNOWN" mentionid="32" mentiontype="NOMINAL" number="PLURAL">
+			<REFERENCE animacy="ANIMATE" entity="31" gender="MALE" mentionid="33" mentiontype="PRONOMINAL" number="SINGULAR"> his </REFERENCE>
+			<STRING> spells </STRING>
+		</REFERENCE>
+		<STRING> through </STRING>
+		<REFERENCE animacy="ANIMATE" entity="34" gender="MALE" mentionid="34" mentiontype="NOMINAL" number="SINGULAR"> the weaker, younger brother </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="11">
+		<REFERENCE animacy="ANIMATE" entity="35" gender="UNKNOWN" mentionid="35" mentiontype="NOMINAL" number="PLURAL"> The characters </REFERENCE>
+		<STRING> are realistic and endearing. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="12">
+		<REFERENCE animacy="INANIMATE" entity="22" gender="NEUTRAL" mentionid="36" mentiontype="NOMINAL" number="SINGULAR"> The tale </REFERENCE>
+		<STRING> keeps </STRING>
+		<REFERENCE animacy="ANIMATE" entity="37" gender="UNKNOWN" mentionid="37" mentiontype="PRONOMINAL" number="UNKNOWN"> you </REFERENCE>
+		<STRING> on </STRING>
+		<REFERENCE animacy="INANIMATE" entity="38" gender="UNKNOWN" mentionid="38" mentiontype="NOMINAL" number="SINGULAR">
+			<STRING> the edge of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="39" gender="UNKNOWN" mentionid="39" mentiontype="NOMINAL" number="SINGULAR">
+				<REFERENCE animacy="ANIMATE" entity="40" gender="UNKNOWN" mentionid="40" mentiontype="PRONOMINAL" number="UNKNOWN"> your </REFERENCE>
+				<STRING> seat </STRING>
+			</REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="13">
+		<REFERENCE animacy="ANIMATE" entity="3" gender="UNKNOWN" mentionid="41" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> found </STRING>
+		<REFERENCE animacy="INANIMATE" entity="22" gender="NEUTRAL" mentionid="42" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> to be </STRING>
+		<REFERENCE animacy="ANIMATE" entity="43" gender="MALE" mentionid="43" mentiontype="NOMINAL" number="SINGULAR"> a real page turner </REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="14">
+		<REFERENCE animacy="ANIMATE" entity="3" gender="UNKNOWN" mentionid="44" mentiontype="PRONOMINAL" number="SINGULAR"> I </REFERENCE>
+		<STRING> would highly recommend </STRING>
+		<REFERENCE animacy="INANIMATE" entity="18" gender="NEUTRAL" mentionid="45" mentiontype="NOMINAL" number="SINGULAR"> this book </REFERENCE>
+		<STRING> to any fantasy lover, </STRING>
+		<REFERENCE animacy="INANIMATE" entity="18" gender="NEUTRAL" mentionid="46" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> fits </STRING>
+		<REFERENCE animacy="INANIMATE" entity="47" gender="NEUTRAL" mentionid="47" mentiontype="NOMINAL" number="SINGULAR">
+			<REFERENCE animacy="INANIMATE" entity="48" gender="NEUTRAL" mentionid="48" mentiontype="NOMINAL" number="SINGULAR"> the bill </REFERENCE>
+			<STRING>, surprising from </STRING>
+			<REFERENCE animacy="ANIMATE" entity="49" gender="MALE" mentionid="49" mentiontype="NOMINAL" number="SINGULAR"> someone who does horror so well </REFERENCE>
+		</REFERENCE>
+		<STRING>. </STRING>
+	</SENTENCE>
+	<SENTENCE ID="15">
+		<STRING> But </STRING>
+		<REFERENCE animacy="INANIMATE" entity="18" gender="NEUTRAL" mentionid="50" mentiontype="PRONOMINAL" number="SINGULAR"> it </REFERENCE>
+		<STRING> is great. </STRING>
+	</SENTENCE>
+</TEXT>

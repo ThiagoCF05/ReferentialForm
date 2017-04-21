@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1384">
+	<TITLE>Suriname</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Suriname</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Republiek Suriname, is a country in northern South America. Other common names are Surinam or Sranang. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was formerly known as Nederlands Guyana, Netherlands Guiana or Dutch Guiana. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies in between French Guiana to the east and Guyana to the west. The southern border is shared with Brazil and the northern border is the Atlantic coast. The most southern parts of the borders with Guyana and French Guiana are disputed (upper Corantijn and Marowijne rivers--the map shows the Guyana and French Guiana versions of the border).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Suriname</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the least populated country in South America. </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the smallest nation in area on the continent.</STRING>
+	</PARAGRAPH>
+</TEXT>

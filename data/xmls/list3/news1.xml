@@ -1,0 +1,533 @@
+<?xml version="1.0" ?>
+<TEXT GENRE="news" ID="21" TOPIC-ANIMACY="animate">
+	<TITLE>Death Camp Survivor Teaches Lessons of Tolerance</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<STRING>Twice in  </STRING>
+			<REFERENCE ENTROPY="0.64601483711" ID="1" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="other">the space of</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="other">his life during</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="other">almost</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">over</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="other">nearly</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="other">a period of</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="other">the last</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="other">over</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">the last</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="other">almost</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="other">about</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="other">the course of</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="other">a span of</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="other">a span of</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="other">nearly</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="empty">-</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Lou Dunst's</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="other">only</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> five years of starvation and brutality in four Nazi concentration camps,  </STRING>
+			<REFERENCE ENTROPY="0.123344455733" ID="2" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="12" SENTENCE-POSITION="15" SENTENCE-RECENCY="12" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Lou Dunst</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Lon Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Dunst</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> was herded along with other prisoners into a gas chamber to be killed. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Once there was a malfunction in the gas jets, and the other time a guard decided that he did not want to waste precious coal so the execution was called off. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>More dead than alive,  </STRING>
+			<REFERENCE ENTROPY="0.46353615691" ID="3" PARAGRAPH-POSITION="5" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Dunst</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="description">beleagured Lou</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> and other prisoners at the Ebensee camp in Austria were rescued by the U.S. Army in the final days of World War II. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>Once  </STRING>
+			<REFERENCE ENTROPY="0.430676558073" ID="4" PARAGRAPH-POSITION="2" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> regained  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="5" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="2" SENTENCE-POSITION="4" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">full</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">full</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="other">good</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> health,  </STRING>
+			<REFERENCE ENTROPY="0.376403149629" ID="6" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="2" SENTENCE-POSITION="6" SENTENCE-RECENCY="2" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="other">and</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="other">was</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="other">they</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> moved to Italy and in 1951 to San Diego where  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="7" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="11" SENTENCE-POSITION="17" SENTENCE-RECENCY="11" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">he soon</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> became a successful merchant and real estate investor. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>On Sunday,  </STRING>
+			<REFERENCE ENTROPY="0.310917507083" ID="8" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Dunst</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Mr. Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Lou</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> was honored for  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="9" PARAGRAPH-POSITION="7" PARAGRAPH-RECENCY="4" SENTENCE-POSITION="7" SENTENCE-RECENCY="4" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="other">his extensive</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="other">his hard</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">philanthropic</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">outstanding</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="other">all his</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="other">the</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> work in ensuring that modern youth learn the story of the Holocaust and understand the underlying moral about the destructiveness of intolerance. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING>As part of  </STRING>
+			<REFERENCE ENTROPY="0.349398470282" ID="10" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Lou's</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Lou Dunst's</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Lou's</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Dunst's</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Dunst's</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> 80th birthday party,  </STRING>
+			<REFERENCE ENTROPY="0.430676558073" ID="11" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="4" SENTENCE-POSITION="8" SENTENCE-RECENCY="4" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Dunst</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Mr. Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Dunst</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> was praised by several Jewish organizations, Mayor Jerry Sanders, and filmmaker Steven Spielberg.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.2">
+			<REFERENCE ENTROPY="0.427564684787" ID="12" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="14" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Dunst</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">He</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">He</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> has been interviewed in Spielberg's effort to record the personal stories of survivors and other witnesses. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<STRING>In the emotional highpoint of the day,  </STRING>
+			<REFERENCE ENTROPY="0.26264392341" ID="13" PARAGRAPH-POSITION="8" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Dunst</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Holocaust survivor Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Lou</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> and  </STRING>
+			<REFERENCE ENTROPY="0.0" ID="14" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="2" SENTENCE-POSITION="10" SENTENCE-RECENCY="2" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> brother Irving, who was also captive at Ebensee, met Robert Persinger, the Army staff sergeant who led the platoon that liberated Ebensee on May 6, 1945.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="7.2">
+			<STRING>The three had not since each other since that day.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="7.3">
+			<STRING>The reunion was arranged by  </STRING>
+			<REFERENCE ENTROPY="0.395488489104" ID="15" PARAGRAPH-POSITION="52" PARAGRAPH-RECENCY="42" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Dunst's</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Lou's</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">Lou's</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">Irving's</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Lou's</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Lou's</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Lou's</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Dunst's</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="other">Persinger's</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">his</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">his</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> wife, Estelle. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="8">
+		<SENTENCE ID="8.1">
+			<STRING>``Thank you for saving our lives, God bless you,''  </STRING>
+			<REFERENCE ENTROPY="0.319771990863" ID="16" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="0" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Dunst</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">lou</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">Lou Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="other">she</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">Lou</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Mr&amp;gt; Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Lou</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> said as  </STRING>
+			<REFERENCE ENTROPY="0.133313098641" ID="17" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="3" SENTENCE-POSITION="13" SENTENCE-RECENCY="3" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="other">his brother</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="other">she</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">Dunst</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">he</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">him</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">he</REFEX>
+				</PARTICIPANTS-REFEX>
+			</REFERENCE>
+			<STRING> and Persinger embraced, with tears in their eyes. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="9">
+		<SENTENCE ID="9.1">
+			<STRING>Persinger, 82, of the Rockford, Ill., area said even hardened combat veterans were shocked by the stench and horror they encountered at the camp, where about 20,000 prisoners, many of them used as slave labor, were housed in filth. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

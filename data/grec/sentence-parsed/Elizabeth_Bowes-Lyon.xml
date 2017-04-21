@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<TEXT ID="1503">
+	<TITLE>Elizabeth Bowes-Lyon</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lady Elizabeth Bowes-Lyon</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Elizabeth Angela Marguerite; 4 August 1900 – 30 March 2002) was the Queen Consort of King George VI from 1936 until his death in 1952.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>After  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> husband's death,  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was known as Queen Elizabeth, The Queen Mother, to avoid confusion with  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> eldest daughter, Queen Elizabeth II.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Before  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> husband ascended the throne, from 1923 to 1936,  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was known as the Duchess of York. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Elizabeth</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the last Queen of Ireland and Empress of India.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>As Queen Consort,  </STRING>
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Elizabeth</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was famous for  </STRING>
+			<REFERENCE ID="9" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> role in providing moral support to the British public during World War II, so much so that Adolf Hitler described  </STRING>
+			<REFERENCE ID="10" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as &quot;the most dangerous woman in Europe.&quot;</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>In  </STRING>
+			<REFERENCE ID="11" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> later years,  </STRING>
+			<REFERENCE ID="12" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">she</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a consistently popular member of the British Royal Family, when other members of the family were suffering from low levels of public approval. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

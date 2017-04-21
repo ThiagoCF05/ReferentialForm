@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<TEXT ID="1245">
+	<TITLE>Comoros</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Comoros</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (IPA: [IPA: [kəˡmɔːɹəʊz]]), officially the Union of the Comoros ([French: Union des Comores], [IPA: [ynjɔ̃ de kɔmɔʀ]]; [Arabic: اتحاد القمر], [IPA: [ʔitːiˡħæːd ælˈqɒmær]], and until 2002 the Islamic Federal Republic of the Comoros), is a country in the Indian Ocean, situated at the northern end of the Mozambique Channel between northern Madagascar and northern Mozambique. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> consists of three of the four main islands in the volcanic Comoros archipelago: Grande Comore, Mohéli and Anjouan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The fourth island in the island group, Mayotte, is not part of  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the country</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Mayotte has voted against independence from France, but is claimed by  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Comoros</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">The country's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> territory also encompasses many smaller islands.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name derives from the Arabic word [Arabic-Latin transliteration: qamar] (&quot;moon&quot;), as seen depicted on  </STRING>
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flag. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

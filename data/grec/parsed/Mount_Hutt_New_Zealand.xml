@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEXT ID="441">
+	<TITLE>Mount Hutt, New Zealand</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hutt</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> rises to the west of the Canterbury Plains in the South Island of New Zealand, above the braided upper reaches of the Rakaia River, and 80 kilometres west of Christchurch. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> summit is 2190 metres above sea level.</STRING>
+	</PARAGRAPH>
+</TEXT>

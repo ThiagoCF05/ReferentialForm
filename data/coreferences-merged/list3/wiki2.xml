@@ -1,0 +1,376 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1">
+			<TARGET-REFERENCE ENTROPY="0" ID="1" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj" animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="2" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">The Sao Francisco River</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="name">The São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="name">The São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">The São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">Sao Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="name">The São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="name">Sao Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="name">The São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">The Sao Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="name">Sao Francisco</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="3" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> a river in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="4" gender="NEUTRAL" mentionid="4" mentiontype="PROPER" number="SINGULAR">
+					<STRING> Brazil with </STRING>
+					<REFERENCE animacy="INANIMATE" entity="5" gender="NEUTRAL" mentionid="5" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> a length of </STRING>
+						<REFERENCE animacy="INANIMATE" entity="6" gender="UNKNOWN" mentionid="6" mentiontype="NOMINAL" number="PLURAL">
+							<REFERENCE animacy="INANIMATE" entity="1" gender="UNKNOWN" mentionid="1" mentiontype="PROPER" number="SINGULAR"> 3,160 </REFERENCE>
+							<STRING> kilometres </STRING>
+						</REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2">
+			<TARGET-REFERENCE ENTROPY="0.201985" ID="2" PARAGRAPH-POSITION="13" RECENCY="12" SYNCAT="np-subj" animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="10" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">It</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is </STRING>
+			<REFERENCE animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="11" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the </STRING>
+				<REFERENCE animacy="INANIMATE" entity="7" gender="UNKNOWN" mentionid="7" mentiontype="PROPER" number="SINGULAR"> fourth </REFERENCE>
+				<STRING> largest river system in </STRING>
+				<REFERENCE animacy="INANIMATE" entity="12" gender="UNKNOWN" mentionid="12" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="8" gender="NEUTRAL" mentionid="8" mentiontype="PROPER" number="SINGULAR"> South America </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE animacy="INANIMATE" entity="13" gender="NEUTRAL" mentionid="13" mentiontype="NOMINAL" number="SINGULAR"> the longest river </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> wholly within </STRING>
+			<REFERENCE animacy="INANIMATE" entity="4" gender="NEUTRAL" mentionid="9" mentiontype="PROPER" number="SINGULAR"> Brazil </REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3">
+			<TARGET-REFERENCE ENTROPY="0.638977" ID="3" PARAGRAPH-POSITION="30" RECENCY="17" SYNCAT="np-subj" animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="15" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="description">THe river</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="other">Flow</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">The São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">She</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">The São Francisco River</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="other">Flow</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> begins in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="16" gender="NEUTRAL" mentionid="16" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the state of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="14" gender="UNKNOWN" mentionid="14" mentiontype="PROPER" number="UNKNOWN"> Minas Gerais </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4">
+			<TARGET-REFERENCE ENTROPY="0.516001" ID="4" PARAGRAPH-POSITION="38" RECENCY="8" SYNCAT="np-subj" animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="23" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="other">It then</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">Then it</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="other">Water</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">Then she</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="description">The river</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="other">Then it</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="name">The Sao Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="other">Then</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> runs generally north behind </STRING>
+			<REFERENCE animacy="INANIMATE" entity="24" gender="NEUTRAL" mentionid="24" mentiontype="NOMINAL" number="SINGULAR"> the coastal range </REFERENCE>
+			<STRING> draining </STRING>
+			<REFERENCE animacy="INANIMATE" entity="25" gender="NEUTRAL" mentionid="25" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> an area of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="26" gender="UNKNOWN" mentionid="26" mentiontype="NOMINAL" number="PLURAL">
+					<STRING> over </STRING>
+					<REFERENCE animacy="INANIMATE" entity="17" gender="UNKNOWN" mentionid="17" mentiontype="PROPER" number="SINGULAR"> 630,000 </REFERENCE>
+					<STRING> square kilometers </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> before turning east to form </STRING>
+			<REFERENCE animacy="INANIMATE" entity="27" gender="NEUTRAL" mentionid="27" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the border between </STRING>
+				<REFERENCE animacy="INANIMATE" entity="28" gender="UNKNOWN" mentionid="28" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="INANIMATE" entity="29" gender="NEUTRAL" mentionid="29" mentiontype="NOMINAL" number="SINGULAR">
+						<STRING> the state of </STRING>
+						<REFERENCE animacy="INANIMATE" entity="18" gender="NEUTRAL" mentionid="18" mentiontype="PROPER" number="SINGULAR"> Bahia </REFERENCE>
+					</REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE animacy="INANIMATE" entity="30" gender="UNKNOWN" mentionid="30" mentiontype="NOMINAL" number="PLURAL">
+						<STRING> the states of </STRING>
+						<REFERENCE animacy="INANIMATE" entity="31" gender="UNKNOWN" mentionid="31" mentiontype="LIST" number="PLURAL">
+							<REFERENCE animacy="INANIMATE" entity="19" gender="UNKNOWN" mentionid="19" mentiontype="PROPER" number="SINGULAR"> Pernambuco </REFERENCE>
+							<STRING> and </STRING>
+							<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="20" mentiontype="PROPER" number="SINGULAR"> Alagoas </REFERENCE>
+						</REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> before entering </STRING>
+			<REFERENCE animacy="INANIMATE" entity="32" gender="NEUTRAL" mentionid="32" mentiontype="PROPER" number="SINGULAR">
+				<STRING> the Atlantic Ocean between </STRING>
+				<REFERENCE animacy="INANIMATE" entity="33" gender="UNKNOWN" mentionid="33" mentiontype="NOMINAL" number="PLURAL">
+					<STRING> the states of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="34" gender="UNKNOWN" mentionid="34" mentiontype="LIST" number="PLURAL">
+						<REFERENCE animacy="INANIMATE" entity="20" gender="UNKNOWN" mentionid="21" mentiontype="PROPER" number="SINGULAR"> Alagoas </REFERENCE>
+						<STRING> and </STRING>
+						<REFERENCE animacy="INANIMATE" entity="22" gender="NEUTRAL" mentionid="22" mentiontype="PROPER" number="SINGULAR"> Sergipe </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="5">
+			<REFERENCE animacy="INANIMATE" entity="43" gender="UNKNOWN" mentionid="43" mentiontype="NOMINAL" number="PLURAL"> The main tributaries </REFERENCE>
+			<STRING> are </STRING>
+			<REFERENCE animacy="UNKNOWN" entity="43" gender="NEUTRAL" mentionid="44" mentiontype="NOMINAL" number="UNKNOWN"> the </REFERENCE>
+			<STRING>: </STRING>
+			<REFERENCE animacy="INANIMATE" entity="45" gender="UNKNOWN" mentionid="45" mentiontype="PROPER" number="SINGULAR">
+				<REFERENCE animacy="INANIMATE" entity="35" gender="UNKNOWN" mentionid="35" mentiontype="PROPER" number="SINGULAR"> Paraopeba </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="36" gender="UNKNOWN" mentionid="36" mentiontype="PROPER" number="SINGULAR"> Abaeté </REFERENCE>
+			</REFERENCE>
+			<STRING>, das </STRING>
+			<REFERENCE animacy="ANIMATE" entity="46" gender="UNKNOWN" mentionid="46" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="47" gender="UNKNOWN" mentionid="47" mentiontype="LIST" number="PLURAL">
+					<REFERENCE animacy="UNKNOWN" entity="49" gender="UNKNOWN" mentionid="49" mentiontype="PROPER" number="SINGULAR"> Velhas </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="ANIMATE" entity="37" gender="UNKNOWN" mentionid="37" mentiontype="PROPER" number="SINGULAR"> Jequitaí </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="INANIMATE" entity="38" gender="UNKNOWN" mentionid="38" mentiontype="PROPER" number="SINGULAR"> Paracatu </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="INANIMATE" entity="39" gender="UNKNOWN" mentionid="39" mentiontype="PROPER" number="SINGULAR"> Urucuia </REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE animacy="ANIMATE" entity="40" gender="NEUTRAL" mentionid="40" mentiontype="PROPER" number="SINGULAR"> Verde Grande </REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="41" gender="UNKNOWN" mentionid="41" mentiontype="PROPER" number="SINGULAR"> Carinhanha </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="42" gender="MALE" mentionid="42" mentiontype="PROPER" number="SINGULAR"> Corrente </REFERENCE>
+				<STRING>, and </STRING>
+				<REFERENCE animacy="UNKNOWN" entity="40" gender="MALE" mentionid="48" mentiontype="PROPER" number="SINGULAR"> Grande </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="6">
+			<REFERENCE animacy="INANIMATE" entity="50" gender="NEUTRAL" mentionid="50" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> The area crossed by </STRING>
+				<TARGET-REFERENCE ENTROPY="0.245053" ID="5" PARAGRAPH-POSITION="5" RECENCY="0" SYNCAT="np-obj" animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="51" number="SINGULAR">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="description">the river</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="85" TYPE="name">São Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="88" TYPE="name">São Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="91" TYPE="name">São Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="97" TYPE="name">São Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="100" TYPE="name">São Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="106" TYPE="name">the São Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="109" TYPE="name">the São Francisco river</REFEX>
+						<REFEX PARTICIPANT-ID="112" TYPE="name">São Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="115" TYPE="name">São Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="118" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="124" TYPE="name">São Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="133" TYPE="name">São Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="136" TYPE="name">São Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="140" TYPE="name">São Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="142" TYPE="name">The São Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="149" TYPE="name">Sap Franciso</REFEX>
+						<REFEX PARTICIPANT-ID="152" TYPE="description">the river</REFEX>
+						<REFEX PARTICIPANT-ID="155" TYPE="name">the Sao Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="158" TYPE="name">São Francisco</REFEX>
+						<REFEX PARTICIPANT-ID="161" TYPE="name">Sao Francisco</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+			</REFERENCE>
+			<STRING> is vast and underpopulated, but </STRING>
+			<REFERENCE animacy="INANIMATE" entity="52" gender="UNKNOWN" mentionid="52" mentiontype="NOMINAL" number="PLURAL"> several towns </REFERENCE>
+			<STRING> lie on </STRING>
+			<TARGET-REFERENCE ENTROPY="0.279949" ID="6" PARAGRAPH-POSITION="15" RECENCY="10" SYNCAT="np-obj" animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="53" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="other">its banks</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="other">the its shores</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="other">portions of its bank</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="other">it's banks</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="other">the banks</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">her banks</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="other">its banks</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="other">its borders</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="7">
+			<STRING> Beginning in </STRING>
+			<REFERENCE animacy="INANIMATE" entity="14" gender="UNKNOWN" mentionid="54" mentiontype="PROPER" number="UNKNOWN"> Minas Gerais </REFERENCE>
+			<TARGET-REFERENCE ENTROPY="0.676826" ID="7" PARAGRAPH-POSITION="20" RECENCY="5" SYNCAT="np-subj" animacy="INANIMATE" entity="2" gender="NEUTRAL" mentionid="53" number="SINGULAR">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="85" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="88" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="91" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="97" TYPE="description">the winding river</REFEX>
+					<REFEX PARTICIPANT-ID="100" TYPE="other">also</REFEX>
+					<REFEX PARTICIPANT-ID="106" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="109" TYPE="name">the São Francisco river</REFEX>
+					<REFEX PARTICIPANT-ID="112" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="115" TYPE="other">she</REFEX>
+					<REFEX PARTICIPANT-ID="118" TYPE="name">sao francisco</REFEX>
+					<REFEX PARTICIPANT-ID="124" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="133" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="136" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="140" TYPE="name">São Francisco</REFEX>
+					<REFEX PARTICIPANT-ID="142" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="149" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="152" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="155" TYPE="description">the river</REFEX>
+					<REFEX PARTICIPANT-ID="158" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="161" TYPE="description">the river</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> passes by </STRING>
+			<REFERENCE animacy="ANIMATE" entity="63" gender="UNKNOWN" mentionid="63" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="55" gender="UNKNOWN" mentionid="55" mentiontype="PROPER" number="SINGULAR"> Pirapora </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="56" gender="MALE" mentionid="56" mentiontype="PROPER" number="SINGULAR"> São Francisco </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="57" gender="UNKNOWN" mentionid="57" mentiontype="PROPER" number="SINGULAR"> Januária </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="ANIMATE" entity="58" gender="UNKNOWN" mentionid="58" mentiontype="PROPER" number="SINGULAR"> Bom Jesus da Lapa </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE animacy="INANIMATE" entity="64" gender="UNKNOWN" mentionid="64" mentiontype="NOMINAL" number="PLURAL">
+					<STRING> the twin cities of </STRING>
+					<REFERENCE animacy="INANIMATE" entity="65" gender="UNKNOWN" mentionid="65" mentiontype="LIST" number="PLURAL">
+						<REFERENCE animacy="INANIMATE" entity="59" gender="UNKNOWN" mentionid="59" mentiontype="PROPER" number="SINGULAR"> Petrolina </REFERENCE>
+						<STRING> and </STRING>
+						<REFERENCE animacy="INANIMATE" entity="60" gender="UNKNOWN" mentionid="60" mentiontype="PROPER" number="SINGULAR"> Juazeiro </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+				<STRING>, and </STRING>
+				<REFERENCE animacy="ANIMATE" entity="61" gender="MALE" mentionid="61" mentiontype="PROPER" number="SINGULAR"> Paulo Afonso </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="8">
+			<REFERENCE animacy="INANIMATE" entity="66" gender="NEUTRAL" mentionid="66" mentiontype="NOMINAL" number="SINGULAR"> The hinterland </REFERENCE>
+			<STRING> is dry and underpopulated so </STRING>
+			<REFERENCE animacy="INANIMATE" entity="67" gender="UNKNOWN" mentionid="67" mentiontype="NOMINAL" number="UNKNOWN">
+				<STRING> most of </STRING>
+				<REFERENCE animacy="INANIMATE" entity="52" gender="UNKNOWN" mentionid="68" mentiontype="NOMINAL" number="PLURAL"> the towns </REFERENCE>
+			</REFERENCE>
+			<STRING> are small and isolated. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="9">
+			<STRING> Only </STRING>
+			<REFERENCE animacy="ANIMATE" entity="65" gender="UNKNOWN" mentionid="71" mentiontype="LIST" number="PLURAL">
+				<REFERENCE animacy="ANIMATE" entity="59" gender="UNKNOWN" mentionid="69" mentiontype="PROPER" number="SINGULAR"> Petrolina </REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE animacy="INANIMATE" entity="60" gender="UNKNOWN" mentionid="70" mentiontype="PROPER" number="SINGULAR"> Juazeiro </REFERENCE>
+			</REFERENCE>
+			<STRING> have grown into </STRING>
+			<REFERENCE animacy="INANIMATE" entity="72" gender="UNKNOWN" mentionid="72" mentiontype="NOMINAL" number="PLURAL"> medium sized cities </REFERENCE>
+			<STRING> and are important because of </STRING>
+			<REFERENCE animacy="INANIMATE" entity="73" gender="NEUTRAL" mentionid="73" mentiontype="NOMINAL" number="SINGULAR">
+				<STRING> the fruit production based on irrigation from </STRING>
+				<REFERENCE animacy="INANIMATE" entity="74" gender="NEUTRAL" mentionid="74" mentiontype="NOMINAL" number="SINGULAR"> the Sobradinho dam </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

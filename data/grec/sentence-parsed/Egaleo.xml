@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<TEXT ID="139">
+	<TITLE>Egaleo (mountain)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Aegaleo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Greek [] Aigaleo, Latin Aegaleus), also Aigaleo and Egaleo, is a mountain in Greece.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is situated west of Athens, southeast of Eleusis, east of the island of Salamis and northwest of Piraeus.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Most of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is rocky.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is shorter than Hymettus.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Most of the forest is to  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> north where the monastery Daphni (Daphnion) is located.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>There is also a park in  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> northern reaches.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>This is a range which surrounds the tiny coast southwest of Chaidari. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>With  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> grand view of the Straits of Salamis,  </STRING>
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Egaleo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the site of Xerxes' throne from which he observed the Battle of Salamis. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Towns and places surround  </STRING>
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are Perama, Piraeus, Drapetsona, Nikaia, Korydallos (Corydallos), the highway, and Chaidari.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The subway now connects the area after opening its first station after reducing Iera Odos (Sacred Way) into two lanes in 2002-2003. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>A highway linking GR-8 and Piraeus runs through this mountain range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>Refineries of Skaramangas is in the north.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.3">
+			<STRING>The new bypass on the northwestern part of the range which is part of the Attiki Odos superhighway system, the Aegaleo Ring (Number 65) which was opened on January, 2004 along with the rest of the superhighway northwest of the range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.4">
+			<STRING>The ring presently doesn't have full access with Athinon Avenue and GR-8 yet but contains two interchanges of which two of them are single access interchanges. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>On December 19, 2004, hailstorms hit  </STRING>
+			<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Aigaleo</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> again and it reminded some like snow.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<STRING>It skidded some cars and caused troubles in traffic. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

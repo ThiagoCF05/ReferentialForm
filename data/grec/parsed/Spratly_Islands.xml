@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="1381">
+	<TITLE>Spratly Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Spratly Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are a disputed group of approximately 100 reefs and islets in the South China Sea. Part of the South China Sea Islands, </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Spratly Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> are surrounded by rich fishing grounds and gas and oil deposits, whose true extent is unknown and disputed. The People's Republic of China (PRC), the Republic of China (Taiwan), and Vietnam each claim sovereignty over </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the entire group of islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, while Brunei, Malaysia, and the Philippines each claim various parts. Several of the nations involved have soldiers stationed in </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Spratlys</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and control various installations on different islands and reefs. The Republic of China (Taiwan) occupies one of the largest islands, Taiping (Itu Aba Island). In February 1995, the PRC occupied Mischief Reef, creating a political crisis in Southeast Asia, especially with the Philippines. In early 1999, these disputes escalated as the Philippines claimed that the PRC was building military installations on the reef.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Although the disputes have calmed to some degree, they still remain one of the most plausible scenarios for a major East Asia war involving the PRC or a smaller war between other claimants, a scenario depicted by Tom Clancy in his novel SSN.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="267">
+	<TITLE>Kopaonik</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kopaonik</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Serbian: Копаоник), is one of the biggest mountains of Serbia. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the southern part of Central Serbia. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> highest peak is 2,017 metres above sea level, Pančić's Peak. Kopaonik's national park was established in 1981. The national park's area is 118.1 km², and is spread over the central part of the Kopaonik plateau.</STRING>
+	</PARAGRAPH>
+</TEXT>

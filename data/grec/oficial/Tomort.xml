@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TEXT ID="889">
+	<TITLE>Tomort</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tomort</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, or Tomurty, is the highest peak in the Karlik Shan, in the far eastern part of the Tien Shan mountain range of Xinjiang, China.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>While not of great absolute elevation among Chinese peaks,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="35" PARAGRAPH-RECENCY="34" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is well-separated from higher terrain, and hence  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="43" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="18" SENTENCE-RECENCY="8" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a high topographic prominence. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tomort</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was reconnoitered or attempted in 1996, 1997, 2000, and 2004, by Chinese and Japanese parties.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> first, and to date only, ascent was in 2005, by a small group from the Alpine Club of the National Defense Academy of Japan, led by Isao Fukura.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>They described the summit as a &quot;table-top ice-snow plateau, with glaciers several kilometers long descending on all sides,&quot; which was reached by &quot;a crevassed glacier and a 50 degree snow/ice face.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

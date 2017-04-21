@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<TEXT ID="1405">
+	<TITLE>United States</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The United States of America</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, also known as the United States, the U.S., the U.S.A., the U.S. of A., The States and America, is a country in North America  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">that</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> extends from the Atlantic Ocean to the Pacific Ocean and  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shares land borders with Canada and Mexico.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The United States</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a federal republic, with  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> capital in Washington, D.C. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>At over 3.7 million square miles (over 9.5 million km²),  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the U.S.</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (including  </STRING>
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> non-contiguous and overseas states and territories) is the third or fourth largest country by total area, depending on whether China's figures include its disputed areas.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the world's third most populous nation, with over 300 million people. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The present day continental United States has been inhabited for at least 15,000 years by indigenous tribes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>In the 16th century European exploration and settlement began, led by the English, French and Spanish.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>On July 4 1776, at war with Britain over fair governance, thirteen British colonies on the Eastern seaboard declared their independence and in 1783, the war ended with British acceptance of the new nation.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>July 4, 1776, is generally considered to be the date on which  </STRING>
+			<REFERENCE ID="9" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the U.S.</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was founded. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>American military, economic, cultural, and political influence increased through the 19th and 20th centuries.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>With the collapse of the Soviet Union at the end of the Cold War,  </STRING>
+			<REFERENCE ID="10" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the nation</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> emerged as the world's sole remaining superpower, and today,  </STRING>
+			<REFERENCE ID="11" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the United States</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> plays a major role in world affairs. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<TEXT ID="778">
+	<TITLE>Monte Pissis</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte Pissis</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an extinct volcano in La Rioja Province, Argentina.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the third highest in the Western Hemisphere, and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located about 550 km north of Aconcagua. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Due to  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="3" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> location in the Atacama Desert,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="6" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has very dry conditions with snow only remaining on the peak during winter.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is very high and remote, however the ascent is but a hike, albeit a long one. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>In 1994 it was claimed by Argentine authorities that an advanced GPS survey had determined that the elevation of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="20" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte Pissis</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was 6,882 m, and higher than Ojos del Salado, but SRTM data and several modern GPS surveys have proved that this widely reproduced and repeated claim is incorrect. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>In 2007, a Chilean-European expedition performed a precise survey on both Ojos del Salado and  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="16" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="16" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Monte Pissis</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, using more accurate instruments.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>It has provisionally found the former to be 6,891 m and  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="12" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the latter</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> 6,793 m. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

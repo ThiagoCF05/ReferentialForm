@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1099">
+	<TITLE>Lisbon</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lisbon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Portuguese: Lisboa, IPA: [IPA: [liʒ'boɐ]]) is the capital and largest city of Portugal. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the seat of the district of Lisbon and capital of Lisboa region. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lisbon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a population of 564 477 (2001), and the Lisbon Metropolitan Area has around 2,700,000 inhabitants (2005). Lisbon region is the wealthiest region in Portugal and it is well above the European Union's per capita GDP average.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lisbon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> hosts two important European Union agencies namely, the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) and the European Maritime Safety Agency (EMSA). The CPLP (Community of Portuguese Language Countries), is also headquartered in </STRING>
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lisbon</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>.</STRING>
+	</PARAGRAPH>
+</TEXT>

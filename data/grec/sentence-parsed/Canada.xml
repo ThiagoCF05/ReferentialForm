@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TEXT ID="1235">
+	<TITLE>Canada</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canada</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (pronounced [IPA: /'kænədə/] in English and [IPA: /kanada/] in French) is the world's second-largest country by total area, occupying most of northern North America.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Extending from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean,  </STRING>
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canada</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> shares land borders with the United States to the south and to the northwest. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Inhabited first by Aboriginal peoples,  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canada</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was founded as a union of British and former French colonies.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canada</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> gained independence from the United Kingdom in an incremental process that began in 1867 and ended in 1982. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canada</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a federal constitutional monarchy with a parliamentary democracy.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Comprising ten provinces and three territories,  </STRING>
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canada</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a bilingual and multicultural nation, with both English and French as official languages at the federal level.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>A technologically advanced and industrialized nation,  </STRING>
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canada</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> maintains a diversified economy heavily reliant on trade—particularly with the United States, with which  </STRING>
+			<REFERENCE ID="8" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Canada</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has had a long and complex relationship—and abundant natural resources. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

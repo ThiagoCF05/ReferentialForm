@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TEXT ID="1278">
+	<TITLE>Guadeloupe</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guadeloupe</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an archipelago located in the eastern Caribbean Sea at 16°15'N,61°35'W, with a total area of 1,780 square kilometres (687 sq.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>mi).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an overseas département (département d'outre-mer, DOM) of France.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>As with the other DOMs,  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guadeloupe</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also one of the twenty-six régions of France (being a région d'outre-mer) and an integral part of the Republic.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>As part of France,  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guadeloupe</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is part of the European Union; hence  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> currency is the euro.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Guadeloupe</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is however not party to the Schengen Agreement. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

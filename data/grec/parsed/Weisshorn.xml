@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TEXT ID="918">
+	<TITLE>Weisshorn</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Weisshorn</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (4,505 m) is a mountain in the Swiss Alps, west of Zermatt and north of the Matterhorn.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first climbed on 19 August 1861 by John Tyndall with guides J. J. Bennen and Ulrich Wenger. The south face was first climbed in 1895 by J. M. Biner, A. Imboden and E. Broome.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>With </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> 4505 m, </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Weisshorn</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> overtops the illustrious Matterhorn by some 60 m. Departing from the Tracuit at 3265 m, you'll reach the summit via the NW ridge. The first 3 hours consist of relatively easy walking across the glacier and will lead you on top of the Bishorn (4153 m). The second part of the ascent is more exposed and will take another 5 hrs. The ascent is not a piece of cake, but it's worth the effort.</STRING>
+	</PARAGRAPH>
+</TEXT>

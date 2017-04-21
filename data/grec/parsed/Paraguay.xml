@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1346">
+	<TITLE>Paraguay</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Paraguay</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, officially the Republic of Paraguay (Spanish: República del Paraguay, pron. IPA [IPA: [re'puβlika del para'ɣwaj]], Guarani: Tetã Paraguái), is a landlocked country in South America. </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies on both banks of the Paraguay River, bordering Argentina to the south and southwest, Brazil to the east and northeast, and Bolivia to the northwest, and </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the very heart of South America. 'Paraguay' is derived from the Guaraní word 'Pararaguay', meaning, 'From a Great River'. The 'Great River' is the Paraná River, which produces the greatest amount of hydroelectric power in the world.</STRING>
+	</PARAGRAPH>
+</TEXT>

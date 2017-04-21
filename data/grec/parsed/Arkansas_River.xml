@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<TEXT ID="1795">
+	<TITLE>Arkansas River</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Arkansas River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a major tributary of the Mississippi River. </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Arkansas</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> generally flows to the east and southeast, and </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> traverses the states of Colorado, Kansas, Oklahoma, and Arkansas.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>At 1450 miles (2334 km) </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the fourth longest river in the United States. </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> origin is in the Colorado Rockies in Lake County near Leadville, and </STRING>
+		<REFERENCE ID="6" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> outlet is at the historic site of Napoleon, Arkansas. </STRING>
+		<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the 2nd largest tributary in the Mississippi-Missouri system, with a drainage basin of nearly 195,000 sq. mi. (505,000 km²) (See watershed maps: 1)</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="8" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Arkansas</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has three distinct characters in </STRING>
+		<REFERENCE ID="9" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> long path through central North America. At </STRING>
+		<REFERENCE ID="10" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> headwaters </STRING>
+		<REFERENCE ID="11" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Arkansas</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> runs as a steep mountain torrent through the Rockies, dropping 4600 feet (1.4 km) in 120 miles (193 km). At Cañon City, Colorado, </STRING>
+		<REFERENCE ID="12" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> leaves the mountains and enters Royal Gorge. This section sees extensive Whitewater rafting in the spring and summer.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>For most of </STRING>
+		<REFERENCE ID="13" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> length through the rest of Colorado and Kansas, </STRING>
+		<REFERENCE ID="14" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a typical Great Plains riverway, with wide shallow banks, subject to seasonal flooding. Tributaries include the Cimarron River flowing from NE New Mexico and the Salt Fork Arkansas River</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>Important cities along the Lower Arkansas include: Wichita, Kansas, Tulsa, Oklahoma, and Little Rock, Arkansas.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<STRING>The I-40 Bridge Disaster of May 2002 took place on I-40's crossing of </STRING>
+		<REFERENCE ID="15" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Arkansas River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> near Webbers Falls, Oklahoma.</STRING>
+	</PARAGRAPH>
+</TEXT>

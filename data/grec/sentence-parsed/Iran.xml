@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TEXT ID="1291">
+	<TITLE>Iran</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Iran</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Persian: ايران], Īrān), officially the Islamic Republic of Iran ([Persian: جمهوری اسلامی ايران], transliteration: Jomhūrī-ye Eslāmī-ye Īrān), is a country located in west Asia, once known as Persia to the Western world.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Iran</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders Armenia, Azerbaijan (including its Nakhichevan exclave), and Turkmenistan to the north, Pakistan and Afghanistan to the east, and Turkey and Iraq to the west.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>In addition,  </STRING>
+			<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> borders the Persian Gulf, across which lie Kuwait, Iraq, Saudi Arabia, Bahrain, Oman, Qatar, and the United Arab Emirates.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Shi'a Islam is the official state religion and Persian the official language. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Throughout history,  </STRING>
+			<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Iran</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been of great geostrategic importance because of  </STRING>
+			<REFERENCE ID="5" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> central location in Eurasia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="6" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Iran</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a member and co-founder of the United Nations, NAM, the OIC, and OPEC.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Iran</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also significant in international politics on account of  </STRING>
+			<REFERENCE ID="8" SEMCAT="country" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> large supply of petroleum.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>The name Iran is a cognate of Aryan and literally means &quot;Land of the Aryans.&quot;</STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

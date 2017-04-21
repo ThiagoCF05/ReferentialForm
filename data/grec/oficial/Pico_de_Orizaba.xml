@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="644">
+	<TITLE>Pico de Orizaba</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Pico de Orizaba</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, or Citlaltépetl (from Nahuatl citlal(in) = star, and tepētl = mountain), is the highest mountain in Mexico and the third highest in North America.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="26" PARAGRAPH-RECENCY="25" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> rises 5,636 meters (18,490 feet) above sea level in the eastern end of the Eje Volcánico Transversal mountain range, on the border between the states of Veracruz and Puebla.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="56" PARAGRAPH-RECENCY="30" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is currently dormant but not extinct; the last eruptions occurred in 1687, with previous eruptions in 1630, 1613, 1569, 1566, 1545-65?</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>and 1537. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

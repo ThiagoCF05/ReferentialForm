@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEXT ID="1299">
+	<TITLE>Kyrgyzstan</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kyrgyzstan</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Kyrgyz and Russian: Кыргызстан, variously transliterated), officially the Kyrgyz Republic, is a country in Central Asia. Landlocked and mountainous, </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> borders Kazakhstan to the north, Uzbekistan to the west, Tajikistan to the southwest and the People's Republic of China to the southeast. Kyrgyzstan means the &quot;Land of the Kyrgyz&quot;. </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also occasionally called &quot;the Switzerland of Central Asia&quot;.</STRING>
+	</PARAGRAPH>
+</TEXT>

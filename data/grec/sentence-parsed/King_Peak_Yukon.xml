@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TEXT ID="258">
+	<TITLE>King Peak (Yukon)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">King Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (sometimes called Mount King) is the fourth highest mountain in Canada and the ninth highest peak in North America.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Situated just west of Mount Logan (highest in Canada),  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is considered a satellite peak of that massive mountain. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

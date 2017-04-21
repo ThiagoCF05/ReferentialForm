@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="1057">
+	<TITLE>Faisalabad</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Faisalabad</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Urdu: ِیصل آباد ) is located in Punjab, Pakistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Faisalabad</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the third largest city in Pakistan with an estimated 2006 population of 2.6 million ( </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="17" SEMCAT="city" SENTENCE-POSITION="18" SENTENCE-RECENCY="17" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">city proper</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The entire district had a population of about 5.4 million in 1998.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="42" PARAGRAPH-RECENCY="14" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an important industrial centre located in the Punjab province, west of Lahore.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The city-district of Faisalabad is bound on the north by the districts of Gujranwala and Sheikhupura, on the east by Sahiwal district, on the south by Toba Tek Singh district and on the west by Jhang district. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

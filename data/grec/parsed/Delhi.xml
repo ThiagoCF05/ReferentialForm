@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<TEXT ID="1049">
+	<TITLE>Delhi</TITLE>
+	<PARAGRAPH ID="1">
+		<STRING>National Capital Territory of Delhi (NCT) pronunciation, which is a special union territory jointly administered by the Central government, the NCT elected government and three municipal corporations. </STRING>
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The metropolis of Delhi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and the National Capital Territory of Delhi are coextensive and for most practical purposes they are considered to be the same entity. New Delhi, an urban area within </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the metropolis of Delhi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, is the seat of the Government of India.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Delhi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the seventh most populous metropolis in the world with a population of 15.3 million (2005 figure). </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Delhi's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> metropolitan area, informally known as the National Capital Region (NCR), comprises of the NCT and the neighbouring satellite towns of Faridabad and Gurgaon in Haryana, and Noida and Ghaziabad in Uttar Pradesh making it the sixth most populous agglomeration in the world, with an estimated population of 19.7 million.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Delhi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a vibrant history. </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was the capital of several empires in ancient India and </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has over 60,000 recognized monuments built over several millennia. </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Delhi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> derives </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> historic importance from </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> position in northern India between the Aravalli Hills to the southwest and the Yamuna river on whose western banks </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> stands. This enabled </STRING>
+		<REFERENCE ID="12" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> to dominate the old trade routes from northwest India to the plains of the Ganges. As a result, </STRING>
+		<REFERENCE ID="13" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has long been an important cultural, political, and intellectual centre. Due to a high migration rate, </STRING>
+		<REFERENCE ID="14" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Delhi</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> registers as one of the fastest growing cities in Asia. As a consequence, </STRING>
+		<REFERENCE ID="15" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> faces key issues like environmental degradation, air and water pollution, traffic congestion and acute power and water shortages.</STRING>
+	</PARAGRAPH>
+</TEXT>

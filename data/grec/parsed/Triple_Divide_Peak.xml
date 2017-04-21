@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEXT ID="895">
+	<TITLE>Triple Divide Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Triple Divide Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (8,020 ft / 2,444 m) is located in Glacier National Park, Montana, United States. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the hydrologic apex of the North American continent. The Continental (Great) Divide and the Laurentian Divide meet at the summit of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, and all water that falls at this point can flow to any of the Pacific, Arctic or the Atlantic Oceans.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Rainfall on the western side of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (after several creeks) enters the Middle Fork of the Flathead River, which in turn enters the Clark Fork River, Pend Oreille River, and the Columbia River which empties into the Pacific Ocean at Astoria, Oregon. Flathead Lake and Lake Pend Oreille are also fed by this system of rivers, as well as some man-made lakes on the Columbia River.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>After several creeks, the northeastern slope of </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> sheds water toward St. Mary Lake, which feeds the St. Mary River, which in turn flows into Oldman River, Saskatchewan River, and the Nelson River, which empties into Hudson Bay, This ultimately reaches the Arctic Ocean. Cedar Lake and Lake Winnipeg in Manitoba are also fed by this system of rivers.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>Moisture on the southeastern slopes feeds into Atlantic Creek, which in turn enter the North Fork of Cut Bank Creek, Marias River, Missouri River, which joins the Mississippi River at Saint Louis, Missouri, before emptying into the Gulf of Mexico near New Orleans. This ultimately reaches the Atlantic Ocean.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<TEXT ID="1826">
+	<TITLE>Missouri River</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Missouri River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a tributary of the Mississippi River in the United States. </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Missouri</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> begins at the confluence of the Madison, Jefferson, and Gallatin rivers in Montana, and </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> flows into the Mississippi north of St. Louis, Missouri. At 2,341 mi (3,767 km) in length, </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> drains approximately one-sixth of the North American continent. Depending on whether </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> length is reckoned from the headwaters of </STRING>
+		<REFERENCE ID="6" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> sources (as the Mississippi's length is reckoned from Lake Itasca, Minnesota), or from their confluence where </STRING>
+		<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Missouri</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is first so-named (at Three Forks, Montana), </STRING>
+		<REFERENCE ID="8" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is currently either the longest or second-longest river in the United States. Prior to the Pick-Sloan Program and channelization, </STRING>
+		<REFERENCE ID="9" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was unquestionably the longest river in the US. The combined Missouri-Mississippi river system is the third longest river in the world. According to Engineers, in an average year, </STRING>
+		<REFERENCE ID="10" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Missouri River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> provides about 45 percent of the flow of the Mississippi past St. Louis. </STRING>
+		<REFERENCE ID="11" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> volume on average is also less than that of the Ohio River, another tributary of the Mississippi.</STRING>
+	</PARAGRAPH>
+</TEXT>

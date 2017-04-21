@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEXT ID="531">
+	<TITLE>Mount Saskatchewan (Yukon)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Saskatchewan</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the extreme southwestern corner of Yukon in Kluane National Park and Reserve.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="17" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named in 1967 for the province of Saskatchewan to mark Canada's centennial. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>As of 2006,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="4" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> remains unclimbed.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The first attempt was made in 1967 as part of Canada's centennial celebrations.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>A team from Saskatchewan attempted to climb  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="27" PARAGRAPH-RECENCY="23" SEMCAT="mountain" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in May 2005 to celebrate the centennial of the province.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>However, warmer than usual weather conditions and difficulties in finding a relatively safe route rebuffed the attempt. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

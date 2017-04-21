@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<TEXT ID="1098">
+	<TITLE>Lima</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lima</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital and largest city in Peru, as well as the capital of Lima Province.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="18" PARAGRAPH-RECENCY="17" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the cultural, industrial, financial, and transport hub of the country.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="12" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in an area encompassing the valleys of the Chillón, Rímac and Lurín rivers.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="46" PARAGRAPH-RECENCY="16" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies on a desertic coast adjacent to the bay in the Pacific Ocean where  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="61" PARAGRAPH-RECENCY="15" SEMCAT="city" SENTENCE-POSITION="16" SENTENCE-RECENCY="15" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> port was built and named Callao. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Founded by Spanish conquistador Francisco Pizarro,  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="7" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lima</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also known as the City of Kings.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>For more than three centuries,  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="14" SEMCAT="city" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lima</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the most important city and the greatest metropolis in South America.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>More than four centuries have passed since  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="20" SEMCAT="city" SENTENCE-POSITION="8" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> founding as a Spanish city, and  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="48" PARAGRAPH-RECENCY="7" SEMCAT="city" SENTENCE-POSITION="15" SENTENCE-RECENCY="7" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Lima</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has become an expression of Peru's heritage, with nearly one-third of the nation's population living in  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="65" PARAGRAPH-RECENCY="17" SEMCAT="city" SENTENCE-POSITION="32" SENTENCE-RECENCY="17" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> metropolitan area. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>While there is no formal administrative definition for  </STRING>
+			<REFERENCE ID="11" PARAGRAPH-POSITION="9" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="9" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the city of Lima</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>,  </STRING>
+			<REFERENCE ID="12" PARAGRAPH-POSITION="10" PARAGRAPH-RECENCY="1" SEMCAT="city" SENTENCE-POSITION="10" SENTENCE-RECENCY="1" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is generally considered to be comprised of the central 30 out of the 43 districts of Lima province, corresponding roughly to the urban area centered on the historic Cercado de Lima district.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="13" PARAGRAPH-POSITION="43" PARAGRAPH-RECENCY="33" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> serves as the core of the Lima Metropolitan Area, one of the ten largest metropolitan areas in the Americas. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1642">
+	<TITLE>Mahavira</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mahavir</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (वर्धमान महावीर) (the &quot;Great Hero&quot; 599 BCE-527 BCE, though possibly 549 BCE-477 BCE) was the 24th, and last, Jainist Tirthankara.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also known in texts as Vira or Viraprabhu, Vardhamana (increasing), Sanmati, Ativira, Niggantha Nathaputta as well as Gnatputra. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mahavir</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> established what are today considered to be the central tenets of Jainism and  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="15" PARAGRAPH-RECENCY="14" SEMCAT="person" SENTENCE-POSITION="15" SENTENCE-RECENCY="14" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a contemporary of Siddhartha Gautama, the Buddha. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

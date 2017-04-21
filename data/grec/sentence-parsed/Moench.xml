@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="763">
+	<TITLE>Mönch</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Mönch</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (German: &quot;monk&quot;) is a mountain in the Swiss Alps.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Together with the Eiger and the Jungfrau  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms a salient tripartite group visible from far away. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was first climbed on August 15, 1857 by Christian Almer, Christian Kaufmann, Ulrich Kaufmann and Sigismund Porges. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

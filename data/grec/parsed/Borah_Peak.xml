@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="55">
+	<TITLE>Borah Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Borah Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (also known as Mount Borah) is the tallest mountain in Idaho, rising to 12,662 feet (3,859 m). </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the central section of the Lost River Range within the Challis National Forest. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is named for William Edgar Borah (1865-1940), U.S. Senator from Idaho serving from 1907-1940.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>On October 28, 1983 a magnitude 7.3 earthquake struck the Borah Peak area. The earthquake lifted </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Borah Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> 7 feet (2 m) from 12,655 feet (3,857 m) to </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> current elevation of 12,662 feet (3,859 m).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The normal route on the southwest ridge is a strenuous hike for the most part until one reaches an arête just before the main summit crest. This point is known as &quot;Chickenout Ridge&quot; as many people will abort the attempt once they see the hazards up close. This dangerous crossing involves a traverse over snow, with steeply slanting slopes on either side. An ice axe is strongly recommended for this section. Parties should turn back if there is any doubt about being able to make the crossing.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Borah Peak's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> north face is one of Idaho's only year-round snow climbs and provides a much greater challenge than the normal route. The face features a number of grade II class 5 routes on mixed terrain.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>Three climbers have died on </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Borah Peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. Two climbers ascending the northwest ridge in 1977 were killed in an avalanche. Another climber in 1987 lost his life on a glissade during descent.</STRING>
+	</PARAGRAPH>
+</TEXT>

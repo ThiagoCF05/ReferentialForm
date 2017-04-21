@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TEXT ID="1481">
+	<TITLE>Constantine I</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Gaius Flavius Valerius Aurelius Constantinus</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (February 27, 272-May 22, 337), commonly known as Constantine I, Constantine the Great, or (among Eastern Orthodox and Eastern Catholic Christians) Saint Constantine, was a Roman Emperor, proclaimed Augustus by  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="31" SEMCAT="person" SENTENCE-POSITION="32" SENTENCE-RECENCY="31" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> troops on July 25,306 and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="38" PARAGRAPH-RECENCY="6" SEMCAT="person" SENTENCE-POSITION="38" SENTENCE-RECENCY="6" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ruled an ever-growing portion of the Roman Empire until  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="48" PARAGRAPH-RECENCY="10" SEMCAT="person" SENTENCE-POSITION="48" SENTENCE-RECENCY="10" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> death. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Constantine</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is best remembered in modern times for the Edict of Milan in 313, which fully legalized Christianity in the Empire, for the first time, and the Council of Nicaea in 325; these actions are considered major factors in the spreading of the Christian religion.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="46" PARAGRAPH-RECENCY="45" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">His</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> reputation as the &quot;first Christian Emperor&quot; has been promulgated by historians from Lactantius and Eusebius of Caesarea to the present day, although there has been debate over the veracity of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="77" PARAGRAPH-RECENCY="31" SEMCAT="person" SENTENCE-POSITION="32" SENTENCE-RECENCY="31" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> faith.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>This debate stems from  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="83" PARAGRAPH-RECENCY="6" SEMCAT="person" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> continued support for pagan deities and the fact that  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="93" PARAGRAPH-RECENCY="10" SEMCAT="person" SENTENCE-POSITION="15" SENTENCE-RECENCY="10" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was baptized very close to  </STRING>
+			<REFERENCE ID="10" PARAGRAPH-POSITION="99" PARAGRAPH-RECENCY="6" SEMCAT="person" SENTENCE-POSITION="21" SENTENCE-RECENCY="6" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> death. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="839">
+	<TITLE>Skil Brum</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Skil Brum</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, or Skilbrum, is a mountain in the Karakoram range in Northern Areas of Pakistan, approximately 9km (5 mi) west-southwest of K2.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="23" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies on the western side of the Godwin-Austen Glacier, roughly opposite Broad Peak. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>In 1957, Marcus Schmuck and Fritz Wintersteller made a flash first ascent of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="14" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="14" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Skil Brum</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, in pure Alpine style.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Starting from base camp of Broad Peak at 4,950 metres, they camped at 6,060 metres, made the summit the next day, then camped again at 6,060 metres, and then returned to base camp the next morning.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The whole ascent, from base camp to base camp was done in 53 hours, a startlingly short time for a major Himalayan ascent in that era. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

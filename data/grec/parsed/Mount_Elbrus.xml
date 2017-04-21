@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="404">
+	<TITLE>Mount Elbrus</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Elbrus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Russian: Эльбрус) is a peak located in the western Caucasus mountains, in Kabardino-Balkaria and Karachay-Cherkessia, Russia, near the border of Georgia. A stratovolcano that has lain dormant for about 2,000 years, </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest mountain in the Caucasus which belongs to Europe (if the border between Europe and Asia is considered to be at the watershed divide of the Caucasus, or anywhere south of this). </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mt. Elbrus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (west summit) stands at 5,642 metres (18,510 ft) and </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> can be considered to be the highest mountain in Europe; </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the highest point of Russia. The east summit is slightly lower: 5,621 metres (18,442 ft).</STRING>
+	</PARAGRAPH>
+</TEXT>

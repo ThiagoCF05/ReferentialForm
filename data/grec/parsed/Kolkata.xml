@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TEXT ID="1088">
+	<TITLE>Kolkata</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kolkata</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (IPA: IPA: 'kolkat̪a Bengali: কলকাতা) (formerly Calcutta) is the capital of the Indian state of West Bengal. </STRING>
+		<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in eastern India on the east bank of the River Hooghly. </STRING>
+		<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a population of almost 5 million, with an extended metropolitan population of over 14 million, making </STRING>
+		<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> the third-largest urban agglomeration and the fourth-largest city in India.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The city</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> served as the capital in India during the British Raj until 1911. Once the centre of modern education, science, culture and politics in India, </STRING>
+		<REFERENCE ID="6" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kolkata</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> witnessed economic stagnation in the years following India's independence in 1947. Since 2000 however, an economic rejuvenation has arrested the morbid decline, leading to a spurt in </STRING>
+		<REFERENCE ID="7" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the city's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> growth. Like other large cities, </STRING>
+		<REFERENCE ID="8" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kolkata</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> continues to struggle with urbanisation problems like poverty, pollution and traffic congestion. A vibrant city with a distinct socio-political culture, </STRING>
+		<REFERENCE ID="9" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kolkata</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is noted for </STRING>
+		<REFERENCE ID="10" SEMCAT="city" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> revolutionary history, ranging from the Indian struggle for independence to the leftist and trade union movements.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Referred to as the &quot;Cultural Capital of India&quot;, &quot;The City of Processions&quot;, and the &quot;City of Joy&quot;, </STRING>
+		<REFERENCE ID="11" SEMCAT="city" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kolkata</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has been home to luminaries such as Rabindranath Tagore, Ronald Ross, Subhas Chandra Bose, Mother Teresa, Satyajit Ray, Satyendranath Bose, Jagdish Chandra Bose, Swami Vivekananda and many others.</STRING>
+	</PARAGRAPH>
+</TEXT>

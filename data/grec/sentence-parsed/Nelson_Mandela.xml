@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<TEXT ID="1671">
+	<TITLE>Nelson Mandela</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nelson Rolihlahla Mandela</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (IPA ) (born July 18, 1918) was the first President of South Africa to be elected in fully-representative democratic elections.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Before  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> presidency  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a prominent anti-apartheid activist and leader of the African National Congress.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was tried and imprisoned for  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> involvement in underground armed resistance activities.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The armed struggle was a last resort;  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> had remained steadfastly committed to non-violence.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Through  </STRING>
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> 27-year imprisonment, much of it spent in a cell on Robben Island,  </STRING>
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mandela</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became the most widely known figure in the struggle against South African apartheid.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>Although the apartheid regime and nations sympathetic to it considered  </STRING>
+			<REFERENCE ID="9" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and the ANC to be communists and terrorists, the armed struggle was an integral part of the overall campaign against apartheid.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>The switch in policy to that of reconciliation, which  </STRING>
+			<REFERENCE ID="10" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mandela</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> pursued upon  </STRING>
+			<REFERENCE ID="11" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> release in 1990, facilitated a peaceful transition to fully-representative democracy in South Africa. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Having received over a hundred awards over four decades,  </STRING>
+			<REFERENCE ID="12" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mandela</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is currently a celebrated elder statesman  </STRING>
+			<REFERENCE ID="13" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> continues to voice  </STRING>
+			<REFERENCE ID="14" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> opinion on topical issues.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>In South Africa  </STRING>
+			<REFERENCE ID="15" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is often known as Madiba, an honorary title adopted by elders of  </STRING>
+			<REFERENCE ID="16" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Mandela's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> clan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>The title has come to be synonymous with  </STRING>
+			<REFERENCE ID="17" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nelson Mandela</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Many South Africans also refer to  </STRING>
+			<REFERENCE ID="18" SEMCAT="person" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> reverently as 'mkhulu' (grandfather). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

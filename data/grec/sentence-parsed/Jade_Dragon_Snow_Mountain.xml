@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TEXT ID="238">
+	<TITLE>Jade Dragon Snow Mountain</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Jade Dragon Snow Mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (simplified Chinese: 玉龙雪山; traditional Chinese: 玉龍雪山; pinyin: Yùlóngxuě Shān) is a mountain massif (also identified as a small mountain range) near Lijiang, in Yunnan province of southwestern China.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> highest peak is named Shanzidou (扇子陡) (5596 metres or 18359 feet).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>The view of the massif from the gardens at the Black Dragon Pool (Heilong Tan) in Lijiang is noted as one of China's finest views.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The far side of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms one side of Tiger Leaping Gorge (Hutiao Xia). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Shanzidou has been climbed only once, on May 8, 1987, by an American expedition.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The summit team comprised Phil Peralta-Ramos and Eric Perlman.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>They climbed snow gullies and limestone headwalls, and encountered high avalanche danger and sparse opportunities for protection.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>They rated the maximum technical difficulty of the rock at YDS 5.7.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>The Jade Water Village is at the foot of  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

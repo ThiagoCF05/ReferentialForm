@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<TEXT ID="447">
+	<TITLE>Mount Kailash</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Kailash</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (officially: Kangrinboqê; ; [Simplified Chinese: 冈仁波齐峰]; [Traditional Chinese: 岡仁波齊峰]; [Pinyin: Gāngrénbōqí Fēng]; Hindi कैलाश पर्वत, Kailāśā Parvata) is a peak in the Gangdisê mountains </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is part of the Himalayas in Xizang (Tibet), China, the source of some of the longest rivers in Asia—the Indus River, the Sutlej River, a tributary of the Indus River, and the Brahmaputra River—and </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is considered as a sacred place in four religions—Hinduism, Buddhism, Jainism and Bön faith. In Hindu religion, </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is considered to be the abode of Lord Shiva. </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies near Lake Manasarowar and Lake Rakshastal in Xizang, China.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>There have been no recorded attempts to climb </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Kailash</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>; </STRING>
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is considered off limits to climbers in deference to Buddhist and Hindu beliefs. </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the most significant peak in the world that has not seen any known climbing attempts.</STRING>
+	</PARAGRAPH>
+</TEXT>

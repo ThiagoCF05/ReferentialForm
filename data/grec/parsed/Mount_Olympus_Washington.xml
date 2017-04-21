@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<TEXT ID="506">
+	<TITLE>Mount Olympus (Washington)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Olympus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the tallest and most prominent mountain in the Olympic Mountains range of Western Washington. Located on the Olympic Peninsula, </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the central feature of Olympic National Park. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Olympus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest summit of the Olympic Mountains, however, peaks such as Mount Constance, on the eastern margin of the range, are more visible from the Seattle metropolitan area. With notable local relief, </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ascends over 2,100 metres (6,900 ft) from the 293 metres (961 ft) elevation confluence of the Hoh River with Hoh Creek in only 8.8 km (5.5 mi).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Due to large winter snowfalls, </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Olympus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> supports large glaciers, despite </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> modest elevation, 2,427 metres (7,963 ft), and relatively low latitude (48°). These glaciers include Blue, Hoh, Humes, Jeffers, Hubert, and White, the longest of which is Hoh at 4.93 kilometres (3.06 mi). The largest is Blue with a volume of 0.57 km³ and area of 5.31 km².</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Olympus</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was sighted in 1774 by the Spanish explorer Juan Perez, who named </STRING>
+		<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> &quot;El Cerro de la Santa Rosalia&quot;. This is said to be the first European to name a geographic feature in present-day Washington state. In 1778, on July 4, the British explorer John Meares gave </STRING>
+		<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> </STRING>
+		<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> present name, Olympus.</STRING>
+	</PARAGRAPH>
+</TEXT>

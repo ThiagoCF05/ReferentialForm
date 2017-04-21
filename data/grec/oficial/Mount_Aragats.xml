@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<TEXT ID="344">
+	<TITLE>Mount Aragats</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Aragats</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (&quot;Արագած&quot; in Armenian) is the highest point in Armenia located in the province of Aragatsotn, northwest from Yerevan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="20" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a standalone extinct stratovolcano with four main peaks forming the rim of the crater, and  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="17" SEMCAT="mountain" SENTENCE-POSITION="18" SENTENCE-RECENCY="17" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a popular destination for local alpinists.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>Located on  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="47" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="3" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> slopes are the Byurakan Observatory and the medieval Amberd Fortress.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The observatory is known worldwide, and it is one of the main observatories in the world.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="74" PARAGRAPH-RECENCY="27" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Aragats</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a popular destination for tourists, especially in summer.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>To the south of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="88" PARAGRAPH-RECENCY="14" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Ashtarak, one of the main cities.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>On the other sides of the mountains are villages and towns. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<TEXT ID="1459">
+	<TITLE>Brian Mulroney</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Martin Brian Mulroney</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, PC, CC, GOQ, LLD (born March 20, 1939), was the eighteenth Prime Minister of Canada from September 17, 1984, to June 25, 1993 and  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was leader of the Progressive Conservative Party of Canada from 1983 to 1993.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>According to Canadian protocol, as a former Prime Minister,  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is called &quot;The Right Honourable&quot; for life. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mulroney</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> became Prime Minister after  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> Progressive Conservatives won the most parliamentary seats in Canadian history.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>At the time,  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mulroney</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was unique in Canadian politics in that  </STRING>
+			<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> had never been a career politician.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Instead  </STRING>
+			<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was a longtime businessman and  </STRING>
+			<REFERENCE ID="9" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> had become leader of the Progressive Conservative Party without ever having been elected to public office. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

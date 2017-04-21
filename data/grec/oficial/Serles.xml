@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEXT ID="720">
+	<TITLE>Serles</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Serles</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an Austrian mountain, between Stubaital and Wipptal in Tyrol, Austria.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> nickname is Altar von Tirol, literally the Altar of Tyrol. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Reachable </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>* from Matrei am Brenner/ Wipptal via Maria Waldrast* from Fulpmes/ Stubaital via Medraz/ Fulpmes, via Wildeben- Alm (also accessible by Mountainbike ) via Serlesjöchl * from Kampl/Neustift, via Wildeben- Alm, via Serlesjöchl </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

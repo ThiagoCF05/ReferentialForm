@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TEXT ID="358">
+	<TITLE>Mount Baxter (California)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Baxter</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a peak along the crest of the Sierra Nevada Mountains in California, USA. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Baxter</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies within the John Muir Wilderness, just north of Baxter Pass.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>A flock of protected bighorn sheep live in the vicinity of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Baxter</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. Because of this, access to </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Baxter</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is limited to December 15 through July 1 of every year.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Baxter</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is to the northeast of the Rae Lakes, a popular backpacking destination along the John Muir Trail.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Baxter</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was probably named after John Baxter, a rancher in Owens Valley.</STRING>
+	</PARAGRAPH>
+</TEXT>

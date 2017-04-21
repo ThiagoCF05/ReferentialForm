@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEXT ID="894">
+	<TITLE>Triglav</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Triglav</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Monte Tricorno in italian) is the highest mountain in Slovenia (and formerly all of Yugoslavia and the Illyrian Provinces) and the Julian Alps. While </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> name, meaning &quot;three-headed&quot;, can describe </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> shape as seen from the valley of Bohinj, </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> may have been named after the Slavic god Triglav, although this hypothesis remains disputed. </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Triglav's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> shape can also be seen in the Slovenian coat of arms, on the flag of Slovenia and on the Slovenian 50 Eurocent coin.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>At the top of </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> stands the Aljažev stolp (Aljaž's Tower) which is a Slovenian landmark and an important symbol of the country.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first ascended on August 26 1778, by Luka Korošec, Matija Kos, Stefan Rožič and Lovrenc Willomitzer on Sigismund Zois's initiative.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<STRING>The Triglav area is also the origin of an old Slovenian legend of a chamois buck (steinbock, ibex) named Zlatorog (&quot;Goldhorn&quot;), which is used as a brand mark of Laško Brewery.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<STRING>A lengthy symphonic poem by the composer Nikolai Rimsky-Korsakov, based on his opera Mlada, bears the title &quot;Night on Mount Triglav&quot;.</STRING>
+	</PARAGRAPH>
+</TEXT>

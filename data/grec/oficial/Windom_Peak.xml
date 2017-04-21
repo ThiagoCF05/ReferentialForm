@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="929">
+	<TITLE>Windom Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Windom Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a fourteener in the Needle Mountains, a subrange of the San Juan Mountains in the U.S. state of Colorado.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Weminuche Wilderness (part of the San Juan National Forest) in La Plata County approximately 13 miles (21 km) south of Silverton. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Windom Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of three fourteeners in the Needle Mountains; the other two are Mount Eolus and Sunlight Peak.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Windom and Sunlight lie on the east side of Twin Lakes, in upper Chicago Basin, while Eolus lies on the west side.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>All three peaks are relatively remote by Colorado standards, and have a strong wilderness character; however they can be popular in summer. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

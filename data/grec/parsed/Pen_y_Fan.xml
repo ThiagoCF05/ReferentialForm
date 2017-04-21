@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TEXT ID="634">
+	<TITLE>Pen y Fan</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pen y Fan</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the highest mountain in South Wales, situated in the Brecon Beacons national park. At 886 metres (2,907 ft) above sea-level, </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also the highest peak in Britain south of the Snowdonia mountain range.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>The summit lies on a ridge stretching from Talybont Reservoir in the east, to the A470. 500 m west lies the subsidiary top of Corn Du, beyond which the terrain descends gently towards the Storey Arms on the A470. To the east, the ridge drops steeply to the col connecting it to Cribyn, the next mountain along the ridge. From Corn Du, a gentle ridge descends south towards Merthyr Tydfil.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pen y Fan</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has claimed large numbers of casualties ranging from ill-prepared or inexperienced hill walkers and climbers to highly trained special forces troops who utilise the area as part of a special forces selection training area (See &quot;Fan Dance&quot;), due to rapidly changing weather conditions. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Pen y Fan</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has earned the infamous title of being the most dangerous peak in Wales.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is formed of strongly glaciated Old Red Sandstone.</STRING>
+	</PARAGRAPH>
+</TEXT>

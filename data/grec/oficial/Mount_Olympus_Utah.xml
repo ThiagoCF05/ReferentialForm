@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TEXT ID="505">
+	<TITLE>Mount Olympus (Utah)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Olympus</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in Utah, USA is one of the most prominent and recognizable mountains viewable from practically every location in the Salt Lake Valley.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>Although not the tallest peak along the Wasatch front,  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="32" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a popular hiking destination for locals.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="41" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is situated immediately East of the center of the Salt Lake Valley (due East from Murray and Taylorsville).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The highest outcropping on  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="64" PARAGRAPH-RECENCY="23" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Olympus</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, dubbed &quot;Summit Peak,&quot; towers above the valley to an elevation of 9026 ft.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Thus, the peak looms about 4800 ft above the valley floor. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

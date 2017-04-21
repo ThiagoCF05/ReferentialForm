@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEXT ID="531">
+	<TITLE>Mount Saskatchewan (Yukon)</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Saskatchewan</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in the extreme southwestern corner of Yukon in Kluane National Park and Reserve. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was named in 1967 for the province of Saskatchewan to mark Canada's centennial.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>As of 2006, </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> remains unclimbed. The first attempt was made in 1967 as part of Canada's centennial celebrations. A team from Saskatchewan attempted to climb </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> in May 2005 to celebrate the centennial of the province. However, warmer than usual weather conditions and difficulties in finding a relatively safe route rebuffed the attempt.</STRING>
+	</PARAGRAPH>
+</TEXT>

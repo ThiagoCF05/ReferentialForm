@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TEXT ID="1707">
+	<TITLE>Qin Shi Huang</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Qin Shi Huang</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([Chinese: 秦始皇, Pinyin: Qín Shǐ Huáng, Wade-Giles: Ch'in Shih-huang]) (November / December 260 BCE – September 10, 210 BCE), personal name Zheng, was king of the Chinese State of Qin from 247 BCE to 221 BCE, and then the first emperor of a unified China from 221 BCE to 210 BCE, ruling under the name First Emperor. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Having unified China,  </STRING>
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> prime minister Lǐ Sī passed a series of major reforms aimed at cementing the unification, and they undertook some gigantic construction projects, most notably the precursor version of the current Great Wall of China.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>For all the tyranny of  </STRING>
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> autocratic rule,  </STRING>
+			<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Qin Shi Huang</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is still regarded by many today as the founding father in Chinese history  </STRING>
+			<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">whose</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> unification of China has endured for more than two millennia (with interruptions). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

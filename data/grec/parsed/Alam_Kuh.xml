@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="12">
+	<TITLE>Alam Kuh</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Alam Kuh</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, also transliterated as Alam Kooh (Persian: علم کوه) is a mountain in the Alborz mountains range in the north of Iran between Tehran and the Caspian sea, forming a peak of the Takht-e Suleyman Massif. At 4,850 m high, </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the second highest peak in Iran, only to Mount Damavand at 5,671 m. The 800 m high steep granite north face provides some of the most difficult and interesting mountaineering routes in the country and the climbs rank alongside major climbing routes in the European Alps. In addition to local climbers, the north face attracts European climbing teams, the first known ascent being by a German party Gorter/Steinauer in 1936 up the north west ridge. Subsequently French and Polish teams established other routes on the north face during the 1960’s and 1970, these being multi-day routes of high Alpine standard and a British team followed in 1978.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Most of the fixed ropes were damaged severely during a major earthquake and consequent rockfall in 2003. </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was closed to the climbers for some months because the hazard of rockfall and loose cables.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The mountain range supports permanent snow and glaciers and although the southern slopes of the range tend to be dry and barren the northern valleys leading to the Caspian Sea (which offer the best approaches to the mountains) are wet and lush with vegetation.</STRING>
+	</PARAGRAPH>
+</TEXT>

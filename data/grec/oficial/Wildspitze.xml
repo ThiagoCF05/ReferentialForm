@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TEXT ID="925">
+	<TITLE>Wildspitze</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Wildspitze</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest mountain in the Ötztal Alps and the second highest mountain in Austria.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The large number of glaciers and relatively easy routes make  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="27" PARAGRAPH-RECENCY="26" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> popular with ice climbers (especially the North face). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

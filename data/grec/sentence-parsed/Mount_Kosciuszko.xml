@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TEXT ID="464">
+	<TITLE>Mount Kosciuszko</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Kosciuszko</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, located in the Snowy Mountains, in Kosciuszko National Park, is the highest mountain in Australia (not including its external territories), at 2,228 m above sea level.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named by the Polish explorer Count Paul Strzelecki in 1840, in honour of the Polish national hero General Tadeusz Kościuszko, because of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> perceived resemblance to the Kościuszko Mound in Krakow. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The name of  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was formerly spelled &quot;Mount Kosciusko,&quot; an Anglicisation; but the version &quot;Mount Kosciuszko&quot; was officially adopted in 1997 by the Geographical Names Board of NSW.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The common Australian pronunciation of Kosciuszko, &quot;kozzy-osko&quot;, differs from the pronunciation in Polish, [IPA: ˈkoɕˈtɕuʃko] &quot;kosh-CHOOSH-ko&quot;. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Various measurements of the peak originally called by that name showed it to be slightly lower than its neighbour, Mount Townsend, and the names were thereupon transposed by the New South Wales Lands Department, so that  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Kosciuszko</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> still remains the highest peak of Australia, and Mount Townsend ranks as second.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The 1863 picture by Eugene von Guerard hanging in the National Gallery of Australia titled &quot;Northeast view from the northern top of Mount Kosciusko&quot; is actually from Mt Townsend. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

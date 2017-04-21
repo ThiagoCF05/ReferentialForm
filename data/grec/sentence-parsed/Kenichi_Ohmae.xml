@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TEXT ID="1625">
+	<TITLE>Kenichi Ohmae</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Kenichi Ohmae</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (born February 21, 1943) is one of the world's leading business and corporate strategists.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known as 'Mr strategy' and  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has developed the 3C's model.. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>The 3C’s model points out that a strategist should focus on three key factors for success.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>In the construction of a business strategy, three main players must be taken into account: </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>A.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>The Corporation </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>B.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING>The Customer </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<STRING>C.The Competitors </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING>Only by integrating these three C’s (Corporation, Customer, Competitors) in a strategic triangle, a sustained competitive advantage can exist.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.2">
+			<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ohmae</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> refers to these key factors as the three C’S or strategic triangle. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

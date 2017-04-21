@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TEXT ID="1246">
+	<TITLE>Cook Islands</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Cook Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Cook Islands Māori: Kūki 'Āirani) are a self-governing parliamentary democracy in free association with New Zealand. The 15 small islands in </STRING>
+		<REFERENCE ID="2" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="demonstrative">this South Pacific Ocean country</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> have a total land area of 240 square kilometres (92.7 sq. mi).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Tourism is </STRING>
+		<REFERENCE ID="3" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="description">the country's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> number one industry, the leading element of the economy, far ahead of offshore banking, pearls, marine and fruit exports. A popular art form on </STRING>
+		<REFERENCE ID="4" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is tivaivai, often likened to quilting.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>Defence is the responsibility of New Zealand, in consultation with </STRING>
+		<REFERENCE ID="5" SEMCAT="country" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Cook Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and at </STRING>
+		<REFERENCE ID="6" SEMCAT="country" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> request. In recent times, </STRING>
+		<REFERENCE ID="7" SEMCAT="country" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Cook Islands</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has adopted an increasingly independent foreign policy.</STRING>
+	</PARAGRAPH>
+</TEXT>

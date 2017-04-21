@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEXT ID="831">
+	<TITLE>Shota Rustaveli Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Shota Rustaveli</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (officially known as the Shota Rustaveli Peak) is a mountain in the central part of the Greater Caucasus Mountain Range, straddling the border of Svaneti (Georgia) and Kabardino-Balkaria (Russia).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The elevation of  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="34" PARAGRAPH-RECENCY="33" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is 4,860 meters (15,940ft.).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="5" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Shota Rustaveli</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is generally considered to be the 9th highest peak of the Caucasus.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The slopes of  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="55" PARAGRAPH-RECENCY="16" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are glaciated and some of the glaciers descend well into the adjacent valleys. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEXT ID="344">
+	<TITLE>Mount Aragats</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Aragats</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (&quot;Արագած&quot; in Armenian) is the highest point in Armenia located in the province of Aragatsotn, northwest from Yerevan. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a standalone extinct stratovolcano with four main peaks forming the rim of the crater, and </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a popular destination for local alpinists. Located on </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> slopes are the Byurakan Observatory and the medieval Amberd Fortress. The observatory is known worldwide, and it is one of the main observatories in the world. </STRING>
+		<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Aragats</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a popular destination for tourists, especially in summer. To the south of </STRING>
+		<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is Ashtarak, one of the main cities. On the other sides of the mountains are villages and towns.</STRING>
+	</PARAGRAPH>
+</TEXT>

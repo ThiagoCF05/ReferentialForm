@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<TEXT ID="927">
+	<TITLE>Wilson Peak</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Wilson Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a 14,017-foot (4,272 m) mountain peak in the U.S. state of Colorado.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the Lizard Head Wilderness of the Uncompahgre National Forest, in the southern San Juan Mountains.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest point in San Miguel County.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> base is accessible by four wheel drive roads 11 miles (18 km) west of Telluride, Colorado. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Wilson Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is part of a compact range of mountains, the San Miguel Range often considered distinct from the wider San Juan Range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Two additional fourteen thousand foot peaks are within 2 miles (3 km) of  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit: Mount Wilson (14,256 feet (4,345 m)) and El Diente Peak (14,159 feet (4,316 m)).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Gladstone peak (13,913 feet (4,241 m)) is located on the ridge between  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Wilson Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> and Mount Wilson.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Also known as the Wilson Massif, the San Miguels are some of the southernmost San Juans. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Wilson Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is climbed by hundreds each year, primarily in summer months, but winter ascents are not unusual and sometimes serve as the beginning of backcountry skiing descents.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Summer ascents of  </STRING>
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are considered Class 3 technical climbs, meaning that scrambling over rock is required (with hand holds being used for balance) and ropes typically not employed.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The easiest traditional route begins at the end of the Silver Pick Road, climbs south through Silver Pick Basin to the Rock of Ages Saddle (between Silver Pick and Navajo Basins) at 13,100 feet (3,990 m), then east to 13,200 feet (4,020 m) on the saddle between Gladstone and Wilson Peaks, then finally northeast to the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Round trip distance is 8 miles (13 km).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING>Use of this route has come into question since 2004 when private landowners failed to come to an agreement with the US Forest Service regarding hiking access.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.6">
+			<STRING>Government signs now warn against trespassing along the traditional route. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

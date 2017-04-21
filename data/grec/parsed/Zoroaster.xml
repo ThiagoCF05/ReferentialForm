@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEXT ID="1791">
+	<TITLE>Zoroaster</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Zarathustra</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Avestan: Zaraθuštra), sometimes, in English, referred to as Zoroaster (after the Greek Ζωροάστρης, Zōroastrēs) was an ancient Iranian prophet and the founder of Zoroastrianism, a religion that was the national religion of the Sassanian Empire of Persia, and is predominantly practiced today by the Parsi community of India. Zoroastrianism also played an important role in the earlier Achaemenean and Parthian empires. In Persian, the name takes the form Zartosht (زرتشت).</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Zoroaster</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is generally accepted as a historical figure, but efforts to date </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Zoroaster</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> vary widely. Scholarly estimates are usually roughly near 1200 BC, making </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> a candidate as the founder of the earliest religion based on revealed scripture, while others place </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> anywhere between the 18th and the 6th centuries BC.</STRING>
+	</PARAGRAPH>
+</TEXT>

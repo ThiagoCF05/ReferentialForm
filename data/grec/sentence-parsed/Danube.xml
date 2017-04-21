@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TEXT ID="1801">
+	<TITLE>Danube</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Danube</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (ancient Danuvius, ancient Greek Ἴστρος  Istros) is the longest river of the European Union and Europe's second-longest (after the Volga).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> originates in the Black Forest in Germany as two smaller rivers--the Brigach and the Breg--which join at Donaueschingen, and it is from here that  </STRING>
+			<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known as the Danube, flowing generally eastwards for a distance of some 2850 km (1771 miles), passing through several Central and Eastern European capitals, before emptying into the Black Sea via the Danube Delta in Romania. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Danube</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has been an important international waterway for centuries, as  </STRING>
+			<REFERENCE ID="5" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> remains today.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Known to history as one of the long-standing frontiers of the Roman Empire,  </STRING>
+			<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flows through--or  </STRING>
+			<REFERENCE ID="7" SEMCAT="river" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> forms a part of the borders of--ten countries: Germany, Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine; in addition, the drainage basin includes parts of ten more countries: Italy, Poland, Switzerland, Czech Republic, Slovenia, Bosnia and Herzegovina, Montenegro, Republic of Macedonia, Moldova, and Albania. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The names of  </STRING>
+			<REFERENCE ID="8" SEMCAT="river" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> ([German: Donau], [Slovak: Dunaj], [Albanian: Danubi], [Polish: Dunaj], [Hungarian: Duna], [Croatian: Dunav], Serbian: Дунав / Dunav], [Bulgarian: Дунав] (Dunav), Romanian: [Romanian: Dunăre], [Ukrainian: Дунай] (Dunay), [Italian: Danubio], [Latin: Danuvius], modern Greek: Δούναβης, [Turkish: Tuna], Slovene: Donava, local Yiddish: Duner - [] and Tine - []) are all ultimately derived from the Proto-Indo-European *'dānu, meaning &quot;river&quot; or &quot;stream&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Still nowadays don in Ossetic language means both &quot;water&quot; and &quot;river&quot;.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>Other major European river names with this Indo-European root for &quot;stream&quot; include the Donets, Dnieper, Dniester, the Don River, Russia and the River Don, England. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

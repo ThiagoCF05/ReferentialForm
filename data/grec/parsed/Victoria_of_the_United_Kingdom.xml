@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TEXT ID="1768">
+	<TITLE>Victoria of the United Kingdom</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Victoria</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Alexandrina Victoria; 24 May 1819 - 22 January 1901) was the Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837, and the first Empress of India from 1 January 1877, until </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> death in 1901. </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> reign lasted more than sixty-three years, longer than that of any other British monarch. </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Victoria's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> reign was marked by a great expansion of the British Empire. The Victorian Era was at the height of the Industrial Revolution, a period of significant social, economic, and technological change in the United Kingdom. In that period the British Empire reached its zenith and became the formidable global power of the time.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Victoria</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was almost entirely of German descent (except from </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> ancestor Sophia of Hanover who was a female-line granddaughter of James I), was the last monarch of the House of Hanover; </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> son King Edward VII belonged to the House of Saxe-Coburg and Gotha.</STRING>
+	</PARAGRAPH>
+</TEXT>

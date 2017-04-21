@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "reg08-grec.dtd">
+<TEXT ID="368">
+<TITLE>Mount Boucherie</TITLE>
+
+<PARAGRAPH>
+<REF ID="368.1" SEMCAT="mountain" SYNCAT="np-subj">
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Mount Boucherie</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Mount Boucherie</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Mount Boucherie itself</REFEX>
+<REFEX REG08-TYPE="empty">_</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="nominative">it</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="pronoun" CASE="nominative">it itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">that</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">that itself</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="no" HEAD="nominal" CASE="plain">the mountain</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="yes" HEAD="nominal" CASE="plain">the mountain itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">which</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">which itself</REFEX>
+</ALT-REFEX>
+</REF>
+ is the remnants of a former stratovolcano created nearly 60 million years ago. Between four and six different glacial periods over the past 50 million years have eroded the volcano to produce 
+<REF ID="368.2" SEMCAT="mountain" SYNCAT="np-obj">
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Mount Boucherie</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Mount Boucherie</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Mount Boucherie itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="accusative">it</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="pronoun" CASE="accusative">it itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="accusative">itself</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="no" HEAD="nominal" CASE="plain">the mountain</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="yes" HEAD="nominal" CASE="plain">the mountain itself</REFEX>
+</ALT-REFEX>
+</REF>
+.</PARAGRAPH>
+</TEXT>

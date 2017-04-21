@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TEXT ID="646">
+	<TITLE>Pico Pan de Azucar</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Pico Pan de Azúcar</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, at 4680 Meters above sea level, is the ninth highest mountain of Venezuela, and the third highest of the Sierra de la Culata range in the Mérida State,  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name which translates as &quot;Bread of Sugar&quot; is due to the sandy slopes of  </STRING>
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, which resembles &quot;Pan dulce&quot;, a kind of bread sprinkled with sugar eaten in the country.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>From  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit a great escenic view can be seen, including Lake Maracaibo, Sierra Nevada de Mérida and surrounding mountains of the Sierra de la Culata. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

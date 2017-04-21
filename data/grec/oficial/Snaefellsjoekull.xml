@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<TEXT ID="844">
+	<TITLE>Snæfellsjökull</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Snæfellsjökull</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a stratovolcano with a glacier (Icelandic: jökull) covering  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="mountain" SENTENCE-POSITION="11" SENTENCE-RECENCY="10" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit in western Iceland.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The name of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="19" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="4" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is actually Snæfell, but  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="5" SEMCAT="mountain" SENTENCE-POSITION="9" SENTENCE-RECENCY="5" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is normally called &quot;Snæfellsjökull&quot; to discern  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="7" SEMCAT="mountain" SENTENCE-POSITION="16" SENTENCE-RECENCY="7" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> from two other mountains with this name.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is situated on the most western part of the Snæfellsnes peninsula in Iceland.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Sometimes  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="54" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> may be seen from the city of Reykjavík over the bay of Faxaflói, at a distance of 120 km. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="8" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the most famous sites of Iceland, primarily due to the novel Journey to the Center of the Earth (1864), by Jules Verne, in which the protagonists find the entrance to a passage leading to the center of the earth on  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="45" PARAGRAPH-RECENCY="44" SEMCAT="mountain" SENTENCE-POSITION="45" SENTENCE-RECENCY="44" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Snæfellsjökull</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="10" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is included in the Snæfellsjökull National Park (Icelandic: Þjóðgarðurinn Snæfellsjökull). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TEXT ID="1784">
+	<TITLE>William Tyndale</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">William Tyndale</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (sometimes spelled Tindale or Tindall) (circa 1494 - October 6, 1536) was a 16th century religious reformer and scholar </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> translated the Bible into the Early Modern English of </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> day. Although numerous partial and complete English translations had been made from the 7th century onward, </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Tyndale's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was the first to take advantage of the new medium of print, which allowed for its wide distribution. In 1535 </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Tyndale</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was tried for heresy and treason and then strangled and burnt at the stake.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Much of </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Tyndale's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> work eventually found its way to the King James Version (or Authorised Version) of the Bible, published in 1611, which, though the work of 54 independent scholars, is based primarily on </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Tyndale's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> translations.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<TEXT ID="219">
+	<TITLE>Huascarán</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Huascarán</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> or Nevado Huascarán is a mountain in the Province of Yungay-Cordillera Blanca, part of the Western Andes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>At 6768 m,  </STRING>
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> southern peak (Huascarán Sur) is the highest in Peru and the fourth highest in South America, although a lower height of 6746m from a more recent survey is also often quoted.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was named after Huáscar, a 16th century Inca chieftain who was the heir to the Inca empire.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>The summit was first reached in July 1932 by a joint German-Austrian expedition.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The north peak (Huascarán Norte) had previously been climbed (1908) by a US expedition that included Annie Smith Peck.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>The core of  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevada Huascarán</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, like much of the Cordillera Blanca, is made of tertiary granite. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>On 31 May 1970 the Ancash earthquake caused a substantial part of the north side of  </STRING>
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> to collapse.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The block of falling ice and rock was about 1 mile long, half a mile wide, and half a mile deep.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>In about five minutes it flowed 11 miles to Yungay, burying the entire town under ice and rock, and causing the deaths of more than 20,000 people.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>At that moment there was a Czechoslovakian mountaineering team on  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, none of whose members were ever seen again, dead or alive.This and other earthquake-induced avalanche events are often described incorrectly as &quot;eruptions&quot; of  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Huascarán</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>,  </STRING>
+			<REFERENCE ID="8" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">which</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is not of volcanic origin. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="9" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Huascarán</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> gives  </STRING>
+			<REFERENCE ID="10" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> name to Huascarán National Park which surrounds  </STRING>
+			<REFERENCE ID="11" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, and  </STRING>
+			<REFERENCE ID="12" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a popular location for trekking and mountaineering.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<REFERENCE ID="13" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Huascarán</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is normally climbed from the village of Musho to the west via a high camp in the col that separates the summits, known as La Garganta.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The ascent normally takes 5-7 days, the main difficulties being the large crevasses that often block the route. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<STRING>The Huascarán summit is one of the points on the Earth's surface farthest from the Earth's center. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

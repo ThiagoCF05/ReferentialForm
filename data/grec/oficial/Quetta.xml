@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEXT ID="1147">
+	<TITLE>Quetta</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Quetta</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Urdu: کوئٹہ) is the capital of the province Balochistan in Pakistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>The spelling of 'Quetta' is an erroneous English derivation from kwatta meaning 'fort' in the Pushtu language.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="29" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Quetta</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also known as the &quot;fruit garden&quot; of Pakistan.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="40" PARAGRAPH-RECENCY="10" SEMCAT="city" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located in the densely populated Quetta District, which lies in the northeast of the province, and  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="58" PARAGRAPH-RECENCY="18" SEMCAT="city" SENTENCE-POSITION="19" SENTENCE-RECENCY="18" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is situated in a river valley near the Afghani border, with a road to Kandahar in the northwest. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

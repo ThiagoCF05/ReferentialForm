@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TEXT ID="625">
+	<TITLE>Ortler</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ortler</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Italian: Cima Ortles; German: Ortler) is, at 3905 m above sea level, the highest mountain in the Eastern Alps outside the Bernina Range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the main peak of the Ortler Range.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest point of the Southern Limestone Alps, of the Italian region of Trentino-Alto Adige/Südtirol, of Tyrol overall, and, until 1919, of the Austrian-Hungarian empire.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>In German  </STRING>
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is commonly referred to as “König Ortler” (King Ortler). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="5" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The massive mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is capped by a glacier on the northwest flank and  </STRING>
+			<REFERENCE ID="6" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a long north ridge that ends at the village of Gomagoi and separates the valleys of Trafoi and Sulden.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The South ridge leads to the Hochjoch (3527 m) on the main ridge of the Ortler Alps that forms the border of Sondrio and South Tyrol.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Going west on this main ridge are the Thurwieser Spitze (3652) and Trafoier Wall (3565 m), while to the Southeast are the Monte Zebrù (3740 m) and the majestic Königspitze / Gran Zebrù (3859 m).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>From nearby mountains in the northeast the impressive lineup of Königspitze, Zebru and  </STRING>
+			<REFERENCE ID="7" SEMCAT="mountain" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ortler</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is known as “das Dreigestirn” (the three heavenly bodies). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

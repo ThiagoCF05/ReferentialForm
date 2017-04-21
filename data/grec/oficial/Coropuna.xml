@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TEXT ID="104">
+	<TITLE>Coropuna</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado Coropuna</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the largest and highest volcano in Peru, attaining an impressive elevation of 6,377 metres (20,922 ft) (some maps show  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="22" PARAGRAPH-RECENCY="21" SEMCAT="mountain" SENTENCE-POSITION="22" SENTENCE-RECENCY="21" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> as high as 6,425 metres (21,079 ft)).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="30" PARAGRAPH-RECENCY="8" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located about 150 km northwest of Arequipa, the second largest city in Peru. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">This massive ice-covered stratovolcano complex</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> has a summit plateau which extends over 12 x 20 km (8 x 13 mi), with six separate summit cones rising above it.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>The true summit is at the northwest end of the plateau, although the southwest summit may be equal or greater in height depending on the depth of seasonal snow.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>A permanent ice cap of about 130 square kilometres (50 sq mi) in area covers the summit region, extending down to roughly 5,300 metres (17,400 ft) on the north side and 4,800 metres (15,700 ft) on the south.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Vertical relief on the south flank exceeds 4,000 metres (13,000 ft) over a distance of less than 15 km. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>The name Coropuna means &quot;shrine on the plateau&quot; in Quechua.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Remains of Inca clothing have been found near 6000 m, providing evidence for pre-Columbian ascents. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

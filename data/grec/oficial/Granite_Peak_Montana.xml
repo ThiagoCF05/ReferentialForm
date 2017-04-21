@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<TEXT ID="187">
+	<TITLE>Granite Peak (Montana)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Granite Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the highest point in the state of Montana, USA.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="12" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> lies within the Absaroka-Beartooth Wilderness, in Park County very near the borders of Stillwater County and Carbon County.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" PARAGRAPH-POSITION="31" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Granite Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is 10 mi north of the Wyoming border, southwest of Columbus, Montana. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Granite Peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the most difficult U.S. state highpoint ascents, due to technical climbing, poor weather, and route finding.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" PARAGRAPH-POSITION="21" PARAGRAPH-RECENCY="20" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Granite Peak's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> first ascent was made by Elers Koch on August 29, 1923 after several failed attempts by others.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ID="6" PARAGRAPH-POSITION="39" PARAGRAPH-RECENCY="18" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was the last of the state highpoints to be climbed.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>Today, climbers typically spend two or three days ascending  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="59" PARAGRAPH-RECENCY="20" SEMCAT="mountain" SENTENCE-POSITION="10" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>, stopping over on the Froze-to-Death Plateau.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.5">
+			<STRING>However, other climbers choose to ascend  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="72" PARAGRAPH-RECENCY="13" SEMCAT="mountain" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> in a single day.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.6">
+			<STRING>Please be cautious at the snow bridge.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.7">
+			<STRING>a few unroped climbers have perished here.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.8">
+			<STRING>If the snow is not soft or you feel you do not have the ability to safely walk aross then you must rope up.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.9">
+			<STRING>The route before you reach the snow bridge is mostly a scramble.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.10">
+			<STRING>After it, it immediatly becomes technical rock climbing that requires extremely good route finding skills. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "reg08-grec.dtd">
+<TEXT ID="1004">
+<TITLE>Auckland</TITLE>
+
+<PARAGRAPH>
+The Auckland Metropolitan Area, or Greater Auckland, in the North Island of New Zealand, is the largest urban area in New Zealand. With over 1.2 million people it has over a quarter of the country's population, and demographics trends still cause it to grow faster than the rest of New Zealand.
+</PARAGRAPH>
+
+<PARAGRAPH>
+It is a conurbation, made up of 
+<REF ID="1004.1" SEMCAT="city" SYNCAT="np-obj">
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Auckland City</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Auckland</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Auckland City</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Auckland City itself</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Auckland itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="accusative">it</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="pronoun" CASE="accusative">it itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="accusative">itself</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="no" HEAD="nominal" CASE="plain">the city</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="yes" HEAD="nominal" CASE="plain">the city itself</REFEX>
+</ALT-REFEX>
+</REF>
+ (excluding the Hauraki Gulf islands), North Shore City, and the urban parts of Waitakere and Manukau cities, along with Papakura District and some nearby urban parts of Rodney and Franklin Districts. In Māori it bears the traditional name Tāmaki Makau Rau or the transcribed version of Auckland, Ākarana.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF ID="1004.2" SEMCAT="city" SYNCAT="np-subj">
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Auckland</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Auckland</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Auckland City</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Auckland City itself</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Auckland itself</REFEX>
+<REFEX REG08-TYPE="empty">_</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="nominative">it</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="pronoun" CASE="nominative">it itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">that</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">that itself</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="no" HEAD="nominal" CASE="plain">the city</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="yes" HEAD="nominal" CASE="plain">the city itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">which</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">which itself</REFEX>
+</ALT-REFEX>
+</REF>
+ lies between the Hauraki Gulf of the Pacific Ocean to the east, the low Hunua Ranges to the south-east, the Manukau Harbour to the south-west, and the Waitakere Ranges and smaller ranges to the west and north-west. The central part of the urban area occupies a narrow isthmus between the Manukau Harbour on the Tasman Sea and the Waitemata Harbour on the Pacific Ocean. 
+<REF ID="1004.3" SEMCAT="city" SYNCAT="np-subj">
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="nominative">It</REFEX>
+<ALT-REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Auckland</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="no" HEAD="nominal" CASE="plain">Auckland City</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Auckland City itself</REFEX>
+<REFEX REG08-TYPE="name" EMPHATIC="yes" HEAD="nominal" CASE="plain">Auckland itself</REFEX>
+<REFEX REG08-TYPE="empty">_</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="pronoun" CASE="nominative">it</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="pronoun" CASE="nominative">it itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">that</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">that itself</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="no" HEAD="nominal" CASE="plain">the city</REFEX>
+<REFEX REG08-TYPE="common" EMPHATIC="yes" HEAD="nominal" CASE="plain">the city itself</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="no" HEAD="rel-pron" CASE="nominative">which</REFEX>
+<REFEX REG08-TYPE="pronoun" EMPHATIC="yes" HEAD="rel-pron" CASE="nominative">which itself</REFEX>
+</ALT-REFEX>
+</REF>
+ is one of the few cities in the world to have harbours on two separate bodies of water.</PARAGRAPH>
+</TEXT>

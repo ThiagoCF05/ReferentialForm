@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TEXT ID="175">
+	<TITLE>Ghent Kangri</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ghent Kangri</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (or Mount Ghent, Ghaint I) is a high peak at the north end of the Saltoro Mountains, a subrange of the Karakoram range. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located in Ladakh district of India, near the Line of Control.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Ghent Kangri</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first climbed on 4 June 1961, by Wolfgang Axt, a member of an Austrian expedition lead by Erich Waschak, via the West Ridge. He climbed solo above the high camp.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>According to the Index, there have been three subsequent ascents of </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>, in 1977, 1980, and 1984.</STRING>
+	</PARAGRAPH>
+</TEXT>

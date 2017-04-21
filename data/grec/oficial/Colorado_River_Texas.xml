@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<TEXT ID="1799">
+	<TITLE>Colorado River (Texas)</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Colorado River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the 18th longest river in the United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="11" PARAGRAPH-RECENCY="10" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The 862 mile long river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> flows generally southeast from Dawson County through Marble Falls, Austin, Bastrop, Smithville, La Grange, Columbus, and Bay City before emptying into the Gulf of Mexico at Matagorda Bay.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>It is this confusion as well as an alleged mapping error that is believed to have led to  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="58" PARAGRAPH-RECENCY="47" SEMCAT="river" SENTENCE-POSITION="19" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> misnaming.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" PARAGRAPH-POSITION="60" PARAGRAPH-RECENCY="2" SEMCAT="river" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an important source of water for farming, cities, and electrical power production.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>Major man-made reservoirs on  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="78" PARAGRAPH-RECENCY="18" SEMCAT="river" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the river</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> include Lake Marble Falls, Lake Buchanan, Inks Lake, Lake LBJ, Lake Travis, Lake Austin, and Town Lake in Austin.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.6">
+			<STRING>Collectively, these lakes are known as the Highland Lakes.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.7">
+			<STRING>In addition to power plants operating on each of the major lakes, waters of  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="121" PARAGRAPH-RECENCY="43" SEMCAT="river" SENTENCE-POSITION="15" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Colorado</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> are used for cooling the South Texas Nuclear Project, near Bay City. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Flood control and use of  </STRING>
+			<REFERENCE ID="7" PARAGRAPH-POSITION="6" PARAGRAPH-RECENCY="0" SEMCAT="river" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Colorado River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is managed by three agencies established by the Texas Legislature, the Upper Colorado River Authority, Central Colorado River Authority, and Lower Colorado River Authority.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>There are 11 major reservoirs along  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="37" PARAGRAPH-RECENCY="31" SEMCAT="river" SENTENCE-POSITION="7" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Colorado River</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

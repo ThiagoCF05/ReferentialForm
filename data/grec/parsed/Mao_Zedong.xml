@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<TEXT ID="1643">
+	<TITLE>Mao Zedong</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mao Zedong</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (December 26, 1893 - September 9, 1976) (also Mao Tse-Tung in Wade-Giles transliteration) was a Chinese Marxist military and political leader, </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> led the Chinese Communist Party (CCP) to victory against the Kuomintang (KMT) in the Chinese Civil War, leading to the establishment of the People’s Republic of China on October 1, 1949 in Beijing.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mao</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> pursued the ideal of a strong, prosperous and socially egalitarian China, endeavoring to build a modern socialist nation. However, the failings of </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Mao's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> most significant socio-political programs — including the Anti-Rightist Campaign, the Great Leap Forward, and the Cultural Revolution — have been widely criticized. </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mao</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a controversial figure today. While officially held in high regard in China, </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is today rarely mentioned by the government, whose policies have diverged greatly from those of </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mao</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. Maoists around the world look to </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mao</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> as a great revolutionary leader </STRING>
+		<REFERENCE ID="9" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">whose</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> thought is the highest expression of Marxism. Many of </STRING>
+		<REFERENCE ID="10" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> detractors however accuse </STRING>
+		<REFERENCE ID="11" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">him</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> of having been a mass-murderer, holding </STRING>
+		<REFERENCE ID="12" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> leadership accountable for the deaths of tens of millions of innocent Chinese.</STRING>
+	</PARAGRAPH>
+</TEXT>

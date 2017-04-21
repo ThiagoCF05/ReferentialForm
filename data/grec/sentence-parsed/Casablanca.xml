@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEXT ID="1038">
+	<TITLE>Casablanca</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Casablanca</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Spanish for &quot;white house&quot; ; Standard Arabic: الدار البيضاء transliterated ad-Dār al-Bayḍā; Moroccan Arabic: dar beïda) is a city in western Morocco, located on the Atlantic Ocean.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the capital of the Grand Casablanca region. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>With a population of 3.5 million (September 2004 census),  </STRING>
+			<REFERENCE ID="3" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Casablanca</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is Morocco's largest city as well as its chief port, and  </STRING>
+			<REFERENCE ID="4" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is thus considered its economic capital, while its political capital is Rabat.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<REFERENCE ID="5" SEMCAT="city" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Casablanca</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located at . </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

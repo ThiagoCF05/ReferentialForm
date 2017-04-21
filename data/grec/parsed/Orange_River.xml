@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1832">
+	<TITLE>Orange River</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Orange River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (Afrikaans: Oranjerivier, German: Oranjefluss or just Oranje), in the past also sometimes known as the Gariep or as the Grootrivier, is the major river of South Africa. </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was first discovered by indigenous people but only explored by Europeans in 1760 and named after the House of Orange, which was the Stadhouder of Holland between 1777-79. Another account of </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> naming suggests that </STRING>
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> may have been called after the supposedly orangy colour of </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> water, as opposed to the colour of the water of the Vaal River ( 'vaal' being Afrikaans for pale or grey).</STRING>
+	</PARAGRAPH>
+</TEXT>

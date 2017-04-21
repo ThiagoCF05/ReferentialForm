@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<TEXT ID="466">
+	<TITLE>Mount Langley</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Langley</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located on the crest of the Sierra Nevada Mountains, on the border of Inyo and Tulare counties, in eastern California in the southwestern United States.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<STRING>To the east is Owens Valley, and to the west is the Kern River Valley.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<STRING>At 14,026 feet (4,275 m),  </STRING>
+			<REFERENCE ID="2" PARAGRAPH-POSITION="48" PARAGRAPH-RECENCY="47" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is the ninth highest peak in the state, and the seventh highest in the Sierras.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<STRING>Mount Whitney, the highest peak in the contiguous United States, lies 5 miles (8 km) to the northwest.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.5">
+			<STRING>The Geological survey marker at the summit shows an elevation of 14,042 feet. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Today,  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="2" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is named after Samuel Pierpont Langley.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>In the early 1870s,  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="5" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was confused with Mount Whitney by early climbers, and called by this name.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>When the mistake was realized,  </STRING>
+			<REFERENCE ID="5" PARAGRAPH-POSITION="32" PARAGRAPH-RECENCY="19" SEMCAT="mountain" SENTENCE-POSITION="6" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">the peak</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> was alternately called Mount Corcoran, Cirque Peak, or Sheep Mountain; the former two names being later attached to other mountains.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.4">
+			<STRING>But  </STRING>
+			<REFERENCE ID="6" PARAGRAPH-POSITION="54" PARAGRAPH-RECENCY="22" SEMCAT="mountain" SENTENCE-POSITION="2" SENTENCE-RECENCY="0" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> current name became established in local usage, and was made official by the USGS. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<REFERENCE ID="7" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Langley</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is one of the easiest of California's fourteeners to climb.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>A hiking trail starts at nearby Horseshoe Meadow (elevation of around 10,000 feet), passes scenic Cottonwood Lakes, and climbs through New Army Pass.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>From there climbers make their way across a mountain meadow and up a long gradual slope of rock and gravel before making a Class 2 scramble to the summit.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>New Army pass is 7 miles from the trail head at Horseshoe meadow and is a more difficult approach to  </STRING>
+			<REFERENCE ID="8" PARAGRAPH-POSITION="84" PARAGRAPH-RECENCY="83" SEMCAT="mountain" SENTENCE-POSITION="21" SENTENCE-RECENCY="0" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Langley</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> than Old Army Pass, which is recommended for hikers to  </STRING>
+			<REFERENCE ID="9" PARAGRAPH-POSITION="95" PARAGRAPH-RECENCY="11" SEMCAT="mountain" SENTENCE-POSITION="32" SENTENCE-RECENCY="11" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Langley</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> when the trail is not impassable due to snow. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

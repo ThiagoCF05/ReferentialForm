@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="371">
+	<TITLE>Mount Bross</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Bross</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a fourteener in the U.S. state of Colorado, located approximately 1 mile (1.6 km) south of Mount Lincoln in the Mosquito Range. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> lies in northwestern Park County.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>With a topographic prominence in the range of 292 to 332 feet (89 to 101 m), </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> barely qualifies as an independent peak by the standard 300 foot prominence rule. </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is often climbed together with Mount Lincoln and nearby Mount Democrat.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>For more information on this group of peaks, including access issues, see Mount Lincoln.</STRING>
+	</PARAGRAPH>
+</TEXT>

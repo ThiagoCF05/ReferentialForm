@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEXT ID="382">
+	<TITLE>Mount Churchill</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Churchill</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a volcano in the Saint Elias Mountains and the Wrangell Volcanic Field of eastern Alaska. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Churchill</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> higher neighbor Mount Bona about 2 mi to the southwest are both large ice-covered stratovolcanoes, with </STRING>
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Churchill</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> being the fourth highest volcano in the United States and the seventh highest in North America.</STRING>
+	</PARAGRAPH>
+</TEXT>

@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<TEXT ID="1456">
+	<TITLE>Boudica</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Boudica</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (also Boudicca, formerly better known as Boadicea) (d. 60/61) was a queen of the Brythonic Celtic Iceni people of Norfolk in Eastern Britain </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="rel-pron" TYPE="pronoun">who</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> led a major uprising of the tribes against the occupying forces of the Roman Empire. Upon the death of </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> husband Prasutagus, the Romans annexed his kingdom and brutally humiliated </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Boudica</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> and </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> daughters, spurring </STRING>
+		<REFERENCE ID="6" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> leadership of the revolt.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>In 60 or 61, while governor Gaius Suetonius Paulinus was leading a campaign on the island of Anglesey in north Wales, </STRING>
+		<REFERENCE ID="7" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Boudica</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> led the Iceni, along with the Trinovantes and others, in a rebellion which destroyed the former Trinovantian capital and Roman colonia of Camulodunum (Colchester), and routed the Roman Legio IX Hispana under Quintus Petillius Cerialis. </STRING>
+		<REFERENCE ID="8" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Boudica's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> army then burned to the ground the twenty-year-old settlement of Londinium (London) and destroyed Verulamium (St Albans), killing an estimated 70,000-80,000 people. Roman emperor Nero briefly considered withdrawing Roman forces from the island, but ultimately </STRING>
+		<REFERENCE ID="9" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Boudica</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> was defeated at the Battle of Watling Street by the heavily outnumbered forces of governor Suetonius.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The chronicles of these events, as recorded by the historians Tacitus and Dio Cassius, were rediscovered during the Renaissance and led to a resurgence of </STRING>
+		<REFERENCE ID="10" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Boudica's</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> legendary fame during the Victorian era, when Queen Victoria was portrayed as </STRING>
+		<REFERENCE ID="11" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">her</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> &quot;namesake&quot;. </STRING>
+		<REFERENCE ID="12" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Boudica</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has since remained an important cultural symbol in the United Kingdom.</STRING>
+	</PARAGRAPH>
+</TEXT>

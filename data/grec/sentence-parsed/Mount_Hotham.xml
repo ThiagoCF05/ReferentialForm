@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TEXT ID="436">
+	<TITLE>Mount Hotham</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hotham</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a mountain in Victoria, Australia.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is home to Mount Hotham Village, and Mount Hotham Ski Resort.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.3">
+			<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is located approximately 357 kilometres north east of Melbourne, 746 kilometres from Sydney, and 997 kilometres from Adelaide by road.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.4">
+			<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Hotham's</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> summit rises to an altitude of 1,861 metres above sea level, while Mount Hotham village stands tall at a height of 1,750 metres AHD. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<STRING>Currently, Mt.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING>Hotham holds the record for the highest annual snowfall of any Victorian resort over the past decade.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<STRING>Most of the skiing is based on one side of a large valley, and the area connects to the Bogong High Plains. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>Mt.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>Hotham features 3.2 square kilometres of ski area, including 35 kilometres of tree-lined cross-country trails and a network of 13 lifts.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.3">
+			<STRING>The longest run at Mount Hotham is 2.5 kilometres long.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.4">
+			<STRING>Mount Hotham features an abundance of runs for skiers and boarders of all standards from beginners (20%) to intermediates (40%) and advanced (40%).</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.5">
+			<STRING>The resort is home to one of Australia's most difficult runs, the steep Mary's Slide.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.6">
+			<STRING>A list of every ski tow to ever operate at Hotham can be found at wikiski. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

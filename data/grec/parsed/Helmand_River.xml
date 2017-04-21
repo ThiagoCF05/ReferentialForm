@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<TEXT ID="1815">
+	<TITLE>Helmand River</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Helmand River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (pronounced: hĕl`mənd) (also Helmend, Helmund, Hirmand or Tarnak, Persian: Darya-ye Helmand, Latin: Erymandrus) is the longest river in Afghanistan. </STRING>
+		<REFERENCE ID="2" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Helmand river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> stretched 715 miles (1,150 km) from the Hindu Kush mountains about 50 miles (80 km) west of Kabul, </STRING>
+		<REFERENCE ID="3" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> crosses south-west through the desert, to the Seistan marshes and the Hamun-i-Helmand lake region around Zabol at the Afghan-Iranian border.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> remains relatively salt-free for much of </STRING>
+		<REFERENCE ID="5" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> length, unlike most rivers with no outlet to the sea. </STRING>
+		<REFERENCE ID="6" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">This river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is used extensively for irrigation, although a buildup of mineral salts has decreased </STRING>
+		<REFERENCE ID="7" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> usefulness in watering crops. </STRING>
+		<REFERENCE ID="8" SEMCAT="river" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">Its</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> waters are essential for farmers in Afghanistan, but </STRING>
+		<REFERENCE ID="9" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> feeds into Lake Hamun and </STRING>
+		<REFERENCE ID="10" SEMCAT="river" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="" EMPHATIC="" HEAD="" TYPE="empty">_</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is also important to farmers in Iran's southeastern Sistan and Baluchistan province.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>A number of hydroelectric dams have created artificial reservoirs on some of the Afghanistan’s rivers including the Kajakai reservoir on </STRING>
+		<REFERENCE ID="11" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Helmand River</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING>. The chief tributary of </STRING>
+		<REFERENCE ID="12" SEMCAT="river" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Helmand river</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the Arghandab river which also has a major dam near the city of Kandahar.</STRING>
+	</PARAGRAPH>
+</TEXT>

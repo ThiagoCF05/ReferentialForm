@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TEXT ID="311">
+	<TITLE>Maroon Bells</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">The Maroon Bells</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is a mountain in the Elk Mountains that consists of two peaks, South Maroon Peak and North Maroon Peak, separated by about a third of a mile. </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">The mountain</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is on the border between Pitkin County and Gunnison County, Colorado, United States, about 12 miles southwest of Aspen, Colorado. Both peaks are counted as fourteeners. Maroon Peak, at 14,156 feet, is the 27th highest peak in Colorado; North Maroon Peak, at 14,014 feet, is the 50th highest. The view of </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">the Maroon Bells</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> from the Maroon Creek valley to the northeast is one of the most famous scenes in Colorado, and is reputed to be the &quot;most-photographed spot in Colorado&quot; and one of Colorado's premier scenic overlooks.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<STRING>Maroon Lake (9,580') provides one of the most memorable scenes in the Rockies. The lake occupies a basin that was sculpted by Ice-Age glaciers and later dammed by landslide and rockfall debris from the steep slopes above the valley floor.</STRING>
+	</PARAGRAPH>
+</TEXT>

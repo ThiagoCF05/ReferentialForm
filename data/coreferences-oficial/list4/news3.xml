@@ -1,0 +1,696 @@
+<?xml version="1.0" ?>
+<TEXT>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0" GENDER="neutral" ID="1" MENTION-ID="1" NUMBER="unknown" PARAGRAPH-POSITION="1" RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Hamas</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">hamas</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="other">Palestine</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Hamas</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> delivered </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="5" GENDER="neutral" MENTION-ID="2" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0" GENDER="unknown" ID="2" MENTION-ID="3" NUMBER="singular" PARAGRAPH-POSITION="3" RECENCY="2" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">its'</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="other">his</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="other">a</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="pronoun">its</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> proposed </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="neutral" MENTION-ID="4" NUMBER="unknown" TYPE="name"> Cabinet </REFERENCE>
+				<STRING> list to </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="7" GENDER="male" MENTION-ID="5" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="male" MENTION-ID="6" NUMBER="singular" TYPE="description">
+						<STRING> the </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="3" GENDER="neutral" MENTION-ID="7" NUMBER="unknown" TYPE="name"> Palestinian Authority </REFERENCE>
+						<STRING> president </STRING>
+					</REFERENCE>
+					<STRING>, </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="male" MENTION-ID="8" NUMBER="singular" TYPE="name"> Mahmoud Abbas </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, on </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="9" GENDER="unknown" MENTION-ID="9" NUMBER="singular" TYPE="name"> Sunday </REFERENCE>
+			<STRING> night. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.694336" GENDER="neutral" ID="3" MENTION-ID="10" NUMBER="unknown" PARAGRAPH-POSITION="17" RECENCY="14" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Hamas</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="description">The Palestinian Islamic organization</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">hamas</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="description">The group</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">They</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="demonstrative">This organization</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="other">He</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">It</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Hamas</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> is expected to control </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="12" GENDER="unknown" MENTION-ID="11" NUMBER="plural" TYPE="description"> the most important government ministries </REFERENCE>
+			<STRING> after </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="13" GENDER="unknown" MENTION-ID="12" NUMBER="singular" TYPE="name">
+				<STRING> weeks of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="14" GENDER="unknown" MENTION-ID="13" NUMBER="plural" TYPE="description"> negotiations </REFERENCE>
+			</REFERENCE>
+			<STRING> failed to persuade </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="15" GENDER="unknown" MENTION-ID="14" NUMBER="plural" TYPE="description"> other Palestinian parties </REFERENCE>
+			<STRING> to join </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="16" GENDER="neutral" MENTION-ID="15" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.584333" GENDER="neutral" ID="4" MENTION-ID="16" NUMBER="unknown" PARAGRAPH-POSITION="39" RECENCY="22" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">its</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="other">a coalition</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="description">the Palestinian</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="other">palenstine</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="demonstrative">this</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="other">in the</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="pronoun">its</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> government </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<SENTENCE ID="2.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="22" GENDER="unknown" MENTION-ID="17" NUMBER="plural">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="18" GENDER="male" MENTION-ID="18" NUMBER="singular" TYPE="name"> Ismail Haniya </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="23" GENDER="unknown" MENTION-ID="19" NUMBER="plural">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="24" GENDER="male" MENTION-ID="20" NUMBER="singular" TYPE="description">
+						<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.2341" GENDER="neutral" ID="5" MENTION-ID="21" NUMBER="unknown" PARAGRAPH-POSITION="3" RECENCY="0" SYNCAT="subj-det">
+							<ORIGINAL-REFEX>
+								<REFEX TYPE="name">the Hamas</REFEX>
+							</ORIGINAL-REFEX>
+							<PARTICIPANTS-REFEX>
+								<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas'</REFEX>
+								<REFEX PARTICIPANT-ID="89" TYPE="other">a Hamas</REFEX>
+								<REFEX PARTICIPANT-ID="95" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="104" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="107" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+								<REFEX PARTICIPANT-ID="113" TYPE="name">Hamas</REFEX>
+								<REFEX PARTICIPANT-ID="119" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="122" TYPE="description">the Palestinian</REFEX>
+								<REFEX PARTICIPANT-ID="125" TYPE="other">Islamic</REFEX>
+								<REFEX PARTICIPANT-ID="131" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="141" TYPE="name">Hamas's</REFEX>
+								<REFEX PARTICIPANT-ID="143" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="145" TYPE="name">Hamas</REFEX>
+								<REFEX PARTICIPANT-ID="156" TYPE="other">a Hamas</REFEX>
+								<REFEX PARTICIPANT-ID="162" TYPE="other">the</REFEX>
+								<REFEX PARTICIPANT-ID="163" TYPE="name">Hamas</REFEX>
+								<REFEX PARTICIPANT-ID="164" TYPE="name">Hamas</REFEX>
+							</PARTICIPANTS-REFEX>
+						</TARGET-REFERENCE>
+						<STRING> leader </STRING>
+					</REFERENCE>
+					<STRING> and prime minister-designate </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, presented </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="25" GENDER="neutral" MENTION-ID="22" NUMBER="singular" TYPE="description"> the lineup </REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="male" MENTION-ID="23" NUMBER="singular" TYPE="name"> Abbas </REFERENCE>
+			<STRING> at </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="26" GENDER="unknown" MENTION-ID="24" NUMBER="singular" TYPE="description">
+				<STRING> a meeting in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="21" GENDER="neutral" MENTION-ID="25" NUMBER="singular" TYPE="name"> Gaza City </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.2">
+			<STRING> Pressed by </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="28" GENDER="unknown" MENTION-ID="26" NUMBER="plural" TYPE="description"> reporters </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="male" MENTION-ID="27" NUMBER="singular" TYPE="name"> Abbas </REFERENCE>
+			<STRING> declined to say whether </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="male" MENTION-ID="28" NUMBER="singular" TYPE="pronoun"> he </REFERENCE>
+			<STRING> would give </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="30" GENDER="neutral" MENTION-ID="29" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="male" MENTION-ID="30" NUMBER="singular" TYPE="pronoun"> his </REFERENCE>
+				<STRING> approval </STRING>
+			</REFERENCE>
+			<STRING>, though </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="32" GENDER="unknown" MENTION-ID="31" NUMBER="plural" TYPE="description"> aides </REFERENCE>
+			<STRING> said </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="male" MENTION-ID="32" NUMBER="singular" TYPE="pronoun"> he </REFERENCE>
+			<STRING> was likely to do so. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="2.3">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="male" MENTION-ID="33" NUMBER="singular" TYPE="pronoun"> He </REFERENCE>
+			<STRING> said </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="male" MENTION-ID="34" NUMBER="singular" TYPE="pronoun"> he </REFERENCE>
+			<STRING> would convene </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="36" GENDER="neutral" MENTION-ID="35" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="37" GENDER="neutral" MENTION-ID="36" NUMBER="singular" TYPE="description"> the Palestinian legislature </REFERENCE>
+				<STRING>, in which </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.551555" GENDER="neutral" ID="6" MENTION-ID="37" NUMBER="unknown" PARAGRAPH-POSITION="51" RECENCY="48" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="description">the militant Islamic Hamas</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="other">Palestinians</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="description">the organization</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="other">he</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> has </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="39" GENDER="neutral" MENTION-ID="38" NUMBER="singular" TYPE="description"> an absolute majority </REFERENCE>
+			</REFERENCE>
+			<STRING>, for </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="40" GENDER="neutral" MENTION-ID="39" NUMBER="singular" TYPE="description">
+				<STRING> a vote of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="41" GENDER="unknown" MENTION-ID="40" NUMBER="singular" TYPE="description">
+					<STRING> confidence on </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="neutral" MENTION-ID="41" NUMBER="unknown" TYPE="name"> the Cabinet </REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<SENTENCE ID="3.1">
+			<STRING>`` </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="unknown" MENTION-ID="42" NUMBER="singular" TYPE="pronoun"> I </REFERENCE>
+			<STRING> pray to </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="45" GENDER="male" MENTION-ID="43" NUMBER="singular" TYPE="name"> God </REFERENCE>
+			<STRING> to help </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="28" GENDER="unknown" MENTION-ID="44" NUMBER="plural" TYPE="pronoun"> us </REFERENCE>
+			<STRING>,'' </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="male" MENTION-ID="45" NUMBER="singular" TYPE="name"> Abbas </REFERENCE>
+			<STRING> said. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="3.2">
+			<STRING>`` </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="47" GENDER="neutral" MENTION-ID="46" NUMBER="singular" TYPE="description"> The task </REFERENCE>
+			<STRING> is not easy, neither for </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="48" GENDER="unknown" MENTION-ID="47" NUMBER="plural">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="28" GENDER="unknown" MENTION-ID="48" NUMBER="plural" TYPE="pronoun"> us </REFERENCE>
+				<STRING> nor </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="50" GENDER="neutral" MENTION-ID="49" NUMBER="singular" TYPE="description"> for the new government </REFERENCE>
+			</REFERENCE>
+			<STRING>.'' </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="4">
+		<SENTENCE ID="4.1">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="18" GENDER="male" MENTION-ID="50" NUMBER="singular" TYPE="name"> Haniya </REFERENCE>
+			<STRING> declined to make </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="54" GENDER="unknown" MENTION-ID="51" NUMBER="plural" TYPE="description">
+				<STRING> public the names of </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="55" GENDER="unknown" MENTION-ID="52" NUMBER="plural" TYPE="description">
+					<STRING> the proposed ministers in </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="neutral" MENTION-ID="53" NUMBER="unknown" TYPE="name">
+						<STRING> the 24-member </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="neutral" MENTION-ID="54" NUMBER="unknown" TYPE="name"> Cabinet </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, though </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="18" GENDER="male" MENTION-ID="55" NUMBER="singular" TYPE="pronoun"> he </REFERENCE>
+			<STRING> said </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="neutral" MENTION-ID="56" NUMBER="singular" TYPE="pronoun"> it </REFERENCE>
+			<STRING> would include </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="59" GENDER="unknown" MENTION-ID="57" NUMBER="plural">
+				<STRING>`` </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="60" GENDER="unknown" MENTION-ID="58" NUMBER="plural"> professionals, experts and technocrats </REFERENCE>
+				<STRING>,'' in addition </STRING>
+			</REFERENCE>
+			<STRING> to </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="61" GENDER="unknown" MENTION-ID="59" NUMBER="plural" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.570651" GENDER="neutral" ID="7" MENTION-ID="60" NUMBER="unknown" PARAGRAPH-POSITION="29" RECENCY="0" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Hamas</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="other">other</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="other">palestinian</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="other">political</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="other">military</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="demonstrative">these</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="other">party members</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="other">existing</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="pronoun">it's</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="name">Hamas</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> members </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="4.2">
+			<STRING> However, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="63" GENDER="unknown" MENTION-ID="61" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="64" GENDER="neutral" MENTION-ID="62" NUMBER="singular" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="8" GENDER="male" MENTION-ID="63" NUMBER="singular" TYPE="name"> Abbas' </REFERENCE>
+					<STRING> Fatah movement </STRING>
+				</REFERENCE>
+				<STRING> and all other Palestinian parties </STRING>
+			</REFERENCE>
+			<STRING> rejected </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="66" GENDER="unknown" MENTION-ID="64" NUMBER="singular" TYPE="description">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.539047" GENDER="neutral" ID="8" MENTION-ID="65" NUMBER="unknown" PARAGRAPH-POSITION="41" RECENCY="12" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Hamas'</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas'</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="demonstrative">this</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="pronoun">their</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="other">his</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="other">his</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="other">his</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="other">his</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">its</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="other">the</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="pronoun">its</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> invitation to join </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="68" GENDER="neutral" MENTION-ID="66" NUMBER="singular" TYPE="description"> a government of national unity </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="5">
+		<SENTENCE ID="5.1">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="70" GENDER="unknown" MENTION-ID="67" NUMBER="singular" TYPE="description">
+				<STRING> The lack of </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="71" GENDER="unknown" MENTION-ID="68" NUMBER="plural" TYPE="description"> political partners </REFERENCE>
+			</REFERENCE>
+			<STRING> is likely to leave </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="72" GENDER="neutral" MENTION-ID="69" NUMBER="unknown" TYPE="name">
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.407581" GENDER="neutral" ID="9" MENTION-ID="70" NUMBER="unknown" PARAGRAPH-POSITION="10" RECENCY="0" SYNCAT="np-obj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Hamas</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="other">Abbas</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="name">hama</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="other">Abbas</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="other">Palestine</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="other">Abbas</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="other">him</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="description">the government</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="pronoun">them</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="name">Hamas</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> isolated as </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0" GENDER="neutral" ID="10" MENTION-ID="71" NUMBER="singular" PARAGRAPH-POSITION="13" RECENCY="3" SYNCAT="np-subj">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="pronoun">it</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="pronoun">he</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="other">he</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="other">Haniya</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="pronoun">it</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="pronoun">they</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> prepares to lead </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="74" GENDER="male" MENTION-ID="72" NUMBER="unknown" TYPE="name"> the deeply troubled Palestinian </REFERENCE>
+				<STRING> Authority </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="5.2">
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="77" GENDER="unknown" MENTION-ID="73" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="75" GENDER="neutral" MENTION-ID="74" NUMBER="singular" TYPE="name"> Israel </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="78" GENDER="neutral" MENTION-ID="75" NUMBER="singular" TYPE="name">
+					<STRING> the </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="76" GENDER="neutral" MENTION-ID="76" NUMBER="singular" TYPE="name"> United States </REFERENCE>
+				</REFERENCE>
+				<STRING> and </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="79" GENDER="neutral" MENTION-ID="77" NUMBER="unknown" TYPE="name"> the European Union </REFERENCE>
+			</REFERENCE>
+			<STRING> all regard </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.271003" GENDER="neutral" ID="11" MENTION-ID="78" NUMBER="unknown" PARAGRAPH-POSITION="32" RECENCY="19" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="name">Hamas</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="name">hamas</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="name">hamas</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="name">Hamas</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="name">Hamas</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING> as </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="81" GENDER="neutral" MENTION-ID="79" NUMBER="singular" TYPE="description"> a terrorist organization </REFERENCE>
+			<STRING> and have refused to deal with </STRING>
+			<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.128114" GENDER="neutral" ID="12" MENTION-ID="80" NUMBER="singular" PARAGRAPH-POSITION="43" RECENCY="11" SYNCAT="np-obj">
+				<ORIGINAL-REFEX>
+					<REFEX TYPE="pronoun">it</REFEX>
+				</ORIGINAL-REFEX>
+				<PARTICIPANTS-REFEX>
+					<REFEX PARTICIPANT-ID="86" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="89" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="95" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="101" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="104" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="107" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="110" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="113" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="119" TYPE="description">the group</REFEX>
+					<REFEX PARTICIPANT-ID="122" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="125" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="131" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="141" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="143" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="145" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="156" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="162" TYPE="pronoun">them</REFEX>
+					<REFEX PARTICIPANT-ID="163" TYPE="pronoun">it</REFEX>
+					<REFEX PARTICIPANT-ID="164" TYPE="pronoun">it</REFEX>
+				</PARTICIPANTS-REFEX>
+			</TARGET-REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="6">
+		<SENTENCE ID="6.1">
+			<STRING> In </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="89" GENDER="unknown" MENTION-ID="81" NUMBER="plural" TYPE="description">
+				<STRING> remarks to </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="28" GENDER="unknown" MENTION-ID="82" NUMBER="plural" TYPE="description"> reporters </REFERENCE>
+			</REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="18" GENDER="male" MENTION-ID="83" NUMBER="singular" TYPE="name"> Haniya </REFERENCE>
+			<STRING> did say that </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="91" GENDER="unknown" MENTION-ID="84" NUMBER="plural">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="84" GENDER="unknown" MENTION-ID="85" NUMBER="singular" TYPE="name"> two </REFERENCE>
+				<STRING> prominent </STRING>
+				<TARGET-REFERENCE ANIMACY="inanimate" ENTITY-ID="1" ENTROPY="0.333011" GENDER="neutral" ID="13" MENTION-ID="86" NUMBER="unknown" PARAGRAPH-POSITION="11" RECENCY="0" SYNCAT="subj-det">
+					<ORIGINAL-REFEX>
+						<REFEX TYPE="name">Hamas</REFEX>
+					</ORIGINAL-REFEX>
+					<PARTICIPANTS-REFEX>
+						<REFEX PARTICIPANT-ID="86" TYPE="name">hamas</REFEX>
+						<REFEX PARTICIPANT-ID="89" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="95" TYPE="other">Islamic</REFEX>
+						<REFEX PARTICIPANT-ID="101" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="104" TYPE="other">Palestinians</REFEX>
+						<REFEX PARTICIPANT-ID="107" TYPE="name">hamas</REFEX>
+						<REFEX PARTICIPANT-ID="110" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="113" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="119" TYPE="other">political</REFEX>
+						<REFEX PARTICIPANT-ID="122" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="125" TYPE="name">hamas</REFEX>
+						<REFEX PARTICIPANT-ID="131" TYPE="empty">-</REFEX>
+						<REFEX PARTICIPANT-ID="141" TYPE="description">party</REFEX>
+						<REFEX PARTICIPANT-ID="143" TYPE="other">Islamic</REFEX>
+						<REFEX PARTICIPANT-ID="145" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="156" TYPE="name">Hamas</REFEX>
+						<REFEX PARTICIPANT-ID="162" TYPE="other">known</REFEX>
+						<REFEX PARTICIPANT-ID="163" TYPE="other">palestine</REFEX>
+						<REFEX PARTICIPANT-ID="164" TYPE="name">Hamas</REFEX>
+					</PARTICIPANTS-REFEX>
+				</TARGET-REFERENCE>
+				<STRING> leaders -- </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="92" GENDER="unknown" MENTION-ID="87" NUMBER="plural">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="93" GENDER="male" MENTION-ID="88" NUMBER="singular" TYPE="name">
+						<STRING> Dr. </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="86" GENDER="male" MENTION-ID="89" NUMBER="singular" TYPE="name"> Mahmoud Zahar </REFERENCE>
+					</REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="87" GENDER="male" MENTION-ID="90" NUMBER="singular" TYPE="name"> Said Siam </REFERENCE>
+				</REFERENCE>
+				<STRING>-- </STRING>
+			</REFERENCE>
+			<STRING> would be in </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="neutral" MENTION-ID="91" NUMBER="unknown" TYPE="name">
+				<STRING> the </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="2" GENDER="neutral" MENTION-ID="92" NUMBER="unknown" TYPE="name"> Cabinet </REFERENCE>
+			</REFERENCE>
+			<STRING>, though </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="86" GENDER="male" MENTION-ID="93" NUMBER="singular" TYPE="pronoun"> he </REFERENCE>
+			<STRING> did not give </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="96" GENDER="unknown" MENTION-ID="94" NUMBER="plural" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="91" GENDER="unknown" MENTION-ID="95" NUMBER="plural" TYPE="pronoun"> their </REFERENCE>
+				<STRING> positions </STRING>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="6.2">
+			<STRING> However, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="86" GENDER="male" MENTION-ID="96" NUMBER="singular" TYPE="name">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="86" GENDER="male" MENTION-ID="97" NUMBER="singular" TYPE="name"> Zahar </REFERENCE>
+				<STRING>, more confrontational in </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="102" GENDER="unknown" MENTION-ID="98" NUMBER="plural" TYPE="description">
+					<REFERENCE ANIMACY="animate" ENTITY-ID="86" GENDER="male" MENTION-ID="99" NUMBER="singular" TYPE="pronoun"> his </REFERENCE>
+					<STRING> public comments </STRING>
+				</REFERENCE>
+				<STRING> than </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="18" GENDER="male" MENTION-ID="100" NUMBER="singular" TYPE="name"> Haniya </REFERENCE>
+			</REFERENCE>
+			<STRING>, is expected to become foreign minister, and </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="87" GENDER="unknown" MENTION-ID="101" NUMBER="singular" TYPE="name"> Siam </REFERENCE>
+			<STRING> is believed to be </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="104" GENDER="unknown" MENTION-ID="102" NUMBER="singular" TYPE="description">
+				<STRING> the choice for interior minister, which would give him </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="106" GENDER="unknown" MENTION-ID="103" NUMBER="plural">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="107" GENDER="neutral" MENTION-ID="104" NUMBER="singular" TYPE="description">
+						<STRING> authority over </STRING>
+						<REFERENCE ANIMACY="animate" ENTITY-ID="108" GENDER="unknown" MENTION-ID="105" NUMBER="singular" TYPE="description"> the police </REFERENCE>
+					</REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="109" GENDER="unknown" MENTION-ID="106" NUMBER="plural" TYPE="description">
+						<STRING> other branches of </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="110" GENDER="unknown" MENTION-ID="107" NUMBER="plural" TYPE="description"> the security forces </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="7">
+		<SENTENCE ID="7.1">
+			<STRING> In </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="114" GENDER="neutral" MENTION-ID="108" NUMBER="singular" TYPE="description"> another development </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="animate" ENTITY-ID="115" GENDER="male" MENTION-ID="109" NUMBER="singular" TYPE="description">
+				<REFERENCE ANIMACY="animate" ENTITY-ID="116" GENDER="male" MENTION-ID="110" NUMBER="singular" TYPE="description">
+					<STRING> the U.S. ambassador to </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="75" GENDER="neutral" MENTION-ID="111" NUMBER="singular" TYPE="name"> Israel </REFERENCE>
+				</REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="112" GENDER="female" MENTION-ID="112" NUMBER="singular" TYPE="name"> Richard H. Jones </REFERENCE>
+			</REFERENCE>
+			<STRING>, brokered </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="117" GENDER="unknown" MENTION-ID="113" NUMBER="singular" TYPE="description">
+				<STRING> a Sunday night meeting in which </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="118" GENDER="unknown" MENTION-ID="114" NUMBER="plural">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="75" GENDER="neutral" MENTION-ID="115" NUMBER="singular" TYPE="name"> Israel </REFERENCE>
+					<STRING> and </STRING>
+					<REFERENCE ANIMACY="animate" ENTITY-ID="119" GENDER="unknown" MENTION-ID="116" NUMBER="singular" TYPE="name"> the Palestinians </REFERENCE>
+				</REFERENCE>
+				<STRING> reached </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="120" GENDER="neutral" MENTION-ID="117" NUMBER="singular" TYPE="description">
+					<STRING> a deal to allow </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="121" GENDER="unknown" MENTION-ID="118" NUMBER="plural"> food and other essential supplies </REFERENCE>
+					<STRING> to go into </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="122" GENDER="neutral" MENTION-ID="119" NUMBER="singular" TYPE="name">
+						<STRING> the Gaza Strip beginning </STRING>
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="123" GENDER="unknown" MENTION-ID="120" NUMBER="singular" TYPE="name"> Monday </REFERENCE>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+	<PARAGRAPH ID="8">
+		<SENTENCE ID="8.1">
+			<STRING> Citing </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="126" GENDER="unknown" MENTION-ID="121" NUMBER="plural" TYPE="description"> security concerns </REFERENCE>
+			<STRING>, </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="75" GENDER="neutral" MENTION-ID="122" NUMBER="singular" TYPE="name"> Israel </REFERENCE>
+			<STRING> has kept </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="127" GENDER="male" MENTION-ID="123" NUMBER="unknown" TYPE="name">
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="128" GENDER="male" MENTION-ID="124" NUMBER="unknown" TYPE="name"> the Karni crossing </REFERENCE>
+				<STRING>, </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="128" GENDER="unknown" MENTION-ID="125" NUMBER="plural" TYPE="description">
+					<STRING> the main commercial goods terminal on </STRING>
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="130" GENDER="neutral" MENTION-ID="126" NUMBER="singular" TYPE="description">
+						<REFERENCE ANIMACY="inanimate" ENTITY-ID="122" GENDER="unknown" MENTION-ID="127" NUMBER="singular" TYPE="name"> Gaza's </REFERENCE>
+						<STRING> border </STRING>
+					</REFERENCE>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING>, closed for </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="131" GENDER="unknown" MENTION-ID="128" NUMBER="unknown" TYPE="description">
+				<STRING> most of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="132" GENDER="unknown" MENTION-ID="129" NUMBER="singular" TYPE="name"> the past two months </REFERENCE>
+			</REFERENCE>
+			<STRING>. </STRING>
+		</SENTENCE>
+		<SENTENCE ID="8.2">
+			<REFERENCE ANIMACY="animate" ENTITY-ID="135" GENDER="unknown" MENTION-ID="130" NUMBER="plural">
+				<STRING> Palestinian and </STRING>
+				<REFERENCE ANIMACY="animate" ENTITY-ID="136" GENDER="unknown" MENTION-ID="131" NUMBER="plural" TYPE="description">
+					<REFERENCE ANIMACY="inanimate" ENTITY-ID="133" GENDER="unknown" MENTION-ID="132" NUMBER="unknown" TYPE="name"> U.N. </REFERENCE>
+					<STRING> officials </STRING>
+				</REFERENCE>
+			</REFERENCE>
+			<STRING> say </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="122" GENDER="unknown" MENTION-ID="133" NUMBER="singular" TYPE="name"> Gaza </REFERENCE>
+			<STRING> is facing </STRING>
+			<REFERENCE ANIMACY="inanimate" ENTITY-ID="137" GENDER="unknown" MENTION-ID="134" NUMBER="plural" TYPE="description">
+				<STRING> shortages of </STRING>
+				<REFERENCE ANIMACY="inanimate" ENTITY-ID="138" GENDER="unknown" MENTION-ID="135" NUMBER="plural"> bread and other basic foods </REFERENCE>
+			</REFERENCE>
+			<STRING> because </STRING>
+			<REFERENCE ANIMACY="unknown" ENTITY-ID="139" GENDER="neutral" MENTION-ID="136" NUMBER="unknown" TYPE="description"> the crossing </REFERENCE>
+			<STRING> has been closed. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

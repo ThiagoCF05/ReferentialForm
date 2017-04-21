@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEXT ID="1673">
+	<TITLE>Niccolò Machiavelli</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Niccolò di Bernardo dei Machiavelli</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (May 3, 1469 – June 21, 1527) was a political philosopher, musician, poet, and romantic comedic playwright.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" SEMCAT="person" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is a key figure of the Italian Renaissance and a central figure of its political component, most widely known for  </STRING>
+			<REFERENCE ID="3" SEMCAT="person" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> treatises on realist political theory (The Prince) on the one hand and republicanism (Discourses on Livy) on the other. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

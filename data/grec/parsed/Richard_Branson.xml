@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEXT ID="1711">
+	<TITLE>Richard Branson</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sir Richard Charles Nicholas Branson</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> (born 18 July 1950, Shamley Green, Surrey), sometimes abbreviated as SRB for &quot;Sir Richard Branson&quot;, is an English entrepreneur, best known for </STRING>
+		<REFERENCE ID="2" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> Virgin brand, a banner that encompasses a variety of business organisations. It is estimated that </STRING>
+		<REFERENCE ID="3" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Branson</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is worth over £3 billion (equivalent to more than US$5 billion) according to the Sunday Times Rich List 2006. On the 12th of October, 2006, </STRING>
+		<REFERENCE ID="4" SEMCAT="person" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">he</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> emphasised </STRING>
+		<REFERENCE ID="5" SEMCAT="person" SYNCAT="subj-det">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">his</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> stated plan is to invest $3 billion over 10 years to fight global warming.</STRING>
+	</PARAGRAPH>
+</TEXT>

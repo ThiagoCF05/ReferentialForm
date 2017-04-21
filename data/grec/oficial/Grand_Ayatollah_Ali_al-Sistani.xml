@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TEXT ID="1546">
+	<TITLE>Grand Ayatollah Ali al-Sistani</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Sayyid Ali Husaini Sistani</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> (Arabic: السيد علي الحسيني السيستاني Persian: سید علی حسینی سیستانی; born approximately August 4, 1930) is a Grand Ayatollah, a Shi'a marja .</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="24" PARAGRAPH-RECENCY="23" SEMCAT="person" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">He</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is currently an important political figure in relation to the Post-invasion Iraq. </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

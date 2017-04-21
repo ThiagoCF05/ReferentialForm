@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TEXT ID="374">
+	<TITLE>Mount Cameroon</TITLE>
+	<PARAGRAPH ID="1">
+		<SENTENCE ID="1.1">
+			<REFERENCE ID="1" PARAGRAPH-POSITION="1" PARAGRAPH-RECENCY="0" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Cameroon</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is an active volcano in Cameroon near the Gulf of Guinea.</STRING>
+		</SENTENCE>
+		<SENTENCE ID="1.2">
+			<REFERENCE ID="2" PARAGRAPH-POSITION="13" PARAGRAPH-RECENCY="12" SEMCAT="mountain" SENTENCE-POSITION="1" SENTENCE-RECENCY="0" SYNCAT="np-subj">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Mount Cameroon</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> is also known as Cameroon Mountain or Fako (the name of the higher of  </STRING>
+			<REFERENCE ID="3" PARAGRAPH-POSITION="28" PARAGRAPH-RECENCY="15" SEMCAT="mountain" SENTENCE-POSITION="16" SENTENCE-RECENCY="15" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> two peaks) or by  </STRING>
+			<REFERENCE ID="4" PARAGRAPH-POSITION="33" PARAGRAPH-RECENCY="5" SEMCAT="mountain" SENTENCE-POSITION="21" SENTENCE-RECENCY="5" SYNCAT="subj-det">
+				<ORIGINAL-REFEX>
+					<REFEX CASE="genitive" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">its</REFEX>
+				</ORIGINAL-REFEX>
+			</REFERENCE>
+			<STRING> native name Mongo ma Ndemi (&quot;Mountain of Greatness&quot;). </STRING>
+		</SENTENCE>
+	</PARAGRAPH>
+</TEXT>

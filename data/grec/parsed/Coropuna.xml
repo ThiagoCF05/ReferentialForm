@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TEXT ID="104">
+	<TITLE>Coropuna</TITLE>
+	<PARAGRAPH ID="1">
+		<REFERENCE ID="1" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="name">Nevado Coropuna</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is the largest and highest volcano in Peru, attaining an impressive elevation of 6,377 metres (20,922 ft) (some maps show </STRING>
+		<REFERENCE ID="2" SEMCAT="mountain" SYNCAT="np-obj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="accusative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">it</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> as high as 6,425 metres (21,079 ft)). </STRING>
+		<REFERENCE ID="3" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="nominative" EMPHATIC="no" HEAD="pronoun" TYPE="pronoun">It</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> is located about 150 km northwest of Arequipa, the second largest city in Peru.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="2">
+		<REFERENCE ID="4" SEMCAT="mountain" SYNCAT="np-subj">
+			<ORIGINAL-REFEX>
+				<REFEX CASE="plain" EMPHATIC="no" HEAD="nominal" TYPE="description">This massive ice-covered stratovolcano complex</REFEX>
+			</ORIGINAL-REFEX>
+		</REFERENCE>
+		<STRING> has a summit plateau which extends over 12 x 20 km (8 x 13 mi), with six separate summit cones rising above it. The true summit is at the northwest end of the plateau, although the southwest summit may be equal or greater in height depending on the depth of seasonal snow. A permanent ice cap of about 130 square kilometres (50 sq mi) in area covers the summit region, extending down to roughly 5,300 metres (17,400 ft) on the north side and 4,800 metres (15,700 ft) on the south. Vertical relief on the south flank exceeds 4,000 metres (13,000 ft) over a distance of less than 15 km.</STRING>
+	</PARAGRAPH>
+	<PARAGRAPH ID="3">
+		<STRING>The name Coropuna means &quot;shrine on the plateau&quot; in Quechua. Remains of Inca clothing have been found near 6000 m, providing evidence for pre-Columbian ascents.</STRING>
+	</PARAGRAPH>
+</TEXT>

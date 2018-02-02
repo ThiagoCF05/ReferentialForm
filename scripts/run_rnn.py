@@ -1,5 +1,7 @@
 __author__ = 'thiagocastroferreira'
 
+import sys
+sys.path.append('../')
 from parsers.ReferenceParser import ReferenceParser
 from sklearn.metrics import classification_report, accuracy_score
 from models.elman import ElmanRNN
@@ -10,7 +12,6 @@ import itertools
 import measure
 import numpy
 import time
-import sys
 
 class RNNScript(object):
     def __init__(self, features, forms):
@@ -174,14 +175,16 @@ class RNNScript(object):
 
 
 if __name__ == '__main__':
-    features = {'syncat': utils.syntax2id.keys(),\
-    'categorical-recency': utils.recency2id.keys()}
-    # 'distractor': utils.distractor2id.keys(),\
-    # 'previous': utils.distractor2id.keys(), \
-    # 'givenness': utils.givenness2id.keys(), \
-    # 'paragraph-givenness': utils.givenness2id.keys(),\
-    # 'sentence-givenness': utils.givenness2id.keys()}
-    # 'genre': utils.genres2id.keys()}
+    features = {
+        'syncat': utils.syntax2id.keys(),
+        'categorical-recency': utils.recency2id.keys(),
+        # 'distractor': utils.distractor2id.keys(),
+        #  'previous': utils.distractor2id.keys(),
+        'givenness': utils.givenness2id.keys(),
+        'paragraph-givenness': utils.givenness2id.keys(),
+        'sentence-givenness': utils.givenness2id.keys(),
+        #  'genre': utils.genres2id.keys(),
+    }
     # forms = ['name', 'pronoun', 'description', 'demonstrative', 'empty']
     forms = ['demonstrative', 'description', 'empty', 'name', 'pronoun']
     s = {'lr':0.1,
@@ -250,5 +253,5 @@ if __name__ == '__main__':
     print '\n'
     print spearmanr(entropy_actual, entropy_predicted)
 
-    print '\n'
-    print classification_report(major_actual, major_predicted)
+    # print '\n'
+    # print classification_report(major_actual, major_predicted)

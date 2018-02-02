@@ -1,10 +1,10 @@
 __author__ = 'thiagocastroferreira'
 
+import sys
+sys.path.append('../../')
 import numpy as np
 import utils
 import measure
-import sys
-import copy
 
 from parsers.ReferenceParser import ReferenceParser
 from parsers.grec.Parser import GRECParser
@@ -63,7 +63,7 @@ def parse_test(references, classes):
         test[key]['y'] = Y
     return test
 
-def run():
+def run(features):
     parser = ReferenceParser(False, True, '../../data/xmls')
     testset = parser.run()
     testset = parser.parse_ner(testset)
@@ -106,23 +106,6 @@ def run():
                   'error_features': [], 'right_features':[],\
                   'bcoeff': [], 'jsd':[], 'kld':[]}
 
-    features = {#'syncat': utils.syntax2id.keys(),\
-                         # 'topic': utils.topic2id.keys(), \
-                         # 'categorical-recency': utils.recency2id.keys(),\
-                         # 'distractor': utils.distractor2id.keys(), \
-                         # 'previous': utils.distractor2id.keys(), \
-                         # 'clause': utils.clause2id.keys(), \
-                         # 'animacy': utils.animacy2id.keys(), \
-                         'givenness': utils.givenness2id.keys(), \
-                         'paragraph-givenness': utils.givenness2id.keys(), \
-                         'sentence-givenness': utils.givenness2id.keys()}
-                         # 'pos-bigram': set(map(lambda x: x['pos-bigram'], trainset)),\
-                         # 'pos-trigram': set(map(lambda x: x['pos-trigram'], trainset)), \
-                         # '+pos-trigram': set(map(lambda x: x['+pos-trigram'], trainset)),\
-                         # '+pos-bigram': set(map(lambda x: x['+pos-bigram'], trainset))}
-    # 'last-type': utils.type2id.keys(), \
-    # 'genre': utils.genres2id.keys()}
-
     priori, posteriori = fit(trainset, features)
 
     test = parse_test(testset, priori.keys())
@@ -157,13 +140,13 @@ def run():
         kld = round(entropy(np.array(test[y]['y'].values()), np.array(predictions.values()), 2), 2)
         cross = round(measure.crossentropy(np.array(test[y]['y'].values()), np.array(predictions.values())), 2)
 
-        print 'Text: ', y[0], 'Slot: ', y[1]
-        print 'R: ', test[y]['y']
-        print 'P: ', predictions
-        print 'F: ', dict(map(lambda x: (x, test[y]['X'][x]), features.keys()))
+        # print 'Text: ', y[0], 'Slot: ', y[1]
+        # print 'R: ', test[y]['y']
+        # print 'P: ', predictions
+        # print 'F: ', dict(map(lambda x: (x, test[y]['X'][x]), features.keys()))
         # print 'Bcoeff: ', bcoeff
-        print 'JSD: ', jsd
-        print 20*'-'
+        # print 'JSD: ', jsd
+        # print 20*'-'
 
         bactual_distribution = { \
             'long':test[y]['y']['name']+test[y]['y']['description']+test[y]['y']['demonstrative'], \
@@ -237,7 +220,25 @@ def run():
     return results, genres
 
 if __name__ == '__main__':
-    results, genres = run()
+    features = {
+        'syncat': utils.syntax2id.keys(),
+        # 'topic': utils.topic2id.keys(),
+        'categorical-recency': utils.recency2id.keys(),
+        # 'distractor': utils.distractor2id.keys(),
+        # 'previous': utils.distractor2id.keys(),
+        # 'clause': utils.clause2id.keys(),
+        # 'animacy': utils.animacy2id.keys(),
+        'givenness': utils.givenness2id.keys(),
+        'paragraph-givenness': utils.givenness2id.keys(),
+        'sentence-givenness': utils.givenness2id.keys(),
+        # 'pos-bigram': set(map(lambda x: x['pos-bigram'], trainset)),
+        # 'pos-trigram': set(map(lambda x: x['pos-trigram'], trainset)),
+        # '+pos-trigram': set(map(lambda x: x['+pos-trigram'], trainset)),
+        # '+pos-bigram': set(map(lambda x: x['+pos-bigram'], trainset)),
+        # 'last-type': utils.type2id.keys(),
+        # 'genre': utils.genres2id.keys()
+    }
+    results, genres = run(features)
 
     for genre in genres:
         print '\n'
@@ -255,11 +256,11 @@ if __name__ == '__main__':
         print 'KLD: ', np.mean(genres[genre]['bkld'])
         print 20 * '-'
 
-        print '\n'
-        print classification_report(genres[genre]['major_actual'], genres[genre]['major_predicted'])
-
-        print '\n'
-        print classification_report(genres[genre]['binary_actual'], genres[genre]['binary_predicted'])
+        # print '\n'
+        # print classification_report(genres[genre]['major_actual'], genres[genre]['major_predicted'])
+        #
+        # print '\n'
+        # print classification_report(genres[genre]['binary_actual'], genres[genre]['binary_predicted'])
 
     print '\n'
     print 'GENERAL:'

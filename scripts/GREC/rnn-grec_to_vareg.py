@@ -1,5 +1,7 @@
 __author__ = 'thiagocastroferreira'
 
+import sys
+sys.path.append('../../')
 from parsers.ReferenceParser import ReferenceParser
 from parsers.grec.Parser import GRECParser
 from sklearn.metrics import accuracy_score
@@ -11,7 +13,6 @@ import numpy
 import time
 import measure
 import utils
-import sys
 import copy
 
 class RNNGRECScript(object):
@@ -200,11 +201,13 @@ class RNNGRECScript(object):
         return out
 
 if __name__ == '__main__':
-    features = {'syncat': utils.syntax2id.keys(), \
-                # 'categorical-recency': utils.recency2id.keys(), \
-                'givenness': utils.givenness2id.keys(), \
-                'paragraph-givenness': utils.givenness2id.keys(), \
-                'sentence-givenness': utils.givenness2id.keys()}
+    features = {
+        'syncat': utils.syntax2id.keys(),
+        'categorical-recency': utils.recency2id.keys(),
+        'givenness': utils.givenness2id.keys(),
+        'paragraph-givenness': utils.givenness2id.keys(),
+        'sentence-givenness': utils.givenness2id.keys()
+    }
     # forms = ['name', 'pronoun', 'description', 'demonstrative', 'empty']
     forms = ['demonstrative', 'description', 'empty', 'name', 'pronoun']
     s = {'lr':0.1,

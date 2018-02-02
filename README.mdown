@@ -1,0 +1,49 @@
+This repository contains the code of the study described at [Towards more variation in text generation: Developing and evaluating variation models for choice of referential form](http://www.aclweb.org/anthology/P16-1054), published in the Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL 2016). 
+
+# Cross-validation on VaREG corpus
+To obtain the results described in the section *Cross-validation on VaREG corpus*, execute the following scripts:
+
+1. **Random**
+
+..```
+cd scripts
+python random_form.py
+```
+
+2. **ParagraphStatus**
+
+..```
+cd scripts
+python baseline.py
+```
+
+3. **Naive Bayes (NB)**: update the variable `discrete_features` with the features to be used by the model (Syntax -> syncat; Status -> givenness, paragraph-givenness, sentence-givenness; Recency -> categorical-recency)
+
+..```
+cd scripts
+python run_naive_bayes.py
+```
+
+4. **Recurrent Neural Network (RNN)**: update the variable `discrete_features` with the features to be used by the model (Syntax -> syncat; Status -> givenness, paragraph-givenness, sentence-givenness; Recency -> categorical-recency)
+
+..```
+cd scripts
+python run_rnn.py
+```
+
+# Training on GREC-2.0 and evaluating on VaREG corpus
+To obtain the results described in the section *Training on GREC-2.0 and evaluating on VaREG corpus*, execute the following scripts:
+
+1. **Naive Bayes (NB)**: update the variable `discrete_features` with the features to be used by the model (Syntax -> syncat; Status -> givenness, paragraph-givenness, sentence-givenness; Recency -> categorical-recency)
+
+..```
+cd scripts/GREC
+python naive_bayes-grec_to_vareg.py
+```
+
+2. **Recurrent Neural Network (RNN)**: update the variable `discrete_features` with the features to be used by the model (Syntax -> syncat; Status -> givenness, paragraph-givenness, sentence-givenness; Recency -> categorical-recency)
+
+..```
+cd scripts/GREC
+python rnn-grec_to_vareg.py
+```

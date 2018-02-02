@@ -1,4 +1,4 @@
-from final_model.Realizer import Realizer
+from experiment_model.Realizer import Realizer
 
 __author__ = 'thiagocastroferreira'
 
@@ -11,6 +11,7 @@ from random import shuffle
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 
+# import cPickle as p
 import json
 import utils
 import os
@@ -302,3 +303,18 @@ if __name__ == '__main__':
 
     model = Model(features, classes)
     model.run()
+
+    # model = NaiveBayes(trainset, features, classes)
+    # model.train()
+    #
+    # distributions = {}
+    # combinations = []
+    # for syntax in features['syncat']:
+    #     for text_status in features['givenness']:
+    #         for snt_status in features['sentence-givenness']:
+    #             if (syntax, text_status, snt_status) not in combinations:
+    #                 X = {'syncat':syntax, 'givenness':text_status, 'sentence-givenness':snt_status}
+    #                 prob = model.classify(X)
+    #
+    #                 distributions[(syntax, text_status, snt_status)] = prob
+    # p.dump(distributions, open('form_distributions.cPickle', 'w'))

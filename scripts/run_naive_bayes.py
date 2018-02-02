@@ -1,9 +1,10 @@
 __author__ = 'thiagocastroferreira'
 
+import sys
+sys.path.append('../')
 import numpy as np
 import utils
 import measure
-import sys
 
 from parsers.ReferenceParser import ReferenceParser
 
@@ -76,7 +77,7 @@ def fit(references, dfeatures = [], cfeatures = []):
 
     return priori, dposteriori, cposteriori
 
-def run():
+def run(discrete_features, continuous_features):
     '''
     :entropy_actual -> real entropy
     :entropy_predicted -> predicted entropy
@@ -135,29 +136,6 @@ def run():
 
         train = filter(lambda x: x['list-id'] != l, references)
         test = filter(lambda x: x['list-id'] == l, references)
-
-        discrete_features = {'syncat': utils.syntax2id.keys(),\
-                             # "-syncat":{'np-subj', 'np-obj', 'subj-det', '*'},\
-                             # 'parallelism': ['false', 'true'], \
-                    # 'topic': utils.topic2id.keys(), \
-                    # 'categorical-recency': utils.recency2id.keys(),\
-                    # 'distractor': utils.distractor2id.keys(), \
-                    # 'previous': utils.distractor2id.keys()}
-                    # 'clause': utils.clause2id.keys(), \
-                    # 'competitor': utils.competitor2id.keys(), \
-                    # 'animacy': utils.animacy2id.keys(), \
-                    'givenness': utils.givenness2id.keys(), \
-                    'paragraph-givenness': utils.givenness2id.keys(), \
-                    'sentence-givenness': utils.givenness2id.keys()}
-                    # 'participant-id':[],\
-                    # 'pos-bigram': set(map(lambda x: x['pos-bigram'], references))}
-                    # 'pos-trigram': set(map(lambda x: x['pos-trigram'], references)), \
-                    # '+pos-bigram': set(map(lambda x: x['+pos-bigram'], references)), \
-                    # '+pos-trigram': set(map(lambda x: x['+pos-trigram'], references))}
-                    # 'last-type': utils.type2id.keys(),\
-                    # 'genre': utils.genres2id.keys()}
-
-        continuous_features = []
 
         priori, dposteriori, cposteriori = fit(train, discrete_features, continuous_features)
         del train
@@ -266,12 +244,12 @@ def run():
 
             # if major_actual == major_predicted:
             #     results[l]['error_entropy'].append(test[y]['X']['entropy'])
-            print 'Text: ', y[0], 'Slot: ', y[1]
-            print 'R: ', dict(map(lambda x: (x, test[y]['y'][x]), test[y]['y'].keys()))
-            print 'P: ', dict(map(lambda x: (x, predictions[x]), predictions.keys()))
-            print 'F: ', dict(map(lambda x: (x, test[y]['X'][x]), discrete_features.keys()))
-            print 'JSD: ', jsd
-            print 20*'-'
+            # print 'Text: ', y[0], 'Slot: ', y[1]
+            # print 'R: ', dict(map(lambda x: (x, test[y]['y'][x]), test[y]['y'].keys()))
+            # print 'P: ', dict(map(lambda x: (x, predictions[x]), predictions.keys()))
+            # print 'F: ', dict(map(lambda x: (x, test[y]['X'][x]), discrete_features.keys()))
+            # print 'JSD: ', jsd
+            # print 20*'-'
 
             # if binary_actual != binary_predicted:
             #     print 'Text: ', y[0], 'Slot: ', y[1]
@@ -284,7 +262,29 @@ def run():
     return results, genres
 
 if __name__ == '__main__':
-    results, genres = run()
+    discrete_features = {
+        'syncat': utils.syntax2id.keys(),
+        # 'parallelism': ['false', 'true'],
+        # 'topic': utils.topic2id.keys(),
+        'categorical-recency': utils.recency2id.keys(),
+        # 'distractor': utils.distractor2id.keys(),
+        # 'previous': utils.distractor2id.keys(),
+        # 'clause': utils.clause2id.keys(),
+        # 'competitor': utils.competitor2id.keys(),
+        # 'animacy': utils.animacy2id.keys(),
+        'givenness': utils.givenness2id.keys(),
+        'paragraph-givenness': utils.givenness2id.keys(),
+        'sentence-givenness': utils.givenness2id.keys()
+    }
+    # 'participant-id':[],\
+    # 'pos-bigram': set(map(lambda x: x['pos-bigram'], references))}
+    # 'pos-trigram': set(map(lambda x: x['pos-trigram'], references)), \
+    # '+pos-bigram': set(map(lambda x: x['+pos-bigram'], references)), \
+    # '+pos-trigram': set(map(lambda x: x['+pos-trigram'], references))}
+    # 'last-type': utils.type2id.keys(),\
+    # 'genre': utils.genres2id.keys()}
+
+    results, genres = run(discrete_features, [])
 
     for genre in genres:
         print '\n'
@@ -306,11 +306,11 @@ if __name__ == '__main__':
         print '\n'
         print spearmanr(genres[genre]['entropy_actual'], genres[genre]['entropy_predicted'])
 
-        print '\n'
-        print classification_report(genres[genre]['major_actual'], genres[genre]['major_predicted'])
-
-        print '\n'
-        print classification_report(genres[genre]['binary_actual'], genres[genre]['binary_predicted'])
+        # print '\n'
+        # print classification_report(genres[genre]['major_actual'], genres[genre]['major_predicted'])
+        #
+        # print '\n'
+        # print classification_report(genres[genre]['binary_actual'], genres[genre]['binary_predicted'])
 
 
     entropy_actual, entropy_predicted = [], []
@@ -386,8 +386,8 @@ if __name__ == '__main__':
     print '\n'
     print spearmanr(entropy_actual, entropy_predicted)
 
-    print '\n'
-    print classification_report(major_actual, major_predicted)
-
-    print '\n'
-    print classification_report(binary_actual, binary_predicted)
+    # print '\n'
+    # print classification_report(major_actual, major_predicted)
+    #
+    # print '\n'
+    # print classification_report(binary_actual, binary_predicted)

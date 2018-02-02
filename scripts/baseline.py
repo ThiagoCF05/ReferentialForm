@@ -1,8 +1,9 @@
 __author__ = 'thiagocastroferreira'
 
+import sys
+sys.path.append('../')
 import numpy as np
 import measure
-import sys
 
 from parsers.ReferenceParser import ReferenceParser
 

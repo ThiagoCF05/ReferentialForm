@@ -34,14 +34,14 @@ python run_rnn.py
 # Training on GREC-2.0 and evaluating on VaREG corpus
 To obtain the results described in the section *Training on GREC-2.0 and evaluating on VaREG corpus*, execute the following scripts:
 
-1. **Naive Bayes (NB)**: update the variable `discrete_features` with the features to be used by the model (Syntax -> syncat; Status -> givenness, paragraph-givenness, sentence-givenness; Recency -> categorical-recency)
+1. **Naive Bayes (NB)**: update the variable `features` with the features to be used by the model (Syntax -> syncat; Status -> givenness, paragraph-givenness, sentence-givenness; Recency -> categorical-recency)
 
 ```
 cd scripts/GREC
 python naive_bayes-grec_to_vareg.py
 ```
 
-2. **Recurrent Neural Network (RNN)**: update the variable `discrete_features` with the features to be used by the model (Syntax -> syncat; Status -> givenness, paragraph-givenness, sentence-givenness; Recency -> categorical-recency)
+2. **Recurrent Neural Network (RNN)**: update the variable `features` with the features to be used by the model (Syntax -> syncat; Status -> givenness, paragraph-givenness, sentence-givenness; Recency -> categorical-recency)
 
 ```
 cd scripts/GREC
